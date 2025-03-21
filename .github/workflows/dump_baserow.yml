@@ -24,6 +24,8 @@ jobs:
       - name: Install Python Packages
         run: |
           pip install -r requirements.txt
+      - name: enrich places with coordinates the data
+        run: python enrich_places.py
       - name: dump the data
         run: python dump_data.py
       - name: Commit data
