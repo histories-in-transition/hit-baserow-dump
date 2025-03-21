@@ -1,0 +1,1056 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": "9 Jh.",
+    "not_before": "0800-01-01",
+    "hit_id": "hit_date__1",
+    "not_after": "0899-12-31",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": "9 Jh., erstes Drittel",
+    "not_before": "0800-01-01",
+    "hit_id": "hit_date__2",
+    "not_after": "0833-12-31",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "label": "9 Jh., Mitte",
+    "not_before": "0840-01-01",
+    "hit_id": "hit_date__3",
+    "not_after": "0860-12-31",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "label": "10 Jh., Mitte",
+    "not_before": "0940-01-01",
+    "hit_id": "hit_date__4",
+    "not_after": "0960-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "label": "10 Jh., zweite Hälfte",
+    "not_before": "0950-01-01",
+    "hit_id": "hit_date__5",
+    "not_after": "0999-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "label": "9 Jh., erste Hälfte",
+    "not_before": "0801-01-01",
+    "hit_id": "hit_date__6",
+    "not_after": "0850-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "label": "9 Jh., erstes Viertel",
+    "not_before": "0801-01-01",
+    "hit_id": "hit_date__7",
+    "not_after": "0825-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "label": "15 Jh.",
+    "not_before": "1400-01-01",
+    "hit_id": "hit_date__8",
+    "not_after": "1499-12-31",
+    "Created by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "label": "800-850",
+    "not_before": "0800-01-01",
+    "hit_id": "hit_date__9",
+    "not_after": "0850-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-04"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "label": "vor 784",
+    "not_before": "0750-01-01",
+    "hit_id": "hit_date__10",
+    "not_after": "0783-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-11-28"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "label": "10 Jh., spät",
+    "not_before": "0950-01-01",
+    "hit_id": "hit_date__11",
+    "not_after": "0999-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-11-13"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "label": "8 Jh., Ende",
+    "not_before": "0770-01-01",
+    "hit_id": "hit_date__12",
+    "not_after": "0799-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-11-13"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "label": "11 Jh.",
+    "not_before": "1000-01-01",
+    "hit_id": "hit_date__13",
+    "not_after": "1099-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "label": "8 Jh., spät",
+    "not_before": "0770-01-01",
+    "hit_id": "hit_date__14",
+    "not_after": "0799-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-11-13"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "label": "nach 800",
+    "not_before": "0800-01-01",
+    "hit_id": "hit_date__15",
+    "not_after": "0825-01-01",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-04"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "label": "nach 840",
+    "not_before": "0820-01-01",
+    "hit_id": "hit_date__17",
+    "not_after": "0840-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-08"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "label": "820-840",
+    "not_before": "0820-01-01",
+    "hit_id": "hit_date__18",
+    "not_after": "0840-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-08"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "label": "vor 850",
+    "not_before": "0801-01-01",
+    "hit_id": "hit_date__19",
+    "not_after": "0850-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-11-28"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "label": "14-15 Jh.",
+    "not_before": "1300-01-01",
+    "hit_id": "hit_date__20",
+    "not_after": "1500-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "label": "um 1433",
+    "not_before": "1433-01-01",
+    "hit_id": "hit_date__21",
+    "not_after": "1433-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "label": "780-800",
+    "not_before": "0780-01-01",
+    "hit_id": "hit_date__22",
+    "not_after": "0799-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "label": "821-828",
+    "not_before": "0821-01-01",
+    "hit_id": "hit_date__23",
+    "not_after": "0828-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-10"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "label": "nach 821",
+    "not_before": "0821-01-01",
+    "hit_id": "hit_date__24",
+    "not_after": "0899-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-11-28"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "label": "vor 828",
+    "not_before": "0800-01-01",
+    "hit_id": "hit_date__25",
+    "not_after": "0828-01-01",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-11-28"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "label": "9 Jh., zweites Viertel",
+    "not_before": "0825-01-01",
+    "hit_id": "hit_date__26",
+    "not_after": "0950-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "label": "10. Jh.",
+    "not_before": "1000-01-01",
+    "hit_id": "hit_date__27",
+    "not_after": "1099-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "label": "8 Jh.",
+    "not_before": "0700-01-01",
+    "hit_id": "hit_date__28",
+    "not_after": "0799-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "label": "15. Jh., erstes Viertel",
+    "not_before": "1400-01-01",
+    "hit_id": "hit_date__29",
+    "not_after": "1424-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "label": "809-818",
+    "not_before": "0809-01-01",
+    "hit_id": "hit_date__30",
+    "not_after": "0818-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "label": "818",
+    "not_before": "0818-01-01",
+    "hit_id": "hit_date__31",
+    "not_after": "0818-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "label": "vor 821",
+    "not_before": "0801-01-01",
+    "hit_id": "hit_date__32",
+    "not_after": "0820-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-11-28"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "label": "10/11 Jh.",
+    "not_before": "0900-01-01",
+    "hit_id": "hit_date__33",
+    "not_after": "1099-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "label": "nach 973",
+    "not_before": "0973-05-07",
+    "hit_id": "hit_date__34",
+    "not_after": "0999-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "label": "810-830",
+    "not_before": "0810-01-01",
+    "hit_id": "hit_date__35",
+    "not_after": "0830-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "label": "12. Jh.",
+    "not_before": "1100-01-01",
+    "hit_id": "hit_date__36",
+    "not_after": "1199-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "label": "15. Jh., erste Hälfte",
+    "not_before": "1400-01-01",
+    "hit_id": "hit_date__37",
+    "not_after": "1449-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "label": "1060-1065",
+    "not_before": "1060-04-08",
+    "hit_id": "hit_date__38",
+    "not_after": "1065-07-23",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "label": "11. Jh., zweite Hälfte",
+    "not_before": "1050-01-01",
+    "hit_id": "hit_date__39",
+    "not_after": "1099-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "label": "11. Jh., drittes Viertel",
+    "not_before": "1050-01-01",
+    "hit_id": "hit_date__40",
+    "not_after": "1074-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-30"
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "label": "12. Jh., erste Hälfte",
+    "not_before": "1100-01-01",
+    "hit_id": "hit_date__41",
+    "not_after": "1149-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-30"
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "label": "12. Jh., zweite Hälfte",
+    "not_before": "1150-01-01",
+    "hit_id": "hit_date__42",
+    "not_after": "1199-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-30"
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "label": "12. Jh., erstes Viertel",
+    "not_before": "1100-01-01",
+    "hit_id": "hit_date__43",
+    "not_after": "1124-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-31"
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "label": "nach 1167",
+    "not_before": "1167-04-03",
+    "hit_id": "hit_date__44",
+    "not_after": "1199-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-01"
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "label": "10. Jh., viertes Viertel",
+    "not_before": "0975-01-01",
+    "hit_id": "hit_date__45",
+    "not_after": "0999-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-05"
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "label": "11. Jh., viertes Viertel",
+    "not_before": "1085-01-01",
+    "hit_id": "hit_date__46",
+    "not_after": "1199-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-26"
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "label": "12. Jh., zweites Viertel",
+    "not_before": "1125-01-01",
+    "hit_id": "hit_date__47",
+    "not_after": "1149-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-11-28"
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "label": "12. Jh., drittes Viertel",
+    "not_before": "1150-01-01",
+    "hit_id": "hit_date__48",
+    "not_after": "1184-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-26"
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "label": "um 9. Jh., drittes Drittel",
+    "not_before": "0866-01-01",
+    "hit_id": "hit_date__49",
+    "not_after": "0899-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-17"
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "label": "9/10 Jh.",
+    "not_before": "0800-01-01",
+    "hit_id": "hit_date__50",
+    "not_after": "0999-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-17"
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "label": "8 Jh., drittes Viertel",
+    "not_before": "0750-01-01",
+    "hit_id": "hit_date__51",
+    "not_after": "0774-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-17"
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "label": "9 Jh.",
+    "not_before": "0800-01-01",
+    "hit_id": "hit_date__52",
+    "not_after": "0899-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-17"
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "label": "11 Jh., erstes Viertel",
+    "not_before": "1000-01-01",
+    "hit_id": "hit_date__53",
+    "not_after": "1024-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-24"
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "label": "15 Jh.",
+    "not_before": "1400-01-01",
+    "hit_id": "hit_date__54",
+    "not_after": "1499-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-24"
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "label": "14 Jh.",
+    "not_before": "1300-01-01",
+    "hit_id": "hit_date__55",
+    "not_after": "1399-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-24"
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "label": "um 1400",
+    "not_before": "1390-01-01",
+    "hit_id": "hit_date__56",
+    "not_after": "1409-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-11-28"
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "label": "18 Jh.",
+    "not_before": "1700-01-01",
+    "hit_id": "hit_date__57",
+    "not_after": "1799-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-25"
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "label": "8 Jh., Mitte",
+    "not_before": "0740-01-01",
+    "hit_id": "hit_date__58",
+    "not_after": "0760-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-03"
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "label": "9 Jh., zweite Hälfte",
+    "not_before": "0850-01-01",
+    "hit_id": "hit_date__59",
+    "not_after": "0899-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-12-05"
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "label": "986-1007",
+    "not_before": "0986-01-01",
+    "hit_id": "hit_date__60",
+    "not_after": "1007-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-02-17"
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "label": "1791",
+    "not_before": "1791-01-01",
+    "hit_id": "hit_date__61",
+    "not_after": "1791-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-02-17"
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "label": "1802-1803",
+    "not_before": "1802-01-01",
+    "hit_id": "hit_date__62",
+    "not_after": "1803-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-01-22"
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "label": "kurz nach 967",
+    "not_before": "0967-12-31",
+    "hit_id": "hit_date__63",
+    "not_after": "0999-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-27"
+  }
+}

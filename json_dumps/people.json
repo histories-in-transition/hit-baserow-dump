@@ -1,0 +1,1982 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Beda, Heiliger",
+    "gnd_url": "https://d-nb.info/gnd/118508237",
+    "hit_id": "hit_people__1",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-06-05",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-06-20",
+    "works": [
+      {
+        "id": 1,
+        "value": "De temporibus",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "De temporum ratione",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 81,
+        "value": "Martyrologium",
+        "order": "79.00000000000000000000"
+      },
+      {
+        "id": 98,
+        "value": "De natura rerum",
+        "order": "96.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 1,
+        "value": "De temporibus"
+      },
+      {
+        "id": 7,
+        "value": "De temporum ratione"
+      },
+      {
+        "id": 81,
+        "value": "Martyrologium"
+      },
+      {
+        "id": 98,
+        "value": "De natura rerum"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "name": "Orosius",
+    "gnd_url": "https://d-nb.info/gnd/118590251",
+    "hit_id": "hit_people__4",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-03",
+    "works": [
+      {
+        "id": 3,
+        "value": "Historiae adversus paganos",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 3,
+        "value": "Historiae adversus paganos"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "4.00000000000000000000",
+    "name": "Ps.-Beda",
+    "gnd_url": "",
+    "hit_id": "hit_people__5",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 4,
+        "value": "De cyclo paschali",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Epactae lunae & solis",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "De argumentis lunae",
+        "order": "88.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 4,
+        "value": "De cyclo paschali"
+      },
+      {
+        "id": 6,
+        "value": "Epactae lunae & solis"
+      },
+      {
+        "id": 90,
+        "value": "De argumentis lunae"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "5.00000000000000000000",
+    "name": "Magister Baldo",
+    "gnd_url": "",
+    "hit_id": "hit_people__6",
+    "role": [
+      {
+        "id": 14752,
+        "value": "scribe",
+        "color": "light-pink"
+      },
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15",
+    "works": [
+      {
+        "id": 14,
+        "value": "Annales Iuvavenses minores",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 14,
+        "value": "Annales Iuvavenses minores"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "order": "6.00000000000000000000",
+    "name": "Gregor, Tours",
+    "gnd_url": "https://d-nb.info/gnd/118697439",
+    "hit_id": "hit_people__7",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-06-24",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 20,
+        "value": "Miracula sancti Martini",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 22,
+        "value": "De basilica sancti Martini et sollemnitatibus",
+        "order": "21.00000000000000000000"
+      },
+      {
+        "id": 74,
+        "value": "Vita sancti Bricii",
+        "order": "21.50000000000000000000"
+      },
+      {
+        "id": 60,
+        "value": "Miracula sancti Martini",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "Vita sancti Briccii",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 20,
+        "value": "Miracula sancti Martini"
+      },
+      {
+        "id": 22,
+        "value": "De basilica sancti Martini et sollemnitatibus"
+      },
+      {
+        "id": 74,
+        "value": "Vita sancti Bricii"
+      },
+      {
+        "id": 60,
+        "value": "Miracula sancti Martini"
+      },
+      {
+        "id": 61,
+        "value": "Vita sancti Briccii"
+      },
+      {
+        "id": 73,
+        "value": "Decem libri historiarum"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "order": "7.00000000000000000000",
+    "name": "Hieronymus, Sophronius Eusebius",
+    "gnd_url": "https://d-nb.info/gnd/118550853",
+    "hit_id": "hit_people__8",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-01",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-03",
+    "works": [
+      {
+        "id": 11,
+        "value": "hieronymi chronicon",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 34,
+        "value": "Vita sancti Hilarionis",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "Vita sancti Malchi",
+        "order": "34.00000000000000000000"
+      },
+      {
+        "id": 36,
+        "value": "Vita sancti Pauli",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 11,
+        "value": "hieronymi chronicon"
+      },
+      {
+        "id": 34,
+        "value": "Vita sancti Hilarionis"
+      },
+      {
+        "id": 35,
+        "value": "Vita sancti Malchi"
+      },
+      {
+        "id": 36,
+        "value": "Vita sancti Pauli"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "order": "8.00000000000000000000",
+    "name": "Paulus Diaconus",
+    "gnd_url": "https://d-nb.info/gnd/118789961",
+    "hit_id": "hit_people__9",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-03",
+    "works": [
+      {
+        "id": 33,
+        "value": "Historia Langobardorum",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 33,
+        "value": "Historia Langobardorum"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "order": "9.00000000000000000000",
+    "name": "Liutprand, Cremona",
+    "gnd_url": "https://d-nb.info/gnd/118575171",
+    "hit_id": "hit_people__10",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 30,
+        "value": "Historia Ottonis",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 31,
+        "value": "Antapodosis",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 30,
+        "value": "Historia Ottonis"
+      },
+      {
+        "id": 31,
+        "value": "Antapodosis"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "order": "10.00000000000000000000",
+    "name": "Regino, Prüm",
+    "gnd_url": "https://d-nb.info/gnd/118598996",
+    "hit_id": "hit_people__11",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 32,
+        "value": "Chronica cum Adalberti continuatione",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 32,
+        "value": "Chronica cum Adalberti continuatione"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "order": "11.00000000000000000000",
+    "name": "Eusebius, Caesariensis",
+    "gnd_url": "https://d-nb.info/gnd/118531425",
+    "hit_id": "hit_people__12",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 29,
+        "value": "Historia ecclesiastica cum Rufini continuatione",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 29,
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "name": "Rufinus, Aquileiensis",
+    "gnd_url": "https://d-nb.info/gnd/118750313",
+    "hit_id": "hit_people__13",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 29,
+        "value": "Historia ecclesiastica cum Rufini continuatione",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 55,
+        "value": "Historia monachorum",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 29,
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      },
+      {
+        "id": 55,
+        "value": "Historia monachorum"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
+    "name": "Imperator Caesar Galerius Maximianus Inuictus",
+    "gnd_url": "https://d-nb.info/gnd/102393834",
+    "hit_id": "hit_people__14",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 57,
+        "value": "Galerius Maximianus Inuictus",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 57,
+        "value": "Galerius Maximianus Inuictus"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "order": "14.00000000000000000000",
+    "name": "Cassiodorus, Flavius Magnus Aurelius",
+    "gnd_url": "https://d-nb.info/gnd/118519514",
+    "hit_id": "hit_people__15",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 27,
+        "value": "Historia tripartita ab Epiphanio scholastico translata",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 27,
+        "value": "Historia tripartita ab Epiphanio scholastico translata"
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "order": "15.00000000000000000000",
+    "name": "Alkuin",
+    "gnd_url": "https://d-nb.info/gnd/118502026",
+    "hit_id": "hit_people__16",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 25,
+        "value": "De orthographia",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 25,
+        "value": "De orthographia"
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "order": "16.00000000000000000000",
+    "name": "Justinian I",
+    "gnd_url": "https://d-nb.info/gnd/11855896X",
+    "hit_id": "hit_people__17",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 26,
+        "value": "Corpus juris civilis",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 26,
+        "value": "Corpus juris civilis"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "order": "17.00000000000000000000",
+    "name": "Florus, Publius Annius",
+    "gnd_url": "https://d-nb.info/gnd/100136907",
+    "hit_id": "hit_people__18",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 53,
+        "value": "Epitoma de Tito Livio",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 53,
+        "value": "Epitoma de Tito Livio"
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "order": "18.00000000000000000000",
+    "name": "Athanasius, Alexandrinus",
+    "gnd_url": "https://d-nb.info/gnd/118504843",
+    "hit_id": "hit_people__19",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 37,
+        "value": "Vita beati Antonii abbatis, Euagrio interprete",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 37,
+        "value": "Vita beati Antonii abbatis, Euagrio interprete"
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "order": "19.00000000000000000000",
+    "name": "Willibaldus, Moguntinensis",
+    "gnd_url": "https://d-nb.info/gnd/118633341",
+    "hit_id": "hit_people__20",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 38,
+        "value": "Vita sancti Bonifatii",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 38,
+        "value": "Vita sancti Bonifatii"
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "order": "20.00000000000000000000",
+    "name": "Hugeburc, Heidenheimensis",
+    "gnd_url": "https://d-nb.info/gnd/118707892",
+    "hit_id": "hit_people__21",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 39,
+        "value": "Vita sancti Wunebaldi",
+        "order": "38.00000000000000000000"
+      },
+      {
+        "id": 40,
+        "value": "Vita sancti Willibaldi",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 39,
+        "value": "Vita sancti Wunebaldi"
+      },
+      {
+        "id": 40,
+        "value": "Vita sancti Willibaldi"
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "order": "21.00000000000000000000",
+    "name": "Adamnanus, de Iona",
+    "gnd_url": "https://d-nb.info/gnd/119394030",
+    "hit_id": "hit_people__22",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 49,
+        "value": "Vita sancti Columbae",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 49,
+        "value": "Vita sancti Columbae"
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "order": "22.00000000000000000000",
+    "name": "Sulpicius, Severus",
+    "gnd_url": "https://d-nb.info/gnd/118757806",
+    "hit_id": "hit_people__23",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 17,
+        "value": "Vita sancti Martini",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "Epistulae",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 19,
+        "value": "Dialogi",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 21,
+        "value": "Tituli metrici de sancto Martino",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 17,
+        "value": "Vita sancti Martini"
+      },
+      {
+        "id": 18,
+        "value": "Epistulae"
+      },
+      {
+        "id": 19,
+        "value": "Dialogi"
+      },
+      {
+        "id": 21,
+        "value": "Tituli metrici de sancto Martino"
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "order": "23.00000000000000000000",
+    "name": "Ps.-Livius",
+    "gnd_url": "",
+    "hit_id": "hit_people__24",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-03",
+    "works": [
+      {
+        "id": 54,
+        "value": "Periochae",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 54,
+        "value": "Periochae"
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "order": "24.00000000000000000000",
+    "name": "Gregor I",
+    "gnd_url": "https://d-nb.info/gnd/118541838",
+    "hit_id": "hit_people__25",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 48,
+        "value": "Moralia in Job",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 48,
+        "value": "Moralia in Job"
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "order": "25.00000000000000000000",
+    "name": "Ps.-Gregor I",
+    "gnd_url": "",
+    "hit_id": "hit_people__26",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 46,
+        "value": "Concordia testimoniorum",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 46,
+        "value": "Concordia testimoniorum"
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "order": "26.00000000000000000000",
+    "name": "Ps.- Augustinus",
+    "gnd_url": "",
+    "hit_id": "hit_people__27",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 47,
+        "value": "De unitate sanctae trinitatis",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 119,
+        "value": "De duodecim abusivis saeculi",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 47,
+        "value": "De unitate sanctae trinitatis"
+      },
+      {
+        "id": 119,
+        "value": "De duodecim abusivis saeculi"
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "order": "27.00000000000000000000",
+    "name": "Isidor, Sevilla",
+    "gnd_url": "https://d-nb.info/gnd/118555995",
+    "hit_id": "hit_people__28",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 42,
+        "value": "Synonyma",
+        "order": "41.00000000000000000000"
+      },
+      {
+        "id": 43,
+        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "De natura rerum",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 105,
+        "value": "De ecclesiasticis officiis",
+        "order": "103.00000000000000000000"
+      },
+      {
+        "id": 133,
+        "value": "Etymologiae",
+        "order": "131.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 42,
+        "value": "Synonyma"
+      },
+      {
+        "id": 43,
+        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+      },
+      {
+        "id": 44,
+        "value": "De natura rerum"
+      },
+      {
+        "id": 105,
+        "value": "De ecclesiasticis officiis"
+      },
+      {
+        "id": 133,
+        "value": "Etymologiae"
+      }
+    ]
+  },
+  "29": {
+    "id": 29,
+    "order": "28.00000000000000000000",
+    "name": "Boethius, Anicius Manlius Severinus",
+    "gnd_url": "https://d-nb.info/gnd/11851282X",
+    "hit_id": "hit_people__29",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 51,
+        "value": "Commentarii in Ciceronis Topica",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 51,
+        "value": "Commentarii in Ciceronis Topica"
+      }
+    ]
+  },
+  "30": {
+    "id": 30,
+    "order": "29.00000000000000000000",
+    "name": "Esra",
+    "gnd_url": "https://d-nb.info/gnd/118682415",
+    "hit_id": "hit_people__30",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 52,
+        "value": "Revelatio Esdrae de qualitatibus anni",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 52,
+        "value": "Revelatio Esdrae de qualitatibus anni"
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "order": "30.00000000000000000000",
+    "name": "Anonymus 1",
+    "gnd_url": "",
+    "hit_id": "hit_people__31",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-03",
+    "works": [],
+    "work": []
+  },
+  "32": {
+    "id": 32,
+    "order": "31.00000000000000000000",
+    "name": "Anonymus 2",
+    "gnd_url": "",
+    "hit_id": "hit_people__32",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-03",
+    "works": [],
+    "work": []
+  },
+  "33": {
+    "id": 33,
+    "order": "32.00000000000000000000",
+    "name": "Anonymus 3",
+    "gnd_url": "",
+    "hit_id": "hit_people__33",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-03",
+    "works": [],
+    "work": []
+  },
+  "34": {
+    "id": 34,
+    "order": "33.00000000000000000000",
+    "name": "Anonymus 4",
+    "gnd_url": "",
+    "hit_id": "hit_people__34",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-03",
+    "works": [],
+    "work": []
+  },
+  "35": {
+    "id": 35,
+    "order": "34.00000000000000000000",
+    "name": "Augustinus, Aurelius",
+    "gnd_url": "https://d-nb.info/gnd/118505114",
+    "hit_id": "hit_people__35",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-08",
+    "works": [
+      {
+        "id": 59,
+        "value": "Tractatus in evangelium Johannis",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 59,
+        "value": "Tractatus in evangelium Johannis"
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "order": "35.00000000000000000000",
+    "name": "Erchanbertus, Frisingensis",
+    "gnd_url": "https://d-nb.info/gnd/100940609",
+    "hit_id": "hit_people__36",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 64,
+        "value": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 64,
+        "value": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis"
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "order": "36.00000000000000000000",
+    "name": "Leo III., Papst",
+    "gnd_url": "https://d-nb.info/gnd/118727486",
+    "hit_id": "hit_people__37",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11",
+    "works": [
+      {
+        "id": 71,
+        "value": "Eidesformel Papst Leos III.",
+        "order": "70.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 71,
+        "value": "Eidesformel Papst Leos III."
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "order": "37.00000000000000000000",
+    "name": "Ps.-Hilarius von Poitiers",
+    "gnd_url": "",
+    "hit_id": "hit_people__38",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 23,
+        "value": "Confessio sancti Martini",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 23,
+        "value": "Confessio sancti Martini"
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "order": "38.00000000000000000000",
+    "name": "Anonymus",
+    "gnd_url": "",
+    "hit_id": "hit_people__39",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12",
+    "works": [
+      {
+        "id": 16,
+        "value": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "De globo mundi et coniecture orbis versus",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 16,
+        "value": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob"
+      },
+      {
+        "id": 72,
+        "value": "De globo mundi et coniecture orbis versus"
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "order": "39.00000000000000000000",
+    "name": "Titus Livius",
+    "gnd_url": "https://d-nb.info/gnd/118573624",
+    "hit_id": "hit_people__40",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22",
+    "works": [
+      {
+        "id": 58,
+        "value": "Ab urbe condita",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 58,
+        "value": "Ab urbe condita"
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "order": "40.00000000000000000000",
+    "name": "Freising_1",
+    "gnd_url": "",
+    "hit_id": "hit_people__41",
+    "role": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-16",
+    "works": [],
+    "work": []
+  },
+  "42": {
+    "id": 42,
+    "order": "41.00000000000000000000",
+    "name": "Prudentius Clemens, Aurelius",
+    "gnd_url": "https://d-nb.info/gnd/118596829",
+    "hit_id": "hit_people__42",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-16",
+    "works": [
+      {
+        "id": 79,
+        "value": "Hymnus Ad Incensum Lucernae",
+        "order": "77.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 79,
+        "value": "Hymnus Ad Incensum Lucernae"
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "order": "42.00000000000000000000",
+    "name": "Heinrich I., Regensburg, Bischof",
+    "gnd_url": "https://d-nb.info/gnd/133851060",
+    "hit_id": "hit_people__43",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26",
+    "works": [
+      {
+        "id": 104,
+        "value": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147",
+        "order": "102.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 104,
+        "value": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147"
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "order": "43.00000000000000000000",
+    "name": "Hinkmar, Reims, Erzbischof",
+    "gnd_url": "https://d-nb.info/gnd/118551280",
+    "hit_id": "hit_people__44",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06",
+    "works": [
+      {
+        "id": 118,
+        "value": "Visio Eucherii",
+        "order": "116.00000000000000000000"
+      },
+      {
+        "id": 128,
+        "value": "Annales Bertiniani",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 118,
+        "value": "Visio Eucherii"
+      },
+      {
+        "id": 128,
+        "value": "Annales Bertiniani"
+      }
+    ]
+  },
+  "45": {
+    "id": 45,
+    "order": "44.00000000000000000000",
+    "name": "Hugo, von Sankt Victor",
+    "gnd_url": "https://d-nb.info/gnd/118554611",
+    "hit_id": "hit_people__45",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-09-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-09-18",
+    "works": [
+      {
+        "id": 126,
+        "value": "Summa sententiarum septem tractatibus distincta",
+        "order": "124.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 126,
+        "value": "Summa sententiarum septem tractatibus distincta"
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "order": "45.00000000000000000000",
+    "name": "Willihalm und seine bayerische Schüler",
+    "gnd_url": "",
+    "hit_id": "hit_people__46",
+    "role": [
+      {
+        "id": 14752,
+        "value": "scribe",
+        "color": "light-pink"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-20",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22",
+    "works": [],
+    "work": []
+  },
+  "47": {
+    "id": 47,
+    "order": "46.00000000000000000000",
+    "name": "Konrad I., Salzburg, Erzbischof",
+    "gnd_url": "https://d-nb.info/gnd/118713906",
+    "hit_id": "hit_people__47",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-03",
+    "works": [
+      {
+        "id": 127,
+        "value": "Urkunden des Erzbischofs Konrad I. von Abenberg",
+        "order": "125.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 127,
+        "value": "Urkunden des Erzbischofs Konrad I. von Abenberg"
+      }
+    ]
+  },
+  "48": {
+    "id": 48,
+    "order": "47.00000000000000000000",
+    "name": "Dionysius, Exiguus",
+    "gnd_url": "https://d-nb.info/gnd/118679724",
+    "hit_id": "hit_people__48",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-09",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-09",
+    "works": [
+      {
+        "id": 132,
+        "value": "Codex canonum ecclesiasticorum",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 132,
+        "value": "Codex canonum ecclesiasticorum"
+      }
+    ]
+  },
+  "50": {
+    "id": 50,
+    "order": "48.00000000000000000000",
+    "name": "Prudentius, Troyes, Bischof, Heiliger",
+    "gnd_url": "https://d-nb.info/gnd/100958753",
+    "hit_id": "hit_people__50",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-17",
+    "works": [
+      {
+        "id": 128,
+        "value": "Annales Bertiniani",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 128,
+        "value": "Annales Bertiniani"
+      }
+    ]
+  },
+  "51": {
+    "id": 51,
+    "order": "49.00000000000000000000",
+    "name": "Marcellinus, Comes",
+    "gnd_url": "https://d-nb.info/gnd/119336219",
+    "hit_id": "hit_people__51",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-17",
+    "works": [
+      {
+        "id": 141,
+        "value": "Chronicon",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 141,
+        "value": "Chronicon"
+      }
+    ]
+  },
+  "52": {
+    "id": 52,
+    "order": "50.00000000000000000000",
+    "name": "Eutropius",
+    "gnd_url": "",
+    "hit_id": "hit_people__52",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-17",
+    "works": [
+      {
+        "id": 140,
+        "value": "Breviarium ab urbe condita",
+        "order": "138.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 140,
+        "value": "Breviarium ab urbe condita"
+      }
+    ]
+  }
+}

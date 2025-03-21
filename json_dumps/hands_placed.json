@@ -1,0 +1,1170 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "hit_id": "hit_hands_placed__1",
+    "hand": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 3",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "134",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "hit_id": "hit_hands_placed__2",
+    "hand": [
+      {
+        "id": 13,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 4",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "134",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "hit_id": "hit_hands_placed__3",
+    "hand": [
+      {
+        "id": 11,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 1",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "hit_id": "hit_hands_placed__4",
+    "hand": [
+      {
+        "id": 12,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 2",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "133-134",
+    "place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "hit_id": "hit_hands_placed__5",
+    "hand": [
+      {
+        "id": 14,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 5",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "134",
+    "place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "hit_id": "hit_hands_placed__6",
+    "hand": [
+      {
+        "id": 15,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 6",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "134",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "hit_id": "hit_hands_placed__7",
+    "hand": [
+      {
+        "id": 16,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 7",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "134",
+    "place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "hit_id": "hit_hands_placed__8",
+    "hand": [
+      {
+        "id": 17,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 8",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "133-134",
+    "place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "hit_id": "hit_hands_placed__9",
+    "hand": [
+      {
+        "id": 18,
+        "value": "UBWÜ, Cod. M. p. th. f. 46_H. 9",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "133-134",
+    "place": [
+      {
+        "id": 5,
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "hit_id": "hit_hands_placed__10",
+    "hand": [
+      {
+        "id": 23,
+        "value": "BSB, Clm. 6308_H. 1",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 9,
+        "value": "Loewe",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "page": "12",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "hit_id": "hit_hands_placed__11",
+    "hand": [
+      {
+        "id": 26,
+        "value": "ÖNB, Cod. 366_H. 1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "86",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "hit_id": "hit_hands_placed__12",
+    "hand": [
+      {
+        "id": 27,
+        "value": "ÖNB, Cod. 366_H. 2",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "86",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "hit_id": "hit_hands_placed__13",
+    "hand": [
+      {
+        "id": 28,
+        "value": "ÖNB, Cod. 366_H. 3",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "86",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "hit_id": "hit_hands_placed__14",
+    "hand": [
+      {
+        "id": 29,
+        "value": "ÖNB, Cod. 366_H. 4",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "86",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "hit_id": "hit_hands_placed__15",
+    "hand": [
+      {
+        "id": 31,
+        "value": "ÖNB, Cod. 387_H. 1",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "96",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "hit_id": "hit_hands_placed__16",
+    "hand": [
+      {
+        "id": 32,
+        "value": "ÖNB, Cod. 387_H. 2",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "hit_id": "hit_hands_placed__17",
+    "hand": [
+      {
+        "id": 34,
+        "value": "ÖNB, Cod. 387_H. 4",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "hit_id": "hit_hands_placed__18",
+    "hand": [
+      {
+        "id": 35,
+        "value": "ÖNB, Cod. 387_H. 5",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "hit_id": "hit_hands_placed__19",
+    "hand": [
+      {
+        "id": 33,
+        "value": "ÖNB, Cod. 387_H. 3",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "hit_id": "hit_hands_placed__20",
+    "hand": [
+      {
+        "id": 83,
+        "value": "BSB, Clm. 6380_H. 1",
+        "order": "75.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 6,
+        "value": "Daniel, N.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "page": "155",
+    "place": [
+      {
+        "id": 16,
+        "value": "Bayern",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "hit_id": "hit_hands_placed__21",
+    "hand": [
+      {
+        "id": 96,
+        "value": "BSB, Clm. 6382_H. 1",
+        "order": "88.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "73",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "hit_id": "hit_hands_placed__22",
+    "hand": [
+      {
+        "id": 97,
+        "value": "BSB, Clm. 6382_H. 5",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche G.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "page": "154",
+    "place": [
+      {
+        "id": 17,
+        "value": "Reims",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "hit_id": "hit_hands_placed__23",
+    "hand": [
+      {
+        "id": 114,
+        "value": "BSB, Clm. 6382_H. 2",
+        "order": "106.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "73",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "hit_id": "hit_hands_placed__24",
+    "hand": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6326_H. 1",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 6,
+        "value": "Daniel, N.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "page": "155",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "hit_id": "hit_hands_placed__25",
+    "hand": [
+      {
+        "id": 20,
+        "value": "BSB, Clm. 6326_H. 2",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "hit_id": "hit_hands_placed__26",
+    "hand": [
+      {
+        "id": 83,
+        "value": "BSB, Clm. 6380_H. 1",
+        "order": "75.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "147",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "hit_id": "hit_hands_placed__27",
+    "hand": [
+      {
+        "id": 100,
+        "value": "BSB, Clm. 6383_H. 1",
+        "order": "92.00000000000000000000"
+      },
+      {
+        "id": 118,
+        "value": "BSB, Clm. 6383_H. 2",
+        "order": "110.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 13,
+        "value": "O. Ernst, A. Nievergelt, M. Schiegg",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "page": "275",
+    "place": [
+      {
+        "id": 12,
+        "value": "Bodensee",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "hit_id": "hit_hands_placed__28",
+    "hand": [
+      {
+        "id": 41,
+        "value": "ÖNB, Cod. 2090_H. 1",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "hit_id": "hit_hands_placed__29",
+    "hand": [
+      {
+        "id": 123,
+        "value": "Saint-Omer, ms. 706_H. 1",
+        "order": "115.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "value": "Abtei Saint-Bertin",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "hit_id": "hit_hands_placed__30",
+    "hand": [
+      {
+        "id": 124,
+        "value": "Saint-Omer, ms. 706_H. 2",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "value": "Abtei Saint-Bertin",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "hit_id": "hit_hands_placed__31",
+    "hand": [
+      {
+        "id": 125,
+        "value": "Saint-Omer, ms. 706_H. 3",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "value": "Abtei Saint-Bertin",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "hit_id": "hit_hands_placed__32",
+    "hand": [
+      {
+        "id": 126,
+        "value": "Saint-Omer, ms. 706_H. 4",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "value": "Abtei Saint-Bertin",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "hit_id": "hit_hands_placed__33",
+    "hand": [
+      {
+        "id": 133,
+        "value": "Saint-Omer, ms. 706_H. 5",
+        "order": "124.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 21,
+        "value": "Abtei Saint-Bertin",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "hit_id": "hit_hands_placed__34",
+    "hand": [
+      {
+        "id": 137,
+        "value": "Saint-Omer, ms. 706_H. 7",
+        "order": "128.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 21,
+        "value": "Abtei Saint-Bertin",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "hit_id": "hit_hands_placed__35",
+    "hand": [
+      {
+        "id": 138,
+        "value": "Saint-Omer, ms. 697_H. 1",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "value": "Abtei Saint-Bertin",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "hit_id": "hit_hands_placed__36",
+    "hand": [
+      {
+        "id": 139,
+        "value": "Bruxelles KBR, ms. 15835_H. 1",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "value": "Abtei Saint-Bertin",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "hit_id": "hit_hands_placed__37",
+    "hand": [
+      {
+        "id": 140,
+        "value": "Bruxelles KBR, ms. 15835_H. 2",
+        "order": "131.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 14,
+        "value": "Pürstinger",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "page": "58-62",
+    "place": [
+      {
+        "id": 21,
+        "value": "Abtei Saint-Bertin",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "hit_id": "hit_hands_placed__38",
+    "hand": [
+      {
+        "id": 102,
+        "value": "BSB, Clm. 6388_H. 1",
+        "order": "94.00000000000000000000"
+      },
+      {
+        "id": 141,
+        "value": "BSB, Clm. 6388_H. 4",
+        "order": "132.00000000000000000000"
+      },
+      {
+        "id": 142,
+        "value": "BSB, Clm. 6388_H. 5",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 6,
+        "value": "Daniel, N.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "page": "105, 146",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "hit_id": "hit_hands_placed__39",
+    "hand": [
+      {
+        "id": 101,
+        "value": "BSB, Clm. 6388_H. 2",
+        "order": "93.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "BSB, Clm. 6388_H. 3",
+        "order": "105.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche G.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "page": "164-165",
+    "place": [
+      {
+        "id": 9,
+        "value": "Norditalien",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  }
+}

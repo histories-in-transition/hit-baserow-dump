@@ -1,0 +1,2449 @@
+{
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__3",
+    "locus": "1r-97v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "quire": [
+      {
+        "id": 5,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2",
+        "order": "3.50000000000000000000"
+      },
+      {
+        "id": 8,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 4",
+        "order": "7.00000000000000000000"
+      },
+      {
+        "id": 11,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 5",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 12,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 6",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 7",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 8",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 15,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 9",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 16,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 10",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 11",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 12",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 19,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 13",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-06-12",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-03-12",
+    "orig_date": [],
+    "quires_number": null,
+    "heigth": null,
+    "lines_number": null,
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 1,
+        "value": "hit_codunit_place__1",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "hit_codunit_place__2",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 2
+        },
+        "value": "Salzburg"
+      },
+      {
+        "ids": {
+          "database_table_3492": 5,
+          "database_table_3840": 1
+        },
+        "value": "Saint-Amand-les-Eaux"
+      }
+    ],
+    "strata": [
+      {
+        "id": 1,
+        "value": "Cod. M. p. th. f. 46, Stratum 1",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "Cod. M. p. th. f. 46, Stratum 2",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "3.50000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 2"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__5",
+    "locus": "98r-144v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "quire": [
+      {
+        "id": 20,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 14",
+        "order": "16.50000000000000000000"
+      },
+      {
+        "id": 21,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 15",
+        "order": "16.66666666666666785090"
+      },
+      {
+        "id": 22,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 16",
+        "order": "16.75000000000000000000"
+      },
+      {
+        "id": 38,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 17",
+        "order": "16.80000000000000071054"
+      },
+      {
+        "id": 39,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 18",
+        "order": "16.83333333333333214910"
+      },
+      {
+        "id": 40,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 19",
+        "order": "16.85714285714285765039"
+      },
+      {
+        "id": 41,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 20",
+        "order": "16.87500000000000000000"
+      }
+    ],
+    "number": "2",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-03-12",
+    "orig_date": [],
+    "quires_number": null,
+    "heigth": null,
+    "lines_number": null,
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 3,
+        "value": "hit_codunit_place__3",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 3
+        },
+        "value": "Salzburg"
+      }
+    ],
+    "strata": [
+      {
+        "id": 2,
+        "value": "Cod. M. p. th. f. 46, Stratum 2",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Cod. M. p. th. f. 46, Stratum 3",
+        "order": "2.50000000000000000000"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "order": "3.66666666666666651864",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 2,
+          "database_table_3488": 2
+        },
+        "value": "UBWÜ, Cod. M. p. th. f. 46, cod. unit 3"
+      }
+    ],
+    "notes": "Einzelnes Blatt, das bereits in Saint-Amand oder auch erst in Salzburg in die Handschrift eingebunden wurde.",
+    "hit_id": "hit_cod_unit__11",
+    "locus": "149r-149v",
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "quire": [
+      {
+        "id": 42,
+        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 21",
+        "order": "16.88888888888888928363"
+      }
+    ],
+    "number": "3",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-03-12",
+    "orig_date": [],
+    "quires_number": null,
+    "heigth": null,
+    "lines_number": null,
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": [
+      {
+        "id": 5,
+        "value": "Cod. M. p. th. f. 46, Stratum 4",
+        "order": "2.66666666666666651864"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "order": "3.75000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 22,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 366, cod. unit 1"
+      }
+    ],
+    "notes": "TBD",
+    "hit_id": "hit_cod_unit__13",
+    "locus": "1r-208v",
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
+      }
+    ],
+    "quire": [
+      {
+        "id": 75,
+        "value": "ÖNB, Cod. 366, L. 1",
+        "order": "69.00000000000000000000"
+      },
+      {
+        "id": 76,
+        "value": "ÖNB, Cod. 366, L. 2",
+        "order": "70.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": null,
+    "heigth": null,
+    "lines_number": null,
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "12": {
+    "id": 12,
+    "order": "3.79999999999999982236",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 22,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 366, cod. unit 2"
+      }
+    ],
+    "notes": "Fragment",
+    "hit_id": "hit_cod_unit__12",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 22,
+        "value": "ÖNB, Cod. 366",
+        "order": "1.66666666666666674068"
+      }
+    ],
+    "quire": [],
+    "number": "2",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": null,
+    "heigth": null,
+    "lines_number": null,
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 6,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6308, cod. unit 1"
+      }
+    ],
+    "notes": "Ob die Hs. und Wien 366, Ende 8. Jh. aus Salzburg näher verwandt sind, wie etwa die beiden gleichzeitigen Exemplare des >Opus imperfectum in Matthaeum« Clm 6282 und Wien 1007 mit dem Freisinger Skriptorium als Vorlagengeber für Salzburg, ist auf Anhieb nicht zu lösen; vgl. dazu vorerst H. Löwe, Arbeo von Freising. Eine Studie ... Rhein. Vierteljahresblätter 15/16 (1950/51), S. 103. (Glauche)",
+    "hit_id": "hit_cod_unit__4",
+    "locus": "1r-149v",
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "quire": [
+      {
+        "id": 56,
+        "value": "BSB, Clm. 6308, L. 1",
+        "order": "50.00000000000000000000"
+      },
+      {
+        "id": 57,
+        "value": "BSB, Clm. 6308, L. 2",
+        "order": "51.00000000000000000000"
+      },
+      {
+        "id": 58,
+        "value": "BSB, Clm. 6308, L. 3",
+        "order": "52.00000000000000000000"
+      },
+      {
+        "id": 59,
+        "value": "BSB, Clm. 6308, L. 4",
+        "order": "53.00000000000000000000"
+      },
+      {
+        "id": 60,
+        "value": "BSB, Clm. 6308, L. 5",
+        "order": "54.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "BSB, Clm. 6308, L. 6",
+        "order": "55.00000000000000000000"
+      },
+      {
+        "id": 62,
+        "value": "BSB, Clm. 6308, L. 7",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 63,
+        "value": "BSB, Clm. 6308, L. 8",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 64,
+        "value": "BSB, Clm. 6308, L. 9",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 65,
+        "value": "BSB, Clm. 6308, L. 10",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "BSB, Clm. 6308, L. 11",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "BSB, Clm. 6308, L. 12",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "BSB, Clm. 6308, L. 13",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 69,
+        "value": "BSB, Clm. 6308, L. 14",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "BSB, Clm. 6308, L. 15",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 71,
+        "value": "BSB, Clm. 6308, L. 16",
+        "order": "65.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "BSB, Clm. 6308, L. 17",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "BSB, Clm. 6308, L. 18",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 74,
+        "value": "BSB, Clm. 6308, L. 19",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-06",
+    "orig_date": [],
+    "quires_number": "1-19",
+    "heigth": "255",
+    "lines_number": "23",
+    "decorations": "Auf 4r ein rundes Bild, darstellend drei Kontinenten. \nDie beiden letzten,einander gegenüberliegenden Seiten (148V/149R) sind gleichartig figural geschrieben: beide in Form eines auf der Spitze stehenden gleichschenkligen Dreiecks (Bishoff, 77)",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "120",
+    "written_height": "200",
+    "width": "160",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 7,
+        "value": "hit_codunit_place__7",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 7
+        },
+        "value": "Freising"
+      }
+    ],
+    "strata": []
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__6",
+    "locus": "1r-7v",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": "1-2",
+    "heigth": "250",
+    "lines_number": "25-30",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "133",
+    "written_height": "195-215",
+    "width": "180",
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 8,
+        "value": "hit_codunit_place__8",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 8
+        },
+        "value": "Freising"
+      }
+    ],
+    "strata": []
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 2"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__8",
+    "locus": "8r-85v",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "2",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": "3-12",
+    "heigth": "250",
+    "lines_number": "22",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "110-120",
+    "written_height": "180",
+    "width": "180",
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 9,
+        "value": "hit_codunit_place__9",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 26,
+        "value": "hit_codunit_place__26",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 26
+        },
+        "value": "Freising"
+      },
+      {
+        "ids": {
+          "database_table_3492": 9,
+          "database_table_3840": 9
+        },
+        "value": "Norditalien"
+      }
+    ],
+    "strata": []
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 3"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__9",
+    "locus": "86r-198v",
+    "manuscript": [
+      {
+        "id": 12,
+        "value": "BSB, Clm. 6388",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "3",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-06-24",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": "13-26",
+    "heigth": "250",
+    "lines_number": "25-30",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "133",
+    "written_height": "195-215",
+    "width": "180",
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 10,
+        "value": "hit_codunit_place__10",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 10
+        },
+        "value": "Freising"
+      }
+    ],
+    "strata": []
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ],
+    "notes": "Handschrift als eine Einheit geschafft zum Teil aus einer grösserer teologischen Handschrift, teilweise palimsistiert, dabei die Blätter manchmal umgedreht",
+    "hit_id": "hit_cod_unit__10",
+    "locus": "Ir-134v",
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "quire": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6326, L. 1",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6326, L. 2",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 23,
+        "value": "BSB, Clm. 6326, L. 3",
+        "order": "22.00000000000000000000"
+      },
+      {
+        "id": 24,
+        "value": "BSB, Clm. 6326, L. 4",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 25,
+        "value": "BSB, Clm. 6326, L. 5",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 37,
+        "value": "BSB, Clm. 6326, L. 6",
+        "order": "24.50000000000000000000"
+      },
+      {
+        "id": 26,
+        "value": "BSB, Clm. 6326, L. 7",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 27,
+        "value": "BSB, Clm. 6326, L. 8",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 28,
+        "value": "BSB, Clm. 6326, L. 9",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 29,
+        "value": "BSB, Clm. 6326, L. 10",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "BSB, Clm. 6326, L. 11",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 31,
+        "value": "BSB, Clm. 6326, L. 12",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 32,
+        "value": "BSB, Clm. 6326, L. 13",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 33,
+        "value": "BSB, Clm. 6326, L. 14",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 34,
+        "value": "BSB, Clm. 6326, L. 15",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "BSB, Clm. 6326, L. 16",
+        "order": "34.00000000000000000000"
+      },
+      {
+        "id": 36,
+        "value": "BSB, Clm. 6326, L. 17",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-08",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-06",
+    "orig_date": [
+      {
+        "id": 4,
+        "value": "10 Jh., Mitte",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "quires_number": "1-17",
+    "heigth": "195",
+    "lines_number": "17",
+    "decorations": "1r - rotes Initial E in 4 Zeilen, 4r - rotes Initial P in 5 Zeilen, beide ornamental und nah zu den Initialen in Clm 27305, Clm 17027, Clm 17043. Auf 5v - rotes Tierkopfinitial I in 11 Zeilen.",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "115",
+    "written_height": "155",
+    "width": "165",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 11,
+        "value": "hit_codunit_place__11",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 11
+        },
+        "value": "Freising"
+      }
+    ],
+    "strata": []
+  },
+  "14": {
+    "id": 14,
+    "order": "12.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 1,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 387, cod. unit 1"
+      }
+    ],
+    "notes": "TBD",
+    "hit_id": "hit_cod_unit__14",
+    "locus": "1r-165v",
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "quire": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387, L. 1",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 77,
+        "value": "ÖNB, Cod. 387, L. 2",
+        "order": "71.00000000000000000000"
+      },
+      {
+        "id": 82,
+        "value": "ÖNB, Cod. 387, L. 3",
+        "order": "76.00000000000000000000"
+      },
+      {
+        "id": 83,
+        "value": "ÖNB, Cod. 387, L. 4",
+        "order": "77.00000000000000000000"
+      },
+      {
+        "id": 84,
+        "value": "ÖNB, Cod. 387, L. 5",
+        "order": "78.00000000000000000000"
+      },
+      {
+        "id": 85,
+        "value": "ÖNB, Cod. 387, L. 6",
+        "order": "79.00000000000000000000"
+      },
+      {
+        "id": 86,
+        "value": "ÖNB, Cod. 387, L. 7",
+        "order": "80.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "ÖNB, Cod. 387, L. 8",
+        "order": "81.00000000000000000000"
+      },
+      {
+        "id": 88,
+        "value": "ÖNB, Cod. 387, L. 9",
+        "order": "82.00000000000000000000"
+      },
+      {
+        "id": 89,
+        "value": "ÖNB, Cod. 387, L. 10",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "ÖNB, Cod. 387, L. 11",
+        "order": "84.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "ÖNB, Cod. 387, L. 12",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 92,
+        "value": "ÖNB, Cod. 387, L. 13",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 93,
+        "value": "ÖNB, Cod. 387, L. 14",
+        "order": "87.00000000000000000000"
+      },
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 387, L. 15",
+        "order": "88.00000000000000000000"
+      },
+      {
+        "id": 95,
+        "value": "ÖNB, Cod. 387, L. 16",
+        "order": "89.00000000000000000000"
+      },
+      {
+        "id": 96,
+        "value": "ÖNB, Cod. 387, L. 17",
+        "order": "90.00000000000000000000"
+      },
+      {
+        "id": 97,
+        "value": "ÖNB, Cod. 387, L. 18",
+        "order": "91.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "ÖNB, Cod. 387, L. 19",
+        "order": "93.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "ÖNB, Cod. 387, L. 20",
+        "order": "94.00000000000000000000"
+      },
+      {
+        "id": 101,
+        "value": "ÖNB, Cod. 387, L. 21",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": null,
+    "heigth": null,
+    "lines_number": null,
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "15": {
+    "id": 15,
+    "order": "13.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__15",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": null,
+    "heigth": null,
+    "lines_number": null,
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "16": {
+    "id": 16,
+    "order": "14.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__16",
+    "locus": "1r-103v",
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": "1-13",
+    "heigth": "285",
+    "lines_number": "35",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "150",
+    "written_height": "225",
+    "width": "220",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 12,
+        "value": "hit_codunit_place__12",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 12
+        },
+        "value": "Freising"
+      }
+    ],
+    "strata": []
+  },
+  "17": {
+    "id": 17,
+    "order": "15.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 9,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6381, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__17",
+    "locus": "1r-250v",
+    "manuscript": [
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6381",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": "1-35",
+    "heigth": "280",
+    "lines_number": "20-21 (ab 4ⱽund  bis 131ʳ); 28 (bis 4ⱽund ab 131ʳ)",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "120 (ab 4ⱽund  bis 131ʳ); 150 (bis 4ⱽund ab 131ʳ)",
+    "written_height": "180–190 (ab 4ⱽund  bis 131ʳ); 210 (bis 4ⱽund ab 131ʳ)",
+    "width": "190-200",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 13,
+        "value": "hit_codunit_place__13",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 29,
+        "value": "hit_codunit_place__29",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 29
+        },
+        "value": "Freising"
+      },
+      {
+        "ids": {
+          "database_table_3492": 11,
+          "database_table_3840": 13
+        },
+        "value": "Benediktbeuern"
+      }
+    ],
+    "strata": []
+  },
+  "18": {
+    "id": 18,
+    "order": "16.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__18",
+    "locus": "1r-43v",
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": "1-6",
+    "heigth": "240",
+    "lines_number": "21",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "110-145",
+    "written_height": "170",
+    "width": "175",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 14,
+        "value": "hit_codunit_place__14",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 28,
+        "value": "hit_codunit_place__28",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 28
+        },
+        "value": "Freising"
+      },
+      {
+        "ids": {
+          "database_table_3492": 17,
+          "database_table_3840": 14
+        },
+        "value": "Reims"
+      }
+    ],
+    "strata": []
+  },
+  "19": {
+    "id": 19,
+    "order": "17.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382, cod. unit 2"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__19",
+    "locus": "44r-172v",
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "2",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": "7-16",
+    "heigth": "240",
+    "lines_number": "29",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "130",
+    "written_height": "205",
+    "width": "175",
+    "columns": [
+      {
+        "id": 18124,
+        "value": "2",
+        "color": "dark-blue"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 15,
+        "value": "hit_codunit_place__15",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 15
+        },
+        "value": "Freising"
+      }
+    ],
+    "strata": []
+  },
+  "20": {
+    "id": 20,
+    "order": "18.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 11,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6383, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__20",
+    "locus": "1r-151v",
+    "manuscript": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": "1-19",
+    "heigth": "260",
+    "lines_number": "31-38",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "160-175",
+    "written_height": "210-225",
+    "width": "205",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 16,
+        "value": "hit_codunit_place__16",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 16
+        },
+        "value": "Freising"
+      }
+    ],
+    "strata": []
+  },
+  "21": {
+    "id": 21,
+    "order": "19.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 19,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6341, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__21",
+    "locus": "1r-60v",
+    "manuscript": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": null,
+    "heigth": "250",
+    "lines_number": "25",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "145",
+    "written_height": "180-190",
+    "width": "195",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 17,
+        "value": "hit_codunit_place__17",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 31,
+        "value": "hit_codunit_place__31",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 31
+        },
+        "value": "Freising"
+      },
+      {
+        "ids": {
+          "database_table_3492": 12,
+          "database_table_3840": 17
+        },
+        "value": "Bodensee"
+      }
+    ],
+    "strata": []
+  },
+  "22": {
+    "id": 22,
+    "order": "20.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 19,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6341, cod. unit 2"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__22",
+    "locus": "61r-139v",
+    "manuscript": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "2",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": null,
+    "heigth": "250",
+    "lines_number": "28",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "140",
+    "written_height": "205",
+    "width": "195",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 18,
+        "value": "hit_codunit_place__18",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 18
+        },
+        "value": "Freising"
+      }
+    ],
+    "strata": []
+  },
+  "23": {
+    "id": 23,
+    "order": "21.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__23",
+    "locus": "1r-276v",
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": "1-26",
+    "heigth": "165-170",
+    "lines_number": "16-20",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "75-85",
+    "written_height": "135-145",
+    "width": "105",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 19,
+        "value": "hit_codunit_place__19",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 19
+        },
+        "value": "Freising"
+      }
+    ],
+    "strata": []
+  },
+  "24": {
+    "id": 24,
+    "order": "22.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 13,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6391, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__24",
+    "locus": "Ir-193v",
+    "manuscript": [
+      {
+        "id": 13,
+        "value": "BSB, Clm. 6391",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-02-06",
+    "orig_date": [],
+    "quires_number": "1-26",
+    "heigth": "190",
+    "lines_number": "18",
+    "decorations": "Über- und Unterschriften in roter Majuskel.",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "105",
+    "written_height": "145",
+    "width": "140",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 20,
+        "value": "hit_codunit_place__20",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 20
+        },
+        "value": "Freising"
+      }
+    ],
+    "strata": []
+  },
+  "25": {
+    "id": 25,
+    "order": "23.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 14,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6392, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__25",
+    "locus": "Ir-55v",
+    "manuscript": [
+      {
+        "id": 14,
+        "value": "BSB, Clm. 6392",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": "1-7",
+    "heigth": "180",
+    "lines_number": "22-24",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "105",
+    "written_height": "140-150",
+    "width": "140",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 21,
+        "value": "hit_codunit_place__21",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 21
+        },
+        "value": "Freising"
+      }
+    ],
+    "strata": []
+  },
+  "26": {
+    "id": 26,
+    "order": "24.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 17,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 1086, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__26",
+    "locus": "1r-103v",
+    "manuscript": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": null,
+    "heigth": "205",
+    "lines_number": "18",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "95-105",
+    "written_height": "145-155",
+    "width": "140",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 22,
+        "value": "hit_codunit_place__22",
+        "order": "22.00000000000000000000"
+      },
+      {
+        "id": 32,
+        "value": "hit_codunit_place__32",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 32
+        },
+        "value": "Freising"
+      },
+      {
+        "ids": {
+          "database_table_3492": 10,
+          "database_table_3840": 22
+        },
+        "value": "Bistum Eichstätt"
+      }
+    ],
+    "strata": []
+  },
+  "27": {
+    "id": 27,
+    "order": "25.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 8,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6375, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__27",
+    "locus": "1r-227v",
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": "1-29",
+    "heigth": "325",
+    "lines_number": "27",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "180",
+    "written_height": "265-275",
+    "width": "225",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 23,
+        "value": "hit_codunit_place__23",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "hit_codunit_place__30",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 30
+        },
+        "value": "Freising"
+      },
+      {
+        "ids": {
+          "database_table_3492": 18,
+          "database_table_3840": 23
+        },
+        "value": "Südbayern"
+      }
+    ],
+    "strata": []
+  },
+  "28": {
+    "id": 28,
+    "order": "26.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 16,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6376, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__28",
+    "locus": "Ir-213v",
+    "manuscript": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6376",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": "1-27",
+    "heigth": "330",
+    "lines_number": "31",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "155-165",
+    "written_height": "265",
+    "width": "225",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 24,
+        "value": "hit_codunit_place__24",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 19,
+          "database_table_3840": 24
+        },
+        "value": "Regensburg"
+      }
+    ],
+    "strata": []
+  },
+  "29": {
+    "id": 29,
+    "order": "27.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 4,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 210, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__29",
+    "locus": "1r-163v",
+    "manuscript": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 210",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-19",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [],
+    "quires_number": null,
+    "heigth": null,
+    "lines_number": null,
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": null,
+    "written_height": null,
+    "width": null,
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 25,
+        "value": "hit_codunit_place__25",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 25
+        },
+        "value": "Salzburg"
+      }
+    ],
+    "strata": []
+  },
+  "32": {
+    "id": 32,
+    "order": "28.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 31,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 706, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__32",
+    "locus": "1r-223v",
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-16",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [
+      {
+        "id": 60,
+        "value": "986-1007",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "quires_number": "1-28",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [
+      {
+        "id": 18124,
+        "value": "2",
+        "color": "dark-blue"
+      },
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 4,
+        "value": "hit_codunit_place__4",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "hit_codunit_place__5",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 20,
+          "database_table_3840": 5
+        },
+        "value": "Saint-Omer"
+      },
+      {
+        "ids": {
+          "database_table_3492": 21,
+          "database_table_3840": 4
+        },
+        "value": "Abtei Saint-Bertin"
+      }
+    ],
+    "strata": []
+  },
+  "33": {
+    "id": 33,
+    "order": "29.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 18,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 29226, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__33",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 18,
+        "value": "BSB, Clm. 29226",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-01-20",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-01-22",
+    "orig_date": [
+      {
+        "id": 36,
+        "value": "12. Jh.",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 6,
+        "value": "hit_codunit_place__6",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 6
+        },
+        "value": "Freising"
+      }
+    ],
+    "strata": []
+  },
+  "34": {
+    "id": 34,
+    "order": "30.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 32,
+          "database_table_3488": 11
+        },
+        "value": "Saint-Omer, ms. 697, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__34",
+    "locus": "1r-42v",
+    "manuscript": [
+      {
+        "id": 32,
+        "value": "Saint-Omer, ms. 697",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-17",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "35": {
+    "id": 35,
+    "order": "31.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 33,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 15835, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__35",
+    "locus": "1r-16r",
+    "manuscript": [
+      {
+        "id": 33,
+        "value": "Bruxelles KBR, ms. 15835",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-17",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  }
+}

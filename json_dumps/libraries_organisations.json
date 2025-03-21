@@ -1,0 +1,326 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "label": "ÖNB",
+    "hit_id": "hit_org__1",
+    "gnd_url": "https://d-nb.info/gnd/2020893-5",
+    "library_full": "Österreichische Nationalbibliothek",
+    "library_website": "https://www.onb.ac.at/",
+    "settlement": [
+      {
+        "id": 6,
+        "value": "Wien",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Created on": "2024-06-04",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-03"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "label": "UBWÜ",
+    "hit_id": "hit_org__2",
+    "gnd_url": "https://d-nb.info/gnd/2025026-5",
+    "library_full": "Universitätsbibliothek Würzburg",
+    "library_website": "https://www.bibliothek.uni-wuerzburg.de/",
+    "settlement": [
+      {
+        "id": 7,
+        "value": "Würzburg",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Created on": "2024-06-04",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "label": "BSB",
+    "hit_id": "hit_org__4",
+    "gnd_url": "https://d-nb.info/gnd/2031351-2",
+    "library_full": "Bayerische Staatsbibliothek",
+    "library_website": "https://www.bsb-muenchen.de/",
+    "settlement": [
+      {
+        "id": 8,
+        "value": "München",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-06-12",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-03"
+  },
+  "5": {
+    "id": 5,
+    "order": "4.00000000000000000000",
+    "label": "Dombibliothek Würzburg",
+    "hit_id": "hit_org__5",
+    "gnd_url": "https://d-nb.info/gnd/16186778-9",
+    "library_full": "Dombibliothek Würzburg",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 7,
+        "value": "Würzburg",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-07-05",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "6": {
+    "id": 6,
+    "order": "5.00000000000000000000",
+    "label": "Dombibliothek Freising",
+    "hit_id": "hit_org__6",
+    "gnd_url": "https://d-nb.info/gnd/1052539-7",
+    "library_full": "Dombibliothek Freising",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-07-05",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "7": {
+    "id": 7,
+    "order": "6.00000000000000000000",
+    "label": "Erzabtei Sankt Peter (Salzburg)",
+    "hit_id": "hit_org__7",
+    "gnd_url": "https://d-nb.info/gnd/2070551-7",
+    "library_full": "Erzabtei Sankt Peter (Salzburg)",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-07-05",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "8": {
+    "id": 8,
+    "order": "7.00000000000000000000",
+    "label": "Dombibliothek Salzburg",
+    "hit_id": "hit_org__8",
+    "gnd_url": "https://d-nb.info/gnd/4220685-6",
+    "library_full": "Domkapitelbibliothek Salzburg",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-10",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "9": {
+    "id": 9,
+    "order": "8.00000000000000000000",
+    "label": "Kloster Saint-Amand-les-Eaux",
+    "hit_id": "hit_org__9",
+    "gnd_url": "https://d-nb.info/gnd/4727200-4",
+    "library_full": "Kloster Saint-Amand-les-Eaux",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 5,
+        "value": "Saint-Amand-les-Eaux",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q334131",
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "10": {
+    "id": 10,
+    "order": "9.00000000000000000000",
+    "label": "Hofbibliothek München",
+    "hit_id": "hit_org__10",
+    "gnd_url": "",
+    "library_full": "",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 8,
+        "value": "München",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-09-24",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-09-24"
+  },
+  "11": {
+    "id": 11,
+    "order": "10.00000000000000000000",
+    "label": "Saint-Omer",
+    "hit_id": "hit_org__11",
+    "gnd_url": "https://d-nb.info/gnd/411822-4",
+    "library_full": "Bibliothèque d'agglomération de Saint-Omer",
+    "library_website": "https://www.bibliotheque-agglo-stomer.fr/BibliothequeagglomerationsSaintOmer",
+    "settlement": [
+      {
+        "id": 20,
+        "value": "Saint-Omer",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q61931287",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-15",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-03-01"
+  },
+  "12": {
+    "id": 12,
+    "order": "11.00000000000000000000",
+    "label": "Abtei Saint-Bertin",
+    "hit_id": "hit_org__12",
+    "gnd_url": "https://d-nb.info/gnd/4309440-5",
+    "library_full": "Abbaye Saint-Bertin",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 20,
+        "value": "Saint-Omer",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-16"
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "label": "Bruxelles KBR",
+    "hit_id": "hit_org__13",
+    "gnd_url": "https://d-nb.info/gnd/1023393-3",
+    "library_full": "Bibliothèque royale de Belgique",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 24,
+        "value": "Brüssel",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q383931",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-22"
+  }
+}

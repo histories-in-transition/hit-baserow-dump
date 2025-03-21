@@ -1,0 +1,4260 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "title": "De temporibus",
+    "gnd_url": "https://d-nb.info/gnd/7745328-1",
+    "note": "",
+    "hit_id": "hit_works__1",
+    "author": [
+      {
+        "id": 1,
+        "value": "Beda, Heiliger",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 19,
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "note_source": null,
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-06-05",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "3": {
+    "id": 3,
+    "order": "2.00000000000000000000",
+    "title": "Historiae adversus paganos",
+    "gnd_url": "https://d-nb.info/gnd/4484677-0",
+    "note": "",
+    "hit_id": "hit_works__3",
+    "author": [
+      {
+        "id": 4,
+        "value": "Orosius",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "title": "De cyclo paschali",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__4",
+    "author": [
+      {
+        "id": 5,
+        "value": "Ps.-Beda",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 16,
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "note_source": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "5": {
+    "id": 5,
+    "order": "4.00000000000000000000",
+    "title": "Argumentum descriptionis omnium terminorum singulis annis decemnovennalis cycli",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__5",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-06-17"
+  },
+  "6": {
+    "id": 6,
+    "order": "5.00000000000000000000",
+    "title": "Epactae lunae & solis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__6",
+    "author": [
+      {
+        "id": 5,
+        "value": "Ps.-Beda",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "7": {
+    "id": 7,
+    "order": "6.00000000000000000000",
+    "title": "De temporum ratione",
+    "gnd_url": "https://d-nb.info/gnd/4568817-5",
+    "note": "",
+    "hit_id": "hit_works__7",
+    "author": [
+      {
+        "id": 1,
+        "value": "Beda, Heiliger",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 19,
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "note_source": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-06-17",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "8": {
+    "id": 8,
+    "order": "7.00000000000000000000",
+    "title": "computistical texts",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__8",
+    "author": [],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 1,
+        "value": "De temporibus",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 16,
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "note_source": "Lib. 2",
+    "Created by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Created on": "2024-06-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "11": {
+    "id": 11,
+    "order": "10.00000000000000000000",
+    "title": "hieronymi chronicon",
+    "gnd_url": "https://d-nb.info/gnd/1088065325",
+    "note": "",
+    "hit_id": "hit_works__11",
+    "author": [
+      {
+        "id": 8,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-01",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-02"
+  },
+  "13": {
+    "id": 13,
+    "order": "12.00000000000000000000",
+    "title": "Annales Iuvavenses maiores",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__13",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Annalistik",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-03"
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
+    "title": "Annales Iuvavenses minores",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__14",
+    "author": [
+      {
+        "id": 6,
+        "value": "Magister Baldo",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Annalistik",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "16": {
+    "id": 16,
+    "order": "15.00000000000000000000",
+    "title": "Synchrone Tafeln über das Alter der Patriarchen von Noe bis Jakob",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__16",
+    "author": [
+      {
+        "id": 39,
+        "value": "Anonymus",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "17": {
+    "id": 17,
+    "order": "16.00000000000000000000",
+    "title": "Vita sancti Martini",
+    "gnd_url": "https://d-nb.info/gnd/4361966-6",
+    "note": "",
+    "hit_id": "hit_works__17",
+    "author": [
+      {
+        "id": 23,
+        "value": "Sulpicius, Severus",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "18": {
+    "id": 18,
+    "order": "17.00000000000000000000",
+    "title": "Epistulae",
+    "gnd_url": "https://d-nb.info/gnd/4495081-0",
+    "note": "",
+    "hit_id": "hit_works__18",
+    "author": [
+      {
+        "id": 23,
+        "value": "Sulpicius, Severus",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 11,
+        "value": "Briefe",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "19": {
+    "id": 19,
+    "order": "18.00000000000000000000",
+    "title": "Dialogi",
+    "gnd_url": "https://d-nb.info/gnd/4495079-2",
+    "note": "",
+    "hit_id": "hit_works__19",
+    "author": [
+      {
+        "id": 23,
+        "value": "Sulpicius, Severus",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "20": {
+    "id": 20,
+    "order": "19.00000000000000000000",
+    "title": "Miracula sancti Martini",
+    "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
+    "note": "",
+    "hit_id": "hit_works__20",
+    "author": [
+      {
+        "id": 7,
+        "value": "Gregor, Tours",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 2,
+        "value": "Miracula",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "note_source": "I, 48",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "21": {
+    "id": 21,
+    "order": "20.00000000000000000000",
+    "title": "Tituli metrici de sancto Martino",
+    "gnd_url": "https://d-nb.info/gnd/4495088-3",
+    "note": "",
+    "hit_id": "hit_works__21",
+    "author": [
+      {
+        "id": 23,
+        "value": "Sulpicius, Severus",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 6,
+        "value": "Lyrik",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "note_source": "Autorschaft umstritten",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "22": {
+    "id": 22,
+    "order": "21.00000000000000000000",
+    "title": "De basilica sancti Martini et sollemnitatibus",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__22",
+    "author": [
+      {
+        "id": 7,
+        "value": "Gregor, Tours",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 8,
+        "value": "Topographische Beschreibung",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "note_source": "II, 14",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "74": {
+    "id": 74,
+    "order": "21.50000000000000000000",
+    "title": "Vita sancti Bricii",
+    "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
+    "note": "",
+    "hit_id": "hit_works__74",
+    "author": [
+      {
+        "id": 7,
+        "value": "Gregor, Tours",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "II, 1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "23": {
+    "id": 23,
+    "order": "22.00000000000000000000",
+    "title": "Confessio sancti Martini",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__23",
+    "author": [
+      {
+        "id": 38,
+        "value": "Ps.-Hilarius von Poitiers",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 10,
+        "value": "Confessio",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "24": {
+    "id": 24,
+    "order": "23.00000000000000000000",
+    "title": "Miraculum de puella ab ortu nativitatis suae muta et surda",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__24",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 2,
+        "value": "Miracula",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "25": {
+    "id": 25,
+    "order": "24.00000000000000000000",
+    "title": "De orthographia",
+    "gnd_url": "https://d-nb.info/gnd/4537632-3",
+    "note": "",
+    "hit_id": "hit_works__25",
+    "author": [
+      {
+        "id": 16,
+        "value": "Alkuin",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 19,
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "26": {
+    "id": 26,
+    "order": "25.00000000000000000000",
+    "title": "Corpus juris civilis",
+    "gnd_url": "https://d-nb.info/gnd/4113244-0",
+    "note": "",
+    "hit_id": "hit_works__26",
+    "author": [
+      {
+        "id": 17,
+        "value": "Justinian I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 12,
+        "value": "Recht",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "27": {
+    "id": 27,
+    "order": "26.00000000000000000000",
+    "title": "Historia tripartita ab Epiphanio scholastico translata",
+    "gnd_url": "https://d-nb.info/gnd/4245457-8",
+    "note": "",
+    "hit_id": "hit_works__27",
+    "author": [
+      {
+        "id": 15,
+        "value": "Cassiodorus, Flavius Magnus Aurelius",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "28": {
+    "id": 28,
+    "order": "27.00000000000000000000",
+    "title": "De septem gradibus consanguinitatis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__28",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "29": {
+    "id": 29,
+    "order": "28.00000000000000000000",
+    "title": "Historia ecclesiastica cum Rufini continuatione",
+    "gnd_url": "https://d-nb.info/gnd/4192312-1",
+    "note": "",
+    "hit_id": "hit_works__29",
+    "author": [
+      {
+        "id": 12,
+        "value": "Eusebius, Caesariensis",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "Rufinus, Aquileiensis",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "30": {
+    "id": 30,
+    "order": "29.00000000000000000000",
+    "title": "Historia Ottonis",
+    "gnd_url": "https://d-nb.info/gnd/4399950-5",
+    "note": "",
+    "hit_id": "hit_works__30",
+    "author": [
+      {
+        "id": 10,
+        "value": "Liutprand, Cremona",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "31": {
+    "id": 31,
+    "order": "30.00000000000000000000",
+    "title": "Antapodosis",
+    "gnd_url": "https://d-nb.info/gnd/4369757-4",
+    "note": "",
+    "hit_id": "hit_works__31",
+    "author": [
+      {
+        "id": 10,
+        "value": "Liutprand, Cremona",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "32": {
+    "id": 32,
+    "order": "31.00000000000000000000",
+    "title": "Chronica cum Adalberti continuatione",
+    "gnd_url": "https://d-nb.info/gnd/4227884-3",
+    "note": "",
+    "hit_id": "hit_works__32",
+    "author": [
+      {
+        "id": 11,
+        "value": "Regino, Prüm",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "33": {
+    "id": 33,
+    "order": "32.00000000000000000000",
+    "title": "Historia Langobardorum",
+    "gnd_url": "https://d-nb.info/gnd/4316387-7",
+    "note": "",
+    "hit_id": "hit_works__33",
+    "author": [
+      {
+        "id": 9,
+        "value": "Paulus Diaconus",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "34": {
+    "id": 34,
+    "order": "33.00000000000000000000",
+    "title": "Vita sancti Hilarionis",
+    "gnd_url": "https://d-nb.info/gnd/4354839-8",
+    "note": "",
+    "hit_id": "hit_works__34",
+    "author": [
+      {
+        "id": 8,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "35": {
+    "id": 35,
+    "order": "34.00000000000000000000",
+    "title": "Vita sancti Malchi",
+    "gnd_url": "https://d-nb.info/gnd/4354848-9",
+    "note": "",
+    "hit_id": "hit_works__35",
+    "author": [
+      {
+        "id": 8,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "36": {
+    "id": 36,
+    "order": "35.00000000000000000000",
+    "title": "Vita sancti Pauli",
+    "gnd_url": "https://d-nb.info/gnd/4305837-1",
+    "note": "",
+    "hit_id": "hit_works__36",
+    "author": [
+      {
+        "id": 8,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "37": {
+    "id": 37,
+    "order": "36.00000000000000000000",
+    "title": "Vita beati Antonii abbatis, Euagrio interprete",
+    "gnd_url": "https://d-nb.info/gnd/4355381-3",
+    "note": "",
+    "hit_id": "hit_works__37",
+    "author": [
+      {
+        "id": 19,
+        "value": "Athanasius, Alexandrinus",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "38": {
+    "id": 38,
+    "order": "37.00000000000000000000",
+    "title": "Vita sancti Bonifatii",
+    "gnd_url": "https://d-nb.info/gnd/7558701-4",
+    "note": "",
+    "hit_id": "hit_works__38",
+    "author": [
+      {
+        "id": 20,
+        "value": "Willibaldus, Moguntinensis",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "39": {
+    "id": 39,
+    "order": "38.00000000000000000000",
+    "title": "Vita sancti Wunebaldi",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__39",
+    "author": [
+      {
+        "id": 21,
+        "value": "Hugeburc, Heidenheimensis",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "40": {
+    "id": 40,
+    "order": "39.00000000000000000000",
+    "title": "Vita sancti Willibaldi",
+    "gnd_url": "https://d-nb.info/gnd/7863127-0",
+    "note": "",
+    "hit_id": "hit_works__40",
+    "author": [
+      {
+        "id": 21,
+        "value": "Hugeburc, Heidenheimensis",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "41": {
+    "id": 41,
+    "order": "40.00000000000000000000",
+    "title": "Vita sanctae Euphrosinae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__41",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "42": {
+    "id": 42,
+    "order": "41.00000000000000000000",
+    "title": "Synonyma",
+    "gnd_url": "https://d-nb.info/gnd/7645345-5",
+    "note": "",
+    "hit_id": "hit_works__42",
+    "author": [
+      {
+        "id": 28,
+        "value": "Isidor, Sevilla",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 19,
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "43": {
+    "id": 43,
+    "order": "42.00000000000000000000",
+    "title": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum",
+    "gnd_url": "https://d-nb.info/gnd/4406765-3",
+    "note": "",
+    "hit_id": "hit_works__43",
+    "author": [
+      {
+        "id": 28,
+        "value": "Isidor, Sevilla",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 19,
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-23"
+  },
+  "44": {
+    "id": 44,
+    "order": "43.00000000000000000000",
+    "title": "De natura rerum",
+    "gnd_url": "https://d-nb.info/gnd/4721386-3",
+    "note": "",
+    "hit_id": "hit_works__44",
+    "author": [
+      {
+        "id": 28,
+        "value": "Isidor, Sevilla",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 19,
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "45": {
+    "id": 45,
+    "order": "44.00000000000000000000",
+    "title": "Breviarium apostolorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__45",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "46": {
+    "id": 46,
+    "order": "45.00000000000000000000",
+    "title": "Concordia testimoniorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__46",
+    "author": [
+      {
+        "id": 26,
+        "value": "Ps.-Gregor I",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "47": {
+    "id": 47,
+    "order": "46.00000000000000000000",
+    "title": "De unitate sanctae trinitatis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__47",
+    "author": [
+      {
+        "id": 27,
+        "value": "Ps.- Augustinus",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "48": {
+    "id": 48,
+    "order": "47.00000000000000000000",
+    "title": "Moralia in Job",
+    "gnd_url": "https://d-nb.info/gnd/4230993-1",
+    "note": "",
+    "hit_id": "hit_works__48",
+    "author": [
+      {
+        "id": 25,
+        "value": "Gregor I",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 13,
+        "value": "Biblische Kommentare",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "49": {
+    "id": 49,
+    "order": "48.00000000000000000000",
+    "title": "Vita sancti Columbae",
+    "gnd_url": "https://d-nb.info/gnd/4832207-6",
+    "note": "",
+    "hit_id": "hit_works__49",
+    "author": [
+      {
+        "id": 22,
+        "value": "Adamnanus, de Iona",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "recencio brevior",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "50": {
+    "id": 50,
+    "order": "49.00000000000000000000",
+    "title": "Historiae duae de sancta cruce",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__50",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "51": {
+    "id": 51,
+    "order": "50.00000000000000000000",
+    "title": "Commentarii in Ciceronis Topica",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__51",
+    "author": [
+      {
+        "id": 29,
+        "value": "Boethius, Anicius Manlius Severinus",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 20,
+        "value": "Kommentar",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "52": {
+    "id": 52,
+    "order": "51.00000000000000000000",
+    "title": "Revelatio Esdrae de qualitatibus anni",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__52",
+    "author": [
+      {
+        "id": 30,
+        "value": "Esra",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 14,
+        "value": "Kalandologion",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "53": {
+    "id": 53,
+    "order": "52.00000000000000000000",
+    "title": "Epitoma de Tito Livio",
+    "gnd_url": "https://d-nb.info/gnd/4294894-0",
+    "note": "",
+    "hit_id": "hit_works__53",
+    "author": [
+      {
+        "id": 18,
+        "value": "Florus, Publius Annius",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "54": {
+    "id": 54,
+    "order": "53.00000000000000000000",
+    "title": "Periochae",
+    "gnd_url": "https://d-nb.info/gnd/4504491-0",
+    "note": "",
+    "hit_id": "hit_works__54",
+    "author": [
+      {
+        "id": 24,
+        "value": "Ps.-Livius",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 21,
+        "value": "Excerpta",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "55": {
+    "id": 55,
+    "order": "54.00000000000000000000",
+    "title": "Historia monachorum",
+    "gnd_url": "https://d-nb.info/gnd/4230645-0",
+    "note": "",
+    "hit_id": "hit_works__55",
+    "author": [
+      {
+        "id": 13,
+        "value": "Rufinus, Aquileiensis",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-05"
+  },
+  "56": {
+    "id": 56,
+    "order": "55.00000000000000000000",
+    "title": "Catalogus regum et imperatorum Frisingensis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__56",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 22,
+        "value": "Katalog",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "57": {
+    "id": 57,
+    "order": "56.00000000000000000000",
+    "title": "Galerius Maximianus Inuictus",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__57",
+    "author": [
+      {
+        "id": 14,
+        "value": "Imperator Caesar Galerius Maximianus Inuictus",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 29,
+        "value": "Historia ecclesiastica cum Rufini continuatione",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 21,
+        "value": "Excerpta",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-23"
+  },
+  "58": {
+    "id": 58,
+    "order": "57.00000000000000000000",
+    "title": "Ab urbe condita",
+    "gnd_url": "https://d-nb.info/gnd/4125765-0",
+    "note": "",
+    "hit_id": "hit_works__58",
+    "author": [
+      {
+        "id": 40,
+        "value": "Titus Livius",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-23"
+  },
+  "59": {
+    "id": 59,
+    "order": "58.00000000000000000000",
+    "title": "Tractatus in evangelium Johannis",
+    "gnd_url": "https://d-nb.info/gnd/4349851-6",
+    "note": "",
+    "hit_id": "hit_works__59",
+    "author": [
+      {
+        "id": 35,
+        "value": "Augustinus, Aurelius",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 13,
+        "value": "Biblische Kommentare",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-08",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "60": {
+    "id": 60,
+    "order": "59.00000000000000000000",
+    "title": "Miracula sancti Martini",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__60",
+    "author": [
+      {
+        "id": 7,
+        "value": "Gregor, Tours",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 20,
+        "value": "Miracula sancti Martini",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 2,
+        "value": "Miracula",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-08",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-09"
+  },
+  "61": {
+    "id": 61,
+    "order": "60.00000000000000000000",
+    "title": "Vita sancti Briccii",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__61",
+    "author": [
+      {
+        "id": 7,
+        "value": "Gregor, Tours",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 20,
+        "value": "Miracula sancti Martini",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-09"
+  },
+  "62": {
+    "id": 62,
+    "order": "61.00000000000000000000",
+    "title": "De somnis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__62",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 19,
+        "value": "Traktat",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-23"
+  },
+  "63": {
+    "id": 63,
+    "order": "62.00000000000000000000",
+    "title": "Capitulare evangeliorum",
+    "gnd_url": "https://d-nb.info/540041394",
+    "note": "",
+    "hit_id": "hit_works__63",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-09"
+  },
+  "64": {
+    "id": 64,
+    "order": "63.00000000000000000000",
+    "title": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__64",
+    "author": [
+      {
+        "id": 36,
+        "value": "Erchanbertus, Frisingensis",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 11,
+        "value": "Briefe",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-22"
+  },
+  "65": {
+    "id": 65,
+    "order": "64.00000000000000000000",
+    "title": "De inventione",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__65",
+    "author": [],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 50,
+        "value": "Historiae duae de sancta cruce",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-23"
+  },
+  "66": {
+    "id": 66,
+    "order": "65.00000000000000000000",
+    "title": "De exaltatione",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__66",
+    "author": [],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 50,
+        "value": "Historiae duae de sancta cruce",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-10-23"
+  },
+  "67": {
+    "id": 67,
+    "order": "66.00000000000000000000",
+    "title": "Bibelauszug",
+    "gnd_url": "",
+    "note": "TBD! Lesbar: unius anni cum regnare coepisset, ev. aus Samuel 13:1, 2. Buch der Könige 16:2 oder 2. Buch der Chronik 25:1",
+    "hit_id": "hit_works__67",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "68": {
+    "id": 68,
+    "order": "67.00000000000000000000",
+    "title": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__68",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15"
+  },
+  "69": {
+    "id": 69,
+    "order": "68.00000000000000000000",
+    "title": "Ephemeris",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__69",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "70": {
+    "id": 70,
+    "order": "69.00000000000000000000",
+    "title": "Tabelle mit Loca embolismorum und Concordia maris et lunae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__70",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "71": {
+    "id": 71,
+    "order": "70.00000000000000000000",
+    "title": "Eidesformel Papst Leos III.",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__71",
+    "author": [
+      {
+        "id": 37,
+        "value": "Leo III., Papst",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-11"
+  },
+  "72": {
+    "id": 72,
+    "order": "71.00000000000000000000",
+    "title": "De globo mundi et coniecture orbis versus",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__72",
+    "author": [
+      {
+        "id": 39,
+        "value": "Anonymus",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-12"
+  },
+  "73": {
+    "id": 73,
+    "order": "72.00000000000000000000",
+    "title": "Decem libri historiarum",
+    "gnd_url": "https://d-nb.info/gnd/4227883-1",
+    "note": "",
+    "hit_id": "hit_works__73",
+    "author": [
+      {
+        "id": 7,
+        "value": "Gregor, Tours",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-11",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2024-12-12"
+  },
+  "75": {
+    "id": 75,
+    "order": "73.00000000000000000000",
+    "title": "Tintenrezept",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__75",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15"
+  },
+  "76": {
+    "id": 76,
+    "order": "74.00000000000000000000",
+    "title": "Abergläubische Segen",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__76",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15"
+  },
+  "77": {
+    "id": 77,
+    "order": "75.00000000000000000000",
+    "title": "Rezept",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__77",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-15"
+  },
+  "78": {
+    "id": 78,
+    "order": "76.00000000000000000000",
+    "title": "Historiographische und komputistische Zusätze",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__78",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 16,
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "79": {
+    "id": 79,
+    "order": "77.00000000000000000000",
+    "title": "Hymnus Ad Incensum Lucernae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__79",
+    "author": [
+      {
+        "id": 42,
+        "value": "Prudentius Clemens, Aurelius",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 15,
+        "value": "Hymnus",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-16"
+  },
+  "80": {
+    "id": 80,
+    "order": "78.00000000000000000000",
+    "title": "Decretales",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__80",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "81": {
+    "id": 81,
+    "order": "79.00000000000000000000",
+    "title": "Martyrologium",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__81",
+    "author": [
+      {
+        "id": 1,
+        "value": "Beda, Heiliger",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2024-07-18",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2024-07-18"
+  },
+  "82": {
+    "id": 82,
+    "order": "80.00000000000000000000",
+    "title": "Inhaltsverzeichnis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__82",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-20",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-20"
+  },
+  "83": {
+    "id": 83,
+    "order": "81.00000000000000000000",
+    "title": "Bienensegen",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__83",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-20",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-20"
+  },
+  "84": {
+    "id": 84,
+    "order": "82.00000000000000000000",
+    "title": "Althochdeutscher Eintrag",
+    "gnd_url": "",
+    "note": "nuscelihiu",
+    "hit_id": "hit_works__84",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-20",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-20"
+  },
+  "85": {
+    "id": 85,
+    "order": "83.00000000000000000000",
+    "title": "Komputistische Anweisungen",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__85",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-20",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-20"
+  },
+  "86": {
+    "id": 86,
+    "order": "84.00000000000000000000",
+    "title": "Ave maris stella",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__86",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 15,
+        "value": "Hymnus",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-20",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-20"
+  },
+  "87": {
+    "id": 87,
+    "order": "85.00000000000000000000",
+    "title": "Abbreviatio chronicae a mundo condito usque ad Carolum Magnum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__87",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-20",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-20"
+  },
+  "88": {
+    "id": 88,
+    "order": "86.00000000000000000000",
+    "title": "Argumentum ad annum mundi inveniendum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__88",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 16,
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "89": {
+    "id": 89,
+    "order": "87.00000000000000000000",
+    "title": "Argumentum quomodo concurrentes sint inveniendi",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__89",
+    "author": [],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 90,
+        "value": "De argumentis lunae",
+        "order": "88.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 16,
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "90": {
+    "id": 90,
+    "order": "88.00000000000000000000",
+    "title": "De argumentis lunae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__90",
+    "author": [
+      {
+        "id": 5,
+        "value": "Ps.-Beda",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "91": {
+    "id": 91,
+    "order": "89.00000000000000000000",
+    "title": "Argumentum de cursu lunae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__91",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 16,
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "92": {
+    "id": 92,
+    "order": "90.00000000000000000000",
+    "title": "Martyrologium excarpsatum cum alphabetis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__92",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "93": {
+    "id": 93,
+    "order": "91.00000000000000000000",
+    "title": "Ratio de lunae discursu per signa que ad alphabetum pertinet priorem",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__93",
+    "author": [],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 7,
+        "value": "De temporum ratione",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 16,
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "note_source": "Kapitel 19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "94": {
+    "id": 94,
+    "order": "92.00000000000000000000",
+    "title": "Notitiae chronologicae (Ostertafel)",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__94",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
+  },
+  "95": {
+    "id": 95,
+    "order": "93.00000000000000000000",
+    "title": "Annales Salisburgenses",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__95",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-23"
+  },
+  "96": {
+    "id": 96,
+    "order": "94.00000000000000000000",
+    "title": "Liber calculationis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__96",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 16,
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
+  },
+  "97": {
+    "id": 97,
+    "order": "95.00000000000000000000",
+    "title": "Astronomische Schriften",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__97",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
+  },
+  "98": {
+    "id": 98,
+    "order": "96.00000000000000000000",
+    "title": "De natura rerum",
+    "gnd_url": "https://d-nb.info/gnd/7745329-3",
+    "note": "",
+    "hit_id": "hit_works__98",
+    "author": [
+      {
+        "id": 1,
+        "value": "Beda, Heiliger",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
+  },
+  "99": {
+    "id": 99,
+    "order": "97.00000000000000000000",
+    "title": "Mondkalender",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__99",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
+  },
+  "100": {
+    "id": 100,
+    "order": "98.00000000000000000000",
+    "title": "Komputistische Schriften",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__100",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 16,
+        "value": "Komputistik",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-25"
+  },
+  "101": {
+    "id": 101,
+    "order": "99.00000000000000000000",
+    "title": "Catalogus praesulum Iuvavensium",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__101",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "102": {
+    "id": 102,
+    "order": "100.00000000000000000000",
+    "title": "Nomina regum Francorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__102",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "103": {
+    "id": 103,
+    "order": "101.00000000000000000000",
+    "title": "Traditionsnotizen des Salzburger Domstiftes",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__103",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "104": {
+    "id": 104,
+    "order": "102.00000000000000000000",
+    "title": "Epistola ad Eberhardum de electione eius in archiepiscopum Salisburgensem a. 1147",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__104",
+    "author": [
+      {
+        "id": 43,
+        "value": "Heinrich I., Regensburg, Bischof",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 11,
+        "value": "Briefe",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "105": {
+    "id": 105,
+    "order": "103.00000000000000000000",
+    "title": "De ecclesiasticis officiis",
+    "gnd_url": "https://d-nb.info/gnd/4242648-0",
+    "note": "",
+    "hit_id": "hit_works__105",
+    "author": [
+      {
+        "id": 28,
+        "value": "Isidor, Sevilla",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-26"
+  },
+  "107": {
+    "id": 107,
+    "order": "105.00000000000000000000",
+    "title": "Nomina pontificum Romanae sedis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__107",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-28",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-28"
+  },
+  "108": {
+    "id": 108,
+    "order": "106.00000000000000000000",
+    "title": "Nomina pontificum Iuvavensis sedis et abbatum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__108",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-28",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-28"
+  },
+  "109": {
+    "id": 109,
+    "order": "107.00000000000000000000",
+    "title": "Epistolae duae de electione Eberhardi I. archiepiscopus Salisburgensis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__109",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 11,
+        "value": "Briefe",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-28",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-28"
+  },
+  "110": {
+    "id": 110,
+    "order": "108.00000000000000000000",
+    "title": "Nomina fratrum canonicorum et monachorum nec non et monarchum eisudem sedis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__110",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-28",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-28"
+  },
+  "111": {
+    "id": 111,
+    "order": "109.00000000000000000000",
+    "title": "Annales breves Sancti Rudperti Salisburgensis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__111",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Annalistik",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-28",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-28"
+  },
+  "112": {
+    "id": 112,
+    "order": "110.00000000000000000000",
+    "title": "Enumeratio mancipiorum ecclesiae Salisburgensi oblatorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__112",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-28",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-28"
+  },
+  "113": {
+    "id": 113,
+    "order": "111.00000000000000000000",
+    "title": "Fratres de foris",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__113",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-28",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-28"
+  },
+  "114": {
+    "id": 114,
+    "order": "112.00000000000000000000",
+    "title": "Necrologium Salisburgense",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__114",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-28",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-28"
+  },
+  "115": {
+    "id": 115,
+    "order": "113.00000000000000000000",
+    "title": "Berechnungen zur Lebenszeit des hl. Rupert + Bischofsabfolge",
+    "gnd_url": "",
+    "note": "Schildert das Todesjahr des hl. Ruperts und die vergangenen Jahre bis Arn. Anschließend werden jeweils die Erzbischöfe bis Adalwin samt den Päpsten, die ihnen das Pallium verliehen haben, genannt.",
+    "hit_id": "hit_works__115",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-30"
+  },
+  "116": {
+    "id": 116,
+    "order": "114.00000000000000000000",
+    "title": "Kreuzschrift TBD",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__116",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-30",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-30"
+  },
+  "117": {
+    "id": 117,
+    "order": "115.00000000000000000000",
+    "title": "Historiographische Annotationen",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__117",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-31",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-07-31"
+  },
+  "118": {
+    "id": 118,
+    "order": "116.00000000000000000000",
+    "title": "Visio Eucherii",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__118",
+    "author": [
+      {
+        "id": 44,
+        "value": "Hinkmar, Reims, Erzbischof",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-06",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-06"
+  },
+  "119": {
+    "id": 119,
+    "order": "117.00000000000000000000",
+    "title": "De duodecim abusivis saeculi",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__119",
+    "author": [
+      {
+        "id": 27,
+        "value": "Ps.- Augustinus",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-08-26",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-08-26"
+  },
+  "120": {
+    "id": 120,
+    "order": "118.00000000000000000000",
+    "title": "Institutiones Aquisgranenses",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__120",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-09-02"
+  },
+  "121": {
+    "id": 121,
+    "order": "119.00000000000000000000",
+    "title": "Definitiones et sententiae philosophicae, philologicae et theologicae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__121",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-09-02"
+  },
+  "122": {
+    "id": 122,
+    "order": "120.00000000000000000000",
+    "title": "Computationes saeculi XII de tempore sancti Ruperti",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__122",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-09-02"
+  },
+  "123": {
+    "id": 123,
+    "order": "121.00000000000000000000",
+    "title": "Notitiae de benedictione mulieris parturientis, de ritu baptismi etc.",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__123",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-09-02"
+  },
+  "124": {
+    "id": 124,
+    "order": "122.00000000000000000000",
+    "title": "Versus de schismate inter papam et regem",
+    "gnd_url": "",
+    "note": "Walther Nr. 4348",
+    "hit_id": "hit_works__124",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-11-25"
+  },
+  "125": {
+    "id": 125,
+    "order": "123.00000000000000000000",
+    "title": "Versus contra monachos raptores praediorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__125",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-09-02"
+  },
+  "126": {
+    "id": 126,
+    "order": "124.00000000000000000000",
+    "title": "Summa sententiarum septem tractatibus distincta",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__126",
+    "author": [
+      {
+        "id": 45,
+        "value": "Hugo, von Sankt Victor",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-09-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-09-18"
+  },
+  "127": {
+    "id": 127,
+    "order": "125.00000000000000000000",
+    "title": "Urkunden des Erzbischofs Konrad I. von Abenberg",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__127",
+    "author": [
+      {
+        "id": 47,
+        "value": "Konrad I., Salzburg, Erzbischof",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 17,
+        "value": "Urkunde",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-03"
+  },
+  "128": {
+    "id": 128,
+    "order": "126.00000000000000000000",
+    "title": "Annales Bertiniani",
+    "gnd_url": "https://d-nb.info/gnd/4309442-9",
+    "note": "",
+    "hit_id": "hit_works__128",
+    "author": [
+      {
+        "id": 44,
+        "value": "Hinkmar, Reims, Erzbischof",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "Prudentius, Troyes, Bischof, Heiliger",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Annalistik",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-16"
+  },
+  "129": {
+    "id": 129,
+    "order": "127.00000000000000000000",
+    "title": "Concilium Toletanum quartum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__129",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-03"
+  },
+  "130": {
+    "id": 130,
+    "order": "128.00000000000000000000",
+    "title": "Verzeichnis der Giebigkeiten der domcapitlischen Besitzungen in Erding (Oberbayern)",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__130",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-03"
+  },
+  "131": {
+    "id": 131,
+    "order": "129.00000000000000000000",
+    "title": "Notiz über die Beendigung eines Besitzstreites mit Bischof Otto von Bamberg",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__131",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-03"
+  },
+  "132": {
+    "id": 132,
+    "order": "130.00000000000000000000",
+    "title": "Codex canonum ecclesiasticorum",
+    "gnd_url": "https://d-nb.info/gnd/4200591-7",
+    "note": "",
+    "hit_id": "hit_works__132",
+    "author": [
+      {
+        "id": 48,
+        "value": "Dionysius, Exiguus",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 18,
+        "value": "Canones",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-09",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-09"
+  },
+  "133": {
+    "id": 133,
+    "order": "131.00000000000000000000",
+    "title": "Etymologiae",
+    "gnd_url": "https://d-nb.info/gnd/4406765-3",
+    "note": "",
+    "hit_id": "hit_works__133",
+    "author": [
+      {
+        "id": 28,
+        "value": "Isidor, Sevilla",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-09",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-09"
+  },
+  "134": {
+    "id": 134,
+    "order": "132.00000000000000000000",
+    "title": "De quodam solitario",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__134",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-09",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-09"
+  },
+  "135": {
+    "id": 135,
+    "order": "133.00000000000000000000",
+    "title": "Annales regni Francorum",
+    "gnd_url": "https://d-nb.info/gnd/4833771-7",
+    "note": "",
+    "hit_id": "hit_works__135",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Annalistik",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-16"
+  },
+  "136": {
+    "id": 136,
+    "order": "134.00000000000000000000",
+    "title": "Fredegar-Chronik",
+    "gnd_url": "https://d-nb.info/gnd/4217731-5",
+    "note": "",
+    "hit_id": "hit_works__136",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-16"
+  },
+  "137": {
+    "id": 137,
+    "order": "135.00000000000000000000",
+    "title": "Fredegarii Continuationes",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__137",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-16"
+  },
+  "138": {
+    "id": 138,
+    "order": "136.00000000000000000000",
+    "title": "Hybrid Decem libri historiarum + LHF",
+    "gnd_url": "",
+    "note": "Platzhalter",
+    "hit_id": "hit_works__138",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-01-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-01-17"
+  },
+  "139": {
+    "id": 139,
+    "order": "137.00000000000000000000",
+    "title": "Urkunde des Erzbischofs Odalric von Reims (962-969)",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__139",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 17,
+        "value": "Urkunde",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-13"
+  },
+  "140": {
+    "id": 140,
+    "order": "138.00000000000000000000",
+    "title": "Breviarium ab urbe condita",
+    "gnd_url": "https://d-nb.info/gnd/4255383-0",
+    "note": "",
+    "hit_id": "hit_works__140",
+    "author": [
+      {
+        "id": 52,
+        "value": "Eutropius",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-17"
+  },
+  "141": {
+    "id": 141,
+    "order": "139.00000000000000000000",
+    "title": "Chronicon",
+    "gnd_url": "https://d-nb.info/gnd/4410708-0",
+    "note": "",
+    "hit_id": "hit_works__141",
+    "author": [
+      {
+        "id": 51,
+        "value": "Marcellinus, Comes",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-17"
+  },
+  "142": {
+    "id": 142,
+    "order": "140.00000000000000000000",
+    "title": "Notitia Galliarum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__142",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 22,
+        "value": "Katalog",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-18"
+  },
+  "143": {
+    "id": 143,
+    "order": "141.00000000000000000000",
+    "title": "Chronicon Laurissense breve",
+    "gnd_url": "https://d-nb.info/gnd/4619452-6",
+    "note": "",
+    "hit_id": "hit_works__143",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Annalistik",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-17"
+  },
+  "144": {
+    "id": 144,
+    "order": "142.00000000000000000000",
+    "title": "Annales Vedastini",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__144",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 3,
+        "value": "Annalistik",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-02-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-02-17"
+  },
+  "145": {
+    "id": 145,
+    "order": "143.00000000000000000000",
+    "title": "Vitae sanctorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__145",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-03-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-03-18"
+  },
+  "146": {
+    "id": 146,
+    "order": "144.00000000000000000000",
+    "title": "Historiographische Ergänzungen",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__146",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-03-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-03-19"
+  }
+}

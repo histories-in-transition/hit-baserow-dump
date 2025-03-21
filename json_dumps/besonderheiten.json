@@ -1,0 +1,158 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "#": 1,
+    "locus": "",
+    "link_fol": "",
+    "description": "",
+    "what": [],
+    "quires": [],
+    "manuscripts": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-09-04"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "#": 2,
+    "locus": "",
+    "link_fol": "",
+    "description": null,
+    "what": [],
+    "quires": [],
+    "manuscripts": [],
+    "Created by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Created on": "2024-09-04"
+  },
+  "4": {
+    "id": 4,
+    "order": "3.00000000000000000000",
+    "#": 4,
+    "locus": "3v",
+    "link_fol": "",
+    "description": "Die erste Seite der Annales breves Sancti Rudperti Salisburgensis enthält drei rot gerahmte Spalten.",
+    "what": [
+      {
+        "id": 15099,
+        "value": "layout",
+        "color": "dark-purple"
+      }
+    ],
+    "quires": [
+      {
+        "id": 133,
+        "value": "ÖNB, Cod. 2090, L. 1",
+        "order": "127.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-15"
+  },
+  "5": {
+    "id": 5,
+    "order": "4.00000000000000000000",
+    "#": 5,
+    "locus": "4r",
+    "link_fol": "",
+    "description": "Die Spaltenzahl der Annales breves Sancti Rudperti Salisburgensis verringert sich auf der folgenden Seite bereits auf zwei.",
+    "what": [
+      {
+        "id": 15099,
+        "value": "layout",
+        "color": "dark-purple"
+      }
+    ],
+    "quires": [
+      {
+        "id": 133,
+        "value": "ÖNB, Cod. 2090, L. 1",
+        "order": "127.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-15"
+  },
+  "6": {
+    "id": 6,
+    "order": "5.00000000000000000000",
+    "#": 6,
+    "locus": "5r",
+    "link_fol": "",
+    "description": "Die letzte Seite der Annales breves Sancti Rudperti Salisburgensis weist nur mehr eine Spalte auf. Die Spaltenanzahl nimmt also kontinuierlich ab.",
+    "what": [
+      {
+        "id": 15099,
+        "value": "layout",
+        "color": "dark-purple"
+      }
+    ],
+    "quires": [
+      {
+        "id": 133,
+        "value": "ÖNB, Cod. 2090, L. 1",
+        "order": "127.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-15"
+  },
+  "7": {
+    "id": 7,
+    "order": "6.00000000000000000000",
+    "#": 7,
+    "locus": "",
+    "link_fol": "",
+    "description": "",
+    "what": [],
+    "quires": [],
+    "manuscripts": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-10-15"
+  }
+}
