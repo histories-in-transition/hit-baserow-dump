@@ -13,10 +13,12 @@
     },
     "Created on": "2024-06-05",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-06-09"
+    "Last modified": "2025-03-21",
+    "lat": "47.33333",
+    "long": "13.33333"
   },
   "2": {
     "id": 2,
@@ -32,10 +34,12 @@
     },
     "Created on": "2024-06-05",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-03-21",
+    "lat": "51.50000",
+    "long": "10.50000"
   },
   "13": {
     "id": 13,
@@ -51,10 +55,12 @@
     },
     "Created on": "2024-07-11",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-03-21",
+    "lat": "42.83333",
+    "long": "12.83333"
   },
   "14": {
     "id": 14,
@@ -70,10 +76,12 @@
     },
     "Created on": "2024-07-11",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-03-21",
+    "lat": "46.00000",
+    "long": "2.00000"
   },
   "3": {
     "id": 3,
@@ -95,10 +103,12 @@
     },
     "Created on": "2024-06-12",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-03-21",
+    "lat": "47.79941",
+    "long": "13.04399"
   },
   "4": {
     "id": 4,
@@ -120,10 +130,12 @@
     },
     "Created on": "2024-06-13",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-03-21",
+    "lat": "48.40351",
+    "long": "11.74876"
   },
   "5": {
     "id": 5,
@@ -145,10 +157,12 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-03-21",
+    "lat": "50.44718",
+    "long": "3.43076"
   },
   "6": {
     "id": 6,
@@ -170,10 +184,12 @@
     },
     "Created on": "2024-07-03",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-07-09"
+    "Last modified": "2025-03-21",
+    "lat": "48.20849",
+    "long": "16.37208"
   },
   "7": {
     "id": 7,
@@ -195,10 +211,12 @@
     },
     "Created on": "2024-07-03",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-07-09"
+    "Last modified": "2025-03-21",
+    "lat": "49.79391",
+    "long": "9.95121"
   },
   "8": {
     "id": 8,
@@ -220,10 +238,12 @@
     },
     "Created on": "2024-07-03",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-07-09"
+    "Last modified": "2025-03-21",
+    "lat": "48.13743",
+    "long": "11.57549"
   },
   "9": {
     "id": 9,
@@ -248,7 +268,9 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2024-07-11",
+    "lat": null,
+    "long": null
   },
   "10": {
     "id": 10,
@@ -273,7 +295,9 @@
       "id": 3,
       "name": "Peter Andorfer"
     },
-    "Last modified": "2024-07-04"
+    "Last modified": "2025-03-21",
+    "lat": "48.88854",
+    "long": "11.19675"
   },
   "11": {
     "id": 11,
@@ -295,10 +319,12 @@
     },
     "Created on": "2024-07-08",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-03-21",
+    "lat": "47.70624",
+    "long": "11.41522"
   },
   "12": {
     "id": 12,
@@ -320,10 +346,12 @@
     },
     "Created on": "2024-07-08",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-11-20"
+    "Last modified": "2025-03-21",
+    "lat": "47.61495",
+    "long": "9.39765"
   },
   "15": {
     "id": 15,
@@ -348,7 +376,9 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-18"
+    "Last modified": "2024-07-18",
+    "lat": null,
+    "long": null
   },
   "16": {
     "id": 16,
@@ -370,10 +400,12 @@
     },
     "Created on": "2024-09-16",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-09-16"
+    "Last modified": "2025-03-21",
+    "lat": "49.00000",
+    "long": "11.50000"
   },
   "17": {
     "id": 17,
@@ -395,10 +427,12 @@
     },
     "Created on": "2024-09-17",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2024-09-17"
+    "Last modified": "2025-03-21",
+    "lat": "49.26526",
+    "long": "4.02853"
   },
   "18": {
     "id": 18,
@@ -423,7 +457,9 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-19",
+    "lat": null,
+    "long": null
   },
   "19": {
     "id": 19,
@@ -448,7 +484,9 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-09-19"
+    "Last modified": "2024-09-19",
+    "lat": null,
+    "long": null
   },
   "20": {
     "id": 20,
@@ -470,10 +508,12 @@
     },
     "Created on": "2025-01-15",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2025-01-15"
+    "Last modified": "2025-03-21",
+    "lat": "50.74830",
+    "long": "2.26160"
   },
   "21": {
     "id": 21,
@@ -495,10 +535,12 @@
     },
     "Created on": "2025-01-15",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2025-01-16"
+    "Last modified": "2025-03-21",
+    "lat": "50.75083",
+    "long": "2.26389"
   },
   "23": {
     "id": 23,
@@ -514,10 +556,12 @@
     },
     "Created on": "2025-01-22",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2025-01-22"
+    "Last modified": "2025-03-21",
+    "lat": "50.75000",
+    "long": "4.50000"
   },
   "24": {
     "id": 24,
@@ -539,10 +583,12 @@
     },
     "Created on": "2025-01-22",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2025-01-22"
+    "Last modified": "2025-03-21",
+    "lat": "50.85045",
+    "long": "4.34878"
   },
   "25": {
     "id": 25,
@@ -567,7 +613,9 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-25"
+    "Last modified": "2025-02-25",
+    "lat": null,
+    "long": null
   },
   "26": {
     "id": 26,
@@ -592,6 +640,8 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-25"
+    "Last modified": "2025-02-25",
+    "lat": null,
+    "long": null
   }
 }
