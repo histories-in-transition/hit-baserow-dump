@@ -7583,7 +7583,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-03-27",
+    "Last modified": "2025-04-01",
     "Created on": "2024-07-26",
     "Created by": {
       "id": 86,
@@ -7616,10 +7616,21 @@
         "id": 17434,
         "value": "Liste",
         "color": "darker-red"
+      },
+      {
+        "id": 18261,
+        "value": "mit geometrischen Formen",
+        "color": "dark-red"
       }
     ],
-    "form_note": null,
-    "column": [],
+    "form_note": "Es handelt sich um eine zweispaltige genealogische Königsliste. Jede Spalte ist auf beiden Seiten rot eingerahmt und von einem spitz zulaufenden, doppelten Dach bedeckt.",
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": []
   },
   "124": {
@@ -7865,12 +7876,12 @@
       }
     ],
     "incipit": "Altitudo crucis christi est spes",
-    "explicit": "",
+    "explicit": "Profundum de spatio",
     "rubric": "",
     "title_work": [
       {
         "id": 116,
-        "value": "Kreuzschrift TBD",
+        "value": "Ephesios 3:18",
         "order": "114.00000000000000000000"
       }
     ],
@@ -7889,7 +7900,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-03-27",
+    "Last modified": "2025-04-01",
     "Created on": "2024-07-30",
     "Created by": {
       "id": 86,
@@ -7899,7 +7910,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "TBD",
+    "note": "",
     "hand": [],
     "decoration": [],
     "facs_url": "",
@@ -7910,8 +7921,14 @@
         "color": "darker-cyan"
       }
     ],
-    "form_note": null,
-    "column": [],
+    "form_note": "Die zweispaltigen antithetisch Verse wurden von späterer Hand genau in die beiden bereits bestehenden rot eingerahmten Felder eingefügt.",
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": []
   },
   "127": {
