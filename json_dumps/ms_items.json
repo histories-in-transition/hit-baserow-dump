@@ -7124,7 +7124,7 @@
     ],
     "incipit": "Urbs Iuvavensis fuit olim splendida muris",
     "explicit": "Membratim caesus martyr Babilone sepultus",
-    "rubric": "",
+    "rubric": "Catalogus presulum Iuvavensium (kaum lesbar)",
     "title_work": [
       {
         "id": 101,
@@ -7163,7 +7163,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-03-27",
+    "Last modified": "2025-04-02",
     "Created on": "2024-07-25",
     "Created by": {
       "id": 86,
@@ -7197,7 +7197,13 @@
         "value": "ÖNB, Cod. 2090_H. 5"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
@@ -7312,7 +7318,7 @@
     "title_work": [
       {
         "id": 115,
-        "value": "Berechnungen zur Lebenszeit des hl. Rupert + Bischofsabfolge",
+        "value": "Berechnungen zur Lebenszeit des hl. Rupert + historiog. Angaben zu diversen Bischöfen",
         "order": "113.00000000000000000000"
       }
     ],
@@ -7337,7 +7343,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-03-27",
+    "Last modified": "2025-04-02",
     "Created on": "2024-07-30",
     "Created by": {
       "id": 86,
@@ -7357,7 +7363,13 @@
         "value": "ÖNB, Cod. 2090_H. 6"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
@@ -7649,7 +7661,7 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "incipit": "H gratia dei Ratisponenses",
+    "incipit": "H. gratia dei Ratisponenses",
     "explicit": "ad obedienciam animum praeparens",
     "rubric": "",
     "title_work": [
@@ -7680,7 +7692,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-03-27",
+    "Last modified": "2025-04-02",
     "Created on": "2024-07-26",
     "Created by": {
       "id": 86,
@@ -7709,8 +7721,14 @@
         "color": "darker-cyan"
       }
     ],
-    "form_note": null,
-    "column": [],
+    "form_note": "Exakt neben die rote Trennlinie der Königsliste platziert.",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": []
   },
   "125": {
@@ -7799,66 +7817,6 @@
       }
     ]
   },
-  "126": {
-    "id": 126,
-    "order": "113.00000000000000000000",
-    "label": [
-      {
-        "id": 21,
-        "value": "cod_2090__126"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 21,
-        "value": "ÖNB, Cod. 2090",
-        "order": "1.50000000000000000000"
-      }
-    ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__126",
-    "filiation": null,
-    "locus_grp": "1v",
-    "hands_role": [],
-    "cod_unit": [
-      {
-        "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1",
-        "order": "13.00000000000000000000"
-      }
-    ],
-    "Last modified": "2025-03-27",
-    "Created on": "2024-07-26",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "Diverse historiog. Annotationen TBD",
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [
-      {
-        "id": 17436,
-        "value": "graphisch divers zu...",
-        "color": "darker-cyan"
-      }
-    ],
-    "form_note": null,
-    "column": [],
-    "commented_msitem": []
-  },
   "140": {
     "id": 140,
     "order": "113.50000000000000000000",
@@ -7892,7 +7850,13 @@
     "hit_id": "hit_ms_items__140",
     "filiation": null,
     "locus_grp": "1v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 198,
+        "value": "hit_hands_role__198",
+        "order": "184.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 15,
@@ -7911,7 +7875,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 42"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [

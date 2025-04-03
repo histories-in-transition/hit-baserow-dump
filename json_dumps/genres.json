@@ -379,5 +379,62 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22"
+  },
+  "23": {
+    "id": 23,
+    "order": "22.00000000000000000000",
+    "genre": "Bischofskatalog",
+    "hit_id": "hit_genres__23",
+    "main_genre": [
+      {
+        "id": 5,
+        "value": "Historiographie",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-02"
+  },
+  "24": {
+    "id": 24,
+    "order": "23.00000000000000000000",
+    "genre": "Dichtung",
+    "hit_id": "hit_genres__24",
+    "main_genre": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-02"
+  },
+  "25": {
+    "id": 25,
+    "order": "24.00000000000000000000",
+    "genre": "Genealogie",
+    "hit_id": "hit_genres__25",
+    "main_genre": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-02"
   }
 }

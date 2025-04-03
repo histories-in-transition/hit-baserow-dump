@@ -4113,7 +4113,7 @@
           "database_table_3489": 115,
           "database_table_3491": 139
         },
-        "value": "Berechnungen zur Lebenszeit des hl. Rupert + Bischofsabfolge"
+        "value": "Berechnungen zur Lebenszeit des hl. Rupert + historiog. Angaben zu diversen Bischöfen"
       }
     ],
     "hands_dated": [
@@ -10615,6 +10615,95 @@
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "144": {
+    "id": 144,
+    "order": "135.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 42"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__144",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "number": "42",
+    "note": "TBD?",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-02",
+    "hands_role": [
+      {
+        "id": 198,
+        "value": "hit_hands_role__198",
+        "order": "184.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 198,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 116,
+          "database_table_3491": 140
+        },
+        "value": "Ephesios 3:18"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 105,
+        "value": "hit_hands_dated__105",
+        "order": "103.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 36,
+          "database_table_3520": 105
+        },
+        "value": "12. Jh."
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 40,
+        "value": "hit_hands_placed__40",
+        "order": "40.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false
   }
