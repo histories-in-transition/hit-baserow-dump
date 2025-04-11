@@ -3612,7 +3612,13 @@
     ],
     "description": "",
     "hit_id": "hit_hands__41",
-    "similar_hands": [],
+    "similar_hands": [
+      {
+        "id": 54,
+        "value": "ÖNB, Cod. 2090_H. 12",
+        "order": "47.00000000000000000000"
+      }
+    ],
     "nr_daniel": "",
     "manuscript": [
       {
@@ -3632,7 +3638,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-01",
+    "Last modified": "2025-04-10",
     "hands_role": [
       {
         "id": 63,
@@ -3749,7 +3755,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-01",
+    "Last modified": "2025-04-10",
     "hands_role": [
       {
         "id": 62,
@@ -4659,9 +4665,14 @@
         "value": "ÖNB, Cod. 2090_H. 12"
       }
     ],
-    "description": "Stärker aufgebrochenes Mittelband; et ebenfalls mit zwei Fühlern, aber ohne nach rechts weisendes Fundament; der offene Bogen des g mit deutlichem Knicks in der Unterlänge; z geht in die Oberlänge.",
+    "description": "Stärker aufgebrochenes Mittelband; et ebenfalls mit zwei Fühlern, aber ohne nach rechts weisendes Fundament; der offene Bogen des g mit deutlichem Knicks in der Unterlänge; z geht in die Oberlänge.\n\nDiese Hand weist starke stilistische Ähnlichkeiten mit der anlegenden Hand der \"Fratres de foris\" auf (H. 1) -&gt; vgl. MGH Necr. 2, f. 81: \"Versi 1-11 una et eadem manu exarata sunt, ei quae \"fratres de foris\" primitus notavit coaeva, scripturaque apicibus simillima.\" Auch mit H. 10, die u.a. die Papst- und Bischofslisten anfertigte, bestehen stilistische Gemeinsamkeiten.",
     "hit_id": "hit_hands__54",
     "similar_hands": [
+      {
+        "id": 41,
+        "value": "ÖNB, Cod. 2090_H. 1",
+        "order": "36.00000000000000000000"
+      },
       {
         "id": 52,
         "value": "ÖNB, Cod. 2090_H. 10",
@@ -4677,7 +4688,7 @@
       }
     ],
     "number": "12",
-    "note": "Sehr ähnlich, aber wahrscheinlich nicht ident mit H.10.",
+    "note": "",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -4687,7 +4698,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-06",
+    "Last modified": "2025-04-10",
     "hands_role": [
       {
         "id": 83,
@@ -5059,7 +5070,7 @@
         "value": "ÖNB, Cod. 2090_H. 16"
       }
     ],
-    "description": "",
+    "description": "Schreibergruppe aus mehreren Händen, die nach dem ersten Schreibschwung der hier anlegenden Hand ( vgl. H. 13) und dem Schreiber der \"Fratres quorum elemosinis usitamur\", die Namensliste bis ins 12. Jahrhundert weiterführt. Vgl. auch MGH Necr. 2, f. 80: \"In nominibus quae sequuntur fere tot scripturas quot vocabula distinguere licet.\"",
     "hit_id": "hit_hands__58",
     "similar_hands": [],
     "nr_daniel": "",
@@ -5071,7 +5082,7 @@
       }
     ],
     "number": "16",
-    "note": "Schreibergruppe (3-5 Hände) aus dem späten 11. und 12. Jahrhundert.",
+    "note": "",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -5081,7 +5092,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-12-13",
+    "Last modified": "2025-04-10",
     "hands_role": [
       {
         "id": 85,
@@ -5134,13 +5145,7 @@
       }
     ],
     "hands_placed": [],
-    "scribe": [
-      {
-        "id": 9,
-        "value": "ÖNB Cod. 2090_3",
-        "order": "8.00000000000000000000"
-      }
-    ],
+    "scribe": [],
     "gruppe": true
   },
   "59": {
@@ -5155,7 +5160,7 @@
         "value": "ÖNB, Cod. 2090_H. 17"
       }
     ],
-    "description": "",
+    "description": "Aus pragmatischen Gründen angelegte Schreibergruppe aus wohl zwei Händen, die im späten 12. Jahrhundert mehrere Briefe von und betreffend Salzburger Erzbischöfe einfügte.",
     "hit_id": "hit_hands__59",
     "similar_hands": [],
     "nr_daniel": "",
@@ -5167,7 +5172,7 @@
       }
     ],
     "number": "17",
-    "note": "Platzhalter: Schreibergruppe (2 Hände)",
+    "note": "",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -5177,7 +5182,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-12-13",
+    "Last modified": "2025-04-10",
     "hands_role": [
       {
         "id": 88,
@@ -5223,13 +5228,7 @@
       }
     ],
     "hands_placed": [],
-    "scribe": [
-      {
-        "id": 10,
-        "value": "ÖNB Cod. 2090_4",
-        "order": "9.00000000000000000000"
-      }
-    ],
+    "scribe": [],
     "gruppe": true
   },
   "61": {
