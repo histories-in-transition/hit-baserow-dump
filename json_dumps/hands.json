@@ -10705,5 +10705,94 @@
     ],
     "scribe": [],
     "gruppe": false
+  },
+  "145": {
+    "id": 145,
+    "order": "136.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 43"
+      }
+    ],
+    "description": "Markantes offenes g mit einem deutlichen Knicks in der Unterlänge; Bogen des b oftmals nicht geschlossen; schräg abgeschnittene, teils verdickte Oberlängen.",
+    "hit_id": "hit_hands__145",
+    "similar_hands": [
+      {
+        "id": 54,
+        "value": "ÖNB, Cod. 2090_H. 12",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "number": "43",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-11",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-11",
+    "hands_role": [
+      {
+        "id": 199,
+        "value": "hit_hands_role__199",
+        "order": "185.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 199,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 106,
+        "value": "hit_hands_dated__106",
+        "order": "104.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 64,
+          "database_table_3520": 106
+        },
+        "value": "um 1065"
+      }
+    ],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
   }
 }

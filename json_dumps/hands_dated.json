@@ -3320,5 +3320,38 @@
     "Last modified": "2025-04-02",
     "Created on": "2025-04-02",
     "note": ""
+  },
+  "106": {
+    "id": 106,
+    "order": "104.00000000000000000000",
+    "hit_id": "hit_hands_dated__106",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 64,
+        "value": "um 1065",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 145,
+        "value": "ÖNB, Cod. 2090_H. 43",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-11",
+    "Created on": "2025-04-11",
+    "note": ""
   }
 }
