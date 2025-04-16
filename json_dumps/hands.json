@@ -3755,7 +3755,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-04-10",
+    "Last modified": "2025-04-15",
     "hands_role": [
       {
         "id": 62,
@@ -3800,7 +3800,13 @@
         "value": "11. Jh., drittes Viertel"
       }
     ],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 41,
+        "value": "hit_hands_placed__41",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false
   },
@@ -4049,10 +4055,10 @@
     "dating": [
       {
         "ids": {
-          "database_table_3512": 41,
+          "database_table_3512": 43,
           "database_table_3520": 40
         },
-        "value": "12. Jh., erste Hälfte"
+        "value": "12. Jh., erstes Viertel"
       }
     ],
     "hands_placed": [],

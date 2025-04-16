@@ -1225,7 +1225,7 @@
         "order": "37.00000000000000000000"
       }
     ],
-    "new_dating": true,
+    "new_dating": false,
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -1234,9 +1234,9 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-30",
+    "Last modified": "2025-04-15",
     "Created on": "2024-07-30",
-    "note": "TBD."
+    "note": ""
   },
   "38": {
     "id": 38,
@@ -1312,9 +1312,9 @@
     "page": "",
     "dated": [
       {
-        "id": 41,
-        "value": "12. Jh., erste Hälfte",
-        "order": "41.00000000000000000000"
+        "id": 43,
+        "value": "12. Jh., erstes Viertel",
+        "order": "43.00000000000000000000"
       }
     ],
     "hand": [
@@ -1333,7 +1333,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-30",
+    "Last modified": "2025-04-15",
     "Created on": "2024-07-30",
     "note": ""
   },

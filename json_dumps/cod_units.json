@@ -1148,21 +1148,43 @@
     },
     "Created on": "2024-07-18",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-04-15",
     "orig_date": [],
-    "quires_number": null,
+    "quires_number": "Nicht vorhanden",
     "heigth": null,
     "lines_number": null,
     "decorations": "",
-    "codicological_reworking": [],
+    "codicological_reworking": [
+      {
+        "id": 17461,
+        "value": "sheet insertions",
+        "color": "yellow"
+      }
+    ],
     "basic_structure": [],
     "written_width": null,
     "written_height": null,
     "width": null,
-    "columns": [],
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      },
+      {
+        "id": 18124,
+        "value": "2",
+        "color": "dark-blue"
+      },
+      {
+        "id": 18125,
+        "value": "3",
+        "color": "darker-red"
+      }
+    ],
     "cod_unit_placed": [],
     "prov_place": [],
     "strata": []

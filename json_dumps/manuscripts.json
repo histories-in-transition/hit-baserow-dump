@@ -175,7 +175,7 @@
     "digi_url": "http://data.onb.ac.at/dtl/8931254",
     "idno": "Cod. 2090",
     "idno_former": "Salisb. 311",
-    "quire_structure": "TBD.",
+    "quire_structure": "(II+1)5 + IV13 + IV21 + IV29 + IV37 + II41 + IV49? + IV57 + IV65 + TBD",
     "library_full": [
       {
         "id": 1,
@@ -183,8 +183,8 @@
       }
     ],
     "extent": "98",
-    "foliation": "",
-    "acc_mat": "Spiegel, spätmittelalterliches Fragment.",
+    "foliation": "Neuzeitlich",
+    "acc_mat": "Vorderspiegel weist zwei spätmittelalterliche Fragmente auf.",
     "binding": "Hellbrauner Ledereinband über Holzdeckeln aus Salzburg. Verzierter, gerahmter Deckel mit einem Diagonalkreuz aus doppelt gestrichenen Linien. Reste von Schließen. Auf dem Hinterdeckel sind Spuren eines Haken. Am Vorderdeckel ein Pergamentstreifen mit einer Teilinhaltsangabe.",
     "binding_date": [
       {
@@ -193,11 +193,11 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "history": "Zur Zeit Erzbischofs Gebhard (1060-1088) angelegt und bis in das Episkopat Adalbert (1168-1177) weitergeführt. Die Handschrift verblieb bis zum Jahr 1806 im Besitz der Salzburger Dombibliothek und kam anschließend in die damalige Hofblibliothek.",
+    "history": "Zur Zeit Erzbischofs Gebhard (1060-1088) angelegt und bis in das Episkopat Adalberts (1168-1177) weitergeführt. Die Handschrift verblieb bis zum Jahr 1806 im Besitz der Salzburger Dombibliothek und kam anschließend in die damalige Hofblibliothek.",
     "bibliography": [],
     "height": "365",
     "width": "260",
-    "material_spec": "",
+    "material_spec": "Pergament von variierender, aber grundsätzlich robuster Qualität. Regelmäßig sind kleinere Löcher, genähte Risse oder abgeschnittene Seitenteile zu finden.",
     "orig_place": [
       {
         "id": 3,
@@ -205,8 +205,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "catchwords": "",
-    "quiremarks": "",
+    "catchwords": "Nicht vorhanden",
+    "quiremarks": "Nicht vorhanden",
     "material": {
       "id": 14782,
       "value": "parchment",
@@ -256,8 +256,8 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-17",
-    "Last modified": "2025-04-02",
-    "content_summary": "Auf 1v befinden sich zwei nur teils lesbare Annotationen (wohl spätes 11. Jh.).",
+    "Last modified": "2025-04-15",
+    "content_summary": "Auf 1v befinden sich zwei nur zum Teil lesbare Annotationen (wohl spätes 11. Jh.).",
     "charakter": [
       {
         "id": 17451,
