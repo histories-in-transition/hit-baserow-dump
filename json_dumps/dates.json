@@ -1069,5 +1069,22 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-04-11"
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "label": "1806",
+    "not_before": "1806-01-01",
+    "hit_id": "hit_date__65",
+    "not_after": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-16"
   }
 }

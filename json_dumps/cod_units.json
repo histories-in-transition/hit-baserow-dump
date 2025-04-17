@@ -1130,7 +1130,7 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "notes": "",
+    "notes": "Blatt 4 wurde zusätzlich eingefügt und unterscheidet sich sowohl auf kodikologischer als auch paläographischer Ebene.",
     "hit_id": "hit_cod_unit__15",
     "locus": "",
     "manuscript": [
@@ -1151,9 +1151,9 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-04-15",
+    "Last modified": "2025-04-16",
     "orig_date": [],
-    "quires_number": "Nicht vorhanden",
+    "quires_number": "1-10",
     "heigth": null,
     "lines_number": null,
     "decorations": "",
@@ -1185,8 +1185,22 @@
         "color": "darker-red"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": [],
+    "cod_unit_placed": [
+      {
+        "id": 33,
+        "value": "hit_codunit_place__33",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 33
+        },
+        "value": "Salzburg"
+      }
+    ],
     "strata": []
   },
   "16": {
