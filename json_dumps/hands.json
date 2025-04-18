@@ -6588,7 +6588,7 @@
         "value": "ÖNB, Cod. 2090_H. 33"
       }
     ],
-    "description": "Stark gegabelte Oberschäfte; doppelte i-Striche!; s mit markantem Ansatz mittig; tironischet et bis unter die Zeile; Majuskel-n mit Abschwung in die Unterlänge; g mitunter auch offen; ct-Ligatur offen, aber mit Haken.",
+    "description": "Spätkarolingische Minuskel des schrägovalen Stils. Charakteristisch: Gegabelte Oberlängen, zumeist nur tironisches \"et\" bis unter die Zeile, Striche über dem \"i\" als Unterscheidungszeichen, ct-ligatur aufgesprengt mit kleinem Resthaken beim t in der Oberlänge, Majuskel-n mit Abschwung in die Unterlänge, g mitunter auch offen, s mit markantem Ansatz mittig, Ansätze gebrochener Buchstabengestaltung.",
     "hit_id": "hit_hands__77",
     "similar_hands": [
       {
@@ -6616,7 +6616,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-06",
+    "Last modified": "2025-04-17",
     "hands_role": [
       {
         "id": 92,
@@ -6655,13 +6655,19 @@
     "dating": [
       {
         "ids": {
-          "database_table_3512": 42,
+          "database_table_3512": 67,
           "database_table_3520": 56
         },
-        "value": "12. Jh., zweite Hälfte"
+        "value": "12. Jh., viertes Viertel"
       }
     ],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 43,
+        "value": "hit_hands_placed__43",
+        "order": "43.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false
   },
@@ -10797,6 +10803,169 @@
         "value": "um 1065"
       }
     ],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "146": {
+    "id": 146,
+    "order": "137.00000000000000000000",
+    "label": [],
+    "description": "",
+    "hit_id": "hit_hands__146",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": "44",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-17",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "147": {
+    "id": 147,
+    "order": "138.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 44"
+      }
+    ],
+    "description": "Gruppe bestehend aus mindestens zwei Händen, die den (dünnen) Grundstock des Nekrologs zwischen 1025 und 1045/1060 anfertigten.",
+    "hit_id": "hit_hands__147",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "number": "44",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-17",
+    "hands_role": [
+      {
+        "id": 200,
+        "value": "hit_hands_role__200",
+        "order": "186.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 200,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 107,
+        "value": "hit_hands_dated__107",
+        "order": "105.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 66,
+          "database_table_3520": 107
+        },
+        "value": "1025-1041"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 42,
+        "value": "hit_hands_placed__42",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": true
+  },
+  "148": {
+    "id": 148,
+    "order": "139.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 45"
+      }
+    ],
+    "description": "TBD",
+    "hit_id": "hit_hands__148",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "number": "45",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-17",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
     "hands_placed": [],
     "scribe": [],
     "gruppe": false

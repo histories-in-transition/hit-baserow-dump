@@ -1086,5 +1086,39 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-04-16"
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "label": "1025-1041",
+    "not_before": "1025-01-01",
+    "hit_id": "hit_date__66",
+    "not_after": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-17"
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "label": "12. Jh., viertes Viertel",
+    "not_before": "1185-01-01",
+    "hit_id": "hit_date__67",
+    "not_after": "1199-12-31",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-17"
   }
 }

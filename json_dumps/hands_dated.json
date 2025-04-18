@@ -1861,9 +1861,9 @@
     "page": "",
     "dated": [
       {
-        "id": 42,
-        "value": "12. Jh., zweite Hälfte",
-        "order": "42.00000000000000000000"
+        "id": 67,
+        "value": "12. Jh., viertes Viertel",
+        "order": "67.00000000000000000000"
       }
     ],
     "hand": [
@@ -1882,7 +1882,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-06",
+    "Last modified": "2025-04-17",
     "Created on": "2024-08-06",
     "note": ""
   },
@@ -3352,6 +3352,66 @@
     },
     "Last modified": "2025-04-11",
     "Created on": "2025-04-11",
+    "note": ""
+  },
+  "107": {
+    "id": 107,
+    "order": "105.00000000000000000000",
+    "hit_id": "hit_hands_dated__107",
+    "authority": [
+      {
+        "id": 271,
+        "value": "Herzberg-Fränkel",
+        "order": "271.00000000000000000000"
+      }
+    ],
+    "page": "78",
+    "dated": [
+      {
+        "id": 66,
+        "value": "1025-1041",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 147,
+        "value": "ÖNB, Cod. 2090_H. 44",
+        "order": "138.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-17",
+    "Created on": "2025-04-17",
+    "note": ""
+  },
+  "108": {
+    "id": 108,
+    "order": "106.00000000000000000000",
+    "hit_id": "hit_hands_dated__108",
+    "authority": [],
+    "page": "",
+    "dated": [],
+    "hand": [],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-17",
+    "Created on": "2025-04-17",
     "note": ""
   }
 }
