@@ -8662,7 +8662,7 @@
         "value": "ÖNB, Cod. 2090_H. 39"
       }
     ],
-    "description": "Schreibergruppe, die die Institutiones Aquisgranenses in häufig wechselnden Händen anfertigt",
+    "description": "Schreibergruppe, die die Institutiones Aquisgranenses in häufig wechselnden Händen anfertigt.",
     "hit_id": "hit_hands__116",
     "similar_hands": [],
     "nr_daniel": "",
@@ -8684,7 +8684,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-03-19",
+    "Last modified": "2025-04-18",
     "hands_role": [
       {
         "id": 152,
@@ -10938,7 +10938,7 @@
         "value": "ÖNB, Cod. 2090_H. 45"
       }
     ],
-    "description": "TBD",
+    "description": "Nimmt vereinzelte Korrekturen der Kanonikerregeln, wohl anhand einer Vorlage, vor.",
     "hit_id": "hit_hands__148",
     "similar_hands": [],
     "nr_daniel": "",
@@ -10960,7 +10960,106 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-04-17",
+    "Last modified": "2025-04-18",
+    "hands_role": [
+      {
+        "id": 184,
+        "value": "hit_hands_role__184",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 184,
+        "value": [
+          {
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 120,
+          "database_table_3491": 148
+        },
+        "value": "Institutiones Aquisgranenses"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "149": {
+    "id": 149,
+    "order": "140.00000000000000000000",
+    "label": [],
+    "description": "",
+    "hit_id": "hit_hands__149",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-18",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false
+  },
+  "150": {
+    "id": 150,
+    "order": "141.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 46"
+      }
+    ],
+    "description": "Kräftige, kalligraphisch ausgeführte karolingische Minuskel mit gerader Buchstabengestaltung; r bleibt auf der Linie, s ragt teils leicht in die Unterlänge.",
+    "hit_id": "hit_hands__150",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "number": "46",
+    "note": "Beginn Kanonikerregel",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-18",
     "hands_role": [],
     "role": [],
     "texts": [],

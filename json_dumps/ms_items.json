@@ -9650,6 +9650,11 @@
         "id": 157,
         "value": "hit_hands_role__157",
         "order": "143.00000000000000000000"
+      },
+      {
+        "id": 184,
+        "value": "hit_hands_role__184",
+        "order": "170.00000000000000000000"
       }
     ],
     "cod_unit": [],
@@ -9678,6 +9683,13 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 2090_H. 41"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 45"
       }
     ],
     "decoration": [
