@@ -3115,5 +3115,133 @@
     "note_filiation": "",
     "cod_units": [],
     "cod_unit": []
+  },
+  "34": {
+    "id": 34,
+    "order": "31.00000000000000000000",
+    "label": [
+      {
+        "id": 31,
+        "value": "ms. 706, Stratum 3"
+      }
+    ],
+    "character": [
+      {
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "number": "3",
+    "hit_id": "hit_strata__34",
+    "hand_role": [
+      {
+        "id": 188,
+        "value": "hit_hands_role__188",
+        "order": "174.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 118,
+          "database_table_3491": 203
+        },
+        "value": "Visio Eucherii"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 203,
+        "value": "223v"
+      }
+    ],
+    "note": "Dieses Stratum umfasst die Arbeit einer einzelnen Hand, die im 11. Jahrhundert (wohl 2. Hälfte) auf der freigebliebenen, heute letzten Seite der Handschrift eine spezifische Version der Visio Eucherii hinzufügte, die vor alle im späten 11. Jahrhundert in Nordwestfrankreich Verbreitung fand. Diese Schicht zeigt, dass auch später eines der Themen der Hs. noch verstanden und relevant war, nämlich die Entfremdung von Kirchengut.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-22",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
+  },
+  "35": {
+    "id": 35,
+    "order": "32.00000000000000000000",
+    "label": [
+      {
+        "id": 31,
+        "value": "ms. 706, Stratum 4"
+      }
+    ],
+    "character": [
+      {
+        "id": 15370,
+        "value": "graphische Veränderung",
+        "color": "red"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, ms. 706",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "number": "4",
+    "hit_id": "hit_strata__35",
+    "hand_role": [
+      {
+        "id": 185,
+        "value": "hit_hands_role__185",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 191
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 191,
+        "value": "1v-144v"
+      }
+    ],
+    "note": "In mehreren Schritten bzw. Zeitphasen wurden am Rand neben adaptierten/interpolierten Textstellen der Hisotries Gregors von Tours Kreuze eingetragen, die hier als ein fortlaufendes Stratum aufgefasst werden. Einige dieser Kreuze sind wohl noch als zeitgenössisch (womöglich 11. Jh.) einzustufen.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-22",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
   }
 }

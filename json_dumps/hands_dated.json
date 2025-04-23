@@ -3399,8 +3399,20 @@
     "hit_id": "hit_hands_dated__108",
     "authority": [],
     "page": "",
-    "dated": [],
-    "hand": [],
+    "dated": [
+      {
+        "id": 68,
+        "value": "986-1700",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 136,
+        "value": "Saint-Omer, ms. 706_H. 6",
+        "order": "127.00000000000000000000"
+      }
+    ],
     "new_dating": false,
     "Created by": {
       "id": 86,
@@ -3410,7 +3422,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-04-17",
+    "Last modified": "2025-04-22",
     "Created on": "2025-04-17",
     "note": ""
   }

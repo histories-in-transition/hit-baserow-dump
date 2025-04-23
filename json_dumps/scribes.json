@@ -28,21 +28,6 @@
       "name": "Ksenia Borisova"
     }
   },
-  "2": {
-    "id": 2,
-    "order": "2.00000000000000000000",
-    "name": "Salzburg-1",
-    "hit_id": "hit_scribes__2",
-    "description": "(MOCK UP:) Unbekannter Schreiber in Salzburg...",
-    "group": false,
-    "hands": [],
-    "hand": [],
-    "Last modified": "2024-09-20",
-    "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    }
-  },
   "4": {
     "id": 4,
     "order": "3.00000000000000000000",
@@ -70,108 +55,6 @@
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
-    }
-  },
-  "5": {
-    "id": 5,
-    "order": "4.00000000000000000000",
-    "name": "ÖNB_Cod. 2090_1",
-    "hit_id": "hit_scribes__5",
-    "description": "Umfangreiche Gruppe von bis zu 30 Händen, die über 60 Traditionsnotizen einfügen.",
-    "group": true,
-    "hands": [
-      {
-        "id": 49,
-        "value": "ÖNB, Cod. 2090_H. 7",
-        "order": "42.00000000000000000000"
-      }
-    ],
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 21,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 2090_H. 7"
-      }
-    ],
-    "Last modified": "2024-10-10",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    }
-  },
-  "8": {
-    "id": 8,
-    "order": "7.00000000000000000000",
-    "name": "ÖNB Cod. 2090_2",
-    "hit_id": "hit_scribes__8",
-    "description": "Schreibergruppe (2-3 Hände), die den Salzburger Bischofskatalog im 12. Jahrhundert fortsetzt.",
-    "group": true,
-    "hands": [
-      {
-        "id": 53,
-        "value": "ÖNB, Cod. 2090_H. 11",
-        "order": "46.00000000000000000000"
-      }
-    ],
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 21,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 2090_H. 11"
-      }
-    ],
-    "Last modified": "2024-12-13",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    }
-  },
-  "11": {
-    "id": 11,
-    "order": "10.00000000000000000000",
-    "name": "ÖNB Cod. 2090_5",
-    "hit_id": "hit_scribes__11",
-    "description": "Schreibergruppe -> diverse Hände, die die Fratres de foris bearbeiten.",
-    "group": true,
-    "hands": [
-      {
-        "id": 80,
-        "value": "ÖNB, Cod. 2090_H. 36",
-        "order": "72.00000000000000000000"
-      }
-    ],
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 21,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 2090_H. 36"
-      }
-    ],
-    "Last modified": "2024-10-15",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    }
-  },
-  "12": {
-    "id": 12,
-    "order": "11.00000000000000000000",
-    "name": "ÖNB Cod. 2090_6",
-    "hit_id": "hit_scribes__12",
-    "description": "Schreibergruppe bestehend aus mehreren, häufig wechselnden Händen. Fertigt die Institutiones Aquisgranenses an.",
-    "group": true,
-    "hands": [],
-    "hand": [],
-    "Last modified": "2024-10-15",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
     }
   },
   "14": {

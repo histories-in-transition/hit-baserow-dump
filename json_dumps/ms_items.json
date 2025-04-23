@@ -12663,5 +12663,113 @@
     "form_note": "",
     "column": [],
     "commented_msitem": []
+  },
+  "215": {
+    "id": 215,
+    "order": "170.00000000000000000000",
+    "label": [
+      {
+        "id": 42,
+        "value": "hs 2163__215"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 42,
+        "value": "Salzburg Museum, Hs 2163",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "incipit": "Initium primae embolismari lunae tertio nonas Decembris, finitur secundo kalendas Ianuarii",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 70,
+        "value": "Tabelle mit Loca embolismorum und Concordia maris et lunae",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "title_note": "NUR \"Loca embolismorum\" TBD.",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__215",
+    "filiation": "",
+    "locus_grp": "20v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-04-22",
+    "Created on": "2025-04-22",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": []
+  },
+  "216": {
+    "id": 216,
+    "order": "171.00000000000000000000",
+    "label": [
+      {
+        "id": 42,
+        "value": "hs 2163__216"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 42,
+        "value": "Salzburg Museum, Hs 2163",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "Orosius im primo libro suo, quem ad Augustinum episcopum scripsit",
+    "title_work": [
+      {
+        "id": 3,
+        "value": "Historiae adversus paganos",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "title_note": "Exzerpt",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__216",
+    "filiation": "",
+    "locus_grp": "11v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-04-22",
+    "Created on": "2025-04-22",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": []
   }
 }

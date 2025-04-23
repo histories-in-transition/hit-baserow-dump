@@ -1266,5 +1266,35 @@
       "id": 86,
       "name": "Leon Pürstinger"
     }
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "hit_id": "hit_hands_placed__44",
+    "hand": [
+      {
+        "id": 136,
+        "value": "Saint-Omer, ms. 706_H. 6",
+        "order": "127.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 21,
+        "value": "Abtei Saint-Bertin",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 27,
+        "value": "Flandern",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   }
 }

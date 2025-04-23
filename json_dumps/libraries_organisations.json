@@ -322,5 +322,32 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-01-22"
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
+    "label": "Salzburg Museum",
+    "hit_id": "hit_org__14",
+    "gnd_url": "https://d-nb.info/gnd/10173437-2",
+    "library_full": "Salzburg Museum (früher Museum Carolino Augusteum)",
+    "library_website": "https://www.salzburgmuseum.at/sammlung-handschriften/",
+    "settlement": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q2215920",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-22"
   }
 }

@@ -4250,13 +4250,7 @@
       }
     ],
     "hands_placed": [],
-    "scribe": [
-      {
-        "id": 5,
-        "value": "ÖNB_Cod. 2090_1",
-        "order": "4.00000000000000000000"
-      }
-    ],
+    "scribe": [],
     "gruppe": true
   },
   "50": {
@@ -4650,13 +4644,7 @@
       }
     ],
     "hands_placed": [],
-    "scribe": [
-      {
-        "id": 8,
-        "value": "ÖNB Cod. 2090_2",
-        "order": "7.00000000000000000000"
-      }
-    ],
+    "scribe": [],
     "gruppe": true
   },
   "54": {
@@ -6929,13 +6917,7 @@
       }
     ],
     "hands_placed": [],
-    "scribe": [
-      {
-        "id": 11,
-        "value": "ÖNB Cod. 2090_5",
-        "order": "10.00000000000000000000"
-      }
-    ],
+    "scribe": [],
     "gruppe": true
   },
   "81": {
@@ -9932,9 +9914,29 @@
         "value": "Decem libri historiarum"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 108,
+        "value": "hit_hands_dated__108",
+        "order": "106.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 68,
+          "database_table_3520": 108
+        },
+        "value": "986-1700"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 44,
+        "value": "hit_hands_placed__44",
+        "order": "44.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": true
   },

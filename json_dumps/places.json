@@ -643,5 +643,32 @@
     "Last modified": "2025-03-26",
     "lat": "43.87052",
     "long": "-95.60029"
+  },
+  "27": {
+    "id": 27,
+    "order": "25.00000000000000000000",
+    "name": "Flandern",
+    "geonames_url": "https://www.geonames.org/3337388/flanders.html",
+    "hit_id": "hit_place__27",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q234",
+    "country": [
+      {
+        "id": 23,
+        "value": "Belgien",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-22",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-04-23",
+    "lat": "51.00000",
+    "long": "4.50000"
   }
 }

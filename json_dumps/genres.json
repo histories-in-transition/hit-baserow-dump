@@ -4,34 +4,46 @@
     "order": "1.00000000000000000000",
     "genre": "Vita",
     "hit_id": "hit_genres__1",
-    "main_genre": [],
+    "main_genre": [
+      {
+        "id": 26,
+        "value": "Hagiographie",
+        "order": "25.00000000000000000000"
+      }
+    ],
     "Created by": {
       "id": 36,
       "name": "Ivana Dobcheva"
     },
     "Created on": "2024-06-21",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-06-21"
+    "Last modified": "2025-04-22"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "genre": "Miracula",
     "hit_id": "hit_genres__2",
-    "main_genre": [],
+    "main_genre": [
+      {
+        "id": 26,
+        "value": "Hagiographie",
+        "order": "25.00000000000000000000"
+      }
+    ],
     "Created by": {
       "id": 36,
       "name": "Ivana Dobcheva"
     },
     "Created on": "2024-06-21",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-06-21"
+    "Last modified": "2025-04-22"
   },
   "3": {
     "id": 3,
@@ -436,5 +448,22 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-04-02"
+  },
+  "26": {
+    "id": 26,
+    "order": "25.00000000000000000000",
+    "genre": "Hagiographie",
+    "hit_id": "hit_genres__26",
+    "main_genre": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-22"
   }
 }
