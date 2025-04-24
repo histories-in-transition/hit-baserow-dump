@@ -9147,7 +9147,13 @@
         "value": "9 Jh., erstes Viertel"
       }
     ],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 45,
+        "value": "hit_hands_placed__45",
+        "order": "45.00000000000000000000"
+      }
+    ],
     "scribe": [
       {
         "id": 14,
@@ -10625,9 +10631,29 @@
         "value": "Vitae sanctorum"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 110,
+        "value": "hit_hands_dated__110",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 27,
+          "database_table_3520": 110
+        },
+        "value": "10. Jh."
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 46,
+        "value": "hit_hands_placed__46",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false
   },

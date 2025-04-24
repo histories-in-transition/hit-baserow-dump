@@ -3425,5 +3425,38 @@
     "Last modified": "2025-04-22",
     "Created on": "2025-04-17",
     "note": ""
+  },
+  "110": {
+    "id": 110,
+    "order": "107.00000000000000000000",
+    "hit_id": "hit_hands_dated__110",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 27,
+        "value": "10. Jh.",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 143,
+        "value": "ÖNB, Cod. 420_H. 2",
+        "order": "134.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-04-23",
+    "Created on": "2025-04-23",
+    "note": "Basierend auf: BStK Online: https://glossen.germ-ling.uni-bamberg.de/bstk/914 [Stand 23.04.2025]"
   }
 }
