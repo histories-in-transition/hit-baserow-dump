@@ -11065,7 +11065,7 @@
         "value": "ÖNB, Cod. 2090_H. 46"
       }
     ],
-    "description": "Kräftige, kalligraphisch ausgeführte karolingische Minuskel mit gerader Buchstabengestaltung; r bleibt auf der Linie, s ragt teils leicht in die Unterlänge.",
+    "description": "Kräftige, kalligraphisch ausgeführte karolingische Minuskel mit gerader und breiter Buchstabengestaltung; r bleibt auf der Linie, s ragt teils leicht in die Unterlänge.",
     "hit_id": "hit_hands__150",
     "similar_hands": [],
     "nr_daniel": "",
@@ -11087,7 +11087,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-04-18",
+    "Last modified": "2025-04-24",
     "hands_role": [],
     "role": [],
     "texts": [],
