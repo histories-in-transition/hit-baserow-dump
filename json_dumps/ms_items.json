@@ -4307,7 +4307,7 @@
         "order": "22.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-27",
+    "Last modified": "2025-04-30",
     "Created on": "2024-07-09",
     "Created by": {
       "id": 87,
@@ -4341,7 +4341,13 @@
         "value": "BSB, Clm. 6391_H. 2"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      }
+    ],
     "facs_url": "",
     "form": [],
     "form_note": null,
@@ -5225,60 +5231,6 @@
     ],
     "Last modified": "2024-11-13",
     "Created on": "2024-07-10",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "note": null,
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": [],
-    "commented_msitem": []
-  },
-  "76": {
-    "id": 76,
-    "order": "69.00000000000000000000",
-    "label": [
-      {
-        "id": 5,
-        "value": "clm_6326__76"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 5,
-        "value": "BSB, Clm. 6326",
-        "order": "4.00000000000000000000"
-      }
-    ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__76",
-    "filiation": null,
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [
-      {
-        "id": 10,
-        "value": "BSB, Clm. 6326, cod. unit 1",
-        "order": "10.00000000000000000000"
-      }
-    ],
-    "Last modified": "2024-07-11",
-    "Created on": "2024-07-11",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"

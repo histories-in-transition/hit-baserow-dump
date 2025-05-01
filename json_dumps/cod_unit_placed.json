@@ -1444,5 +1444,21 @@
     "uncertain_from": false,
     "uncertain_till": false,
     "uncertain_place": false
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "hit_id": "hit_codunit_place__34",
+    "cod_unit": [],
+    "place": [],
+    "from": [],
+    "type": [],
+    "till": [],
+    "ms": [],
+    "authority": [],
+    "page": "",
+    "uncertain_from": false,
+    "uncertain_till": false,
+    "uncertain_place": false
   }
 }

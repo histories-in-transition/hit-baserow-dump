@@ -2647,6 +2647,11 @@
         "id": 27,
         "value": "hit_dated__27",
         "order": "24.00000000000000000000"
+      },
+      {
+        "id": 37,
+        "value": "hit_dated__37",
+        "order": "34.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -2819,7 +2824,13 @@
     "quiremarks": "",
     "material": null,
     "provenance": [],
-    "manuscripts_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 38,
+        "value": "hit_dated__38",
+        "order": "35.00000000000000000000"
+      }
+    ],
     "orig_dated": [],
     "Created by": {
       "id": 87,
@@ -2900,7 +2911,13 @@
     "quiremarks": "",
     "material": null,
     "provenance": [],
-    "manuscripts_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 39,
+        "value": "hit_dated__39",
+        "order": "36.00000000000000000000"
+      }
+    ],
     "orig_dated": [],
     "Created by": {
       "id": 87,
@@ -3369,7 +3386,13 @@
     "quiremarks": "",
     "material": null,
     "provenance": [],
-    "manuscripts_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 40,
+        "value": "hit_dated__40",
+        "order": "37.00000000000000000000"
+      }
+    ],
     "orig_dated": [],
     "Created by": {
       "id": 87,
@@ -3454,7 +3477,13 @@
       "color": "darker-orange"
     },
     "provenance": [],
-    "manuscripts_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 41,
+        "value": "hit_dated__41",
+        "order": "38.00000000000000000000"
+      }
+    ],
     "orig_dated": [],
     "Created by": {
       "id": 87,
@@ -3539,7 +3568,13 @@
       "color": "darker-orange"
     },
     "provenance": [],
-    "manuscripts_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 42,
+        "value": "hit_dated__42",
+        "order": "39.00000000000000000000"
+      }
+    ],
     "orig_dated": [],
     "Created by": {
       "id": 87,
@@ -3609,7 +3644,18 @@
     "height": "180",
     "width": "135",
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 19,
+        "value": "Regensburg",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 28,
+        "value": "Süddeutschland",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": {
@@ -3618,7 +3664,13 @@
       "color": "darker-orange"
     },
     "provenance": [],
-    "manuscripts_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 43,
+        "value": "hit_dated__43",
+        "order": "40.00000000000000000000"
+      }
+    ],
     "orig_dated": [],
     "Created by": {
       "id": 87,
@@ -3629,7 +3681,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-11",
-    "Last modified": "2025-04-29",
+    "Last modified": "2025-04-30",
     "content_summary": "Vita Henrici IV. Imperatoris, Vitae sanctorum",
     "charakter": [],
     "case_study": [
@@ -3688,12 +3740,29 @@
     "height": null,
     "width": null,
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 19,
+        "value": "Regensburg",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 25,
+        "value": "St. Emmeram",
+        "order": "23.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": null,
     "provenance": [],
-    "manuscripts_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 44,
+        "value": "hit_dated__44",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "orig_dated": [],
     "Created by": {
       "id": 87,
@@ -3704,7 +3773,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-11",
-    "Last modified": "2025-04-29",
+    "Last modified": "2025-04-30",
     "content_summary": "Ps.-Dionysius Areopagita, Helperich: Liber de computo",
     "charakter": [],
     "case_study": [
@@ -3763,12 +3832,24 @@
     "height": null,
     "width": null,
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 19,
+        "value": "Regensburg",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": null,
     "provenance": [],
-    "manuscripts_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 45,
+        "value": "hit_dated__45",
+        "order": "42.00000000000000000000"
+      }
+    ],
     "orig_dated": [],
     "Created by": {
       "id": 87,
@@ -3779,7 +3860,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-11",
-    "Last modified": "2025-04-29",
+    "Last modified": "2025-04-30",
     "content_summary": "Eusebius Caesariensis",
     "charakter": [],
     "case_study": [
@@ -3838,12 +3919,24 @@
     "height": null,
     "width": null,
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 19,
+        "value": "Regensburg",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": null,
     "provenance": [],
-    "manuscripts_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 46,
+        "value": "hit_dated__46",
+        "order": "43.00000000000000000000"
+      }
+    ],
     "orig_dated": [],
     "Created by": {
       "id": 87,
@@ -3854,7 +3947,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-11",
-    "Last modified": "2025-04-29",
+    "Last modified": "2025-04-30",
     "content_summary": "Legendar",
     "charakter": [],
     "case_study": [
@@ -3918,7 +4011,13 @@
     "quiremarks": "",
     "material": null,
     "provenance": [],
-    "manuscripts_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 47,
+        "value": "hit_dated__47",
+        "order": "44.00000000000000000000"
+      }
+    ],
     "orig_dated": [],
     "Created by": {
       "id": 87,

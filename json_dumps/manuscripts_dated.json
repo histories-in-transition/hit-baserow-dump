@@ -1339,7 +1339,13 @@
     "id": 37,
     "order": "34.00000000000000000000",
     "hit_id": "hit_dated__37",
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
     "date": [],
     "authority": [],
     "page": "",
@@ -1350,10 +1356,280 @@
     },
     "Created on": "2025-01-22",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-22T11:00:33.953287Z",
+    "Last modified": "2025-04-30T11:43:43.795332Z",
+    "note": ""
+  },
+  "38": {
+    "id": 38,
+    "order": "35.00000000000000000000",
+    "hit_id": "hit_dated__38",
+    "manuscript": [
+      {
+        "id": 28,
+        "value": "BSB, Clm 6299",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30T11:43:57.878851Z",
+    "note": ""
+  },
+  "39": {
+    "id": 39,
+    "order": "36.00000000000000000000",
+    "hit_id": "hit_dated__39",
+    "manuscript": [
+      {
+        "id": 29,
+        "value": "BSB, Clm 6279",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30T11:44:12.121905Z",
+    "note": ""
+  },
+  "40": {
+    "id": 40,
+    "order": "37.00000000000000000000",
+    "hit_id": "hit_dated__40",
+    "manuscript": [
+      {
+        "id": 34,
+        "value": "BSB, Clm 14226",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30T11:44:27.972466Z",
+    "note": ""
+  },
+  "41": {
+    "id": 41,
+    "order": "38.00000000000000000000",
+    "hit_id": "hit_dated__41",
+    "manuscript": [
+      {
+        "id": 35,
+        "value": "BSB, Clm 14221",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30T11:44:42.875904Z",
+    "note": ""
+  },
+  "42": {
+    "id": 42,
+    "order": "39.00000000000000000000",
+    "hit_id": "hit_dated__42",
+    "manuscript": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 14210",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30T11:45:23.894697Z",
+    "note": ""
+  },
+  "43": {
+    "id": 43,
+    "order": "40.00000000000000000000",
+    "hit_id": "hit_dated__43",
+    "manuscript": [
+      {
+        "id": 37,
+        "value": "BSB, Clm 14095",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30T11:45:38.464460Z",
+    "note": ""
+  },
+  "44": {
+    "id": 44,
+    "order": "41.00000000000000000000",
+    "hit_id": "hit_dated__44",
+    "manuscript": [
+      {
+        "id": 38,
+        "value": "BSB, Clm 14070b-c",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30T11:46:08.212418Z",
+    "note": ""
+  },
+  "45": {
+    "id": 45,
+    "order": "42.00000000000000000000",
+    "hit_id": "hit_dated__45",
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "BSB, Clm 14040",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30T11:46:23.498605Z",
+    "note": ""
+  },
+  "46": {
+    "id": 46,
+    "order": "43.00000000000000000000",
+    "hit_id": "hit_dated__46",
+    "manuscript": [
+      {
+        "id": 40,
+        "value": "BSB, Clm 14031",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30T11:46:35.840933Z",
+    "note": ""
+  },
+  "47": {
+    "id": 47,
+    "order": "44.00000000000000000000",
+    "hit_id": "hit_dated__47",
+    "manuscript": [
+      {
+        "id": 41,
+        "value": "BSB, Clm 14030",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "date": [],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30T11:46:47.861328Z",
     "note": ""
   }
 }

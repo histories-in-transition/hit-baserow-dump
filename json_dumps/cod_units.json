@@ -626,10 +626,10 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-04-30",
     "orig_date": [],
     "quires_number": "1-2",
     "heigth": "250",
@@ -640,7 +640,13 @@
     "written_width": "133",
     "written_height": "195-215",
     "width": "180",
-    "columns": [],
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
     "cod_unit_placed": [
       {
         "id": 8,
@@ -689,10 +695,10 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-04-30",
     "orig_date": [],
     "quires_number": "3-12",
     "heigth": "250",
@@ -703,7 +709,13 @@
     "written_width": "110-120",
     "written_height": "180",
     "width": "180",
-    "columns": [],
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
     "cod_unit_placed": [
       {
         "id": 9,
@@ -764,10 +776,10 @@
     },
     "Created on": "2024-06-24",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-04-30",
     "orig_date": [],
     "quires_number": "13-26",
     "heigth": "250",
@@ -778,7 +790,13 @@
     "written_width": "133",
     "written_height": "195-215",
     "width": "180",
-    "columns": [],
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
     "cod_unit_placed": [
       {
         "id": 10,
@@ -1824,12 +1842,12 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-06",
+    "Last modified": "2025-04-30",
     "orig_date": [],
     "quires_number": "1-26",
     "heigth": "190",
     "lines_number": "18",
-    "decorations": "Über- und Unterschriften in roter Majuskel.",
+    "decorations": "",
     "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "105",
@@ -2467,6 +2485,594 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-02-17",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "36": {
+    "id": 36,
+    "order": "32.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 20,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 27305, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__36",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "37": {
+    "id": 37,
+    "order": "33.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 27,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 29045, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__37",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 27,
+        "value": "BSB, Clm 29045",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "38": {
+    "id": 38,
+    "order": "34.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 28,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 6299, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__38",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 28,
+        "value": "BSB, Clm 6299",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "39": {
+    "id": 39,
+    "order": "35.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 29,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 6279, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__39",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 29,
+        "value": "BSB, Clm 6279",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "40": {
+    "id": 40,
+    "order": "36.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 34,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 14226, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__40",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 34,
+        "value": "BSB, Clm 14226",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "41": {
+    "id": 41,
+    "order": "37.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 35,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 14221, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__41",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 35,
+        "value": "BSB, Clm 14221",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "42": {
+    "id": 42,
+    "order": "38.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 36,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 14210, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__42",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 14210",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "43": {
+    "id": 43,
+    "order": "39.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 37,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 14095, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__43",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 37,
+        "value": "BSB, Clm 14095",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "44": {
+    "id": 44,
+    "order": "40.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 38,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 14070b-c, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__44",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 38,
+        "value": "BSB, Clm 14070b-c",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "45": {
+    "id": 45,
+    "order": "41.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 39,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 14040, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__45",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "BSB, Clm 14040",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "46": {
+    "id": 46,
+    "order": "42.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 40,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 14031, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__46",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 40,
+        "value": "BSB, Clm 14031",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": []
+  },
+  "47": {
+    "id": 47,
+    "order": "43.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 41,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 14030, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__47",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 41,
+        "value": "BSB, Clm 14030",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-04-30",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",

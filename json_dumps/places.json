@@ -670,5 +670,32 @@
     "Last modified": "2025-04-23",
     "lat": "51.00000",
     "long": "4.50000"
+  },
+  "28": {
+    "id": 28,
+    "order": "26.00000000000000000000",
+    "name": "Süddeutschland",
+    "geonames_url": "https://www.geonames.org/12909096/southern-germany.html",
+    "hit_id": "hit_place__28",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q183",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-04-30",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-05-01",
+    "lat": "48.58781",
+    "long": "10.71652"
   }
 }
