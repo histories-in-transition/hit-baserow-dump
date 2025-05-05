@@ -22,11 +22,18 @@
         "value": "BSB, Clm. 6380_H. 1"
       }
     ],
-    "Last modified": "2024-10-22",
+    "Last modified": "2025-05-05",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    }
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "4": {
     "id": 4,
@@ -51,11 +58,18 @@
         "value": "BSB, Clm. 6382_H. 2"
       }
     ],
-    "Last modified": "2024-10-03",
+    "Last modified": "2025-05-05",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    }
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -104,11 +118,18 @@
         "value": "ÖNB, Cod. 420_H. 1"
       }
     ],
-    "Last modified": "2024-12-12",
+    "Last modified": "2025-05-05",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    }
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -145,11 +166,18 @@
         "value": "Bruxelles KBR, ms. 15835_H. 1"
       }
     ],
-    "Last modified": "2025-02-13",
+    "Last modified": "2025-05-05",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    }
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "16": {
     "id": 16,
@@ -186,11 +214,18 @@
         "value": "Bruxelles KBR, ms. 15835_H. 2"
       }
     ],
-    "Last modified": "2025-02-13",
+    "Last modified": "2025-05-05",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    }
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -227,11 +262,18 @@
         "value": "Saint-Omer, ms. 706_H. 4"
       }
     ],
-    "Last modified": "2025-02-13",
+    "Last modified": "2025-05-05",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    }
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -256,10 +298,17 @@
         "value": "BSB, Clm. 6388_H. 1"
       }
     ],
-    "Last modified": "2025-02-20",
+    "Last modified": "2025-05-05",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    }
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ]
   }
 }
