@@ -636,7 +636,7 @@
     "genre": [
       {
         "id": 10,
-        "value": " > Confessio",
+        "value": "Theologische Literatur > Confessio",
         "order": "9.00000000000000000000"
       }
     ],
@@ -1492,7 +1492,7 @@
     "genre": [
       {
         "id": 13,
-        "value": " > Biblische Kommentare",
+        "value": "Theologische Literatur > Biblische Kommentare",
         "order": "12.00000000000000000000"
       }
     ],
@@ -1881,7 +1881,7 @@
     "genre": [
       {
         "id": 13,
-        "value": " > Biblische Kommentare",
+        "value": "Theologische Literatur > Biblische Kommentare",
         "order": "12.00000000000000000000"
       }
     ],
