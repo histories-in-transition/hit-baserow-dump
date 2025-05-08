@@ -18,7 +18,7 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat",
+        "value": " > Traktat",
         "order": "18.00000000000000000000"
       }
     ],
@@ -53,7 +53,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -88,7 +88,7 @@
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik",
+        "value": " > Komputistik",
         "order": "15.00000000000000000000"
       }
     ],
@@ -175,7 +175,7 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat",
+        "value": " > Traktat",
         "order": "18.00000000000000000000"
       }
     ],
@@ -210,7 +210,7 @@
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik",
+        "value": " > Komputistik",
         "order": "15.00000000000000000000"
       }
     ],
@@ -245,7 +245,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -274,7 +274,7 @@
     "genre": [
       {
         "id": 3,
-        "value": "Annalistik",
+        "value": "Historiographie > Annalistik",
         "order": "3.00000000000000000000"
       }
     ],
@@ -309,7 +309,7 @@
     "genre": [
       {
         "id": 3,
-        "value": "Annalistik",
+        "value": "Historiographie > Annalistik",
         "order": "3.00000000000000000000"
       }
     ],
@@ -373,7 +373,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -408,7 +408,7 @@
     "genre": [
       {
         "id": 11,
-        "value": "Briefe",
+        "value": " > Briefe",
         "order": "10.00000000000000000000"
       }
     ],
@@ -443,7 +443,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur",
+        "value": "Theologische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -484,7 +484,7 @@
     "genre": [
       {
         "id": 2,
-        "value": "Miracula",
+        "value": "Hagiographie > Miracula",
         "order": "2.00000000000000000000"
       }
     ],
@@ -519,7 +519,7 @@
     "genre": [
       {
         "id": 6,
-        "value": "Lyrik",
+        "value": "Lyrik > ",
         "order": "6.00000000000000000000"
       }
     ],
@@ -560,7 +560,7 @@
     "genre": [
       {
         "id": 8,
-        "value": "Topographische Beschreibung",
+        "value": " > Topographische Beschreibung",
         "order": "7.00000000000000000000"
       }
     ],
@@ -601,7 +601,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -636,7 +636,7 @@
     "genre": [
       {
         "id": 10,
-        "value": "Confessio",
+        "value": " > Confessio",
         "order": "9.00000000000000000000"
       }
     ],
@@ -665,7 +665,7 @@
     "genre": [
       {
         "id": 2,
-        "value": "Miracula",
+        "value": "Hagiographie > Miracula",
         "order": "2.00000000000000000000"
       }
     ],
@@ -700,7 +700,7 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat",
+        "value": " > Traktat",
         "order": "18.00000000000000000000"
       }
     ],
@@ -735,7 +735,7 @@
     "genre": [
       {
         "id": 12,
-        "value": "Recht",
+        "value": " > Recht",
         "order": "11.00000000000000000000"
       }
     ],
@@ -770,7 +770,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -799,7 +799,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur",
+        "value": "Theologische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -839,7 +839,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -874,7 +874,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -909,7 +909,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -944,7 +944,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -979,7 +979,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -1014,7 +1014,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1049,7 +1049,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1084,7 +1084,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1119,7 +1119,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1154,7 +1154,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1189,7 +1189,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1224,7 +1224,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1253,7 +1253,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1288,7 +1288,7 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat",
+        "value": " > Traktat",
         "order": "18.00000000000000000000"
       }
     ],
@@ -1323,7 +1323,7 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat",
+        "value": " > Traktat",
         "order": "18.00000000000000000000"
       }
     ],
@@ -1358,7 +1358,7 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat",
+        "value": " > Traktat",
         "order": "18.00000000000000000000"
       }
     ],
@@ -1387,7 +1387,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur",
+        "value": "Theologische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -1422,7 +1422,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur",
+        "value": "Theologische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -1457,7 +1457,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur",
+        "value": "Theologische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -1492,7 +1492,7 @@
     "genre": [
       {
         "id": 13,
-        "value": "Biblische Kommentare",
+        "value": " > Biblische Kommentare",
         "order": "12.00000000000000000000"
       }
     ],
@@ -1527,7 +1527,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1556,7 +1556,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur",
+        "value": "Theologische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -1591,7 +1591,7 @@
     "genre": [
       {
         "id": 20,
-        "value": "Kommentar",
+        "value": " > Kommentar",
         "order": "19.00000000000000000000"
       }
     ],
@@ -1626,7 +1626,7 @@
     "genre": [
       {
         "id": 14,
-        "value": "Kalandologion",
+        "value": " > Kalandologion",
         "order": "13.00000000000000000000"
       }
     ],
@@ -1661,7 +1661,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -1696,12 +1696,12 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "Excerpta",
+        "value": " > Excerpta",
         "order": "20.00000000000000000000"
       }
     ],
@@ -1736,7 +1736,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -1765,7 +1765,7 @@
     "genre": [
       {
         "id": 22,
-        "value": "Katalog",
+        "value": " > Katalog",
         "order": "21.00000000000000000000"
       }
     ],
@@ -1806,12 +1806,12 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       },
       {
         "id": 21,
-        "value": "Excerpta",
+        "value": " > Excerpta",
         "order": "20.00000000000000000000"
       }
     ],
@@ -1846,7 +1846,7 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       }
     ],
@@ -1881,7 +1881,7 @@
     "genre": [
       {
         "id": 13,
-        "value": "Biblische Kommentare",
+        "value": " > Biblische Kommentare",
         "order": "12.00000000000000000000"
       }
     ],
@@ -1922,7 +1922,7 @@
     "genre": [
       {
         "id": 2,
-        "value": "Miracula",
+        "value": "Hagiographie > Miracula",
         "order": "2.00000000000000000000"
       }
     ],
@@ -1963,7 +1963,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -1992,7 +1992,7 @@
     "genre": [
       {
         "id": 19,
-        "value": "Traktat",
+        "value": " > Traktat",
         "order": "18.00000000000000000000"
       }
     ],
@@ -2050,7 +2050,7 @@
     "genre": [
       {
         "id": 11,
-        "value": "Briefe",
+        "value": " > Briefe",
         "order": "10.00000000000000000000"
       }
     ],
@@ -2085,7 +2085,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur",
+        "value": "Theologische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -2120,7 +2120,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur",
+        "value": "Theologische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -2305,7 +2305,7 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       }
     ],
@@ -2403,12 +2403,12 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "Komputistik",
+        "value": " > Komputistik",
         "order": "15.00000000000000000000"
       }
     ],
@@ -2443,7 +2443,7 @@
     "genre": [
       {
         "id": 15,
-        "value": "Hymnus",
+        "value": " > Hymnus",
         "order": "14.00000000000000000000"
       }
     ],
@@ -2616,7 +2616,7 @@
     "genre": [
       {
         "id": 15,
-        "value": "Hymnus",
+        "value": " > Hymnus",
         "order": "14.00000000000000000000"
       }
     ],
@@ -2645,7 +2645,7 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       }
     ],
@@ -2674,7 +2674,7 @@
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik",
+        "value": " > Komputistik",
         "order": "15.00000000000000000000"
       }
     ],
@@ -2709,7 +2709,7 @@
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik",
+        "value": " > Komputistik",
         "order": "15.00000000000000000000"
       }
     ],
@@ -2767,7 +2767,7 @@
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik",
+        "value": " > Komputistik",
         "order": "15.00000000000000000000"
       }
     ],
@@ -2825,7 +2825,7 @@
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik",
+        "value": " > Komputistik",
         "order": "15.00000000000000000000"
       }
     ],
@@ -2877,7 +2877,7 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       }
     ],
@@ -2906,12 +2906,12 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       },
       {
         "id": 16,
-        "value": "Komputistik",
+        "value": " > Komputistik",
         "order": "15.00000000000000000000"
       }
     ],
@@ -3015,7 +3015,7 @@
     "genre": [
       {
         "id": 16,
-        "value": "Komputistik",
+        "value": " > Komputistik",
         "order": "15.00000000000000000000"
       }
     ],
@@ -3044,12 +3044,12 @@
     "genre": [
       {
         "id": 23,
-        "value": "Bischofskatalog",
+        "value": "Historiographie > Bischofskatalog",
         "order": "22.00000000000000000000"
       },
       {
         "id": 24,
-        "value": "Dichtung",
+        "value": " > Dichtung",
         "order": "23.00000000000000000000"
       }
     ],
@@ -3078,12 +3078,12 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       },
       {
         "id": 25,
-        "value": "Genealogie",
+        "value": " > Genealogie",
         "order": "24.00000000000000000000"
       }
     ],
@@ -3112,7 +3112,7 @@
     "genre": [
       {
         "id": 17,
-        "value": "Urkunde",
+        "value": " > Urkunde",
         "order": "16.00000000000000000000"
       }
     ],
@@ -3147,7 +3147,7 @@
     "genre": [
       {
         "id": 11,
-        "value": "Briefe",
+        "value": " > Briefe",
         "order": "10.00000000000000000000"
       }
     ],
@@ -3251,7 +3251,7 @@
     "genre": [
       {
         "id": 11,
-        "value": "Briefe",
+        "value": " > Briefe",
         "order": "10.00000000000000000000"
       }
     ],
@@ -3303,7 +3303,7 @@
     "genre": [
       {
         "id": 3,
-        "value": "Annalistik",
+        "value": "Historiographie > Annalistik",
         "order": "3.00000000000000000000"
       }
     ],
@@ -3401,7 +3401,7 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       }
     ],
@@ -3453,7 +3453,7 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       }
     ],
@@ -3713,7 +3713,7 @@
     "genre": [
       {
         "id": 17,
-        "value": "Urkunde",
+        "value": " > Urkunde",
         "order": "16.00000000000000000000"
       }
     ],
@@ -3753,7 +3753,7 @@
     "genre": [
       {
         "id": 3,
-        "value": "Annalistik",
+        "value": "Historiographie > Annalistik",
         "order": "3.00000000000000000000"
       }
     ],
@@ -3857,7 +3857,7 @@
     "genre": [
       {
         "id": 18,
-        "value": "Canones",
+        "value": " > Canones",
         "order": "17.00000000000000000000"
       }
     ],
@@ -3938,7 +3938,7 @@
     "genre": [
       {
         "id": 3,
-        "value": "Annalistik",
+        "value": "Historiographie > Annalistik",
         "order": "3.00000000000000000000"
       }
     ],
@@ -3967,7 +3967,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -3996,7 +3996,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -4025,7 +4025,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -4054,7 +4054,7 @@
     "genre": [
       {
         "id": 17,
-        "value": "Urkunde",
+        "value": " > Urkunde",
         "order": "16.00000000000000000000"
       }
     ],
@@ -4089,7 +4089,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -4124,7 +4124,7 @@
     "genre": [
       {
         "id": 4,
-        "value": "Chronik",
+        "value": "Historiographie > Chronik",
         "order": "4.00000000000000000000"
       }
     ],
@@ -4153,7 +4153,7 @@
     "genre": [
       {
         "id": 22,
-        "value": "Katalog",
+        "value": " > Katalog",
         "order": "21.00000000000000000000"
       }
     ],
@@ -4182,7 +4182,7 @@
     "genre": [
       {
         "id": 3,
-        "value": "Annalistik",
+        "value": "Historiographie > Annalistik",
         "order": "3.00000000000000000000"
       }
     ],
@@ -4211,7 +4211,7 @@
     "genre": [
       {
         "id": 3,
-        "value": "Annalistik",
+        "value": "Historiographie > Annalistik",
         "order": "3.00000000000000000000"
       }
     ],
@@ -4240,7 +4240,7 @@
     "genre": [
       {
         "id": 1,
-        "value": "Vita",
+        "value": "Hagiographie > Vita",
         "order": "1.00000000000000000000"
       }
     ],
@@ -4269,7 +4269,7 @@
     "genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       }
     ],

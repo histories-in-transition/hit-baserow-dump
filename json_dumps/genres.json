@@ -2,12 +2,13 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
+    "label": "Hagiographie > Vita",
     "genre": "Vita",
     "hit_id": "hit_genres__1",
     "main_genre": [
       {
         "id": 26,
-        "value": "Hagiographie",
+        "value": "Hagiographie > ",
         "order": "25.00000000000000000000"
       }
     ],
@@ -17,20 +18,23 @@
     },
     "Created on": "2024-06-21",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-22"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Vita",
+    "main": "Hagiographie"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
+    "label": "Hagiographie > Miracula",
     "genre": "Miracula",
     "hit_id": "hit_genres__2",
     "main_genre": [
       {
         "id": 26,
-        "value": "Hagiographie",
+        "value": "Hagiographie > ",
         "order": "25.00000000000000000000"
       }
     ],
@@ -40,20 +44,23 @@
     },
     "Created on": "2024-06-21",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-22"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Miracula",
+    "main": "Hagiographie"
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
+    "label": "Historiographie > Annalistik",
     "genre": "Annalistik",
     "hit_id": "hit_genres__3",
     "main_genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       }
     ],
@@ -63,20 +70,23 @@
     },
     "Created on": "2024-06-25",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-12-13"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Annalistik",
+    "main": "Historiographie"
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
+    "label": "Historiographie > Chronik",
     "genre": "Chronik",
     "hit_id": "hit_genres__4",
     "main_genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       }
     ],
@@ -89,14 +99,23 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Chronik",
+    "main": "Historiographie"
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
+    "label": "Historiographie > ",
     "genre": "Historiographie",
     "hit_id": "hit_genres__5",
-    "main_genre": [],
+    "main_genre": [
+      {
+        "id": 5,
+        "value": "Historiographie > ",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "Created by": {
       "id": 36,
       "name": "Ivana Dobcheva"
@@ -106,11 +125,14 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-05-08",
+    "sub_genre": "",
+    "main": "Historiographie"
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
+    "label": "Lyrik > ",
     "genre": "Lyrik",
     "hit_id": "hit_genres__6",
     "main_genre": [],
@@ -120,14 +142,17 @@
     },
     "Created on": "2024-07-11",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-05-08",
+    "sub_genre": "",
+    "main": "Lyrik"
   },
   "8": {
     "id": 8,
     "order": "7.00000000000000000000",
+    "label": " > Topographische Beschreibung",
     "genre": "Topographische Beschreibung",
     "hit_id": "hit_genres__8",
     "main_genre": [],
@@ -137,37 +162,23 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Topographische Beschreibung",
+    "main": null
   },
   "9": {
     "id": 9,
     "order": "8.00000000000000000000",
+    "label": "Theologische Literatur > ",
     "genre": "Theologische Literatur",
     "hit_id": "hit_genres__9",
-    "main_genre": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-12",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-07-12"
-  },
-  "10": {
-    "id": 10,
-    "order": "9.00000000000000000000",
-    "genre": "Confessio",
-    "hit_id": "hit_genres__10",
     "main_genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur",
+        "value": "Theologische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -177,14 +188,43 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-05-08",
+    "sub_genre": "",
+    "main": "Theologische Literatur"
+  },
+  "10": {
+    "id": 10,
+    "order": "9.00000000000000000000",
+    "label": " > Confessio",
+    "genre": "Confessio",
+    "hit_id": "hit_genres__10",
+    "main_genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur > ",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-07-12"
+    "Created on": "2024-07-12",
+    "Last modified by": {
+      "id": 36,
+      "name": "Ivana Dobcheva"
+    },
+    "Last modified": "2025-05-08",
+    "sub_genre": "Confessio",
+    "main": null
   },
   "11": {
     "id": 11,
     "order": "10.00000000000000000000",
+    "label": " > Briefe",
     "genre": "Briefe",
     "hit_id": "hit_genres__11",
     "main_genre": [],
@@ -194,14 +234,17 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Briefe",
+    "main": null
   },
   "12": {
     "id": 12,
     "order": "11.00000000000000000000",
+    "label": " > Recht",
     "genre": "Recht",
     "hit_id": "hit_genres__12",
     "main_genre": [],
@@ -211,20 +254,23 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Recht",
+    "main": null
   },
   "13": {
     "id": 13,
     "order": "12.00000000000000000000",
+    "label": " > Biblische Kommentare",
     "genre": "Biblische Kommentare",
     "hit_id": "hit_genres__13",
     "main_genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur",
+        "value": "Theologische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -234,14 +280,17 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Biblische Kommentare",
+    "main": null
   },
   "14": {
     "id": 14,
     "order": "13.00000000000000000000",
+    "label": " > Kalandologion",
     "genre": "Kalandologion",
     "hit_id": "hit_genres__14",
     "main_genre": [],
@@ -251,14 +300,17 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Kalandologion",
+    "main": null
   },
   "15": {
     "id": 15,
     "order": "14.00000000000000000000",
+    "label": " > Hymnus",
     "genre": "Hymnus",
     "hit_id": "hit_genres__15",
     "main_genre": [],
@@ -268,14 +320,17 @@
     },
     "Created on": "2024-07-16",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-16"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Hymnus",
+    "main": null
   },
   "16": {
     "id": 16,
     "order": "15.00000000000000000000",
+    "label": " > Komputistik",
     "genre": "Komputistik",
     "hit_id": "hit_genres__16",
     "main_genre": [],
@@ -285,14 +340,17 @@
     },
     "Created on": "2024-07-23",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-23"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Komputistik",
+    "main": null
   },
   "17": {
     "id": 17,
     "order": "16.00000000000000000000",
+    "label": " > Urkunde",
     "genre": "Urkunde",
     "hit_id": "hit_genres__17",
     "main_genre": [],
@@ -302,14 +360,17 @@
     },
     "Created on": "2024-10-03",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-10-03"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Urkunde",
+    "main": null
   },
   "18": {
     "id": 18,
     "order": "17.00000000000000000000",
+    "label": " > Canones",
     "genre": "Canones",
     "hit_id": "hit_genres__18",
     "main_genre": [],
@@ -319,14 +380,17 @@
     },
     "Created on": "2024-10-09",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-10-09"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Canones",
+    "main": null
   },
   "19": {
     "id": 19,
     "order": "18.00000000000000000000",
+    "label": " > Traktat",
     "genre": "Traktat",
     "hit_id": "hit_genres__19",
     "main_genre": [],
@@ -336,14 +400,17 @@
     },
     "Created on": "2024-10-22",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-10-22"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Traktat",
+    "main": null
   },
   "20": {
     "id": 20,
     "order": "19.00000000000000000000",
+    "label": " > Kommentar",
     "genre": "Kommentar",
     "hit_id": "hit_genres__20",
     "main_genre": [],
@@ -353,14 +420,17 @@
     },
     "Created on": "2024-10-22",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-10-22"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Kommentar",
+    "main": null
   },
   "21": {
     "id": 21,
     "order": "20.00000000000000000000",
+    "label": " > Excerpta",
     "genre": "Excerpta",
     "hit_id": "hit_genres__21",
     "main_genre": [],
@@ -370,14 +440,17 @@
     },
     "Created on": "2024-10-22",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-10-22"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Excerpta",
+    "main": null
   },
   "22": {
     "id": 22,
     "order": "21.00000000000000000000",
+    "label": " > Katalog",
     "genre": "Katalog",
     "hit_id": "hit_genres__22",
     "main_genre": [],
@@ -387,20 +460,23 @@
     },
     "Created on": "2024-10-22",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-10-22"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Katalog",
+    "main": null
   },
   "23": {
     "id": 23,
     "order": "22.00000000000000000000",
+    "label": "Historiographie > Bischofskatalog",
     "genre": "Bischofskatalog",
     "hit_id": "hit_genres__23",
     "main_genre": [
       {
         "id": 5,
-        "value": "Historiographie",
+        "value": "Historiographie > ",
         "order": "5.00000000000000000000"
       }
     ],
@@ -410,14 +486,17 @@
     },
     "Created on": "2025-04-02",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-02"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Bischofskatalog",
+    "main": "Historiographie"
   },
   "24": {
     "id": 24,
     "order": "23.00000000000000000000",
+    "label": " > Dichtung",
     "genre": "Dichtung",
     "hit_id": "hit_genres__24",
     "main_genre": [],
@@ -427,14 +506,17 @@
     },
     "Created on": "2025-04-02",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-02"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Dichtung",
+    "main": null
   },
   "25": {
     "id": 25,
     "order": "24.00000000000000000000",
+    "label": " > Genealogie",
     "genre": "Genealogie",
     "hit_id": "hit_genres__25",
     "main_genre": [],
@@ -444,14 +526,17 @@
     },
     "Created on": "2025-04-02",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-02"
+    "Last modified": "2025-05-08",
+    "sub_genre": "Genealogie",
+    "main": null
   },
   "26": {
     "id": 26,
     "order": "25.00000000000000000000",
+    "label": "Hagiographie > ",
     "genre": "Hagiographie",
     "hit_id": "hit_genres__26",
     "main_genre": [],
@@ -461,9 +546,11 @@
     },
     "Created on": "2025-04-22",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-22"
+    "Last modified": "2025-05-08",
+    "sub_genre": "",
+    "main": "Hagiographie"
   }
 }
