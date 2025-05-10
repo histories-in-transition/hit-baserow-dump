@@ -1346,5 +1346,67 @@
       "id": 86,
       "name": "Leon Pürstinger"
     }
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "hit_id": "hit_hands_placed__47",
+    "hand": [
+      {
+        "id": 151,
+        "value": "BSB, Clm. 6341_H. 1",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 6,
+        "value": "Daniel, N.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "page": "58-59",
+    "place": [
+      {
+        "id": 12,
+        "value": "Bodensee",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "hit_id": "hit_hands_placed__48",
+    "hand": [
+      {
+        "id": 152,
+        "value": "BSB, Clm. 6341_H. 2",
+        "order": "143.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 6,
+        "value": "Daniel, N.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "page": "58-59",
+    "place": [
+      {
+        "id": 30,
+        "value": "St. Gallen",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   }
 }

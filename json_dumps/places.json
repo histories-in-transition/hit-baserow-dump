@@ -697,5 +697,53 @@
     "Last modified": "2025-05-01",
     "lat": "48.58781",
     "long": "10.71652"
+  },
+  "29": {
+    "id": 29,
+    "order": "27.00000000000000000000",
+    "name": "Schweiz",
+    "geonames_url": "https://www.geonames.org/2658434/switzerland.html",
+    "hit_id": "hit_place__29",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q39",
+    "country": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-05-09",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-05-10",
+    "lat": "47.00016",
+    "long": "8.01427"
+  },
+  "30": {
+    "id": 30,
+    "order": "28.00000000000000000000",
+    "name": "St. Gallen",
+    "geonames_url": "https://www.geonames.org/2658822/sankt-gallen.html",
+    "hit_id": "hit_place__30",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q25607",
+    "country": [
+      {
+        "id": 29,
+        "value": "Schweiz",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-05-09",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-05-10",
+    "lat": "47.42391",
+    "long": "9.37477"
   }
 }
