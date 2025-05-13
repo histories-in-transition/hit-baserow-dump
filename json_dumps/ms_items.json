@@ -46,7 +46,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "Last modified": "2024-12-12",
+    "Last modified": "2025-05-12",
     "Created on": "2024-06-17",
     "Created by": {
       "id": 86,
@@ -70,14 +70,9 @@
     "facs_url": "",
     "form": [
       {
-        "id": 17436,
-        "value": "graphisch divers zu...",
-        "color": "darker-cyan"
-      },
-      {
-        "id": 17437,
-        "value": "Mehrspaltig",
-        "color": "darker-pink"
+        "id": 17435,
+        "value": "Tabelle",
+        "color": "dark-orange"
       }
     ],
     "form_note": null,
@@ -290,7 +285,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "Last modified": "2025-01-31",
+    "Last modified": "2025-05-12",
     "Created on": "2024-06-17",
     "Created by": {
       "id": 86,
@@ -325,7 +320,13 @@
       }
     ],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17435,
+        "value": "Tabelle",
+        "color": "dark-orange"
+      }
+    ],
     "form_note": null,
     "column": [],
     "commented_msitem": []
@@ -973,7 +974,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2024-07-04",
+    "Last modified": "2025-05-12",
     "Created on": "2024-07-03",
     "Created by": {
       "id": 86,
@@ -995,7 +996,13 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17435,
+        "value": "Tabelle",
+        "color": "dark-orange"
+      }
+    ],
     "form_note": null,
     "column": [],
     "commented_msitem": []
@@ -1109,7 +1116,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2024-07-15",
+    "Last modified": "2025-05-12",
     "Created on": "2024-07-11",
     "Created by": {
       "id": 86,
@@ -1131,7 +1138,13 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17435,
+        "value": "Tabelle",
+        "color": "dark-orange"
+      }
+    ],
     "form_note": null,
     "column": [],
     "commented_msitem": []
