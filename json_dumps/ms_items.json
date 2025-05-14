@@ -817,7 +817,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__69",
     "filiation": null,
-    "locus_grp": "117v; 118v",
+    "locus_grp": "117v | 118v",
     "hands_role": [
       {
         "id": 102,
@@ -832,15 +832,15 @@
         "order": "3.50000000000000000000"
       }
     ],
-    "Last modified": "2025-01-31",
+    "Last modified": "2025-05-13",
     "Created on": "2024-07-11",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "Baldo fügt kurze wörtliche Zusätze aus der Hieronymus-Eusebius Chronik ein, z.B. 117v: qui ut similitudinem troiae ardentis inspiceret plurimam partem romanae urbis incendit",
     "hand": [
@@ -3243,7 +3243,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-27",
+    "Last modified": "2025-05-13",
     "Created on": "2024-07-09",
     "Created by": {
       "id": 87,
@@ -3253,7 +3253,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "note": null,
+    "note": "Nachtrag",
     "hand": [
       {
         "ids": {
@@ -3384,9 +3384,9 @@
     "rubric": "",
     "title_work": [
       {
-        "id": 44,
-        "value": "De natura rerum",
-        "order": "43.00000000000000000000"
+        "id": 147,
+        "value": "De temporibus anni",
+        "order": "145.00000000000000000000"
       }
     ],
     "title_note": "",
@@ -3415,7 +3415,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-27",
+    "Last modified": "2025-05-13",
     "Created on": "2024-07-09",
     "Created by": {
       "id": 87,
@@ -5319,7 +5319,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__80",
     "filiation": null,
-    "locus_grp": "1-207 (?)",
+    "locus_grp": "1-207",
     "hands_role": [
       {
         "id": 39,
@@ -5349,15 +5349,15 @@
         "order": "3.75000000000000000000"
       }
     ],
-    "Last modified": "2024-07-15",
+    "Last modified": "2025-05-13",
     "Created on": "2024-07-12",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": null,
     "hand": [
@@ -12601,7 +12601,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__214",
     "filiation": "",
-    "locus_grp": "13v, 16v, 21r",
+    "locus_grp": "13v | 16v | 21r",
     "hands_role": [
       {
         "id": 187,
@@ -12621,15 +12621,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-03-20",
+    "Last modified": "2025-05-13",
     "Created on": "2025-03-19",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "",
     "hand": [

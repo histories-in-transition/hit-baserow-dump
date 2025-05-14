@@ -4284,5 +4284,46 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-03-19"
+  },
+  "147": {
+    "id": 147,
+    "order": "145.00000000000000000000",
+    "title": "De temporibus anni",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__147",
+    "author": [
+      {
+        "id": 53,
+        "value": "Anonymus",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [
+      {
+        "id": 44,
+        "value": "De natura rerum",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "genre": [
+      {
+        "id": 19,
+        "value": " > Traktat",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "note_source": "VII, 5",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-05-13",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-05-13"
   }
 }

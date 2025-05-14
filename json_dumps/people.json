@@ -1978,5 +1978,42 @@
         "value": "Breviarium ab urbe condita"
       }
     ]
+  },
+  "53": {
+    "id": 53,
+    "order": "51.00000000000000000000",
+    "name": "Anonymus",
+    "gnd_url": "",
+    "hit_id": "hit_people__53",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-05-13",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-05-13",
+    "works": [
+      {
+        "id": 147,
+        "value": "De temporibus anni",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 147,
+        "value": "De temporibus anni"
+      }
+    ]
   }
 }

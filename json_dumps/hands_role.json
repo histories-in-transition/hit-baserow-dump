@@ -2120,7 +2120,7 @@
     "locus_text": [
       {
         "id": 80,
-        "value": "1-207 (?)"
+        "value": "1-207"
       }
     ],
     "Last modified by": {
@@ -2262,7 +2262,7 @@
     "locus_text": [
       {
         "id": 80,
-        "value": "1-207 (?)"
+        "value": "1-207"
       }
     ],
     "Last modified by": {
@@ -2324,7 +2324,7 @@
     "locus_text": [
       {
         "id": 80,
-        "value": "1-207 (?)"
+        "value": "1-207"
       }
     ],
     "Last modified by": {
@@ -2386,7 +2386,7 @@
     "locus_text": [
       {
         "id": 80,
-        "value": "1-207 (?)"
+        "value": "1-207"
       }
     ],
     "Last modified by": {
@@ -5970,7 +5970,7 @@
     "locus_text": [
       {
         "id": 69,
-        "value": "117v; 118v"
+        "value": "117v | 118v"
       }
     ],
     "Last modified by": {
@@ -8198,13 +8198,6 @@
       },
       {
         "ids": {
-          "database_table_3489": 44,
-          "database_table_3491": 41
-        },
-        "value": "De natura rerum"
-      },
-      {
-        "ids": {
           "database_table_3489": 45,
           "database_table_3491": 39
         },
@@ -8244,6 +8237,13 @@
           "database_table_3491": 43
         },
         "value": "Capitulare evangeliorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 147,
+          "database_table_3491": 41
+        },
+        "value": "De temporibus anni"
       }
     ],
     "locus_text": [
@@ -8409,13 +8409,6 @@
       },
       {
         "ids": {
-          "database_table_3489": 44,
-          "database_table_3491": 41
-        },
-        "value": "De natura rerum"
-      },
-      {
-        "ids": {
           "database_table_3489": 45,
           "database_table_3491": 39
         },
@@ -8455,6 +8448,13 @@
           "database_table_3491": 43
         },
         "value": "Capitulare evangeliorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 147,
+          "database_table_3491": 41
+        },
+        "value": "De temporibus anni"
       }
     ],
     "locus_text": [
@@ -10796,7 +10796,7 @@
     "locus_text": [
       {
         "id": 214,
-        "value": "13v, 16v, 21r"
+        "value": "13v | 16v | 21r"
       }
     ],
     "Last modified by": {
@@ -11568,7 +11568,7 @@
     "locus_text": [
       {
         "id": 214,
-        "value": "13v, 16v, 21r"
+        "value": "13v | 16v | 21r"
       }
     ],
     "Last modified by": {
