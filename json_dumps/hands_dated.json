@@ -3502,5 +3502,38 @@
     "Last modified": "2025-05-09",
     "Created on": "2025-05-09",
     "note": ""
+  },
+  "112": {
+    "id": 112,
+    "order": "109.00000000000000000000",
+    "hit_id": "hit_hands_dated__112",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 7,
+        "value": "9 Jh., erstes Viertel",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 153,
+        "value": "Salzburg Museum, Hs 2163_H. 1",
+        "order": "144.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-15",
+    "Created on": "2025-05-15",
+    "note": ""
   }
 }

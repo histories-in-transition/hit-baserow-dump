@@ -12742,7 +12742,13 @@
     "hit_id": "hit_ms_items__216",
     "filiation": "",
     "locus_grp": "11v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 203,
+        "value": "hit_hands_role__203",
+        "order": "189.00000000000000000000"
+      }
+    ],
     "cod_unit": [],
     "Last modified": "2025-04-22",
     "Created on": "2025-04-22",
@@ -12755,7 +12761,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 42,
+          "database_table_3488": 14
+        },
+        "value": "Salzburg Museum, Hs 2163_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],

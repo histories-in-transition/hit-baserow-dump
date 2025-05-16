@@ -12095,5 +12095,95 @@
     "scribe": [],
     "gruppe": true,
     "author_entry": []
+  },
+  "153": {
+    "id": 153,
+    "order": "144.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 42,
+          "database_table_3488": 14
+        },
+        "value": "Salzburg Museum, Hs 2163_H. 1"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__153",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 42,
+        "value": "Salzburg Museum, Hs 2163",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-15",
+    "hands_role": [
+      {
+        "id": 203,
+        "value": "hit_hands_role__203",
+        "order": "189.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 203,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 216
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 112,
+        "value": "hit_hands_dated__112",
+        "order": "109.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 7,
+          "database_table_3520": 112
+        },
+        "value": "9 Jh., erstes Viertel"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 49,
+        "value": "hit_hands_placed__49",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
   }
 }

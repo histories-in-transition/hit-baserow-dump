@@ -11949,5 +11949,67 @@
       }
     ],
     "strata": []
+  },
+  "203": {
+    "id": 203,
+    "order": "189.00000000000000000000",
+    "hit_id": "hit_hands_role__203",
+    "hand": [
+      {
+        "id": 153,
+        "value": "Salzburg Museum, Hs 2163_H. 1",
+        "order": "144.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 216,
+        "value": "hs 2163__216",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 216
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 216,
+        "value": "11v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-15",
+    "Last modified": "2025-05-15",
+    "locus_layout": [],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [],
+    "strata": []
   }
 }
