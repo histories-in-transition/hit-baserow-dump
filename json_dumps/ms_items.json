@@ -5503,7 +5503,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__82",
     "filiation": null,
-    "locus_grp": "20v | 21r | 98v (?)",
+    "locus_grp": "20v | 21r | 98v",
     "hands_role": [
       {
         "id": 34,
@@ -5518,7 +5518,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-06",
+    "Last modified": "2025-05-19",
     "Created on": "2024-07-15",
     "Created by": {
       "id": 86,
