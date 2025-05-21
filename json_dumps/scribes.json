@@ -310,5 +310,35 @@
         "order": "2.00000000000000000000"
       }
     ]
+  },
+  "21": {
+    "id": 21,
+    "order": "19.00000000000000000000",
+    "name": "Antricus-Gruppe",
+    "hit_id": "hit_scribes__21",
+    "description": "",
+    "group": true,
+    "hands": [
+      {
+        "id": 154,
+        "value": "BSB, Clm. 6341_H. 3",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 19,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6341_H. 3"
+      }
+    ],
+    "Last modified": "2025-05-20",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "author_entry": []
   }
 }

@@ -11880,7 +11880,7 @@
     "description": "Kräftige, kalligraphisch ausgeführte karolingische Minuskel mit gerader und breiter Buchstabengestaltung; r bleibt auf der Linie, s ragt teils leicht in die Unterlänge.",
     "hit_id": "hit_hands__150",
     "similar_hands": [],
-    "nr_daniel": "4",
+    "nr_daniel": "",
     "manuscript": [
       {
         "id": 21,
@@ -11899,7 +11899,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-09",
+    "Last modified": "2025-05-20",
     "hands_role": [],
     "role": [],
     "texts": [],
@@ -11928,7 +11928,7 @@
         "value": "BSB, Clm. 6341_H. 1"
       }
     ],
-    "description": "aufrechten\\\nDuktus und den breiten, soliden, unverbunden nebeneinander\\\nstehenden Buchstaben vom Typ der besten Sankt Galler Buchschriften\\\nzur Zeit des Abtes Grimalt. Doch scheint mir die\\\ngroße Leichtigkeit des Duktus und eine gewisse, im weiteren\\\nVerlauf zunehmende Schärfe sowie einige Symptome späterer\\\nEntwicklung, wie die unter der Zeile angehängten Vokale, das\\\nAkzentsystem und vor allem der enge Zeilenabstand, in das\\\nletzte Drittel des Jhs. zu deuten. Die den Text ergänzende\\\nHand (48r Mitte -50v) bestätigt diesen Eindruck.",
+    "description": "Die Hände 1 und 2 wurden von N. Daniel ausführlich beschrieben. Sie gibt folgende Eigenschaften der Hände an: fast keine Verkürzungen; die Ligaturen einschliessen et, -nus, -mus, -or, orum; die Buchstaben sind durch runde d, offene a und v, g wie з charakterisiert, die \"breiten, soliden, unverbunden nebeneinander\\\nstehenden Buchstaben vom Typ der besten Sankt Galler Buchschriften\\\nzur Zeit des Abtes Grimalt\". Daniel schätzt aber die \"Leichtigkeit des Duktus und eine gewisse, im weiteren\\\nVerlauf zunehmende Schärfe\" sowie andere Eigenschaften als Nachweise für spätere Zeit bzw. letzte Drittel des 9 Jhs.",
     "hit_id": "hit_hands__151",
     "similar_hands": [],
     "nr_daniel": "4",
@@ -11950,7 +11950,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-16",
+    "Last modified": "2025-05-20",
     "hands_role": [
       {
         "id": 201,
@@ -12004,7 +12004,13 @@
     ],
     "scribe": [],
     "gruppe": true,
-    "author_entry": []
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "152": {
     "id": 152,
@@ -12018,10 +12024,10 @@
         "value": "BSB, Clm. 6341_H. 2"
       }
     ],
-    "description": "",
+    "description": "Die Hände 1 und 2 wurden von N. Daniel ausführlich beschrieben. Sie gibt folgende Eigenschaften der Hände an: fast keine Verkürzungen; die Ligaturen einschliessen et, -nus, -mus, -or, orum; die Buchstaben sind durch runde d, offene a und v, g wie з charakterisiert, die \"breiten, soliden, unverbunden nebeneinander\\\nstehenden Buchstaben vom Typ der besten Sankt Galler Buchschriften\\\nzur Zeit des Abtes Grimalt\". Daniel schätzt aber die \"Leichtigkeit des Duktus und eine gewisse, im weiteren\\\nVerlauf zunehmende Schärfe\" sowie andere Eigenschaften als Nachweise für spätere Zeit bzw. letzte Drittel des 9 Jhs.",
     "hit_id": "hit_hands__152",
     "similar_hands": [],
-    "nr_daniel": "",
+    "nr_daniel": "4",
     "manuscript": [
       {
         "id": 19,
@@ -12040,7 +12046,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-09",
+    "Last modified": "2025-05-20",
     "hands_role": [
       {
         "id": 202,
@@ -12094,7 +12100,13 @@
     ],
     "scribe": [],
     "gruppe": true,
-    "author_entry": []
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "153": {
     "id": 153,
@@ -12184,6 +12196,90 @@
     ],
     "scribe": [],
     "gruppe": false,
+    "author_entry": []
+  },
+  "154": {
+    "id": 154,
+    "order": "145.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 19,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6341_H. 3"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__154",
+    "similar_hands": [],
+    "nr_daniel": "66",
+    "manuscript": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "number": "3",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-05-20",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-05-20",
+    "hands_role": [
+      {
+        "id": 204,
+        "value": "hit_hands_role__204",
+        "order": "190.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 204,
+        "value": []
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 51,
+          "database_table_3491": 66
+        },
+        "value": "Commentarii in Ciceronis Topica"
+      },
+      {
+        "ids": {
+          "database_table_3489": 65,
+          "database_table_3491": 64
+        },
+        "value": "De inventione"
+      },
+      {
+        "ids": {
+          "database_table_3489": 66,
+          "database_table_3491": 65
+        },
+        "value": "De exaltatione"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [
+      {
+        "id": 21,
+        "value": "Antricus-Gruppe",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "gruppe": true,
     "author_entry": []
   }
 }
