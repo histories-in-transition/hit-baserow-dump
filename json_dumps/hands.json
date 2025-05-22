@@ -12210,7 +12210,7 @@
         "value": "BSB, Clm. 6341_H. 3"
       }
     ],
-    "description": "",
+    "description": "Eine Gruppe der nah stehenden Hände, die ziemlich kursiv und unruhig schreiben. Mehrere Verkürzungen einschliessen obergeschriebe i, o und offene a,  b; für bus, ↄ für -us, verkürtze q-Wörter, Formen von ess, sed.",
     "hit_id": "hit_hands__154",
     "similar_hands": [],
     "nr_daniel": "66",
@@ -12232,7 +12232,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-20",
+    "Last modified": "2025-05-21",
     "hands_role": [
       {
         "id": 204,
@@ -12243,7 +12243,13 @@
     "role": [
       {
         "id": 204,
-        "value": []
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
     "texts": [
@@ -12269,9 +12275,29 @@
         "value": "De exaltatione"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 113,
+        "value": "hit_hands_dated__113",
+        "order": "110.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 69,
+          "database_table_3520": 113
+        },
+        "value": "gegen 1000"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 50,
+        "value": "hit_hands_placed__50",
+        "order": "50.00000000000000000000"
+      }
+    ],
     "scribe": [
       {
         "id": 21,

@@ -11998,16 +11998,22 @@
       }
     ],
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-05-15",
-    "Last modified": "2025-05-15",
-    "locus_layout": [],
+    "Last modified": "2025-05-21",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
     "function": [
       {
         "id": 18168,
@@ -12046,7 +12052,13 @@
         "order": "59.00000000000000000000"
       }
     ],
-    "role": [],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
     "locus": "51r-139r",
     "text": [
       {
@@ -12094,9 +12106,21 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-05-20",
-    "Last modified": "2025-05-20",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2025-05-21",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
     "strata": []
   }

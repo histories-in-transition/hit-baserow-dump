@@ -3535,5 +3535,44 @@
     "Last modified": "2025-05-15",
     "Created on": "2025-05-15",
     "note": ""
+  },
+  "113": {
+    "id": 113,
+    "order": "110.00000000000000000000",
+    "hit_id": "hit_hands_dated__113",
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche G.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "page": "59",
+    "dated": [
+      {
+        "id": 69,
+        "value": "gegen 1000",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 154,
+        "value": "BSB, Clm. 6341_H. 3",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-05-21",
+    "Created on": "2025-05-21",
+    "note": ""
   }
 }

@@ -88,7 +88,7 @@
     "genre": [
       {
         "id": 16,
-        "value": " > Komputistik",
+        "value": "Komputistik > ",
         "order": "15.00000000000000000000"
       }
     ],
@@ -210,7 +210,7 @@
     "genre": [
       {
         "id": 16,
-        "value": " > Komputistik",
+        "value": "Komputistik > ",
         "order": "15.00000000000000000000"
       }
     ],
@@ -2408,7 +2408,7 @@
       },
       {
         "id": 16,
-        "value": " > Komputistik",
+        "value": "Komputistik > ",
         "order": "15.00000000000000000000"
       }
     ],
@@ -2674,7 +2674,7 @@
     "genre": [
       {
         "id": 16,
-        "value": " > Komputistik",
+        "value": "Komputistik > ",
         "order": "15.00000000000000000000"
       }
     ],
@@ -2709,7 +2709,7 @@
     "genre": [
       {
         "id": 16,
-        "value": " > Komputistik",
+        "value": "Komputistik > ",
         "order": "15.00000000000000000000"
       }
     ],
@@ -2767,7 +2767,7 @@
     "genre": [
       {
         "id": 16,
-        "value": " > Komputistik",
+        "value": "Komputistik > ",
         "order": "15.00000000000000000000"
       }
     ],
@@ -2825,7 +2825,7 @@
     "genre": [
       {
         "id": 16,
-        "value": " > Komputistik",
+        "value": "Komputistik > ",
         "order": "15.00000000000000000000"
       }
     ],
@@ -2911,7 +2911,7 @@
       },
       {
         "id": 16,
-        "value": " > Komputistik",
+        "value": "Komputistik > ",
         "order": "15.00000000000000000000"
       }
     ],
@@ -3015,7 +3015,7 @@
     "genre": [
       {
         "id": 16,
-        "value": " > Komputistik",
+        "value": "Komputistik > ",
         "order": "15.00000000000000000000"
       }
     ],
@@ -3083,7 +3083,7 @@
       },
       {
         "id": 25,
-        "value": " > Genealogie",
+        "value": "Genealogie > ",
         "order": "24.00000000000000000000"
       }
     ],

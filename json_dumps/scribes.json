@@ -316,7 +316,7 @@
     "order": "19.00000000000000000000",
     "name": "Antricus-Gruppe",
     "hit_id": "hit_scribes__21",
-    "description": "",
+    "description": "Eine Schreiber-Gruppe unter B. Gottschalk, die als spätere Entwicklung der Willihalms Gruppe erschien und deren Leiter den Namen Antricus trägt. Die Gruppe zeigt Spuren des Ostfranzösischen Einflusses. Über die Gruppe s. N.Daniel, Die Handschriften..., S. 140ff.",
     "group": true,
     "hands": [
       {
@@ -334,11 +334,17 @@
         "value": "BSB, Clm. 6341_H. 3"
       }
     ],
-    "Last modified": "2025-05-20",
+    "Last modified": "2025-05-21",
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "author_entry": []
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ]
   }
 }

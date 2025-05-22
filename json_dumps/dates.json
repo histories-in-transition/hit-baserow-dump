@@ -1137,5 +1137,22 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-04-22"
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "label": "gegen 1000",
+    "not_before": "0990-01-01",
+    "hit_id": "hit_date__69",
+    "not_after": "1010-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-05-21"
   }
 }

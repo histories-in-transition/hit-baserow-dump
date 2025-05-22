@@ -330,7 +330,7 @@
   "16": {
     "id": 16,
     "order": "15.00000000000000000000",
-    "label": " > Komputistik",
+    "label": "Komputistik > ",
     "genre": "Komputistik",
     "hit_id": "hit_genres__16",
     "m_genre": [],
@@ -340,12 +340,12 @@
     },
     "Created on": "2024-07-23",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
-    "sub_genre": "Komputistik",
-    "main_genre": null
+    "Last modified": "2025-05-21",
+    "sub_genre": "",
+    "main_genre": "Komputistik"
   },
   "17": {
     "id": 17,
@@ -506,17 +506,17 @@
     },
     "Created on": "2025-04-02",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
+    "Last modified": "2025-05-21",
     "sub_genre": "Dichtung",
-    "main_genre": null
+    "main_genre": ""
   },
   "25": {
     "id": 25,
     "order": "24.00000000000000000000",
-    "label": " > Genealogie",
+    "label": "Genealogie > ",
     "genre": "Genealogie",
     "hit_id": "hit_genres__25",
     "m_genre": [],
@@ -526,12 +526,12 @@
     },
     "Created on": "2025-04-02",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
-    "sub_genre": "Genealogie",
-    "main_genre": null
+    "Last modified": "2025-05-21",
+    "sub_genre": "",
+    "main_genre": "Genealogie"
   },
   "26": {
     "id": 26,
