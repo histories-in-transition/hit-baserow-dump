@@ -7628,7 +7628,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-04-01",
+    "Last modified": "2025-05-22",
     "Created on": "2024-07-26",
     "Created by": {
       "id": 86,
@@ -7666,6 +7666,11 @@
         "id": 18261,
         "value": "mit geometrischen Formen",
         "color": "dark-red"
+      },
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
       }
     ],
     "form_note": "Es handelt sich um eine zweispaltige genealogische Königsliste. Jede Spalte ist auf beiden Seiten rot eingerahmt und von einem spitz zulaufenden, doppelten Dach bedeckt.",
@@ -7811,7 +7816,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-03-27",
+    "Last modified": "2025-05-22",
     "Created on": "2024-07-26",
     "Created by": {
       "id": 86,
@@ -7840,8 +7845,14 @@
         "color": "darker-cyan"
       }
     ],
-    "form_note": null,
-    "column": [],
+    "form_note": "Exakt neben die rote Trennlinie der Königsliste platziert.",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [
       {
         "id": 123,
@@ -7983,7 +7994,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2024-12-11",
+    "Last modified": "2025-05-22",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8016,10 +8027,21 @@
         "id": 17434,
         "value": "Liste",
         "color": "darker-red"
+      },
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
       }
     ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 18621,
+        "value": "4",
+        "color": "gray"
+      }
+    ],
     "commented_msitem": []
   },
   "128": {
@@ -8074,7 +8096,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2024-12-11",
+    "Last modified": "2025-05-22",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8101,7 +8123,13 @@
         "value": "ÖNB, Cod. 2090_H. 11"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
@@ -8111,7 +8139,13 @@
       }
     ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": []
   },
   "141": {
@@ -8161,7 +8195,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-03-30",
+    "Last modified": "2025-05-22",
     "Created on": "2024-07-31",
     "Created by": {
       "id": 86,
@@ -8171,7 +8205,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "Annotationen zu diversen Salzburger Bischöfen",
+    "note": "Annotationen zu diversen Salzburger Bischöfen (z.B. Hic dedit Luitpramo archiepiscopo corpus sancti Hermetis M. anno incarnationis domini DCCCL",
     "hand": [
       {
         "ids": {
@@ -8183,8 +8217,14 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "TBD",
     "column": [],
     "commented_msitem": [
       {
@@ -8210,9 +8250,9 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "incipit": "",
+    "incipit": "Domino R. venerabili dei gratia Gurcensis episcopo",
     "explicit": "",
-    "rubric": "",
+    "rubric": null,
     "title_work": [
       {
         "id": 109,
@@ -8241,7 +8281,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-03-30",
+    "Last modified": "2025-05-22",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8270,8 +8310,14 @@
         "color": "darker-cyan"
       }
     ],
-    "form_note": null,
-    "column": [],
+    "form_note": "Exakt zwischen den Papst- und den Salzburger Bischofskatalog platziert.",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": []
   },
   "130": {

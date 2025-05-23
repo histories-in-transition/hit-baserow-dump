@@ -184,7 +184,7 @@
     ],
     "extent": "98",
     "foliation": "Neuzeitlich",
-    "acc_mat": "Vorderspiegel weist zwei spätmittelalterliche Fragmente auf.",
+    "acc_mat": "Vorder- und Hinterspiegel weisen je zwei spätmittelalterliche Fragmente auf.",
     "binding": "Hellbrauner Ledereinband über Holzdeckeln aus Salzburg. Verzierter, gerahmter Deckel mit einem Diagonalkreuz aus doppelt gestrichenen Linien. Reste von Schließen. Auf dem Hinterdeckel sind Spuren eines Haken. Am Vorderdeckel ein Pergamentstreifen mit einer Teilinhaltsangabe.",
     "binding_date": [
       {
@@ -197,7 +197,7 @@
     "bibliography": [],
     "height": "365",
     "width": "260",
-    "material_spec": "Pergament von variierender, aber grundsätzlich robuster Qualität. Regelmäßig sind kleinere Löcher, genähte Risse oder abgeschnittene Seitenteile zu finden.",
+    "material_spec": "Pergament von variierender, aber grundsätzlich robuster Qualität. Regelmäßig sind kleinere Löcher, genähte Risse oder abgeschnittene Seitenteile zu finden. Wurde restauriert (vermutlich 1994).",
     "orig_place": [
       {
         "id": 3,
@@ -256,7 +256,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-17",
-    "Last modified": "2025-04-22",
+    "Last modified": "2025-05-22",
     "content_summary": "Auf 1v sind zwei nur zum Teil lesbare Annotationen (wohl spätes 11. Jh.) ersichtlich. Am oberen Rand der Seiten finden sich regelmäßig Federproben in Form von \"probatio\" bzw. \"probatio penne\" (z.B. 89v).",
     "charakter": [
       {
@@ -4179,6 +4179,53 @@
     },
     "Created on": "2025-04-22",
     "Last modified": "2025-04-22",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
+    "author_entry": []
+  },
+  "44": {
+    "id": 44,
+    "order": "37.00000000000000000000",
+    "shelfmark": [],
+    "hit_id": "hit_manuscript__44",
+    "library": [],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-22",
+    "Last modified": "2025-05-22",
     "content_summary": "",
     "charakter": [],
     "case_study": [],

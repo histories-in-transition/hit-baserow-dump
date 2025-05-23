@@ -1704,7 +1704,7 @@
         "value": "2r-2v"
       }
     ],
-    "note": "Dieses Stratum beschreibt die Anlage der Handschrift und besteht u.a. aus den Königs-, Papst- und Bischofslisten und den verbrüderten Geistlichen sowie dem Nekrolog, deren Grundstruktur zu Lebzeiten des Erzbischofs Gebhard entstanden sind.\nCatalogus auch und Fortsetzung des Catalogus. Texte aus spätem 11. Jahrhundert auch eigens zählen?",
+    "note": "STRATUM 1b: Dieses Stratum beschreibt die Anlage der meisten zentralen Texte und die Kombination sowie Vollendung mit Stratum 1a. Das Strum erfasst u.a. die Königs-, Papst- und Bischofslisten, die erste Seite der Annalen und die Auflistung der verbrüderten hiesigen und fremden Geistlichen. Deren Grundstruktur ist zu Lebzeiten des Erzbischofs Gebhard entstanden, wohl in den 1060er-Jahren. In dieser Zeit (1060-1065) wurde auch die Struktur des Nekrologiums vollendet.\n(Note: Catalogus auch und Fortsetzung des Catalogus. Texte aus spätem 11. Jahrhundert auch eigens zählen?)",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -1714,11 +1714,37 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-15",
+    "Last modified": "2025-05-22",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 48,
+        "value": "ÖNB, Cod. 2090, cod. unit 2",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 2"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -1762,8 +1788,22 @@
     "Last modified": "2024-10-15",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -1842,8 +1882,34 @@
     "Last modified": "2024-10-15",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ]
   },
   "16": {
     "id": 16,
@@ -1922,8 +1988,22 @@
     "Last modified": "2024-10-15",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -3360,5 +3440,83 @@
     "note_filiation": "",
     "cod_units": [],
     "cod_unit": []
+  },
+  "39": {
+    "id": 39,
+    "order": "36.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "Cod. 2090, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__39",
+    "hand_role": [
+      {
+        "id": 200,
+        "value": "hit_hands_role__200",
+        "order": "186.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 138,
+        "value": "6r-36r"
+      }
+    ],
+    "note": "STRATUM 1a: Die älteste Schicht dieser Handschrift bildet der Nekrolog, dessen Grundstock wohl zwischen 1025 und 1041 entstanden ist. Dessen heutige Struktur (Martyrologium + Nekrologium) wurde aber erst zwischen 1060-1065 vollendet.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-22",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [
+      {
+        "id": 48,
+        "value": "ÖNB, Cod. 2090, cod. unit 2",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 2"
+      }
+    ]
   }
 }

@@ -1159,9 +1159,9 @@
         "value": "ÖNB, Cod. 2090, cod. unit 1"
       }
     ],
-    "notes": "Blatt 4 wurde zusätzlich eingefügt und unterscheidet sich sowohl auf kodikologischer als auch paläographischer Ebene.",
+    "notes": "Blatt 4 wurde zusätzlich eingefügt und unterscheidet sich sowohl auf kodikologischer als auch paläographischer Ebene. Ist ident mit dem Pergament der 3. kod. Einheit (Kanonikerregeln). Abmessung: 356/234",
     "hit_id": "hit_cod_unit__15",
-    "locus": "",
+    "locus": "1r-5v",
     "manuscript": [
       {
         "id": 21,
@@ -1180,12 +1180,12 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-04-16",
+    "Last modified": "2025-05-22",
     "orig_date": [],
-    "quires_number": "1-10",
-    "heigth": null,
-    "lines_number": null,
-    "decorations": "",
+    "quires_number": "1",
+    "heigth": "355-360",
+    "lines_number": "Stark variierende Zeilenanzahl aufgrund der graphischen Gestaltung der Texte (bis zu 36 Zeilen)",
+    "decorations": "Texteinrahmungen und geometrische Formen in roter Tinte. Auf 5v der Versuch eines Diptychons im Stile der Salzburger Verbrüderungsbücher. Überschriften in roter Auszeichnungsschrift. Auf 3v ein Invokationskreuz.",
     "codicological_reworking": [
       {
         "id": 17461,
@@ -1193,16 +1193,22 @@
         "color": "yellow"
       }
     ],
-    "basic_structure": [],
-    "written_width": null,
-    "written_height": null,
-    "width": null,
-    "columns": [
+    "basic_structure": [
       {
-        "id": 18123,
-        "value": "1",
-        "color": "darker-gray"
+        "id": 18148,
+        "value": "HFHF",
+        "color": "darker-orange"
       },
+      {
+        "id": 18147,
+        "value": "FHFH",
+        "color": "darker-blue"
+      }
+    ],
+    "written_width": "Stark variierend ca. 230-248",
+    "written_height": "Stark variierend ca. 250-300",
+    "width": "255-260",
+    "columns": [
       {
         "id": 18124,
         "value": "2",
@@ -1212,6 +1218,11 @@
         "id": 18125,
         "value": "3",
         "color": "darker-red"
+      },
+      {
+        "id": 18126,
+        "value": "4",
+        "color": "darker-orange"
       }
     ],
     "cod_unit_placed": [
@@ -1230,8 +1241,29 @@
         "value": "Salzburg"
       }
     ],
-    "strata": [],
-    "ruling": null
+    "strata": [
+      {
+        "id": 12,
+        "value": "Cod. 2090, Stratum 1",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "Cod. 2090, Stratum 2",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 15,
+        "value": "Cod. 2090, Stratum 3",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 16,
+        "value": "Cod. 2090, Stratum 4",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "ruling": "Rein horizontale Blindlinierug bis auf das später eingefügte Blatt 4, das durch eine zusätzliche vertikale Linierung zwei große Hauptfelder samt zweier kleiner in der Mitte aufweist."
   },
   "16": {
     "id": 16,
@@ -3129,5 +3161,174 @@
     "prov_place": [],
     "strata": [],
     "ruling": null
+  },
+  "48": {
+    "id": 48,
+    "order": "44.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 2"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__48",
+    "locus": "6r-37v",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "2",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-22",
+    "orig_date": [],
+    "quires_number": "2-5",
+    "heigth": "365",
+    "lines_number": "Uneinheitliche, variierende Zeilenanzahl",
+    "decorations": "Am Anfang jedes Monats eine rote Initiale über 3-4 Zeilen. Tagesdatierung in roter Tinte.",
+    "codicological_reworking": [],
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
+    "written_width": "225-230",
+    "written_height": "270-285",
+    "width": "265",
+    "columns": [
+      {
+        "id": 18125,
+        "value": "3",
+        "color": "darker-red"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 34,
+        "value": "hit_codunit_place__34",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 34
+        },
+        "value": "Salzburg"
+      }
+    ],
+    "strata": [
+      {
+        "id": 12,
+        "value": "Cod. 2090, Stratum 1",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 39,
+        "value": "Cod. 2090, Stratum 1",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "ruling": "Schwach erkennbare Linierung mit einem mittigen Hauptfeld für die Namenseinträge des Martyrologs + Nekrologiums, zwei kleinern Feldern am linken Rand für die Tagesdatierung und ein kleines Feld am rechten Rand. Der rechte Begrenzungsrahmen kann doppelt ausgeführt sein."
+  },
+  "49": {
+    "id": 49,
+    "order": "45.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 3"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__49",
+    "locus": "38r-97v",
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "3",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-22",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-22",
+    "orig_date": [],
+    "quires_number": "6-12?",
+    "heigth": "365",
+    "lines_number": "36 (in Einzelfällen leicht höher)",
+    "decorations": "Rote Initialen am Anfang eines Kapitels über mehrere Zeilen (zumeist 2-4). Gegen Ende des Textes und der kod. Einheit wurden diese Initialen mit floralen und rankenförmigen Mustern teils ausführlich verziert (siehe fol. 84r über 8 Zeilen, 85r über 6 Zeilen). Auf 88r wurde in der Mitte zwischen den Spalten eine figürliche Darstellung in brauner und roter Tinte eines Königs eingefügt. Zudem finden sich auf 84r, 85r und ? am Rand und teils mit Initialen kombiniert Zeichnungen von Hunden (?). Rote Überschriften (meistens) Auszeichnungsschrift.",
+    "codicological_reworking": [],
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
+    "written_width": "235",
+    "written_height": "300-315",
+    "width": "260",
+    "columns": [
+      {
+        "id": 18124,
+        "value": "2",
+        "color": "dark-blue"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 35,
+        "value": "hit_codunit_place__35",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 35
+        },
+        "value": "Salzburg"
+      }
+    ],
+    "strata": [
+      {
+        "id": 15,
+        "value": "Cod. 2090, Stratum 3",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "ruling": "Blindlinierung mit zwei eingerahmten Hauptfeldern, dazwischen eine vertikale Trennlinierung, durch die zwei weitere kleinere Felder entstanden sind. Ist mit der Linierung auf Blatt 4 ident."
   }
 }
