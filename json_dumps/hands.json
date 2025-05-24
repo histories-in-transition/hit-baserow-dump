@@ -2461,15 +2461,7 @@
         ]
       }
     ],
-    "texts": [
-      {
-        "ids": {
-          "database_table_3489": 80,
-          "database_table_3491": 86
-        },
-        "value": "Decretales"
-      }
-    ],
+    "texts": [],
     "hands_dated": [],
     "dating": [],
     "hands_placed": [],
@@ -12306,6 +12298,96 @@
       }
     ],
     "gruppe": true,
+    "author_entry": []
+  },
+  "155": {
+    "id": 155,
+    "order": "146.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 43,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 1029_H. 1"
+      }
+    ],
+    "description": "TBD",
+    "hit_id": "hit_hands__155",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 43,
+        "value": "ÖNB, Cod. 1029",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-23",
+    "hands_role": [
+      {
+        "id": 205,
+        "value": "hit_hands_role__205",
+        "order": "191.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 205,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 148,
+          "database_table_3491": 217
+        },
+        "value": "Catalogus paparum usque ad 'Benedictum iuniorem'"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 114,
+        "value": "hit_hands_dated__114",
+        "order": "111.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 114
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 51,
+        "value": "hit_hands_placed__51",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false,
     "author_entry": []
   }
 }

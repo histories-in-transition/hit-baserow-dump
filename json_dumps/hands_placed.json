@@ -1464,5 +1464,36 @@
       "id": 87,
       "name": "Ksenia Borisova"
     }
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "hit_id": "hit_hands_placed__51",
+    "hand": [
+      {
+        "id": 155,
+        "value": "ÖNB, Cod. 1029_H. 1",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 8,
+        "value": "Hermann",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "page": "34",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   }
 }

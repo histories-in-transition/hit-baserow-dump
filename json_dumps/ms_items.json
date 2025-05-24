@@ -5795,80 +5795,6 @@
     "column": [],
     "commented_msitem": []
   },
-  "86": {
-    "id": 86,
-    "order": "76.00000000000000000000",
-    "label": [
-      {
-        "id": 22,
-        "value": "cod_366__86"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 22,
-        "value": "ÖNB, Cod. 366",
-        "order": "1.66666666666666674068"
-      }
-    ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [
-      {
-        "id": 80,
-        "value": "Decretales",
-        "order": "78.00000000000000000000"
-      }
-    ],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__86",
-    "filiation": null,
-    "locus_grp": "",
-    "hands_role": [
-      {
-        "id": 44,
-        "value": "hit_hands_role__44",
-        "order": "36.00000000000000000000"
-      }
-    ],
-    "cod_unit": [
-      {
-        "id": 12,
-        "value": "ÖNB, Cod. 366, cod. unit 2",
-        "order": "3.79999999999999982236"
-      }
-    ],
-    "Last modified": "2024-07-18",
-    "Created on": "2024-07-18",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 22,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 366_H. 5"
-      }
-    ],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": [],
-    "commented_msitem": []
-  },
   "87": {
     "id": 87,
     "order": "77.00000000000000000000",
@@ -12863,6 +12789,108 @@
     "form": [],
     "form_note": "",
     "column": [],
+    "commented_msitem": []
+  },
+  "217": {
+    "id": 217,
+    "order": "172.00000000000000000000",
+    "label": [
+      {
+        "id": 43,
+        "value": "cod_1029__217"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 43,
+        "value": "ÖNB, Cod. 1029",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "incipit": "Beatus petrus apostolus et princeps apostolorum",
+    "explicit": "LXXX Benedictus iunior natus romanus",
+    "rubric": "Incipiunt nomina episcoporum qui fuerunt urbis romę prius",
+    "title_work": [
+      {
+        "id": 148,
+        "value": "Catalogus paparum usque ad 'Benedictum iuniorem'",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__217",
+    "filiation": "",
+    "locus_grp": "232r-244v",
+    "hands_role": [
+      {
+        "id": 205,
+        "value": "hit_hands_role__205",
+        "order": "191.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 50,
+        "value": "ÖNB, Cod. 1029, cod. unit 1",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-05-23",
+    "Created on": "2025-05-23",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 43,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 1029_H. 1"
+      }
+    ],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      },
+      {
+        "id": 18625,
+        "value": "Minuskelschrift_Rot",
+        "color": "dark-green"
+      },
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "Die Abfolge der Päpste bestimmt die mise-en-page. Jeder Papst wird mit einer roten Nummerierung gekennzeichnet. Der erste Buchstabe des Namens wird als rote Majuskel in einem eigenes dafür vorgesehenen Feld (vertikale Linierung) wiedergegeben.",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": []
   }
 }

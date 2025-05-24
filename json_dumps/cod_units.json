@@ -386,56 +386,6 @@
     "strata": [],
     "ruling": null
   },
-  "12": {
-    "id": 12,
-    "order": "3.79999999999999982236",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 22,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 366, cod. unit 2"
-      }
-    ],
-    "notes": "Fragment",
-    "hit_id": "hit_cod_unit__12",
-    "locus": "",
-    "manuscript": [
-      {
-        "id": 22,
-        "value": "ÖNB, Cod. 366",
-        "order": "1.66666666666666674068"
-      }
-    ],
-    "quire": [],
-    "number": "2",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-11",
-    "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Last modified": "2025-01-22",
-    "orig_date": [],
-    "quires_number": null,
-    "heigth": null,
-    "lines_number": null,
-    "decorations": "",
-    "codicological_reworking": [],
-    "basic_structure": [],
-    "written_width": null,
-    "written_height": null,
-    "width": null,
-    "columns": [],
-    "cod_unit_placed": [],
-    "prov_place": [],
-    "strata": [],
-    "ruling": null
-  },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
@@ -3330,5 +3280,75 @@
       }
     ],
     "ruling": "Blindlinierung mit zwei eingerahmten Hauptfeldern, dazwischen eine vertikale Trennlinierung, durch die zwei weitere kleinere Felder entstanden sind. Ist mit der Linierung auf Blatt 4 ident."
+  },
+  "50": {
+    "id": 50,
+    "order": "46.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 43,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 1029, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__50",
+    "locus": "1r-267v",
+    "manuscript": [
+      {
+        "id": 43,
+        "value": "ÖNB, Cod. 1029",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "quire": [],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-23",
+    "orig_date": [],
+    "quires_number": "",
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "codicological_reworking": [],
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 36,
+        "value": "hit_codunit_place__36",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 36
+        },
+        "value": "Salzburg"
+      }
+    ],
+    "strata": [],
+    "ruling": ""
   }
 }

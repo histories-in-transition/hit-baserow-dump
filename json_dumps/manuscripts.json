@@ -3217,11 +3217,11 @@
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created on": "2025-01-22",
-    "Last modified": "2025-03-20",
+    "Last modified": "2025-05-23",
     "content_summary": "",
     "charakter": [],
     "case_study": [
@@ -3231,7 +3231,13 @@
         "color": "darker-green"
       }
     ],
-    "status": [],
+    "status": [
+      {
+        "id": 17449,
+        "value": "in Bearbeitung",
+        "color": "light-brown"
+      }
+    ],
     "author_entry": [
       {
         "id": 1,
@@ -3318,11 +3324,11 @@
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created on": "2025-01-22",
-    "Last modified": "2025-03-20",
+    "Last modified": "2025-05-23",
     "content_summary": "",
     "charakter": [],
     "case_study": [
@@ -3332,7 +3338,13 @@
         "color": "darker-green"
       }
     ],
-    "status": [],
+    "status": [
+      {
+        "id": 17449,
+        "value": "in Bearbeitung",
+        "color": "light-brown"
+      }
+    ],
     "author_entry": [
       {
         "id": 1,
@@ -4141,34 +4153,91 @@
   "43": {
     "id": 43,
     "order": "36.00000000000000000000",
-    "shelfmark": [],
+    "shelfmark": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 1029"
+      }
+    ],
     "hit_id": "hit_manuscript__43",
-    "library": [],
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
     "catalog_url": "",
     "digi_url": "",
-    "idno": "",
+    "idno": "Cod. 1029",
     "idno_former": "",
     "quire_structure": "",
-    "library_full": [],
-    "extent": "",
+    "library_full": [
+      {
+        "id": 1,
+        "value": "Österreichische Nationalbibliothek"
+      }
+    ],
+    "extent": "267",
     "foliation": "",
-    "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
+    "acc_mat": "Enthält Fragmente",
+    "binding": "Braunes Wildleder, dicke Holzdeckel",
+    "binding_date": [
+      {
+        "id": 13,
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 36,
+        "value": "12. Jh.",
+        "order": "36.00000000000000000000"
+      }
+    ],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
-    "material_spec": "",
-    "orig_place": [],
+    "height": "163",
+    "width": "240",
+    "material_spec": "Kleinformat",
+    "orig_place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
-    "material": null,
-    "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "material": {
+      "id": 14782,
+      "value": "Pergament",
+      "color": "darker-orange"
+    },
+    "provenance": [
+      {
+        "id": 8,
+        "value": "Dombibliothek Salzburg",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 48,
+        "value": "hit_dated__48",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3516": 48
+        },
+        "value": "11 Jh."
+      }
+    ],
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -4178,11 +4247,23 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-04-22",
-    "Last modified": "2025-04-22",
+    "Last modified": "2025-05-23",
     "content_summary": "",
     "charakter": [],
-    "case_study": [],
-    "status": [],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17450,
+        "value": "grob erfasst",
+        "color": "darker-brown"
+      }
+    ],
     "author_entry": []
   },
   "44": {

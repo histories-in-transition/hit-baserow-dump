@@ -552,5 +552,36 @@
     "Last modified": "2025-05-08",
     "sub_genre": "",
     "main_genre": "Hagiographie"
+  },
+  "27": {
+    "id": 27,
+    "order": "26.00000000000000000000",
+    "label": "Historiographie / Hagiographie > Papstkatalog / Papstbiographien",
+    "genre": "Papstkatalog / Papstbiographie",
+    "hit_id": "hit_genres__27",
+    "m_genre": [
+      {
+        "id": 5,
+        "value": "Historiographie > ",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 26,
+        "value": "Hagiographie > ",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-23",
+    "sub_genre": "Papstkatalog / Papstbiographien",
+    "main_genre": "Historiographie / Hagiographie"
   }
 }
