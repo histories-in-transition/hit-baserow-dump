@@ -3613,5 +3613,71 @@
     "Last modified": "2025-05-23",
     "Created on": "2025-05-23",
     "note": ""
+  },
+  "115": {
+    "id": 115,
+    "order": "112.00000000000000000000",
+    "hit_id": "hit_hands_dated__115",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 39,
+        "value": "11. Jh., zweite Hälfte",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 148,
+        "value": "ÖNB, Cod. 2090_H. 45",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-26",
+    "Created on": "2025-05-26",
+    "note": ""
+  },
+  "116": {
+    "id": 116,
+    "order": "113.00000000000000000000",
+    "hit_id": "hit_hands_dated__116",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 39,
+        "value": "11. Jh., zweite Hälfte",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 150,
+        "value": "ÖNB, Cod. 2090_H. 46",
+        "order": "141.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-26",
+    "Created on": "2025-05-26",
+    "note": ""
   }
 }

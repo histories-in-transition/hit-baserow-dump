@@ -11807,9 +11807,29 @@
         "value": "Institutiones Aquisgranenses"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 115,
+        "value": "hit_hands_dated__115",
+        "order": "112.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 115
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 52,
+        "value": "hit_hands_placed__52",
+        "order": "52.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": [
@@ -11869,7 +11889,7 @@
         "value": "ÖNB, Cod. 2090_H. 46"
       }
     ],
-    "description": "Kräftige, kalligraphisch ausgeführte karolingische Minuskel mit gerader und breiter Buchstabengestaltung; r bleibt auf der Linie, s ragt teils leicht in die Unterlänge.",
+    "description": "Kräftige, kalligraphisch ausgeführte karolingische Minuskel mit gerader und breiter Buchstabengestaltung. r bleibt auf der Linie, s ragt teils leicht in die Unterlänge.",
     "hit_id": "hit_hands__150",
     "similar_hands": [],
     "nr_daniel": "",
@@ -11888,16 +11908,61 @@
     },
     "Created on": "2025-04-18",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-20",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "Last modified": "2025-05-26",
+    "hands_role": [
+      {
+        "id": 206,
+        "value": "hit_hands_role__206",
+        "order": "192.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 206,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 120,
+          "database_table_3491": 148
+        },
+        "value": "Institutiones Aquisgranenses"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 116,
+        "value": "hit_hands_dated__116",
+        "order": "113.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3520": 116
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 53,
+        "value": "hit_hands_placed__53",
+        "order": "53.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": [
