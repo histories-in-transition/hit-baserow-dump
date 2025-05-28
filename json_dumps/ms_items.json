@@ -8303,7 +8303,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-05",
+    "Last modified": "2025-05-27",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8345,9 +8345,26 @@
       }
     ],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17434,
+        "value": "Liste",
+        "color": "darker-red"
+      },
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 18621,
+        "value": "4",
+        "color": "gray"
+      }
+    ],
     "commented_msitem": []
   },
   "131": {
@@ -8472,7 +8489,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2024-12-11",
+    "Last modified": "2025-05-27",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8606,8 +8623,19 @@
         "color": "darker-pink"
       }
     ],
-    "form_note": "Die Spaltenanzahl der dreiseitigen Annalen nimmt kontinuierlich ab. Die erste Seite der Annalen enthählt drei rot gerahmte Spalten. Die zweite Seite weist zwei Spalten auf und die letzte nur mehr eine.",
-    "column": [],
+    "form_note": "Die Spaltenanzahl der dreiseitigen Annalen nimmt kontinuierlich ab. Die erste Seite der Annalen enthählt drei rot gerahmte Spalten. Die zweite Seite weist zwei Spalten auf und die letzte nur mehr eine. Die kodikologische Befund zeigt, dass ursprünglich wohl nur die ersten Seite angegt wurde und die anschließenden (wenig) später hinzugefügt wurden.",
+    "column": [
+      {
+        "id": 17459,
+        "value": "3",
+        "color": "dark-pink"
+      },
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": []
   },
   "133": {
@@ -8777,7 +8805,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2024-07-28",
+    "Last modified": "2025-05-27",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8799,8 +8827,19 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      },
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
     "column": [],
     "commented_msitem": []
   },
@@ -9229,23 +9268,35 @@
     "locus_grp": "36r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-09-18",
+    "Last modified": "2025-05-27",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "",
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf der freigebliebenen unteren Hälfte der Seite bzw. am Ende des Nekrologs eingefügt.",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": []
   },
   "145": {
@@ -12835,7 +12886,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__217",
     "filiation": "",
-    "locus_grp": "232r-244v",
+    "locus_grp": "232r-241v",
     "hands_role": [
       {
         "id": 205,
@@ -12850,7 +12901,7 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "Last modified": "2025-05-23",
+    "Last modified": "2025-05-27",
     "Created on": "2025-05-23",
     "Created by": {
       "id": 86,
@@ -12903,6 +12954,221 @@
         "color": "light-red"
       }
     ],
+    "commented_msitem": []
+  },
+  "218": {
+    "id": 218,
+    "order": "173.00000000000000000000",
+    "label": [
+      {
+        "id": 43,
+        "value": "cod_1029__218"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 43,
+        "value": "ÖNB, Cod. 1029",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 149,
+        "value": "Ad Massonam episcopum",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__218",
+    "filiation": "",
+    "locus_grp": "229r-232r",
+    "hands_role": [
+      {
+        "id": 209,
+        "value": "hit_hands_role__209",
+        "order": "195.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 50,
+        "value": "ÖNB, Cod. 1029, cod. unit 1",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-05-27",
+    "Created on": "2025-05-27",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 43,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 1029_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": []
+  },
+  "219": {
+    "id": 219,
+    "order": "174.00000000000000000000",
+    "label": [
+      {
+        "id": 43,
+        "value": "cod_1029__219"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 43,
+        "value": "ÖNB, Cod. 1029",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "incipit": "Dilectissimo in christo fratri sigulfo Dilectissimo in christo fratri sigulfo presbitero Albinus salutem",
+    "explicit": "",
+    "rubric": "Incipit pręfatio questionum Albini magister in Genesis",
+    "title_work": [
+      {
+        "id": 150,
+        "value": "Quaestiones in Genesim",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__219",
+    "filiation": "",
+    "locus_grp": "241v-267",
+    "hands_role": [
+      {
+        "id": 207,
+        "value": "hit_hands_role__207",
+        "order": "193.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 50,
+        "value": "ÖNB, Cod. 1029, cod. unit 1",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-05-27",
+    "Created on": "2025-05-27",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 43,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 1029_H. 1"
+      }
+    ],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": []
+  },
+  "220": {
+    "id": 220,
+    "order": "175.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__220",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-05-27",
+    "Created on": "2025-05-27",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
     "commented_msitem": []
   }
 }

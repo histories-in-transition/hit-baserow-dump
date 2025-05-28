@@ -4167,12 +4167,12 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "manuscripta_url": "",
+    "manuscripta_url": "https://manuscripta.at/?ID=10347",
     "handschriftenportal_url": "",
-    "catalog_url": "",
+    "catalog_url": "http://data.onb.ac.at/rec/AC13956670",
     "digi_url": "",
     "idno": "Cod. 1029",
-    "idno_former": "",
+    "idno_former": "Salisb. 190",
     "quire_structure": "",
     "library_full": [
       {
@@ -4181,7 +4181,7 @@
       }
     ],
     "extent": "267",
-    "foliation": "",
+    "foliation": "Neuzeitlich",
     "acc_mat": "Enthält Fragmente",
     "binding": "Braunes Wildleder, dicke Holzdeckel",
     "binding_date": [
@@ -4196,7 +4196,7 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "history": "",
+    "history": "Wurde in zwei Phasen (1. Hälfte und 2. Hälfte des 11. Jahrhunderts) in Salzburg angefertigt.",
     "bibliography": [],
     "height": "163",
     "width": "240",
@@ -4247,9 +4247,15 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-04-22",
-    "Last modified": "2025-05-23",
-    "content_summary": "",
-    "charakter": [],
+    "Last modified": "2025-05-27",
+    "content_summary": "Enthält kurze Biographien der ersten Päpste. Da es sich aber ansonsten zumindest oberflächlich um ein theologisches Kompendium handelt, wurden dessen Texte (u.a. Augustinus, Ambrosius) nicht vollständig, sondern nur das unmittelbare kodik./textuelle Umfeld aufgenommen. Die Handschrift weist zudem vereinzelt Marginalannotationen auf.",
+    "charakter": [
+      {
+        "id": 17439,
+        "value": "Kompendium",
+        "color": "green"
+      }
+    ],
     "case_study": [
       {
         "id": 17442,
@@ -4264,7 +4270,13 @@
         "color": "darker-brown"
       }
     ],
-    "author_entry": []
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "44": {
     "id": 44,

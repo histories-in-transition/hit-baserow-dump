@@ -648,12 +648,21 @@
         "id": 25,
         "value": "De orthographia",
         "order": "24.00000000000000000000"
+      },
+      {
+        "id": 150,
+        "value": "Quaestiones in Genesim",
+        "order": "148.00000000000000000000"
       }
     ],
     "work": [
       {
         "id": 25,
         "value": "De orthographia"
+      },
+      {
+        "id": 150,
+        "value": "Quaestiones in Genesim"
       }
     ]
   },
@@ -1157,6 +1166,11 @@
         "id": 133,
         "value": "Etymologiae",
         "order": "131.00000000000000000000"
+      },
+      {
+        "id": 149,
+        "value": "Ad Massonam episcopum",
+        "order": "147.00000000000000000000"
       }
     ],
     "work": [
@@ -1179,6 +1193,10 @@
       {
         "id": 133,
         "value": "Etymologiae"
+      },
+      {
+        "id": 149,
+        "value": "Ad Massonam episcopum"
       }
     ]
   },

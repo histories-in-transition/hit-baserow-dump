@@ -3518,5 +3518,179 @@
         "value": "ÖNB, Cod. 2090, cod. unit 2"
       }
     ]
+  },
+  "40": {
+    "id": 40,
+    "order": "37.00000000000000000000",
+    "label": [
+      {
+        "id": 43,
+        "value": "Cod. 1029, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 43,
+        "value": "ÖNB, Cod. 1029",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__40",
+    "hand_role": [],
+    "ms_items": [],
+    "quires": [],
+    "locus": [],
+    "note": "In der ersten Hälfte des 11. Jahrhunderts wurde von mehreren Händen der Grundstock der theologischen Texte angelegt (1r-156r)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-27",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-27",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [
+      {
+        "id": 50,
+        "value": "ÖNB, Cod. 1029, cod. unit 1",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 43,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 1029, cod. unit 1"
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "order": "38.00000000000000000000",
+    "label": [
+      {
+        "id": 43,
+        "value": "Cod. 1029, Stratum 2"
+      }
+    ],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      },
+      {
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 43,
+        "value": "ÖNB, Cod. 1029",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "hit_id": "hit_strata__41",
+    "hand_role": [
+      {
+        "id": 205,
+        "value": "hit_hands_role__205",
+        "order": "191.00000000000000000000"
+      },
+      {
+        "id": 207,
+        "value": "hit_hands_role__207",
+        "order": "193.00000000000000000000"
+      },
+      {
+        "id": 209,
+        "value": "hit_hands_role__209",
+        "order": "195.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 148,
+          "database_table_3491": 217
+        },
+        "value": "Catalogus paparum usque ad 'Benedictum iuniorem'"
+      },
+      {
+        "ids": {
+          "database_table_3489": 150,
+          "database_table_3491": 219
+        },
+        "value": "Quaestiones in Genesim"
+      },
+      {
+        "ids": {
+          "database_table_3489": 149,
+          "database_table_3491": 218
+        },
+        "value": "Ad Massonam episcopum"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 217,
+        "value": "232r-241v"
+      },
+      {
+        "id": 219,
+        "value": "241v-267"
+      },
+      {
+        "id": 218,
+        "value": "229r-232r"
+      }
+    ],
+    "note": "Der Grundstock wurde in der zweiten Hälfte des 12. Jahrhunderts um weitere theologische Texte und Papstbiographien erweitert (156v-267r). Die genaue Beziehung zwischen den beiden Strata, auch in kodikologischer Hinsicht, ist jedoch noch offen.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-27",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-27",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [
+      {
+        "id": 50,
+        "value": "ÖNB, Cod. 1029, cod. unit 1",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 43,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 1029, cod. unit 1"
+      }
+    ]
   }
 }

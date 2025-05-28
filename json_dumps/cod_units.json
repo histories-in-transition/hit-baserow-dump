@@ -3314,17 +3314,17 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-23",
+    "Last modified": "2025-05-27",
     "orig_date": [],
     "quires_number": "",
-    "heigth": "",
-    "lines_number": "",
-    "decorations": "",
+    "heigth": "163",
+    "lines_number": "1r-153v: 21-22 Zeilen; 154r-156r: 27 Zeilen; 156v-267r: 21 Zeilen",
+    "decorations": "Rote Initialen, teils mit Ranken und Blattwerk verziert. Auf 187v zwei ordentlich ausgeführte Federzeichnungen (Maria mit ausgebreiteten Armen und Kopf des gekreuzigten Jesu) aus dem 13. Jahrhundert (vgl. Hermann, Die deutschen romanischen Handschriften, 35).",
     "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
-    "width": "",
+    "width": "240",
     "columns": [
       {
         "id": 18123,
@@ -3348,7 +3348,18 @@
         "value": "Salzburg"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 40,
+        "value": "Cod. 1029, Stratum 1",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "Cod. 1029, Stratum 2",
+        "order": "38.00000000000000000000"
+      }
+    ],
     "ruling": ""
   }
 }

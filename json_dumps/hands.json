@@ -11620,7 +11620,7 @@
     "similar_hands": [],
     "nr_daniel": "",
     "manuscript": [],
-    "number": "44",
+    "number": null,
     "note": "",
     "Created by": {
       "id": 86,
@@ -11628,10 +11628,10 @@
     },
     "Created on": "2025-04-17",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-05",
+    "Last modified": "2025-05-27",
     "hands_role": [],
     "role": [],
     "texts": [],
@@ -11889,7 +11889,7 @@
         "value": "ÖNB, Cod. 2090_H. 46"
       }
     ],
-    "description": "Kräftige, kalligraphisch ausgeführte karolingische Minuskel mit gerader und breiter Buchstabengestaltung. r bleibt auf der Linie, s ragt teils leicht in die Unterlänge.",
+    "description": "Kräftige, kalligraphisch ausgeführte karolingische Minuskel mit gerader und breiter Buchstabengestaltung. Dominierendes Mittelband und kaum Ober- und Unterlängen (Schäfte von b, d und l teils gegabelt). Auffallend ist ist die Abwesenheit von Ligaturen, wie der ct-Ligatur, die nicht aufgebrochen ist, sondern gar nicht ausgeführt wurde. Das entspricht dem allgemeinen Eindruck des kompakten und auf das Mittelband ausgerichteten Schriftbildes. Regelmäßig finden sich Abschwünge am Wortende, vor allem bei e, t, c, et.\\\nDas g ist oben geschlossen und führt mit einem leichten Knicks nach rechts in die Unterlänge, wobei der Halbbogen durch einen Haarstrich zumeist geschlossen wird. Der Schaft des t in der et-Ligatur weist eine schwache, nach links zeigende Fahne auf; der Balken des auf den Kopf gestürzten t reicht bis zur Grundlinie, schwingt aber dann mit einem Haarstrich nach oben ab. Das lange s und r stehen auf der Zeile, das s teils schräg gestellt. Die cauda des e als oben offener und unverbundener Haken, der unter dem e schwebt. Auffällig ist das q, das in der Unterlänge einen horizontalen Fuß aufweist, der nach rechts überkippt. Gerade Kürzungsstriche mit Abschwung nach unten, die ur-Kürzung zeigt sich blitzartig. Charakteristisch ist zudem die Tendenz, Kürzungsstriche mit den Oberlängen vorangehender Buchstaben, wie dem d, zu kombinieren. Kaum bis gar kein Schluss-S oder vS-Ligaturen am Wortende (NT-Ligatur vorhanden). Zu notieren: der Halbbogen des a schließt nicht immer. Der Schaft des p knickt in der Unterlänge nach links ein.",
     "hit_id": "hit_hands__150",
     "similar_hands": [],
     "nr_daniel": "",
@@ -11901,7 +11901,7 @@
       }
     ],
     "number": "46",
-    "note": "Beginn Kanonikerregel",
+    "note": null,
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -11911,7 +11911,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-26",
+    "Last modified": "2025-05-27",
     "hands_role": [
       {
         "id": 206,
@@ -12199,7 +12199,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-15",
+    "Last modified": "2025-05-27",
     "hands_role": [
       {
         "id": 203,
@@ -12253,7 +12253,13 @@
     ],
     "scribe": [],
     "gruppe": false,
-    "author_entry": []
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "154": {
     "id": 154,
@@ -12279,7 +12285,7 @@
       }
     ],
     "number": "3",
-    "note": "",
+    "note": "Clm 6370, Clm 6372, Clm 6303, Clm 6256, Clm 6403,",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -12289,7 +12295,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-21",
+    "Last modified": "2025-05-27",
     "hands_role": [
       {
         "id": 204,
@@ -12363,7 +12369,13 @@
       }
     ],
     "gruppe": true,
-    "author_entry": []
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "155": {
     "id": 155,
@@ -12377,7 +12389,7 @@
         "value": "ÖNB, Cod. 1029_H. 1"
       }
     ],
-    "description": "TBD",
+    "description": "Kräftige und wohlgeformte Buchminuskel mit schrägovalen Zügen. Kompaktes Mittelband ohne ausgeprägte Oberlängen. Die ct-Ligatur ist vorhanden, geht aber auch kaum in die Oberlänge. Auffällig ist eine noch vorkommende ältere rt-Ligatur mit Horn. Das g mit schrägovalen Kopf weist einen Knick am Beginn der Unterlänge des Halbbogens nach links auf. Ein Haarstrich nach rechts nähert sich dem Bogen an, schließt aber zumeist nicht vollständig. Markant ist das d in drei verschiedenen Formen -&gt; gerades d mit spachtelförmigem Ansatz; unziales, rundes d und insbesondere ein rundlich wirkendes d, dessen gebogener Schaft jedoch horizontal und parallel zur Grundlinie verläuft. Der Schaft des t in der Ligatur et mit charakteristischer nach links zeigender Fahne (teils nur als Knoten/Keule), der Balken des auf den Kopf gestürzten t schwingt nach rechts aus, Öse des e ist geschlossen. E-cauda als geschlossener oder gelegentlich offener Haken. Das Minuskel-e weist regelmäßig eine verlängerte Zunge nach rechts auf.\\\nX bleibt auf der Zeile. Charakteristisch sind die geraden, nach unten abschwingenden Kürzungsstriche. Langes s und r reichen leicht in die Unterlänge (s unten teils schräg abgeschnitten / das p schwingt dahingegen in der Unterlänge nach rechts weg). Häufig Schluss-S und vS-Ligatur auf der Zeile. Zu notieren: Halbbogen des b bleibt öfters offen.",
     "hit_id": "hit_hands__155",
     "similar_hands": [],
     "nr_daniel": "",
@@ -12399,17 +12411,47 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-23",
+    "Last modified": "2025-05-27",
     "hands_role": [
       {
         "id": 205,
         "value": "hit_hands_role__205",
         "order": "191.00000000000000000000"
+      },
+      {
+        "id": 207,
+        "value": "hit_hands_role__207",
+        "order": "193.00000000000000000000"
+      },
+      {
+        "id": 209,
+        "value": "hit_hands_role__209",
+        "order": "195.00000000000000000000"
       }
     ],
     "role": [
       {
         "id": 205,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 207,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 209,
         "value": [
           {
             "id": 14758,
@@ -12426,6 +12468,20 @@
           "database_table_3491": 217
         },
         "value": "Catalogus paparum usque ad 'Benedictum iuniorem'"
+      },
+      {
+        "ids": {
+          "database_table_3489": 150,
+          "database_table_3491": 219
+        },
+        "value": "Quaestiones in Genesim"
+      },
+      {
+        "ids": {
+          "database_table_3489": 149,
+          "database_table_3491": 218
+        },
+        "value": "Ad Massonam episcopum"
       }
     ],
     "hands_dated": [
@@ -12453,6 +12509,12 @@
     ],
     "scribe": [],
     "gruppe": false,
-    "author_entry": []
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ]
   }
 }

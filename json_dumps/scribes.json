@@ -4,7 +4,7 @@
     "order": "1.00000000000000000000",
     "name": "Willihalms bayerische Schüler",
     "hit_id": "hit_scribes__1",
-    "description": "Jüngere Generation der Schreiber,  die scheinen unter dem Einfluss Williahms, eines Schreibers der Dombibliothek, gewachsen zu sein. Feine, zügige Stil. Mehrere Ligaturen und Verkürzungen.",
+    "description": "Jüngere Generation der Schreiber,  die scheinen unter dem Einfluss Williahms, eines Schreibers der Dombibliothek, gewachsen zu sein. Feine, zügige Stil. Mehrere Ligaturen und Verkürzungen. Ein Schreiber aus der Gruppe kann auch in Metz gearbeitet haben.",
     "group": true,
     "hands": [
       {
@@ -22,10 +22,10 @@
         "value": "BSB, Clm. 6380_H. 1"
       }
     ],
-    "Last modified": "2025-05-05",
+    "Last modified": "2025-05-27",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "author_entry": [
       {
