@@ -8383,7 +8383,7 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "incipit": "",
+    "incipit": "Fridaricus archiepiscopus Hartuuic successor eius",
     "explicit": "",
     "rubric": "",
     "title_work": [
@@ -8489,7 +8489,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-05-27",
+    "Last modified": "2025-05-28",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8614,7 +8614,13 @@
         "value": "ÖNB, Cod. 2090_H. 32"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15104,
+        "value": "Unziale_Rot",
+        "color": "darker-pink"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
@@ -8654,8 +8660,8 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "incipit": "",
-    "explicit": "",
+    "incipit": "Ad Antherigan, Liupa et filius eius Rizaman",
+    "explicit": "Iterum Gnannauuip cum IIII filiis, Azaman, Lantfrit",
     "rubric": "Ecce mancipia nobis ablata",
     "title_work": [
       {
@@ -8679,7 +8685,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-06",
+    "Last modified": "2025-05-28",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8693,9 +8699,21 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": [],
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
+    "form_note": "Links neben einer umfangreichen Traditionsnotiz platziert und durch einen roten Trennstrich abgegrenzt.",
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": []
   },
   "134": {
@@ -8739,7 +8757,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-06",
+    "Last modified": "2025-05-28",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8753,9 +8771,21 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": []
   },
   "132": {
@@ -8805,7 +8835,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-05-27",
+    "Last modified": "2025-05-28",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8839,8 +8869,14 @@
         "color": "light-cyan"
       }
     ],
-    "form_note": "",
-    "column": [],
+    "form_note": "Am Ende des Haupttextes dieser Seite angefügt.",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": []
   },
   "135": {
@@ -8859,8 +8895,8 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "incipit": "",
-    "explicit": "",
+    "incipit": "Anno ab incarnationis domini MLVIII",
+    "explicit": "Techogna, Penno, Gnanno, Samson",
     "rubric": "",
     "title_work": [
       {
@@ -8869,7 +8905,7 @@
         "order": "101.00000000000000000000"
       }
     ],
-    "title_note": "Nr. 1 (1058); Nr. 10 (1122-1147)",
+    "title_note": "Nr. 1 (1058)",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -8890,17 +8926,17 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-11",
+    "Last modified": "2025-05-28",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "note": "11. Jh. noch",
+    "note": null,
     "hand": [
       {
         "ids": {
@@ -8912,9 +8948,26 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": [],
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      },
+      {
+        "id": 18262,
+        "value": "freigelassener Raum",
+        "color": "light-purple"
+      }
+    ],
+    "form_note": "Auf Grundlage der paläographischen und kodikologischen Spuren handelt es sich hierbei um den ersten Text dieser Seite, um den herum die weiteren Textbausteine angeordnet wurden. Auffallend ist, dass der linke Rand bereits freigelassen wurde.",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": []
   },
   "137": {
@@ -8969,7 +9022,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-03-30",
+    "Last modified": "2025-05-28",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8996,16 +9049,27 @@
         "value": "ÖNB, Cod. 2090_H. 36"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
         "id": 18261,
         "value": "mit geometrischen Formen",
         "color": "dark-red"
+      },
+      {
+        "id": 17434,
+        "value": "Liste",
+        "color": "darker-red"
       }
     ],
-    "form_note": null,
+    "form_note": "Diptychen. Listen im versuchten Stile der Salzburger Verbrüderungsbücher. Auszeichnungsschrift teils rot ausgefüllt.",
     "column": [],
     "commented_msitem": []
   },
@@ -9042,7 +9106,13 @@
     "hit_id": "hit_ms_items__144",
     "filiation": null,
     "locus_grp": "5v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 210,
+        "value": "hit_hands_role__210",
+        "order": "196.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 15,
@@ -9050,24 +9120,50 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-11",
+    "Last modified": "2025-05-28",
     "Created on": "2024-08-26",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 7"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": [],
-    "commented_msitem": []
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Traditionsnotiz einer \"nobiles matrona\" namens Aza unter den Bereich für Witwen auf freigebliebenem Raum hinzugefügt.",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [
+      {
+        "id": 137,
+        "value": "cod_2090__137",
+        "order": "122.00000000000000000000"
+      }
+    ]
   },
   "138": {
     "id": 138,
@@ -9085,7 +9181,7 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "incipit": "",
+    "incipit": "Kalendis Ianuariis",
     "explicit": "",
     "rubric": "",
     "title_work": [
@@ -9146,12 +9242,12 @@
     ],
     "cod_unit": [
       {
-        "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1",
-        "order": "13.00000000000000000000"
+        "id": 48,
+        "value": "ÖNB, Cod. 2090, cod. unit 2",
+        "order": "44.00000000000000000000"
       }
     ],
-    "Last modified": "2024-12-13",
+    "Last modified": "2025-05-28",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -9220,7 +9316,18 @@
         "value": "ÖNB, Cod. 2090_H. 44"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      },
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
@@ -13154,6 +13261,152 @@
     "cod_unit": [],
     "Last modified": "2025-05-27",
     "Created on": "2025-05-27",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": []
+  },
+  "221": {
+    "id": 221,
+    "order": "176.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__221"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 103,
+        "value": "Traditionsnotizen des Salzburger Domstiftes",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "title_note": "Nr. 10 (1122-1147)",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__221",
+    "filiation": "",
+    "locus_grp": "5r",
+    "hands_role": [
+      {
+        "id": 211,
+        "value": "hit_hands_role__211",
+        "order": "197.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-05-28",
+    "Created on": "2025-05-28",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 7"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf freigebliebenem Raum unter die ältere, umfangreiche Traditionsnotiz hinzugefügt. Es besteht wohl eine inhaltliche Verbindung.",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [
+      {
+        "id": 137,
+        "value": "cod_2090__137",
+        "order": "122.00000000000000000000"
+      }
+    ]
+  },
+  "222": {
+    "id": 222,
+    "order": "177.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__222"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 151,
+        "value": "Brief Königs Konrad III. an den Patriarchen von Aquilea (1149)",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__222",
+    "filiation": "",
+    "locus_grp": "36r",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-05-28",
+    "Created on": "2025-05-28",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"

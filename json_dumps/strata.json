@@ -1840,6 +1840,16 @@
         "id": 196,
         "value": "hit_hands_role__196",
         "order": "182.00000000000000000000"
+      },
+      {
+        "id": 210,
+        "value": "hit_hands_role__210",
+        "order": "196.00000000000000000000"
+      },
+      {
+        "id": 211,
+        "value": "hit_hands_role__211",
+        "order": "197.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -1856,6 +1866,20 @@
           "database_table_3491": 122
         },
         "value": "Traditionsnotizen des Salzburger Domstiftes"
+      },
+      {
+        "ids": {
+          "database_table_3489": 103,
+          "database_table_3491": 144
+        },
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      },
+      {
+        "ids": {
+          "database_table_3489": 103,
+          "database_table_3491": 221
+        },
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
       }
     ],
     "quires": [],
@@ -1867,6 +1891,14 @@
       {
         "id": 122,
         "value": "1r"
+      },
+      {
+        "id": 144,
+        "value": "5v"
+      },
+      {
+        "id": 221,
+        "value": "5r"
       }
     ],
     "note": "Traditionsnotizen aus der 1. Hälfte des 12. Jahrhunderts als eigenes Stratum?",
@@ -2432,10 +2464,29 @@
     ],
     "number": "1",
     "hit_id": "hit_strata__23",
-    "hand_role": [],
-    "ms_items": [],
+    "hand_role": [
+      {
+        "id": 160,
+        "value": "hit_hands_role__160",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 31,
+          "database_table_3491": 49
+        },
+        "value": "Antapodosis"
+      }
+    ],
     "quires": [],
-    "locus": [],
+    "locus": [
+      {
+        "id": 49,
+        "value": "8v-85v"
+      }
+    ],
     "note": "Das älteste Italienische Teil",
     "Created by": {
       "id": 86,
@@ -2471,10 +2522,29 @@
     ],
     "number": "2",
     "hit_id": "hit_strata__24",
-    "hand_role": [],
-    "ms_items": [],
+    "hand_role": [
+      {
+        "id": 162,
+        "value": "hit_hands_role__162",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 31,
+          "database_table_3491": 49
+        },
+        "value": "Antapodosis"
+      }
+    ],
     "quires": [],
-    "locus": [],
+    "locus": [
+      {
+        "id": 49,
+        "value": "8v-85v"
+      }
+    ],
     "note": "Das Italienische Teil mit Antapodosis wurde reich korrigiert und interpoliert. Dabei hat der Schreiber oft griechische Wörter und Ausdrücke eingefügt und zwar an den Stellen, die wahrscheinlich leer gelassen worden waren. In dieser Form wurde der Text zu einer wahrscheinlich indirekter Vorlage für zwei Abschriften Brüssel, BR 9904 und Laur. Ashburnham 59.",
     "Created by": {
       "id": 86,
@@ -3333,7 +3403,13 @@
         "value": "Clm. 6341, Stratum 1"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 14761,
+        "value": "base",
+        "color": "yellow"
+      }
+    ],
     "manuscript": [
       {
         "id": 19,
@@ -3343,11 +3419,46 @@
     ],
     "number": "1",
     "hit_id": "hit_strata__36",
-    "hand_role": [],
-    "ms_items": [],
+    "hand_role": [
+      {
+        "id": 201,
+        "value": "hit_hands_role__201",
+        "order": "187.00000000000000000000"
+      },
+      {
+        "id": 202,
+        "value": "hit_hands_role__202",
+        "order": "188.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 49,
+          "database_table_3491": 63
+        },
+        "value": "Vita sancti Columbae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 49,
+          "database_table_3491": 63
+        },
+        "value": "Vita sancti Columbae"
+      }
+    ],
     "quires": [],
-    "locus": [],
-    "note": "Erstes Teil der Handschrift, das die Arbeit zweier Hände umfasst. Beide Hände schreiben ins Reine, ohne weitere Ergänzungen und Kommentare.",
+    "locus": [
+      {
+        "id": 63,
+        "value": "1v-50v"
+      },
+      {
+        "id": 63,
+        "value": "1v-50v"
+      }
+    ],
+    "note": "Das erste Teil der Handschrift, das die Arbeit zweier Hände umfasst. Beide Hände schreiben ins Reine, ohne weitere Ergänzungen und Kommentare.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -3357,11 +3468,25 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-09",
+    "Last modified": "2025-05-28",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 21,
+        "value": "BSB, Clm. 6341, cod. unit 1",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 19,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6341, cod. unit 1"
+      }
+    ]
   },
   "37": {
     "id": 37,
@@ -3369,10 +3494,16 @@
     "label": [
       {
         "id": 19,
-        "value": "Clm. 6341, Stratum 1"
+        "value": "Clm. 6341, Stratum 2"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 14761,
+        "value": "base",
+        "color": "yellow"
+      }
+    ],
     "manuscript": [
       {
         "id": 19,
@@ -3380,13 +3511,54 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "number": "1",
+    "number": "2",
     "hit_id": "hit_strata__37",
-    "hand_role": [],
-    "ms_items": [],
+    "hand_role": [
+      {
+        "id": 204,
+        "value": "hit_hands_role__204",
+        "order": "190.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 51,
+          "database_table_3491": 66
+        },
+        "value": "Commentarii in Ciceronis Topica"
+      },
+      {
+        "ids": {
+          "database_table_3489": 65,
+          "database_table_3491": 64
+        },
+        "value": "De inventione"
+      },
+      {
+        "ids": {
+          "database_table_3489": 66,
+          "database_table_3491": 65
+        },
+        "value": "De exaltatione"
+      }
+    ],
     "quires": [],
-    "locus": [],
-    "note": "",
+    "locus": [
+      {
+        "id": 64,
+        "value": "51r-56v"
+      },
+      {
+        "id": 65,
+        "value": "57r-60r"
+      },
+      {
+        "id": 66,
+        "value": "61v-139r"
+      }
+    ],
+    "note": "Das zweite Teil der Handschrift, das getrennt von dem ersten Teil entstanden ist. Die zwei Teile können frühestens im 11. J. zusammen gefügt worden sein.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -3396,50 +3568,25 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-21",
+    "Last modified": "2025-05-28",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
-  },
-  "38": {
-    "id": 38,
-    "order": "35.00000000000000000000",
-    "label": [
+    "cod_units": [
       {
-        "id": 19,
-        "value": "Clm. 6341, Stratum "
+        "id": 22,
+        "value": "BSB, Clm. 6341, cod. unit 2",
+        "order": "20.00000000000000000000"
       }
     ],
-    "character": [],
-    "manuscript": [
+    "cod_unit": [
       {
-        "id": 19,
-        "value": "BSB, Clm. 6341",
-        "order": "18.00000000000000000000"
+        "ids": {
+          "database_table_3487": 19,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6341, cod. unit 2"
       }
-    ],
-    "number": null,
-    "hit_id": "hit_strata__38",
-    "hand_role": [],
-    "ms_items": [],
-    "quires": [],
-    "locus": [],
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2025-05-21",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2025-05-21",
-    "strata_filiation": [],
-    "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    ]
   },
   "39": {
     "id": 39,

@@ -4465,6 +4465,16 @@
         "id": 196,
         "value": "hit_hands_role__196",
         "order": "182.00000000000000000000"
+      },
+      {
+        "id": 210,
+        "value": "hit_hands_role__210",
+        "order": "196.00000000000000000000"
+      },
+      {
+        "id": 211,
+        "value": "hit_hands_role__211",
+        "order": "197.00000000000000000000"
       }
     ],
     "role": [
@@ -4487,6 +4497,26 @@
             "color": "darker-red"
           }
         ]
+      },
+      {
+        "id": 210,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 211,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
     "texts": [
@@ -4501,6 +4531,20 @@
         "ids": {
           "database_table_3489": 103,
           "database_table_3491": 122
+        },
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      },
+      {
+        "ids": {
+          "database_table_3489": 103,
+          "database_table_3491": 144
+        },
+        "value": "Traditionsnotizen des Salzburger Domstiftes"
+      },
+      {
+        "ids": {
+          "database_table_3489": 103,
+          "database_table_3491": 221
         },
         "value": "Traditionsnotizen des Salzburger Domstiftes"
       }
@@ -9107,11 +9151,6 @@
         "id": 162,
         "value": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\" OUTDATED",
-            "color": "darker-cyan"
-          },
-          {
             "id": 18174,
             "value": "Interpolator",
             "color": "green"
@@ -12285,7 +12324,7 @@
       }
     ],
     "number": "3",
-    "note": "Clm 6370, Clm 6372, Clm 6303, Clm 6256, Clm 6403,",
+    "note": "Andere Handschriften derselben Schreiber-Gruppe: Clm 6370, Clm 6372, Clm 6303, Clm 6256, Clm 6403,",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -12295,7 +12334,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-27",
+    "Last modified": "2025-05-28",
     "hands_role": [
       {
         "id": 204,
@@ -12389,7 +12428,7 @@
         "value": "ÖNB, Cod. 1029_H. 1"
       }
     ],
-    "description": "Kräftige und wohlgeformte Buchminuskel mit schrägovalen Zügen. Kompaktes Mittelband ohne ausgeprägte Oberlängen. Die ct-Ligatur ist vorhanden, geht aber auch kaum in die Oberlänge. Auffällig ist eine noch vorkommende ältere rt-Ligatur mit Horn. Das g mit schrägovalen Kopf weist einen Knick am Beginn der Unterlänge des Halbbogens nach links auf. Ein Haarstrich nach rechts nähert sich dem Bogen an, schließt aber zumeist nicht vollständig. Markant ist das d in drei verschiedenen Formen -&gt; gerades d mit spachtelförmigem Ansatz; unziales, rundes d und insbesondere ein rundlich wirkendes d, dessen gebogener Schaft jedoch horizontal und parallel zur Grundlinie verläuft. Der Schaft des t in der Ligatur et mit charakteristischer nach links zeigender Fahne (teils nur als Knoten/Keule), der Balken des auf den Kopf gestürzten t schwingt nach rechts aus, Öse des e ist geschlossen. E-cauda als geschlossener oder gelegentlich offener Haken. Das Minuskel-e weist regelmäßig eine verlängerte Zunge nach rechts auf.\\\nX bleibt auf der Zeile. Charakteristisch sind die geraden, nach unten abschwingenden Kürzungsstriche. Langes s und r reichen leicht in die Unterlänge (s unten teils schräg abgeschnitten / das p schwingt dahingegen in der Unterlänge nach rechts weg). Häufig Schluss-S und vS-Ligatur auf der Zeile. Zu notieren: Halbbogen des b bleibt öfters offen.",
+    "description": "Kräftige und wohlgeformte Buchminuskel mit schrägovalen Zügen. Kompaktes Mittelband ohne ausgeprägte Oberlängen. Die ct-Ligatur ist vorhanden, geht aber kaum in die Oberlänge. Auffällig ist eine noch vorkommende ältere rt-Ligatur mit Horn. Das g mit schrägovalem Kopf weist einen Knick am Beginn der Unterlänge des Halbbogens nach links auf. Ein Haarstrich nach rechts nähert sich dem Bogen an, schließt aber zumeist nicht vollständig. Markant ist das d in drei verschiedenen Formen -&gt; gerades d mit spachtelförmigem Ansatz; unziales, rundes d und insbesondere ein rundlich wirkendes d, dessen gebogener Schaft jedoch horizontal und parallel zur Grundlinie verläuft. Der Schaft des t in der Ligatur et mit charakteristischer nach links zeigender Fahne (teils nur als Knoten/Keule), der Balken des auf den Kopf gestürzten t schwingt nach rechts aus, Öse des e ist geschlossen. E-cauda als geschlossener oder gelegentlich offener Haken. Das Minuskel-e weist regelmäßig eine verlängerte Zunge nach rechts auf.\\\nX bleibt auf der Zeile. Charakteristisch sind die geraden, nach unten abschwingenden Kürzungsstriche. Langes s und r reichen leicht in die Unterlänge (s unten teils schräg abgeschnitten / das p schwingt dahingegen in der Unterlänge nach rechts weg). Häufig Schluss-S und vS-Ligatur auf der Zeile. Zu notieren: Halbbogen des b bleibt öfters offen.",
     "hit_id": "hit_hands__155",
     "similar_hands": [],
     "nr_daniel": "",
@@ -12411,7 +12450,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-27",
+    "Last modified": "2025-05-28",
     "hands_role": [
       {
         "id": 205,

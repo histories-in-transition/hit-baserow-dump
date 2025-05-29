@@ -1492,7 +1492,7 @@
     "genre": [
       {
         "id": 13,
-        "value": "Theologische Literatur > Biblische Kommentare",
+        "value": "Theologische Literatur > Bibelkommentar",
         "order": "12.00000000000000000000"
       }
     ],
@@ -1881,7 +1881,7 @@
     "genre": [
       {
         "id": 13,
-        "value": "Theologische Literatur > Biblische Kommentare",
+        "value": "Theologische Literatur > Bibelkommentar",
         "order": "12.00000000000000000000"
       }
     ],
@@ -4415,7 +4415,7 @@
     "genre": [
       {
         "id": 13,
-        "value": "Theologische Literatur > Biblische Kommentare",
+        "value": "Theologische Literatur > Bibelkommentar",
         "order": "12.00000000000000000000"
       }
     ],
@@ -4430,5 +4430,34 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-05-27"
+  },
+  "151": {
+    "id": 151,
+    "order": "149.00000000000000000000",
+    "title": "Brief Königs Konrad III. an den Patriarchen von Aquilea (1149)",
+    "gnd_url": "",
+    "note": "Betreffend Besitzungen des Salzburger Domkapitels in Friaul.",
+    "hit_id": "hit_works__151",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 11,
+        "value": " > Briefe",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-28",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-28"
   }
 }

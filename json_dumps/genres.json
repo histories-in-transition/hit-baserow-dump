@@ -264,7 +264,7 @@
   "13": {
     "id": 13,
     "order": "12.00000000000000000000",
-    "label": "Theologische Literatur > Biblische Kommentare",
+    "label": "Theologische Literatur > Bibelkommentar",
     "genre": "Biblische Kommentare",
     "hit_id": "hit_genres__13",
     "m_genre": [
@@ -280,11 +280,11 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
-    "sub_genre": "Biblische Kommentare",
+    "Last modified": "2025-05-28",
+    "sub_genre": "Bibelkommentar",
     "main_genre": "Theologische Literatur"
   },
   "14": {
