@@ -132,7 +132,7 @@
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "label": "Lyrik > ",
+    "label": "Dichtung > Lyrik",
     "genre": "Lyrik",
     "hit_id": "hit_genres__6",
     "m_genre": [],
@@ -142,12 +142,12 @@
     },
     "Created on": "2024-07-11",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
-    "sub_genre": "",
-    "main_genre": "Lyrik"
+    "Last modified": "2025-05-29",
+    "sub_genre": "Lyrik",
+    "main_genre": "Dichtung"
   },
   "8": {
     "id": 8,
@@ -224,7 +224,7 @@
   "11": {
     "id": 11,
     "order": "10.00000000000000000000",
-    "label": " > Briefe",
+    "label": "Briefe > ",
     "genre": "Briefe",
     "hit_id": "hit_genres__11",
     "m_genre": [],
@@ -234,17 +234,17 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
-    "sub_genre": "Briefe",
-    "main_genre": null
+    "Last modified": "2025-05-29",
+    "sub_genre": "",
+    "main_genre": "Briefe"
   },
   "12": {
     "id": 12,
     "order": "11.00000000000000000000",
-    "label": " > Recht",
+    "label": "Rechtstexte > ",
     "genre": "Recht",
     "hit_id": "hit_genres__12",
     "m_genre": [],
@@ -254,12 +254,12 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
-    "sub_genre": "Recht",
-    "main_genre": null
+    "Last modified": "2025-05-29",
+    "sub_genre": "",
+    "main_genre": "Rechtstexte"
   },
   "13": {
     "id": 13,
@@ -350,7 +350,7 @@
   "17": {
     "id": 17,
     "order": "16.00000000000000000000",
-    "label": " > Urkunde",
+    "label": "Urkunden > ",
     "genre": "Urkunde",
     "hit_id": "hit_genres__17",
     "m_genre": [],
@@ -360,12 +360,12 @@
     },
     "Created on": "2024-10-03",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
-    "sub_genre": "Urkunde",
-    "main_genre": null
+    "Last modified": "2025-05-29",
+    "sub_genre": "",
+    "main_genre": "Urkunden"
   },
   "18": {
     "id": 18,
@@ -496,7 +496,7 @@
   "24": {
     "id": 24,
     "order": "23.00000000000000000000",
-    "label": " > Dichtung",
+    "label": "Dichtung > ",
     "genre": "Dichtung",
     "hit_id": "hit_genres__24",
     "m_genre": [],
@@ -509,9 +509,9 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-21",
-    "sub_genre": "Dichtung",
-    "main_genre": ""
+    "Last modified": "2025-05-29",
+    "sub_genre": "",
+    "main_genre": "Dichtung"
   },
   "25": {
     "id": 25,
@@ -583,5 +583,65 @@
     "Last modified": "2025-05-23",
     "sub_genre": "Papstkatalog / Papstbiographien",
     "main_genre": "Historiographie / Hagiographie"
+  },
+  "28": {
+    "id": 28,
+    "order": "27.00000000000000000000",
+    "label": "Memorialtexte > ",
+    "genre": "",
+    "hit_id": "hit_genres__28",
+    "m_genre": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-29",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-29",
+    "sub_genre": "",
+    "main_genre": "Memorialtexte"
+  },
+  "29": {
+    "id": 29,
+    "order": "28.00000000000000000000",
+    "label": "Consuetudines > ",
+    "genre": "",
+    "hit_id": "hit_genres__29",
+    "m_genre": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-29",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-29",
+    "sub_genre": "",
+    "main_genre": "Consuetudines"
+  },
+  "30": {
+    "id": 30,
+    "order": "29.00000000000000000000",
+    "label": "Theologische Literatur > Bibelauszug",
+    "genre": "",
+    "hit_id": "hit_genres__30",
+    "m_genre": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-29",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-29",
+    "sub_genre": "Bibelauszug",
+    "main_genre": "Theologische Literatur"
   }
 }

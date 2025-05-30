@@ -408,7 +408,7 @@
     "genre": [
       {
         "id": 11,
-        "value": " > Briefe",
+        "value": "Briefe > ",
         "order": "10.00000000000000000000"
       }
     ],
@@ -519,7 +519,7 @@
     "genre": [
       {
         "id": 6,
-        "value": "Lyrik > ",
+        "value": "Dichtung > Lyrik",
         "order": "6.00000000000000000000"
       }
     ],
@@ -735,7 +735,7 @@
     "genre": [
       {
         "id": 12,
-        "value": " > Recht",
+        "value": "Rechtstexte > ",
         "order": "11.00000000000000000000"
       }
     ],
@@ -2050,7 +2050,7 @@
     "genre": [
       {
         "id": 11,
-        "value": " > Briefe",
+        "value": "Briefe > ",
         "order": "10.00000000000000000000"
       }
     ],
@@ -3049,7 +3049,7 @@
       },
       {
         "id": 24,
-        "value": " > Dichtung",
+        "value": "Dichtung > ",
         "order": "23.00000000000000000000"
       }
     ],
@@ -3112,7 +3112,7 @@
     "genre": [
       {
         "id": 17,
-        "value": " > Urkunde",
+        "value": "Urkunden > ",
         "order": "16.00000000000000000000"
       }
     ],
@@ -3147,7 +3147,7 @@
     "genre": [
       {
         "id": 11,
-        "value": " > Briefe",
+        "value": "Briefe > ",
         "order": "10.00000000000000000000"
       }
     ],
@@ -3257,7 +3257,7 @@
     "genre": [
       {
         "id": 11,
-        "value": " > Briefe",
+        "value": "Briefe > ",
         "order": "10.00000000000000000000"
       }
     ],
@@ -3283,7 +3283,13 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 28,
+        "value": "Memorialtexte > ",
+        "order": "27.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3294,7 +3300,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-28"
+    "Last modified": "2025-05-29"
   },
   "111": {
     "id": 111,
@@ -3433,7 +3439,13 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 30,
+        "value": "Theologische Literatur > Bibelauszug",
+        "order": "29.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3444,7 +3456,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-04-01"
+    "Last modified": "2025-05-29"
   },
   "117": {
     "id": 117,
@@ -3520,7 +3532,13 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische Literatur > ",
+        "order": "8.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3531,7 +3549,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-08-26"
+    "Last modified": "2025-05-29"
   },
   "120": {
     "id": 120,
@@ -3543,7 +3561,13 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 29,
+        "value": "Consuetudines > ",
+        "order": "28.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3554,7 +3578,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-09-02"
+    "Last modified": "2025-05-29"
   },
   "121": {
     "id": 121,
@@ -3719,7 +3743,7 @@
     "genre": [
       {
         "id": 17,
-        "value": " > Urkunde",
+        "value": "Urkunden > ",
         "order": "16.00000000000000000000"
       }
     ],
@@ -4060,7 +4084,7 @@
     "genre": [
       {
         "id": 17,
-        "value": " > Urkunde",
+        "value": "Urkunden > ",
         "order": "16.00000000000000000000"
       }
     ],
@@ -4444,7 +4468,7 @@
     "genre": [
       {
         "id": 11,
-        "value": " > Briefe",
+        "value": "Briefe > ",
         "order": "10.00000000000000000000"
       }
     ],

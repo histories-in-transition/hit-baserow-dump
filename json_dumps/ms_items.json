@@ -12805,15 +12805,15 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-05-13",
+    "Last modified": "2025-05-29",
     "Created on": "2025-03-19",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "",
     "hand": [
@@ -12834,10 +12834,28 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
     "form_note": "",
-    "column": [],
-    "commented_msitem": []
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [
+      {
+        "id": 138,
+        "value": "cod_2090__138",
+        "order": "123.00000000000000000000"
+      }
+    ]
   },
   "215": {
     "id": 215,
