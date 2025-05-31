@@ -3679,5 +3679,83 @@
     "Last modified": "2025-05-26",
     "Created on": "2025-05-26",
     "note": ""
+  },
+  "117": {
+    "id": 117,
+    "order": "114.00000000000000000000",
+    "hit_id": "hit_hands_dated__117",
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche G.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "page": "170",
+    "dated": [
+      {
+        "id": 5,
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 103,
+        "value": "BSB, Clm. 6391_H. 1",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-05-30",
+    "Created on": "2025-05-30",
+    "note": ""
+  },
+  "118": {
+    "id": 118,
+    "order": "115.00000000000000000000",
+    "hit_id": "hit_hands_dated__118",
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche G.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "page": "170",
+    "dated": [
+      {
+        "id": 5,
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 104,
+        "value": "BSB, Clm. 6391_H. 2",
+        "order": "96.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-05-30",
+    "Created on": "2025-05-30",
+    "note": ""
   }
 }

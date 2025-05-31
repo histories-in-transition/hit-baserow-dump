@@ -8796,9 +8796,29 @@
         "value": "Historia Langobardorum"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 117,
+        "value": "hit_hands_dated__117",
+        "order": "114.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 5,
+          "database_table_3520": 117
+        },
+        "value": "10 Jh., zweite Hälfte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 54,
+        "value": "hit_hands_placed__54",
+        "order": "54.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": [
@@ -8888,60 +8908,29 @@
         "value": "Historia Langobardorum"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
-    "scribe": [],
-    "gruppe": false,
-    "author_entry": [
+    "hands_dated": [
       {
-        "id": 2,
-        "value": "Ksenia Borisova",
-        "order": "2.00000000000000000000"
+        "id": 118,
+        "value": "hit_hands_dated__118",
+        "order": "115.00000000000000000000"
       }
-    ]
-  },
-  "105": {
-    "id": 105,
-    "order": "97.00000000000000000000",
-    "label": [
+    ],
+    "dating": [
       {
         "ids": {
-          "database_table_3487": 13,
-          "database_table_3488": 4
+          "database_table_3512": 5,
+          "database_table_3520": 118
         },
-        "value": "BSB, Clm. 6391_H. 3"
+        "value": "10 Jh., zweite Hälfte"
       }
     ],
-    "description": "",
-    "hit_id": "hit_hands__105",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [
+    "hands_placed": [
       {
-        "id": 13,
-        "value": "BSB, Clm. 6391",
-        "order": "12.00000000000000000000"
+        "id": 55,
+        "value": "hit_hands_placed__55",
+        "order": "55.00000000000000000000"
       }
     ],
-    "number": "3",
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-09-04",
-    "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Last modified": "2025-05-05",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
     "scribe": [],
     "gruppe": false,
     "author_entry": [

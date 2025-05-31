@@ -8036,12 +8036,12 @@
     ],
     "role": [
       {
-        "id": 14760,
-        "value": "corrector OUTDATED",
-        "color": "darker-yellow"
+        "id": 15373,
+        "value": "Korrektor",
+        "color": "darker-brown"
       }
     ],
-    "locus": "",
+    "locus": "102v, 106v, 131v, 144v (Überschrift \"sub titulo sanctae mariae virginis\"), 192r",
     "text": [
       {
         "ids": {
@@ -8066,7 +8066,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-19",
-    "Last modified": "2025-01-17",
+    "Last modified": "2025-05-30",
     "locus_layout": [
       {
         "id": 15380,

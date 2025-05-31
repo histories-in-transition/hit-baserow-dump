@@ -1210,8 +1210,22 @@
     "Last modified": "2024-09-18",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6308, cod. unit 1",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 6,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6308, cod. unit 1"
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -1279,8 +1293,22 @@
     "Last modified": "2024-09-18",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6308, cod. unit 1",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 6,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6308, cod. unit 1"
+      }
+    ]
   },
   "8": {
     "id": 8,

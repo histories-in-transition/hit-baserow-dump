@@ -512,17 +512,29 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-02",
+    "Last modified": "2025-05-30",
     "orig_date": [],
     "quires_number": "1-19",
     "heigth": "255",
     "lines_number": "23",
     "decorations": "Auf 4r ein rundes Bild, darstellend drei Kontinenten. \nDie beiden letzten,einander gegenüberliegenden Seiten (148V/149R) sind gleichartig figural geschrieben: beide in Form eines auf der Spitze stehenden gleichschenkligen Dreiecks (Bishoff, 77)",
-    "codicological_reworking": [],
-    "basic_structure": [],
+    "codicological_reworking": [
+      {
+        "id": 17462,
+        "value": "sheet extractions",
+        "color": "light-yellow"
+      }
+    ],
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
     "written_width": "120",
     "written_height": "200",
     "width": "160",
@@ -549,8 +561,19 @@
         "value": "Freising"
       }
     ],
-    "strata": [],
-    "ruling": ""
+    "strata": [
+      {
+        "id": 6,
+        "value": "Clm. 6308, Stratum 1",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "Clm. 6308, Stratum 2",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "ruling": "Einfache Doppelliniirung von der Aussenseite. An den meisten Blättern ist die Liniirung kaum zu sehen."
   },
   "6": {
     "id": 6,
@@ -655,7 +678,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-05-30",
     "orig_date": [],
     "quires_number": "3-12",
     "heigth": "250",
@@ -702,7 +725,7 @@
       }
     ],
     "strata": [],
-    "ruling": null
+    "ruling": ""
   },
   "9": {
     "id": 9,
