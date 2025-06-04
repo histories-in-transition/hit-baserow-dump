@@ -608,7 +608,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-03",
     "orig_date": [],
     "quires_number": "1-2",
     "heigth": "250",
@@ -643,7 +643,7 @@
       }
     ],
     "strata": [],
-    "ruling": null
+    "ruling": "Doppelliniirung von beiden Seiten"
   },
   "8": {
     "id": 8,
@@ -678,7 +678,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-30",
+    "Last modified": "2025-06-03",
     "orig_date": [],
     "quires_number": "3-12",
     "heigth": "250",
@@ -725,7 +725,7 @@
       }
     ],
     "strata": [],
-    "ruling": ""
+    "ruling": "Doppelliniirung von beiden Seiten"
   },
   "9": {
     "id": 9,
@@ -760,7 +760,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-03",
     "orig_date": [],
     "quires_number": "13-26",
     "heigth": "250",
@@ -795,7 +795,7 @@
       }
     ],
     "strata": [],
-    "ruling": null
+    "ruling": "Doppelliniirung von beiden Seiten"
   },
   "10": {
     "id": 10,
@@ -916,7 +916,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-06",
+    "Last modified": "2025-06-03",
     "orig_date": [
       {
         "id": 4,
@@ -962,7 +962,7 @@
       }
     ],
     "strata": [],
-    "ruling": null
+    "ruling": "Doppelliniirung von den beiden Seiten"
   },
   "14": {
     "id": 14,
@@ -1420,17 +1420,23 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-03",
     "orig_date": [],
     "quires_number": "1-6",
     "heigth": "240",
     "lines_number": "21",
     "decorations": "",
     "codicological_reworking": [],
-    "basic_structure": [],
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
     "written_width": "110-145",
     "written_height": "170",
     "width": "175",
@@ -1470,7 +1476,7 @@
       }
     ],
     "strata": [],
-    "ruling": null
+    "ruling": "Einfache vertikale und horizontale Liniirung von beiden Seiten."
   },
   "19": {
     "id": 19,
@@ -1502,10 +1508,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-03",
     "orig_date": [],
     "quires_number": "7-16",
     "heigth": "240",
@@ -1540,7 +1546,7 @@
       }
     ],
     "strata": [],
-    "ruling": null
+    "ruling": "Doppelliniirung rechts von den beiden Spalten"
   },
   "20": {
     "id": 20,
@@ -1572,10 +1578,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-03",
     "orig_date": [],
     "quires_number": "1-19",
     "heigth": "260",
@@ -1610,7 +1616,7 @@
       }
     ],
     "strata": [],
-    "ruling": null
+    "ruling": ""
   },
   "21": {
     "id": 21,
