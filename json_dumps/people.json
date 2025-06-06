@@ -2033,5 +2033,42 @@
         "value": "De temporibus anni"
       }
     ]
+  },
+  "54": {
+    "id": 54,
+    "order": "52.00000000000000000000",
+    "name": "Konrad III., Heiliges Römisches Reich, König",
+    "gnd_url": "https://d-nb.info/gnd/118713892",
+    "hit_id": "hit_people__54",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-05",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-05",
+    "works": [
+      {
+        "id": 151,
+        "value": "Brief Königs Konrad III. an den Patriarchen von Aquilea (1149)",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 151,
+        "value": "Brief Königs Konrad III. an den Patriarchen von Aquilea (1149)"
+      }
+    ]
   }
 }

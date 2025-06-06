@@ -4462,7 +4462,13 @@
     "gnd_url": "",
     "note": "Betreffend Besitzungen des Salzburger Domkapitels in Friaul.",
     "hit_id": "hit_works__151",
-    "author": [],
+    "author": [
+      {
+        "id": 54,
+        "value": "Konrad III., Heiliges Römisches Reich, König",
+        "order": "52.00000000000000000000"
+      }
+    ],
     "bibliography": [],
     "source_text": [],
     "genre": [
@@ -4482,6 +4488,35 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-28"
+    "Last modified": "2025-06-05"
+  },
+  "152": {
+    "id": 152,
+    "order": "150.00000000000000000000",
+    "title": "Liber historiae Francorum",
+    "gnd_url": "https://d-nb.info/gnd/4221132-3",
+    "note": "",
+    "hit_id": "hit_works__152",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Historiographie > Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-05",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-05"
   }
 }

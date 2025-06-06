@@ -7581,6 +7581,11 @@
         "id": 117,
         "value": "hit_hands_role__117",
         "order": "103.00000000000000000000"
+      },
+      {
+        "id": 213,
+        "value": "hit_hands_role__213",
+        "order": "199.00000000000000000000"
       }
     ],
     "role": [
@@ -7603,6 +7608,16 @@
             "color": "darker-red"
           }
         ]
+      },
+      {
+        "id": 213,
+        "value": [
+          {
+            "id": 15376,
+            "value": "Kommentator",
+            "color": "darker-green"
+          }
+        ]
       }
     ],
     "texts": [
@@ -7617,6 +7632,13 @@
         "ids": {
           "database_table_3489": 119,
           "database_table_3491": 146
+        },
+        "value": "De duodecim abusivis saeculi"
+      },
+      {
+        "ids": {
+          "database_table_3489": 119,
+          "database_table_3491": 145
         },
         "value": "De duodecim abusivis saeculi"
       }

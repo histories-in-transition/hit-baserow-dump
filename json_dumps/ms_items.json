@@ -7045,7 +7045,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "Last modified": "2024-07-23",
+    "Last modified": "2025-06-05",
     "Created on": "2024-07-23",
     "Created by": {
       "id": 86,
@@ -7088,10 +7088,22 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
     "form_note": null,
     "column": [],
-    "commented_msitem": [],
+    "commented_msitem": [
+      {
+        "id": 121,
+        "value": "cod_387__121",
+        "order": "92.50000000000000000000"
+      }
+    ],
     "interpolations": [],
     "text_modification": []
   },
@@ -9600,8 +9612,14 @@
     "filiation": null,
     "locus_grp": "36r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2025-05-27",
+    "cod_unit": [
+      {
+        "id": 48,
+        "value": "ÖNB, Cod. 2090, cod. unit 2",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-05",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
@@ -9672,10 +9690,21 @@
         "id": 116,
         "value": "hit_hands_role__116",
         "order": "102.00000000000000000000"
+      },
+      {
+        "id": 213,
+        "value": "hit_hands_role__213",
+        "order": "199.00000000000000000000"
       }
     ],
-    "cod_unit": [],
-    "Last modified": "2025-03-30",
+    "cod_unit": [
+      {
+        "id": 48,
+        "value": "ÖNB, Cod. 2090, cod. unit 2",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-05",
     "Created on": "2024-08-26",
     "Created by": {
       "id": 86,
@@ -9685,8 +9714,15 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "\"Revolve tria folia et quę restant invenies\"",
+    "note": "Weist am unteren Rand den Zusatz \"Revolve tria folia et quę restant invenies\" auf.",
     "hand": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090_H. 38"
+      },
       {
         "ids": {
           "database_table_3487": 21,
@@ -9695,17 +9731,34 @@
         "value": "ÖNB, Cod. 2090_H. 38"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      },
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
-        "id": 17434,
-        "value": "Liste",
-        "color": "darker-red"
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
       }
     ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []
@@ -11542,7 +11595,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-02-18",
+    "Last modified": "2025-06-05",
     "Created on": "2024-12-13",
     "Created by": {
       "id": 86,
@@ -11612,8 +11665,35 @@
       }
     ],
     "commented_msitem": [],
-    "interpolations": [],
-    "text_modification": []
+    "interpolations": [
+      {
+        "id": 152,
+        "value": "Liber historiae Francorum",
+        "order": "150.00000000000000000000"
+      }
+    ],
+    "text_modification": [
+      {
+        "id": 18976,
+        "value": "Ergänzung",
+        "color": "light-blue"
+      },
+      {
+        "id": 19335,
+        "value": "Divergierende Kapitelselektion",
+        "color": "purple"
+      },
+      {
+        "id": 19334,
+        "value": "Auslassung",
+        "color": "orange"
+      },
+      {
+        "id": 18977,
+        "value": "Umstellung",
+        "color": "deep-dark-green"
+      }
+    ]
   },
   "194": {
     "id": 194,
@@ -11750,7 +11830,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-01-17",
+    "Last modified": "2025-06-05",
     "Created on": "2025-01-16",
     "Created by": {
       "id": 86,
@@ -11789,7 +11869,13 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [
+      {
+        "id": 19334,
+        "value": "Auslassung",
+        "color": "orange"
+      }
+    ]
   },
   "192": {
     "id": 192,
@@ -11848,7 +11934,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-06-05",
     "Created on": "2025-01-16",
     "Created by": {
       "id": 86,
@@ -11884,7 +11970,13 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
     "form_note": "",
     "column": [
       {
@@ -11959,7 +12051,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-01-16",
+    "Last modified": "2025-06-05",
     "Created on": "2025-01-16",
     "Created by": {
       "id": 86,
@@ -12002,7 +12094,13 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
     "form_note": "",
     "column": [
       {
@@ -12056,7 +12154,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-01-24",
+    "Last modified": "2025-06-05",
     "Created on": "2025-01-17",
     "Created by": {
       "id": 86,
@@ -12086,8 +12184,25 @@
       }
     ],
     "commented_msitem": [],
-    "interpolations": [],
-    "text_modification": []
+    "interpolations": [
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      },
+      {
+        "id": 152,
+        "value": "Liber historiae Francorum",
+        "order": "150.00000000000000000000"
+      }
+    ],
+    "text_modification": [
+      {
+        "id": 19336,
+        "value": "Neubearbeitung",
+        "color": "darker-red"
+      }
+    ]
   },
   "201": {
     "id": 201,
@@ -12300,7 +12415,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-02-13",
+    "Last modified": "2025-06-05",
     "Created on": "2025-02-13",
     "Created by": {
       "id": 86,
@@ -12322,7 +12437,13 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
     "form_note": "Wurde auf freigebliebenem Pergament geschrieben",
     "column": [
       {
@@ -12421,7 +12542,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-02-13",
+    "Last modified": "2025-06-05",
     "Created on": "2025-02-13",
     "Created by": {
       "id": 86,
@@ -12443,7 +12564,13 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
     "form_note": "",
     "column": [
       {
@@ -12679,7 +12806,7 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "Last modified": "2025-02-20",
+    "Last modified": "2025-06-05",
     "Created on": "2025-02-17",
     "Created by": {
       "id": 86,
@@ -12718,7 +12845,18 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [
+      {
+        "id": 18976,
+        "value": "Ergänzung",
+        "color": "light-blue"
+      },
+      {
+        "id": 19334,
+        "value": "Auslassung",
+        "color": "orange"
+      }
+    ]
   },
   "209": {
     "id": 209,
@@ -13748,8 +13886,8 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "incipit": "",
-    "explicit": "",
+    "incipit": "Conradus dei gratiam romanorum rex",
+    "explicit": "hinc inde deferri permittas",
     "rubric": "",
     "title_work": [
       {
@@ -13766,8 +13904,14 @@
     "filiation": "",
     "locus_grp": "36r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2025-05-28",
+    "cod_unit": [
+      {
+        "id": 48,
+        "value": "ÖNB, Cod. 2090, cod. unit 2",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-05",
     "Created on": "2025-05-28",
     "Created by": {
       "id": 86,
@@ -13781,9 +13925,21 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": "",
-    "column": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf der freigebliebenen unteren Hälfte der Seite bzw. am Ende des Nekrologs eingefügt.",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []
