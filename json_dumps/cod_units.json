@@ -95,10 +95,10 @@
     },
     "Created on": "2024-06-12",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-03-12",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": null,
     "heigth": null,
@@ -151,10 +151,14 @@
       }
     ],
     "ruling": null,
-    "material": null,
-    "material_spec": null,
-    "catchwords": null,
-    "quiremarks": null
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
+    "material_spec": "test",
+    "catchwords": "test",
+    "quiremarks": "test"
   },
   "5": {
     "id": 5,
@@ -222,10 +226,10 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-03-12",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": null,
     "heigth": null,
@@ -266,7 +270,11 @@
       }
     ],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -307,10 +315,10 @@
     },
     "Created on": "2024-07-11",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-03-12",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": null,
     "heigth": null,
@@ -332,7 +340,11 @@
       }
     ],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -381,7 +393,7 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": null,
     "heigth": null,
@@ -397,7 +409,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -528,10 +544,10 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-05-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "1-19",
     "heigth": "255",
@@ -590,7 +606,11 @@
       }
     ],
     "ruling": "Einfache Doppelliniirung von der Aussenseite. An den meisten Blättern ist die Liniirung kaum zu sehen.",
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -625,10 +645,10 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-06-03",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "1-2",
     "heigth": "250",
@@ -664,7 +684,11 @@
     ],
     "strata": [],
     "ruling": "Doppelliniirung von beiden Seiten",
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -699,10 +723,10 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-06-03",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "3-12",
     "heigth": "250",
@@ -750,7 +774,11 @@
     ],
     "strata": [],
     "ruling": "Doppelliniirung von beiden Seiten",
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -785,10 +813,10 @@
     },
     "Created on": "2024-06-24",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-06-03",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "13-26",
     "heigth": "250",
@@ -824,7 +852,11 @@
     ],
     "strata": [],
     "ruling": "Doppelliniirung von beiden Seiten",
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -945,10 +977,10 @@
     },
     "Created on": "2024-07-08",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-06-03",
+    "Last modified": "2025-06-09",
     "orig_date": [
       {
         "id": 4,
@@ -995,7 +1027,11 @@
     ],
     "strata": [],
     "ruling": "Doppelliniirung von den beiden Seiten",
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -1139,7 +1175,7 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": null,
     "heigth": null,
@@ -1155,7 +1191,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -1190,10 +1230,10 @@
     },
     "Created on": "2024-07-18",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-05-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "1",
     "heigth": "355-360",
@@ -1277,7 +1317,11 @@
       }
     ],
     "ruling": "Rein horizontale Blindlinierug bis auf das später eingefügte Blatt 4, das durch eine zusätzliche vertikale Linierung zwei große Hauptfelder samt zweier kleiner in der Mitte aufweist.",
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -1315,7 +1359,7 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "1-13",
     "heigth": "285",
@@ -1351,7 +1395,11 @@
     ],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -1389,7 +1437,7 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "1-35",
     "heigth": "280",
@@ -1437,7 +1485,11 @@
     ],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -1472,10 +1524,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-06-03",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "1-6",
     "heigth": "240",
@@ -1529,7 +1581,11 @@
     ],
     "strata": [],
     "ruling": "Einfache vertikale und horizontale Liniirung von beiden Seiten.",
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -1564,10 +1620,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-06-03",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "7-16",
     "heigth": "240",
@@ -1603,7 +1659,11 @@
     ],
     "strata": [],
     "ruling": "Doppelliniirung rechts von den beiden Spalten",
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -1638,10 +1698,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-06-03",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "1-19",
     "heigth": "260",
@@ -1677,7 +1737,11 @@
     ],
     "strata": [],
     "ruling": "",
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -1712,10 +1776,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-05-28",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": null,
     "heigth": "250",
@@ -1775,7 +1839,11 @@
       }
     ],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -1810,10 +1878,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-05-28",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": null,
     "heigth": "250",
@@ -1861,7 +1929,11 @@
       }
     ],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -1899,7 +1971,7 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "1-26",
     "heigth": "165-170",
@@ -1935,7 +2007,11 @@
     ],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -1970,10 +2046,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "1-26",
     "heigth": "190",
@@ -2009,7 +2085,11 @@
     ],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2047,7 +2127,7 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "1-7",
     "heigth": "180",
@@ -2083,7 +2163,11 @@
     ],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2121,7 +2205,7 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": null,
     "heigth": "205",
@@ -2169,7 +2253,11 @@
     ],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2207,7 +2295,7 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "1-29",
     "heigth": "325",
@@ -2255,7 +2343,11 @@
     ],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2293,7 +2385,7 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "1-27",
     "heigth": "330",
@@ -2329,7 +2421,11 @@
     ],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2367,7 +2463,7 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": null,
     "heigth": null,
@@ -2397,7 +2493,11 @@
     ],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2435,7 +2535,7 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-09",
     "orig_date": [
       {
         "id": 60,
@@ -2494,7 +2594,11 @@
     ],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2532,7 +2636,7 @@
       "id": 36,
       "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-01-22",
+    "Last modified": "2025-06-09",
     "orig_date": [
       {
         "id": 36,
@@ -2568,7 +2672,11 @@
     ],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2603,10 +2711,10 @@
     },
     "Created on": "2025-02-17",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-02-17",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -2622,7 +2730,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2657,10 +2769,10 @@
     },
     "Created on": "2025-02-17",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-02-17",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -2676,7 +2788,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2711,10 +2827,10 @@
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -2730,7 +2846,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2765,10 +2885,10 @@
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -2784,7 +2904,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2819,10 +2943,10 @@
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -2838,7 +2962,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2873,10 +3001,10 @@
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -2892,7 +3020,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2927,10 +3059,10 @@
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -2946,7 +3078,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -2981,10 +3117,10 @@
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -3000,7 +3136,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -3035,10 +3175,10 @@
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -3054,7 +3194,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -3089,10 +3233,10 @@
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -3108,7 +3252,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -3143,10 +3291,10 @@
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -3162,7 +3310,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -3197,10 +3349,10 @@
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -3216,7 +3368,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -3251,10 +3407,10 @@
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -3270,7 +3426,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -3305,10 +3465,10 @@
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-04-30",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "",
@@ -3324,7 +3484,11 @@
     "prov_place": [],
     "strata": [],
     "ruling": null,
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -3359,10 +3523,10 @@
     },
     "Created on": "2025-05-22",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-05-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "2-5",
     "heigth": "365",
@@ -3415,7 +3579,11 @@
       }
     ],
     "ruling": "Schwach erkennbare Linierung mit einem mittigen Hauptfeld für die Namenseinträge des Martyrologs + Nekrologiums, zwei kleinern Feldern am linken Rand für die Tagesdatierung und ein kleines Feld am rechten Rand. Der rechte Begrenzungsrahmen kann doppelt ausgeführt sein.",
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -3450,10 +3618,10 @@
     },
     "Created on": "2025-05-22",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-05-22",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "6-12?",
     "heigth": "365",
@@ -3501,7 +3669,11 @@
       }
     ],
     "ruling": "Blindlinierung mit zwei eingerahmten Hauptfeldern, dazwischen eine vertikale Trennlinierung, durch die zwei weitere kleinere Felder entstanden sind. Ist mit der Linierung auf Blatt 4 ident.",
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
@@ -3536,10 +3708,10 @@
     },
     "Created on": "2025-05-23",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-05-27",
+    "Last modified": "2025-06-09",
     "orig_date": [],
     "quires_number": "",
     "heigth": "163",
@@ -3586,7 +3758,11 @@
       }
     ],
     "ruling": "",
-    "material": null,
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
     "material_spec": null,
     "catchwords": null,
     "quiremarks": null
