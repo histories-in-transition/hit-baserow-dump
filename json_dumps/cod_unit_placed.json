@@ -275,7 +275,18 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 10,
+        "value": "vor 784",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 28,
+        "value": "8 Jh.",
+        "order": "28.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -318,7 +329,13 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 5,
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -361,7 +378,13 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 5,
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -398,7 +421,13 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 5,
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -441,7 +470,18 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 4,
+        "value": "10 Jh., Mitte",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "10 Jh., zweite Hälfte",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -484,7 +524,13 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 11,
+        "value": "10 Jh., spät",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -527,7 +573,13 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 3,
+        "value": "9 Jh., Mitte",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -564,13 +616,25 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 59,
+        "value": "9 Jh., zweite Hälfte",
+        "order": "59.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
       "color": "deep-dark-orange"
     },
-    "till": [],
+    "till": [
+      {
+        "id": 36,
+        "value": "12. Jh.",
+        "order": "36.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
@@ -601,7 +665,13 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 58,
+        "value": "8 Jh., Mitte",
+        "order": "58.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -644,7 +714,13 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 14,
+        "value": "8 Jh., spät",
+        "order": "14.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -736,7 +812,13 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 69,
+        "value": "gegen 1000",
+        "order": "69.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -779,7 +861,13 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 12,
+        "value": "8 Jh., Ende",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -822,7 +910,13 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 11,
+        "value": "10 Jh., spät",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -865,7 +959,13 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 13,
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -908,20 +1008,43 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 7,
+        "value": "9 Jh., erstes Viertel",
+        "order": "7.00000000000000000000"
+      },
+      {
+        "id": 12,
+        "value": "8 Jh., Ende",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
       "color": "deep-dark-orange"
     },
-    "till": [],
+    "till": [
+      {
+        "id": 70,
+        "value": "vor 1687",
+        "order": "70.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
         "value": "BSB, Clm. 1086"
       }
     ],
-    "authority": [],
+    "authority": [
+      {
+        "id": 15,
+        "value": "Trede J.,",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "page": "",
     "uncertain_from": false,
     "uncertain_till": false,
@@ -945,7 +1068,13 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 6,
+        "value": "9 Jh., erste Hälfte",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
@@ -980,25 +1109,48 @@
         "id": 19,
         "value": "Regensburg",
         "order": "17.00000000000000000000"
+      },
+      {
+        "id": 25,
+        "value": "St. Emmeram",
+        "order": "23.00000000000000000000"
       }
     ],
-    "from": [],
+    "from": [
+      {
+        "id": 6,
+        "value": "9 Jh., erste Hälfte",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "type": {
       "id": 18150,
       "value": "orig",
       "color": "deep-dark-orange"
     },
-    "till": [],
+    "till": [
+      {
+        "id": 37,
+        "value": "15. Jh., erste Hälfte",
+        "order": "37.00000000000000000000"
+      }
+    ],
     "ms": [
       {
         "id": 4,
         "value": "BSB, Clm. 6376"
       }
     ],
-    "authority": [],
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche G.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "page": "",
     "uncertain_from": false,
-    "uncertain_till": false,
+    "uncertain_till": true,
     "uncertain_place": false
   },
   "25": {
@@ -1524,6 +1676,55 @@
     "authority": [],
     "page": "",
     "uncertain_from": false,
+    "uncertain_till": false,
+    "uncertain_place": false
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "hit_id": "hit_codunit_place__37",
+    "cod_unit": [
+      {
+        "id": 28,
+        "value": "BSB, Clm. 6376, cod. unit 1",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "from": [
+      {
+        "id": 37,
+        "value": "15. Jh., erste Hälfte",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "type": {
+      "id": 18151,
+      "value": "prov",
+      "color": "darker-blue"
+    },
+    "till": [
+      {
+        "id": 62,
+        "value": "1802-1803",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6376"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "uncertain_from": true,
     "uncertain_till": false,
     "uncertain_place": false
   }

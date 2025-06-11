@@ -2408,15 +2408,34 @@
         "id": 24,
         "value": "hit_codunit_place__24",
         "order": "24.00000000000000000000"
+      },
+      {
+        "id": 37,
+        "value": "hit_codunit_place__37",
+        "order": "37.00000000000000000000"
       }
     ],
     "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 37
+        },
+        "value": "Freising"
+      },
       {
         "ids": {
           "database_table_3492": 19,
           "database_table_3840": 24
         },
         "value": "Regensburg"
+      },
+      {
+        "ids": {
+          "database_table_3492": 25,
+          "database_table_3840": 24
+        },
+        "value": "St. Emmeram"
       }
     ],
     "strata": [],

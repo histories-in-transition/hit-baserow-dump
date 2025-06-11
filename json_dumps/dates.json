@@ -1154,5 +1154,22 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2025-05-21"
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "label": "vor 1687",
+    "not_before": "1600-01-01",
+    "hit_id": "hit_date__70",
+    "not_after": "1687-12-31",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-06-10"
   }
 }
