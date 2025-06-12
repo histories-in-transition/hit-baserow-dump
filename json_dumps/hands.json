@@ -12566,5 +12566,178 @@
         "order": "1.00000000000000000000"
       }
     ]
+  },
+  "156": {
+    "id": 156,
+    "order": "147.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 17,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 1086_H. 1"
+      }
+    ],
+    "description": "Bischoff beschreibt diese Hand als runde, gefällige und kräftige, ausdrückich Süddeutsch. Unter spezielen Buchstabenformen fällen cc-a und runde d auf, die Oberlängen der Buchstaben sind \"keulenformig verdickt\". Die typischen Ligaturen einschliessen *di*, *nt*, *or*, *rex*,*ri*, *ro*. Die Hand ist reich an den Abkürzungen, z.B. *au*, *dicitur* durch *dˉr*, *esse* durch *ēc*, ++ und ÷, die q-Wörter sind meistens verkürzt, dabei *q•* für *quae*, *q;* für *que*, *q* mit *i* darunter für *qui* etc. Auch die Pronomen und Konjunktionen verschiedener Art wurden verkürzt: *tamen* durch *t͞m*, *con* durch *c͞*, Es steht *or* mit Kreuzstrich für die Endung *-orum*, *t²* für *-tur, b;* für *-bus, ei'* für *eius etc.* Die Geheimschrift auf S. 71v gehört wahrscheinlich derselben Hand, die aber hier eine insuläre Vorlage benutzt.",
+    "hit_id": "hit_hands__156",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-06-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-06-11",
+    "hands_role": [
+      {
+        "id": 214,
+        "value": "hit_hands_role__214",
+        "order": "200.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 214,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 38,
+          "database_table_3491": 60
+        },
+        "value": "Vita sancti Bonifatii"
+      },
+      {
+        "ids": {
+          "database_table_3489": 39,
+          "database_table_3491": 61
+        },
+        "value": "Vita sancti Wunebaldi"
+      },
+      {
+        "ids": {
+          "database_table_3489": 40,
+          "database_table_3491": 62
+        },
+        "value": "Vita sancti Willibaldi"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 119,
+        "value": "hit_hands_dated__119",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 28,
+          "database_table_3520": 119
+        },
+        "value": "8 Jh."
+      },
+      {
+        "ids": {
+          "database_table_3512": 52,
+          "database_table_3520": 119
+        },
+        "value": "9 Jh."
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 56,
+        "value": "hit_hands_placed__56",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "157": {
+    "id": 157,
+    "order": "148.00000000000000000000",
+    "label": [],
+    "description": "",
+    "hit_id": "hit_hands__157",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-06-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-06-11",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "158": {
+    "id": 158,
+    "order": "149.00000000000000000000",
+    "label": [],
+    "description": "",
+    "hit_id": "hit_hands__158",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-06-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-06-11",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
   }
 }

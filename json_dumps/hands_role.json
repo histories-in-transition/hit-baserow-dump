@@ -12721,5 +12721,121 @@
     ],
     "scribe_type": [],
     "strata": []
+  },
+  "214": {
+    "id": 214,
+    "order": "200.00000000000000000000",
+    "hit_id": "hit_hands_role__214",
+    "hand": [
+      {
+        "id": 156,
+        "value": "BSB, Clm. 1086_H. 1",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 60,
+        "value": "clm_1086__60",
+        "order": "53.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "clm_1086__61",
+        "order": "54.00000000000000000000"
+      },
+      {
+        "id": 62,
+        "value": "clm_1086__62",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "1r-102v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 38,
+          "database_table_3491": 60
+        },
+        "value": "Vita sancti Bonifatii"
+      },
+      {
+        "ids": {
+          "database_table_3489": 39,
+          "database_table_3491": 61
+        },
+        "value": "Vita sancti Wunebaldi"
+      },
+      {
+        "ids": {
+          "database_table_3489": 40,
+          "database_table_3491": 62
+        },
+        "value": "Vita sancti Willibaldi"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 60,
+        "value": "1r-44v"
+      },
+      {
+        "id": 61,
+        "value": "44v-71v"
+      },
+      {
+        "id": 62,
+        "value": "71v-102v"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-06-11",
+    "Last modified": "2025-06-11",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      },
+      {
+        "id": 15096,
+        "value": "marginal rechts",
+        "color": "darker-red"
+      },
+      {
+        "id": 15383,
+        "value": "marginal links",
+        "color": "darker-brown"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 42,
+        "value": "Clm. 1086, Stratum 1",
+        "order": "39.00000000000000000000"
+      }
+    ]
   }
 }

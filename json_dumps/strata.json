@@ -3867,5 +3867,110 @@
         "value": "ÖNB, Cod. 1029, cod. unit 1"
       }
     ]
+  },
+  "42": {
+    "id": 42,
+    "order": "39.00000000000000000000",
+    "label": [
+      {
+        "id": 17,
+        "value": "Clm. 1086, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 14761,
+        "value": "base",
+        "color": "yellow"
+      },
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__42",
+    "hand_role": [
+      {
+        "id": 214,
+        "value": "hit_hands_role__214",
+        "order": "200.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 38,
+          "database_table_3491": 60
+        },
+        "value": "Vita sancti Bonifatii"
+      },
+      {
+        "ids": {
+          "database_table_3489": 39,
+          "database_table_3491": 61
+        },
+        "value": "Vita sancti Wunebaldi"
+      },
+      {
+        "ids": {
+          "database_table_3489": 40,
+          "database_table_3491": 62
+        },
+        "value": "Vita sancti Willibaldi"
+      }
+    ],
+    "quires": [],
+    "locus": [
+      {
+        "id": 60,
+        "value": "1r-44v"
+      },
+      {
+        "id": 61,
+        "value": "44v-71v"
+      },
+      {
+        "id": 62,
+        "value": "71v-102v"
+      }
+    ],
+    "note": "Das einzige Stratum der Handschrift, das die Anlage und einzelne Marginalien umfasst. Die Grundtexte sind sehr sauber geschrieben. Die Marginalien organisieren den Inhalt, in dem sie sich Hiweise darstellen, warüber es in dem Kapitel geht.",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-06-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-06-11",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [
+      {
+        "id": 26,
+        "value": "BSB, Clm. 1086, cod. unit 1",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 17,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 1086, cod. unit 1"
+      }
+    ]
   }
 }

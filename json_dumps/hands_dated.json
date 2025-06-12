@@ -3757,5 +3757,49 @@
     "Last modified": "2025-05-30",
     "Created on": "2025-05-30",
     "note": ""
+  },
+  "119": {
+    "id": 119,
+    "order": "116.00000000000000000000",
+    "hit_id": "hit_hands_dated__119",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "148",
+    "dated": [
+      {
+        "id": 28,
+        "value": "8 Jh.",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 52,
+        "value": "9 Jh.",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 156,
+        "value": "BSB, Clm. 1086_H. 1",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-06-11",
+    "Created on": "2025-06-11",
+    "note": ""
   }
 }

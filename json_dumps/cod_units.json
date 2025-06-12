@@ -95,20 +95,20 @@
     },
     "Created on": "2024-06-12",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-06-11",
     "orig_date": [],
     "quires_number": null,
-    "heigth": null,
+    "heigth": "235",
     "lines_number": null,
     "decorations": "",
     "codicological_reworking": [],
     "basic_structure": [],
     "written_width": null,
     "written_height": null,
-    "width": null,
+    "width": "170",
     "columns": [],
     "cod_unit_placed": [
       {
@@ -156,9 +156,9 @@
       "value": "Pergament",
       "color": "red"
     },
-    "material_spec": "test",
+    "material_spec": "Schafpergament",
     "catchwords": "test",
-    "quiremarks": "test"
+    "quiremarks": "Nicht durchgehend; in römischen Zahlen."
   },
   "5": {
     "id": 5,
@@ -226,20 +226,20 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-06-11",
     "orig_date": [],
     "quires_number": null,
-    "heigth": null,
+    "heigth": "TBD",
     "lines_number": null,
     "decorations": "",
     "codicological_reworking": [],
     "basic_structure": [],
     "written_width": null,
     "written_height": null,
-    "width": null,
+    "width": "TBD",
     "columns": [],
     "cod_unit_placed": [
       {
@@ -275,9 +275,9 @@
       "value": "Pergament",
       "color": "red"
     },
-    "material_spec": null,
+    "material_spec": "Schafpergament",
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "TBD"
   },
   "11": {
     "id": 11,
@@ -315,20 +315,20 @@
     },
     "Created on": "2024-07-11",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-06-11",
     "orig_date": [],
     "quires_number": null,
-    "heigth": null,
+    "heigth": "TBD",
     "lines_number": null,
     "decorations": "",
     "codicological_reworking": [],
     "basic_structure": [],
     "written_width": null,
     "written_height": null,
-    "width": null,
+    "width": "TBD",
     "columns": [],
     "cod_unit_placed": [],
     "prov_place": [],
@@ -345,9 +345,9 @@
       "value": "Pergament",
       "color": "red"
     },
-    "material_spec": null,
+    "material_spec": "Schafpergament",
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "TBD"
   },
   "13": {
     "id": 13,
@@ -390,20 +390,20 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-06-11",
     "orig_date": [],
     "quires_number": null,
-    "heigth": null,
+    "heigth": "340 TBD",
     "lines_number": null,
     "decorations": "",
     "codicological_reworking": [],
     "basic_structure": [],
     "written_width": null,
     "written_height": null,
-    "width": null,
+    "width": "240",
     "columns": [],
     "cod_unit_placed": [],
     "prov_place": [],
@@ -414,9 +414,9 @@
       "value": "Pergament",
       "color": "red"
     },
-    "material_spec": null,
+    "material_spec": "Mehrere Blätter aus Kalbpergament. Haarseiten sind teils sehr dunkel.",
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "Lagenzählung zunächst mit Majuskeln, später mit Zahlen."
   },
   "4": {
     "id": 4,
@@ -544,22 +544,16 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-06-11",
     "orig_date": [],
     "quires_number": "1-19",
     "heigth": "255",
     "lines_number": "23",
     "decorations": "Auf 4r ein rundes Bild, darstellend drei Kontinenten. \nDie beiden letzten,einander gegenüberliegenden Seiten (148V/149R) sind gleichartig figural geschrieben: beide in Form eines auf der Spitze stehenden gleichschenkligen Dreiecks (Bishoff, 77)",
-    "codicological_reworking": [
-      {
-        "id": 17462,
-        "value": "sheet extractions",
-        "color": "light-yellow"
-      }
-    ],
+    "codicological_reworking": [],
     "basic_structure": [
       {
         "id": 18145,
@@ -1172,10 +1166,10 @@
     },
     "Created on": "2024-07-18",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-06-11",
     "orig_date": [],
     "quires_number": null,
     "heigth": null,
@@ -1196,7 +1190,7 @@
       "value": "Pergament",
       "color": "red"
     },
-    "material_spec": null,
+    "material_spec": "Haarseiten mitunter sehr dunkel. Kalbpergament wohl nur bei f. 165.",
     "catchwords": null,
     "quiremarks": null
   },
@@ -1230,10 +1224,10 @@
     },
     "Created on": "2024-07-18",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-06-11",
     "orig_date": [],
     "quires_number": "1",
     "heigth": "355-360",
@@ -1322,9 +1316,9 @@
       "value": "Pergament",
       "color": "red"
     },
-    "material_spec": null,
-    "catchwords": null,
-    "quiremarks": null
+    "material_spec": "Pergament von variierender, aber grundsätzlich robuster Qualität. Regelmäßig sind kleinere Löcher, genähte Risse oder abgeschnittene Seitenteile zu finden. Wurde restauriert (vermutlich 1994).",
+    "catchwords": "Nicht vorhanden",
+    "quiremarks": "Nicht vorhanden"
   },
   "16": {
     "id": 16,
@@ -2202,17 +2196,23 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-06-11",
     "orig_date": [],
     "quires_number": null,
     "heigth": "205",
     "lines_number": "18",
-    "decorations": "",
+    "decorations": "Flechtbandinitiale in Rot oder Braun (Bl. 1ʳ, 3ʳ, 15ⱽ, 28ⱽ, 44ⱽ, 45ⱽ, 66ʳ, 82ʳ, 100ⱽ und andere), typisch für bayerische Ornamentik",
     "codicological_reworking": [],
-    "basic_structure": [],
+    "basic_structure": [
+      {
+        "id": 18146,
+        "value": "FHHF",
+        "color": "darker-gray"
+      }
+    ],
     "written_width": "95-105",
     "written_height": "145-155",
     "width": "140",
@@ -2251,7 +2251,13 @@
         "value": "Bistum Eichstätt"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 42,
+        "value": "Clm. 1086, Stratum 1",
+        "order": "39.00000000000000000000"
+      }
+    ],
     "ruling": null,
     "material": {
       "id": 19338,
@@ -3542,10 +3548,10 @@
     },
     "Created on": "2025-05-22",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-06-11",
     "orig_date": [],
     "quires_number": "2-5",
     "heigth": "365",
@@ -3603,9 +3609,9 @@
       "value": "Pergament",
       "color": "red"
     },
-    "material_spec": null,
-    "catchwords": null,
-    "quiremarks": null
+    "material_spec": "Pergament von variierender, aber grundsätzlich robuster Qualität. Regelmäßig sind kleinere Löcher, genähte Risse oder abgeschnittene Seitenteile zu finden. Wurde restauriert (vermutlich 1994).",
+    "catchwords": "Nicht vorhanden",
+    "quiremarks": "Nicht vorhanden"
   },
   "49": {
     "id": 49,
@@ -3637,10 +3643,10 @@
     },
     "Created on": "2025-05-22",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-06-11",
     "orig_date": [],
     "quires_number": "6-12?",
     "heigth": "365",
@@ -3693,9 +3699,9 @@
       "value": "Pergament",
       "color": "red"
     },
-    "material_spec": null,
-    "catchwords": null,
-    "quiremarks": null
+    "material_spec": "Pergament von variierender, aber grundsätzlich robuster Qualität. Regelmäßig sind kleinere Löcher, genähte Risse oder abgeschnittene Seitenteile zu finden. Wurde restauriert (vermutlich 1994).",
+    "catchwords": "Nicht vorhanden",
+    "quiremarks": "Nicht vorhanden"
   },
   "50": {
     "id": 50,
@@ -3727,10 +3733,10 @@
     },
     "Created on": "2025-05-23",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-06-11",
     "orig_date": [],
     "quires_number": "",
     "heigth": "163",
@@ -3782,7 +3788,7 @@
       "value": "Pergament",
       "color": "red"
     },
-    "material_spec": null,
+    "material_spec": "Kleinformat",
     "catchwords": null,
     "quiremarks": null
   }
