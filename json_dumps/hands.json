@@ -12681,14 +12681,28 @@
   "157": {
     "id": 157,
     "order": "148.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 16,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6376_H. 1"
+      }
+    ],
     "description": "",
     "hit_id": "hit_hands__157",
     "similar_hands": [],
     "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
-    "note": "",
+    "manuscript": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6376",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "Die Hand, laut Bischoff, ist im Duktus und manchen Eigenschaften (insbesondere die Abkürzung -orum durch die Ligatur -or mit einem Kreuzstrich und einem Punkt darüber) einer Hand in Clm 14078 (f. 124ff) verwandt.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -12698,13 +12712,50 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-11",
-    "hands_role": [],
-    "role": [],
+    "Last modified": "2025-06-12",
+    "hands_role": [
+      {
+        "id": 215,
+        "value": "hit_hands_role__215",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 215,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
     "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 120,
+        "value": "hit_hands_dated__120",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 6,
+          "database_table_3520": 120
+        },
+        "value": "9 Jh., erste Hälfte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 57,
+        "value": "hit_hands_placed__57",
+        "order": "57.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": []
@@ -12712,13 +12763,27 @@
   "158": {
     "id": 158,
     "order": "149.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 16,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6376_H. 2"
+      }
+    ],
     "description": "",
     "hit_id": "hit_hands__158",
     "similar_hands": [],
     "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
+    "manuscript": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6376",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "number": "2",
     "note": "",
     "Created by": {
       "id": 87,
@@ -12729,13 +12794,206 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-11",
-    "hands_role": [],
-    "role": [],
+    "Last modified": "2025-06-12",
+    "hands_role": [
+      {
+        "id": 216,
+        "value": "hit_hands_role__216",
+        "order": "202.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 216,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
     "texts": [],
-    "hands_dated": [],
+    "hands_dated": [
+      {
+        "id": 121,
+        "value": "hit_hands_dated__121",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 6,
+          "database_table_3520": 121
+        },
+        "value": "9 Jh., erste Hälfte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 57,
+        "value": "hit_hands_placed__57",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "159": {
+    "id": 159,
+    "order": "150.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 16,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6376_H. 3"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__159",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6376",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "number": "3",
+    "note": "Die Hand, laut Bischoff, ist ähnlich wie eine Hand in Clm 14510 (1r ff).",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-06-12",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-06-12",
+    "hands_role": [
+      {
+        "id": 217,
+        "value": "hit_hands_role__217",
+        "order": "203.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 217,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [],
+    "hands_dated": [
+      {
+        "id": 122,
+        "value": "hit_hands_dated__122",
+        "order": "119.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 6,
+          "database_table_3520": 122
+        },
+        "value": "9 Jh., erste Hälfte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 57,
+        "value": "hit_hands_placed__57",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "160": {
+    "id": 160,
+    "order": "151.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 16,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6376_H. 4"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__160",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6376",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "number": "4",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-06-12",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-06-12",
+    "hands_role": [
+      {
+        "id": 218,
+        "value": "hit_hands_role__218",
+        "order": "204.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 218,
+        "value": [
+          {
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
+          }
+        ]
+      }
+    ],
+    "texts": [],
+    "hands_dated": [
+      {
+        "id": 123,
+        "value": "hit_hands_dated__123",
+        "order": "120.00000000000000000000"
+      }
+    ],
     "dating": [],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 58,
+        "value": "hit_hands_placed__58",
+        "order": "58.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": []

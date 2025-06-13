@@ -2159,9 +2159,9 @@
       }
     ],
     "extent": "I + 213",
-    "foliation": "19 Jh., in neuester Zeit korrigiert",
-    "acc_mat": "",
-    "binding": "Heller spätgotischer Ledereinband; er \"unterscheidet sich wesentlich von den übrigen Freisinger Einbänden des 15. Jahrhunderts\", im einzelnen: \"Schwache Holzdeckel, Rücken und zwei Drittel der Deckel mit Schafleder bezogen, die restlichen Deckelflächen sind mit Pergamentstücken verschiedener Größe beklebt. Diese pergamentbezogenen Flächen werden auf allen vier Seiten von ca. 2 ½ cm breiten, mit Eisennägeln befestigten Lederstreifen eingerahmt, die auf den drei Außenkanten nach innen umgeschlagen und festgeklebt sind. Zwei jetzt abgeschnittene, aus starkem Schweinsleder bestehende Schließen, mit je einem Eisennagel an der Außenkante des hinteren Deckels befestigt, griffen … über den vorderen Deckel, wo sie in einen jetzt ausgebrochenen Stift eingehakt werden konnten.\" ( Brunhölzl, S. 255f. mit Anm.). Am Vorderdeckel Aufschrift Ecclesiastica historiaund ganz oben Papierschild mit Nummer M 7. Am Rücken Papierzettel (17.Jh.) mit Standortsignatur LH 9.",
+    "foliation": "19 Jh., mit Fehlern, in neuester Zeit korrigiert",
+    "acc_mat": "Am Rücken Papierzettel (17.Jh.) mit Standortsignatur LH 9.",
+    "binding": "Heller spätgotischer Ledereinband; er \"unterscheidet sich wesentlich von den übrigen Freisinger Einbänden des 15. Jahrhunderts\", im einzelnen: \"Schwache Holzdeckel, Rücken und zwei Drittel der Deckel mit Schafleder bezogen, die restlichen Deckelflächen sind mit Pergamentstücken verschiedener Größe beklebt. Diese pergamentbezogenen Flächen werden auf allen vier Seiten von ca. 2 ½ cm breiten, mit Eisennägeln befestigten Lederstreifen eingerahmt, die auf den drei Außenkanten nach innen umgeschlagen und festgeklebt sind. Zwei jetzt abgeschnittene, aus starkem Schweinsleder bestehende Schließen, mit je einem Eisennagel an der Außenkante des hinteren Deckels befestigt, griffen … über den vorderen Deckel, wo sie in einen jetzt ausgebrochenen Stift eingehakt werden konnten.\" ( Brunhölzl, S. 255f. mit Anm.). Am Vorderdeckel Aufschrift Ecclesiastica historiaund ganz oben Papierschild mit Nummer M 7.",
     "binding_date": [
       {
         "id": 54,
@@ -2173,7 +2173,7 @@
     "bibliography": [],
     "height": "335",
     "width": "225",
-    "material_spec": "",
+    "material_spec": "Kalbpergament",
     "orig_place": [
       {
         "id": 19,
@@ -2182,7 +2182,7 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": "am Ende I**7**– XXVI**205** in Raute, einige abgeschnitten",
+    "quiremarks": "am Ende I**7**– XXVI**205**, einige abgeschnitten, die Zahlen stehen in rhombischen Rahmen",
     "material": {
       "id": 14782,
       "value": "Pergament",
@@ -2232,7 +2232,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2025-04-29",
+    "Last modified": "2025-06-12",
     "content_summary": "Cassiodorum",
     "charakter": [
       {
