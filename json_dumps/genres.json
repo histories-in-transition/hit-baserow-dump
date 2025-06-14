@@ -447,30 +447,10 @@
     "sub_genre": "Excerpta",
     "main_genre": null
   },
-  "22": {
-    "id": 22,
-    "order": "21.00000000000000000000",
-    "label": " > Katalog",
-    "genre": "Katalog",
-    "hit_id": "hit_genres__22",
-    "m_genre": [],
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-10-22",
-    "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Last modified": "2025-05-08",
-    "sub_genre": "Katalog",
-    "main_genre": null
-  },
   "23": {
     "id": 23,
     "order": "22.00000000000000000000",
-    "label": "Historiographie > Bischofskatalog",
+    "label": "Historiographie > Papst-/Bischofskatalog",
     "genre": "Bischofskatalog",
     "hit_id": "hit_genres__23",
     "m_genre": [
@@ -486,11 +466,11 @@
     },
     "Created on": "2025-04-02",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
-    "sub_genre": "Bischofskatalog",
+    "Last modified": "2025-06-13",
+    "sub_genre": "Papst-/Bischofskatalog",
     "main_genre": "Historiographie"
   },
   "24": {
@@ -556,7 +536,7 @@
   "27": {
     "id": 27,
     "order": "26.00000000000000000000",
-    "label": "Historiographie / Hagiographie > Papstkatalog / Papstbiographien",
+    "label": "Hagiographie > Papst-/Bischofskatalog",
     "genre": "Papstkatalog / Papstbiographie",
     "hit_id": "hit_genres__27",
     "m_genre": [
@@ -580,9 +560,9 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-23",
-    "sub_genre": "Papstkatalog / Papstbiographien",
-    "main_genre": "Historiographie / Hagiographie"
+    "Last modified": "2025-06-13",
+    "sub_genre": "Papst-/Bischofskatalog",
+    "main_genre": "Hagiographie"
   },
   "28": {
     "id": 28,
@@ -643,5 +623,25 @@
     "Last modified": "2025-05-29",
     "sub_genre": "Bibelauszug",
     "main_genre": "Theologische Literatur"
+  },
+  "31": {
+    "id": 31,
+    "order": "30.00000000000000000000",
+    "label": " > ",
+    "genre": "",
+    "hit_id": "hit_genres__31",
+    "m_genre": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-13",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-13",
+    "sub_genre": "",
+    "main_genre": ""
   }
 }

@@ -7098,7 +7098,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-05",
+    "Last modified": "2025-06-13",
     "Created on": "2024-07-23",
     "Created by": {
       "id": 86,
@@ -7148,8 +7148,14 @@
         "color": "darker-cyan"
       }
     ],
-    "form_note": null,
-    "column": [],
+    "form_note": "Am Rande einer Ostertafel eingefügte annalistische Notizen.",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [
       {
         "id": 121,

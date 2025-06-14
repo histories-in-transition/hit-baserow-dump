@@ -1568,7 +1568,13 @@
         "value": "10. Jh., viertes Viertel"
       }
     ],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 63,
+        "value": "hit_hands_placed__63",
+        "order": "63.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": [
@@ -3014,9 +3020,9 @@
         "id": 50,
         "value": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\" OUTDATED",
-            "color": "darker-cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -3110,9 +3116,9 @@
         "id": 55,
         "value": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\" OUTDATED",
-            "color": "darker-cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -3171,7 +3177,7 @@
         "value": "ÖNB, Cod. 387_H. 6"
       }
     ],
-    "description": "",
+    "description": "Aus pragmatischen Gründen angelegte Gruppe an Händen, die im 12. Jahrhundert annalistische Notizen zu älteren Ereignissen am Rande einer älteren Ostertafel einfügt.",
     "hit_id": "hit_hands__36",
     "similar_hands": [
       {
@@ -3189,17 +3195,17 @@
       }
     ],
     "number": "6",
-    "note": "Platzhalter: Schreibergruppe 12. Jh.",
+    "note": null,
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-23",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-05",
+    "Last modified": "2025-06-13",
     "hands_role": [
       {
         "id": 58,
@@ -3212,9 +3218,9 @@
         "id": 58,
         "value": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\" OUTDATED",
-            "color": "darker-cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -3244,9 +3250,15 @@
         "value": "12. Jh."
       }
     ],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 60,
+        "value": "hit_hands_placed__60",
+        "order": "60.00000000000000000000"
+      }
+    ],
     "scribe": [],
-    "gruppe": false,
+    "gruppe": true,
     "author_entry": [
       {
         "id": 1,
@@ -3267,7 +3279,7 @@
         "value": "ÖNB, Cod. 387_H. 7"
       }
     ],
-    "description": "",
+    "description": "Aus pragmatischen Gründen angelegte Gruppe an Händen, die im 10. Jahrhundert annalistische Notizen ungefähr zeitgleich zu den Ereignissen am Rande einer älteren Ostertafel einfügt.",
     "hit_id": "hit_hands__37",
     "similar_hands": [],
     "nr_daniel": "",
@@ -3279,17 +3291,17 @@
       }
     ],
     "number": "7",
-    "note": "Platzhalter: Schreibergruppe 10. Jh.",
+    "note": null,
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-23",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-05",
+    "Last modified": "2025-06-13",
     "hands_role": [
       {
         "id": 59,
@@ -3302,9 +3314,9 @@
         "id": 59,
         "value": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\" OUTDATED",
-            "color": "darker-cyan"
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
           }
         ]
       }
@@ -3334,9 +3346,15 @@
         "value": "10. Jh."
       }
     ],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 61,
+        "value": "hit_hands_placed__61",
+        "order": "61.00000000000000000000"
+      }
+    ],
     "scribe": [],
-    "gruppe": false,
+    "gruppe": true,
     "author_entry": [
       {
         "id": 1,
@@ -3357,7 +3375,7 @@
         "value": "ÖNB, Cod. 387_H. 10"
       }
     ],
-    "description": "",
+    "description": "Aus pragmatischen Gründen angelegte Gruppe an Händen, die im 11. Jahrhundert annalistische Notizen ungefähr zeitgleich zu den Ereignissen am Rande einer älteren Ostertafel einfügt. Hinweis: Mögliche Überschneidungen mit ÖNB, Cod. 2090!",
     "hit_id": "hit_hands__40",
     "similar_hands": [],
     "nr_daniel": "",
@@ -3369,17 +3387,17 @@
       }
     ],
     "number": "10",
-    "note": "Platzhalter: Schreibergruppe 11. Jh.",
+    "note": "",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-26",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-05",
+    "Last modified": "2025-06-13",
     "hands_role": [
       {
         "id": 48,
@@ -3424,9 +3442,15 @@
         "value": "11 Jh."
       }
     ],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 62,
+        "value": "hit_hands_placed__62",
+        "order": "62.00000000000000000000"
+      }
+    ],
     "scribe": [],
-    "gruppe": false,
+    "gruppe": true,
     "author_entry": [
       {
         "id": 1,
