@@ -261,7 +261,7 @@
     "title_work": [
       {
         "id": 4,
-        "value": "De cyclo paschali",
+        "value": "Ostertafel mit annalistischen Einschüben",
         "order": "3.00000000000000000000"
       }
     ],
@@ -396,7 +396,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "Last modified": "2025-01-31",
+    "Last modified": "2025-06-14",
     "Created on": "2024-07-03",
     "Created by": {
       "id": 86,
@@ -432,7 +432,13 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
     "form_note": null,
     "column": [],
     "commented_msitem": [
@@ -568,7 +574,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "Last modified": "2024-07-03",
+    "Last modified": "2025-06-14",
     "Created on": "2024-07-03",
     "Created by": {
       "id": 86,
@@ -590,9 +596,21 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []
@@ -760,7 +778,7 @@
         "order": "3.50000000000000000000"
       }
     ],
-    "Last modified": "2024-07-03",
+    "Last modified": "2025-06-14",
     "Created on": "2024-07-03",
     "Created by": {
       "id": 87,
@@ -796,9 +814,21 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []
@@ -5967,7 +5997,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "Last modified": "2024-07-16",
+    "Last modified": "2025-06-14",
     "Created on": "2024-07-16",
     "Created by": {
       "id": 86,
@@ -5989,9 +6019,21 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []

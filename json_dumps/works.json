@@ -72,9 +72,9 @@
   "4": {
     "id": 4,
     "order": "3.00000000000000000000",
-    "title": "De cyclo paschali",
+    "title": "Ostertafel mit annalistischen Einschüben",
     "gnd_url": "",
-    "note": "",
+    "note": "= De cyclo paschali",
     "hit_id": "hit_works__4",
     "author": [
       {
@@ -86,6 +86,11 @@
     "bibliography": [],
     "source_text": [],
     "genre": [
+      {
+        "id": 3,
+        "value": "Historiographie > Annalistik",
+        "order": "3.00000000000000000000"
+      },
       {
         "id": 16,
         "value": "Komputistik > ",
@@ -99,10 +104,10 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-22"
+    "Last modified": "2025-06-14"
   },
   "5": {
     "id": 5,
