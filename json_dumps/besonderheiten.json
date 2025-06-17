@@ -7,7 +7,6 @@
     "link_fol": "",
     "description": "",
     "what": [],
-    "quires": [],
     "manuscripts": [
       {
         "id": 1,
@@ -29,7 +28,6 @@
     "link_fol": "",
     "description": null,
     "what": [],
-    "quires": [],
     "manuscripts": [],
     "Created by": {
       "id": 36,
@@ -49,13 +47,6 @@
         "id": 15099,
         "value": "layout",
         "color": "dark-purple"
-      }
-    ],
-    "quires": [
-      {
-        "id": 133,
-        "value": "ÖNB, Cod. 2090, L. 1",
-        "order": "127.00000000000000000000"
       }
     ],
     "manuscripts": [
@@ -85,13 +76,6 @@
         "color": "dark-purple"
       }
     ],
-    "quires": [
-      {
-        "id": 133,
-        "value": "ÖNB, Cod. 2090, L. 1",
-        "order": "127.00000000000000000000"
-      }
-    ],
     "manuscripts": [
       {
         "id": 21,
@@ -119,13 +103,6 @@
         "color": "dark-purple"
       }
     ],
-    "quires": [
-      {
-        "id": 133,
-        "value": "ÖNB, Cod. 2090, L. 1",
-        "order": "127.00000000000000000000"
-      }
-    ],
     "manuscripts": [
       {
         "id": 21,
@@ -147,7 +124,6 @@
     "link_fol": "",
     "description": "",
     "what": [],
-    "quires": [],
     "manuscripts": [],
     "Created by": {
       "id": 86,

@@ -13599,7 +13599,7 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "Last modified": "2025-05-27",
+    "Last modified": "2025-06-16",
     "Created on": "2025-05-23",
     "Created by": {
       "id": 86,
@@ -13642,6 +13642,11 @@
         "id": 18627,
         "value": "Einspaltig (Standard)",
         "color": "light-cyan"
+      },
+      {
+        "id": 17434,
+        "value": "Liste",
+        "color": "darker-red"
       }
     ],
     "form_note": "Die Abfolge der Päpste bestimmt die mise-en-page. Jeder Papst wird mit einer roten Nummerierung gekennzeichnet. Der erste Buchstabe des Namens wird als rote Majuskel in einem eigenes dafür vorgesehenen Feld (vertikale Linierung) wiedergegeben.",

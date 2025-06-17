@@ -88,73 +88,6 @@
         "value": "De temporum ratione"
       }
     ],
-    "quires": [
-      {
-        "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1",
-        "order": "3.00000000000000000000"
-      },
-      {
-        "id": 7,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2",
-        "order": "3.50000000000000000000"
-      },
-      {
-        "id": 8,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3",
-        "order": "4.00000000000000000000"
-      },
-      {
-        "id": 10,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 4",
-        "order": "7.00000000000000000000"
-      },
-      {
-        "id": 11,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 5",
-        "order": "8.00000000000000000000"
-      },
-      {
-        "id": 12,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 6",
-        "order": "9.00000000000000000000"
-      },
-      {
-        "id": 13,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 7",
-        "order": "10.00000000000000000000"
-      },
-      {
-        "id": 14,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 8",
-        "order": "11.00000000000000000000"
-      },
-      {
-        "id": 15,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 9",
-        "order": "12.00000000000000000000"
-      },
-      {
-        "id": 16,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 10",
-        "order": "13.00000000000000000000"
-      },
-      {
-        "id": 17,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 11",
-        "order": "14.00000000000000000000"
-      },
-      {
-        "id": 18,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 12",
-        "order": "15.00000000000000000000"
-      },
-      {
-        "id": 19,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 13",
-        "order": "16.00000000000000000000"
-      }
-    ],
     "locus": [
       {
         "id": 5,
@@ -307,23 +240,6 @@
         "value": "Annales Iuvavenses maiores"
       }
     ],
-    "quires": [
-      {
-        "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1",
-        "order": "3.00000000000000000000"
-      },
-      {
-        "id": 7,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2",
-        "order": "3.50000000000000000000"
-      },
-      {
-        "id": 8,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3",
-        "order": "4.00000000000000000000"
-      }
-    ],
     "locus": [
       {
         "id": 10,
@@ -434,43 +350,6 @@
         "value": "De temporum ratione"
       }
     ],
-    "quires": [
-      {
-        "id": 20,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 14",
-        "order": "16.50000000000000000000"
-      },
-      {
-        "id": 21,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 15",
-        "order": "16.66666666666666785090"
-      },
-      {
-        "id": 22,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 16",
-        "order": "16.75000000000000000000"
-      },
-      {
-        "id": 38,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 17",
-        "order": "16.80000000000000071054"
-      },
-      {
-        "id": 39,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 18",
-        "order": "16.83333333333333214910"
-      },
-      {
-        "id": 40,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 19",
-        "order": "16.85714285714285765039"
-      },
-      {
-        "id": 41,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 20",
-        "order": "16.87500000000000000000"
-      }
-    ],
     "locus": [
       {
         "id": 11,
@@ -563,13 +442,6 @@
           "database_table_3491": 77
         },
         "value": "De globo mundi et coniecture orbis versus"
-      }
-    ],
-    "quires": [
-      {
-        "id": 42,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 21",
-        "order": "16.88888888888888928363"
       }
     ],
     "locus": [
@@ -677,18 +549,6 @@
         "value": "Abergläubische Segen"
       }
     ],
-    "quires": [
-      {
-        "id": 8,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3",
-        "order": "4.00000000000000000000"
-      },
-      {
-        "id": 20,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 14",
-        "order": "16.50000000000000000000"
-      }
-    ],
     "locus": [
       {
         "id": 81,
@@ -770,18 +630,6 @@
           "database_table_3491": 14
         },
         "value": "Responsorien, Versikel, Antiphonen der Quadragesimalzeit"
-      }
-    ],
-    "quires": [
-      {
-        "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1",
-        "order": "3.00000000000000000000"
-      },
-      {
-        "id": 42,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 21",
-        "order": "16.88888888888888928363"
       }
     ],
     "locus": [
@@ -912,93 +760,6 @@
         "value": "Miracula sancti Martini"
       }
     ],
-    "quires": [
-      {
-        "id": 6,
-        "value": "BSB, Clm. 6326, L. 1",
-        "order": "17.00000000000000000000"
-      },
-      {
-        "id": 9,
-        "value": "BSB, Clm. 6326, L. 2",
-        "order": "18.00000000000000000000"
-      },
-      {
-        "id": 23,
-        "value": "BSB, Clm. 6326, L. 3",
-        "order": "22.00000000000000000000"
-      },
-      {
-        "id": 24,
-        "value": "BSB, Clm. 6326, L. 4",
-        "order": "23.00000000000000000000"
-      },
-      {
-        "id": 25,
-        "value": "BSB, Clm. 6326, L. 5",
-        "order": "24.00000000000000000000"
-      },
-      {
-        "id": 37,
-        "value": "BSB, Clm. 6326, L. 6",
-        "order": "24.50000000000000000000"
-      },
-      {
-        "id": 26,
-        "value": "BSB, Clm. 6326, L. 7",
-        "order": "25.00000000000000000000"
-      },
-      {
-        "id": 27,
-        "value": "BSB, Clm. 6326, L. 8",
-        "order": "26.00000000000000000000"
-      },
-      {
-        "id": 28,
-        "value": "BSB, Clm. 6326, L. 9",
-        "order": "27.00000000000000000000"
-      },
-      {
-        "id": 29,
-        "value": "BSB, Clm. 6326, L. 10",
-        "order": "28.00000000000000000000"
-      },
-      {
-        "id": 30,
-        "value": "BSB, Clm. 6326, L. 11",
-        "order": "29.00000000000000000000"
-      },
-      {
-        "id": 31,
-        "value": "BSB, Clm. 6326, L. 12",
-        "order": "30.00000000000000000000"
-      },
-      {
-        "id": 32,
-        "value": "BSB, Clm. 6326, L. 13",
-        "order": "31.00000000000000000000"
-      },
-      {
-        "id": 33,
-        "value": "BSB, Clm. 6326, L. 14",
-        "order": "32.00000000000000000000"
-      },
-      {
-        "id": 34,
-        "value": "BSB, Clm. 6326, L. 15",
-        "order": "33.00000000000000000000"
-      },
-      {
-        "id": 35,
-        "value": "BSB, Clm. 6326, L. 16",
-        "order": "34.00000000000000000000"
-      },
-      {
-        "id": 36,
-        "value": "BSB, Clm. 6326, L. 17",
-        "order": "35.00000000000000000000"
-      }
-    ],
     "locus": [
       {
         "id": 18,
@@ -1094,103 +855,6 @@
         "value": "Historiae adversus paganos"
       }
     ],
-    "quires": [
-      {
-        "id": 56,
-        "value": "BSB, Clm. 6308, L. 1",
-        "order": "50.00000000000000000000"
-      },
-      {
-        "id": 57,
-        "value": "BSB, Clm. 6308, L. 2",
-        "order": "51.00000000000000000000"
-      },
-      {
-        "id": 58,
-        "value": "BSB, Clm. 6308, L. 3",
-        "order": "52.00000000000000000000"
-      },
-      {
-        "id": 59,
-        "value": "BSB, Clm. 6308, L. 4",
-        "order": "53.00000000000000000000"
-      },
-      {
-        "id": 60,
-        "value": "BSB, Clm. 6308, L. 5",
-        "order": "54.00000000000000000000"
-      },
-      {
-        "id": 61,
-        "value": "BSB, Clm. 6308, L. 6",
-        "order": "55.00000000000000000000"
-      },
-      {
-        "id": 62,
-        "value": "BSB, Clm. 6308, L. 7",
-        "order": "56.00000000000000000000"
-      },
-      {
-        "id": 63,
-        "value": "BSB, Clm. 6308, L. 8",
-        "order": "57.00000000000000000000"
-      },
-      {
-        "id": 64,
-        "value": "BSB, Clm. 6308, L. 9",
-        "order": "58.00000000000000000000"
-      },
-      {
-        "id": 65,
-        "value": "BSB, Clm. 6308, L. 10",
-        "order": "59.00000000000000000000"
-      },
-      {
-        "id": 66,
-        "value": "BSB, Clm. 6308, L. 11",
-        "order": "60.00000000000000000000"
-      },
-      {
-        "id": 67,
-        "value": "BSB, Clm. 6308, L. 12",
-        "order": "61.00000000000000000000"
-      },
-      {
-        "id": 68,
-        "value": "BSB, Clm. 6308, L. 13",
-        "order": "62.00000000000000000000"
-      },
-      {
-        "id": 69,
-        "value": "BSB, Clm. 6308, L. 14",
-        "order": "63.00000000000000000000"
-      },
-      {
-        "id": 70,
-        "value": "BSB, Clm. 6308, L. 15",
-        "order": "64.00000000000000000000"
-      },
-      {
-        "id": 71,
-        "value": "BSB, Clm. 6308, L. 16",
-        "order": "65.00000000000000000000"
-      },
-      {
-        "id": 72,
-        "value": "BSB, Clm. 6308, L. 17",
-        "order": "66.00000000000000000000"
-      },
-      {
-        "id": 73,
-        "value": "BSB, Clm. 6308, L. 18",
-        "order": "67.00000000000000000000"
-      },
-      {
-        "id": 74,
-        "value": "BSB, Clm. 6308, L. 19",
-        "order": "68.00000000000000000000"
-      }
-    ],
     "locus": [
       {
         "id": 17,
@@ -1273,7 +937,6 @@
         "value": "Historiae adversus paganos"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 17,
@@ -1387,18 +1050,6 @@
         "value": "Historiae adversus paganos"
       }
     ],
-    "quires": [
-      {
-        "id": 75,
-        "value": "ÖNB, Cod. 366, L. 1",
-        "order": "69.00000000000000000000"
-      },
-      {
-        "id": 76,
-        "value": "ÖNB, Cod. 366, L. 2",
-        "order": "70.00000000000000000000"
-      }
-    ],
     "locus": [
       {
         "id": 80,
@@ -1472,28 +1123,6 @@
           "database_table_3491": 103
         },
         "value": "Abbreviatio chronicae a mundo condito usque ad Carolum Magnum"
-      }
-    ],
-    "quires": [
-      {
-        "id": 77,
-        "value": "ÖNB, Cod. 387, L. 2",
-        "order": "71.00000000000000000000"
-      },
-      {
-        "id": 82,
-        "value": "ÖNB, Cod. 387, L. 3",
-        "order": "76.00000000000000000000"
-      },
-      {
-        "id": 83,
-        "value": "ÖNB, Cod. 387, L. 4",
-        "order": "77.00000000000000000000"
-      },
-      {
-        "id": 84,
-        "value": "ÖNB, Cod. 387, L. 5",
-        "order": "78.00000000000000000000"
       }
     ],
     "locus": [
@@ -1571,7 +1200,6 @@
         "value": "Bienensegen"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 93,
@@ -1699,13 +1327,6 @@
         "value": "Nomina pontificum Romanae sedis"
       }
     ],
-    "quires": [
-      {
-        "id": 133,
-        "value": "ÖNB, Cod. 2090, L. 1",
-        "order": "127.00000000000000000000"
-      }
-    ],
     "locus": [
       {
         "id": 123,
@@ -1801,7 +1422,6 @@
     "hit_id": "hit_strata__13",
     "hand_role": [],
     "ms_items": [],
-    "quires": [],
     "locus": [],
     "note": "Zahlreiche Schreiber haben im 12. Jahrhundert die angelegten Listen bis ca. 1180 fortgesetzt und neue Texte auf freigebliebenen Platz eingefügt.",
     "Created by": {
@@ -1910,7 +1530,6 @@
         "value": "Traditionsnotizen des Salzburger Domstiftes"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 179,
@@ -2024,7 +1643,6 @@
         "value": "Epistolae duae de electione Eberhardi I. archiepiscopus Salisburgensis"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 124,
@@ -2111,7 +1729,6 @@
         "value": "Historiae adversus paganos"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 17,
@@ -2182,7 +1799,6 @@
         "value": "Miracula sancti Martini"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 18,
@@ -2271,7 +1887,6 @@
         "value": "Historia ecclesiastica cum Rufini continuatione"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 26,
@@ -2347,7 +1962,6 @@
         "value": "Historia ecclesiastica cum Rufini continuatione"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 28,
@@ -2411,7 +2025,6 @@
         "value": "Historiae adversus paganos"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 31,
@@ -2455,7 +2068,6 @@
     "hit_id": "hit_strata__22",
     "hand_role": [],
     "ms_items": [],
-    "quires": [],
     "locus": [],
     "note": "Das Hauptstratum, die von mehreren Händen geschafft wurde. Diese haben",
     "Created by": {
@@ -2508,7 +2120,6 @@
         "value": "Antapodosis"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 49,
@@ -2566,7 +2177,6 @@
         "value": "Antapodosis"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 49,
@@ -2762,7 +2372,6 @@
         "value": "Urkunde des Erzbischofs Odalric von Reims (962-969)"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 191,
@@ -2906,7 +2515,6 @@
         "value": "Annales Vedastini"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 209,
@@ -2996,7 +2604,6 @@
         "value": "Notitia Galliarum"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 206,
@@ -3068,7 +2675,6 @@
         "value": "Annales regni Francorum"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 192,
@@ -3139,7 +2745,6 @@
         "value": "Chronica cum Adalberti continuatione"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 48,
@@ -3207,7 +2812,6 @@
         "value": "Chronica cum Adalberti continuatione"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 50,
@@ -3271,7 +2875,6 @@
         "value": "Catalogus regum et imperatorum Frisingensis"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 51,
@@ -3335,7 +2938,6 @@
         "value": "Visio Eucherii"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 203,
@@ -3399,7 +3001,6 @@
         "value": "Decem libri historiarum"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 191,
@@ -3475,7 +3076,6 @@
         "value": "Vita sancti Columbae"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 63,
@@ -3571,7 +3171,6 @@
         "value": "De exaltatione"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 64,
@@ -3657,7 +3256,6 @@
         "value": "Necrologium Salisburgense"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 138,
@@ -3721,7 +3319,6 @@
     "hit_id": "hit_strata__40",
     "hand_role": [],
     "ms_items": [],
-    "quires": [],
     "locus": [],
     "note": "In der ersten Hälfte des 11. Jahrhunderts wurde von mehreren Händen der Grundstock der theologischen Texte angelegt (1r-156r)",
     "Created by": {
@@ -3823,7 +3420,6 @@
         "value": "Ad Massonam episcopum"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 217,
@@ -3928,7 +3524,6 @@
         "value": "Vita sancti Willibaldi"
       }
     ],
-    "quires": [],
     "locus": [
       {
         "id": 60,

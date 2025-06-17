@@ -21,73 +21,6 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "quire": [
-      {
-        "id": 5,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 1",
-        "order": "3.00000000000000000000"
-      },
-      {
-        "id": 7,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 2",
-        "order": "3.50000000000000000000"
-      },
-      {
-        "id": 8,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 3",
-        "order": "4.00000000000000000000"
-      },
-      {
-        "id": 10,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 4",
-        "order": "7.00000000000000000000"
-      },
-      {
-        "id": 11,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 5",
-        "order": "8.00000000000000000000"
-      },
-      {
-        "id": 12,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 6",
-        "order": "9.00000000000000000000"
-      },
-      {
-        "id": 13,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 7",
-        "order": "10.00000000000000000000"
-      },
-      {
-        "id": 14,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 8",
-        "order": "11.00000000000000000000"
-      },
-      {
-        "id": 15,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 9",
-        "order": "12.00000000000000000000"
-      },
-      {
-        "id": 16,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 10",
-        "order": "13.00000000000000000000"
-      },
-      {
-        "id": 17,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 11",
-        "order": "14.00000000000000000000"
-      },
-      {
-        "id": 18,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 12",
-        "order": "15.00000000000000000000"
-      },
-      {
-        "id": 19,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 13",
-        "order": "16.00000000000000000000"
-      }
-    ],
     "number": "1",
     "Created by": {
       "id": 36,
@@ -100,11 +33,9 @@
     },
     "Last modified": "2025-06-11",
     "orig_date": [],
-    "quires_number": null,
     "heigth": "235",
     "lines_number": null,
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": null,
     "written_height": null,
@@ -182,43 +113,6 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "quire": [
-      {
-        "id": 20,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 14",
-        "order": "16.50000000000000000000"
-      },
-      {
-        "id": 21,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 15",
-        "order": "16.66666666666666785090"
-      },
-      {
-        "id": 22,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 16",
-        "order": "16.75000000000000000000"
-      },
-      {
-        "id": 38,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 17",
-        "order": "16.80000000000000071054"
-      },
-      {
-        "id": 39,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 18",
-        "order": "16.83333333333333214910"
-      },
-      {
-        "id": 40,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 19",
-        "order": "16.85714285714285765039"
-      },
-      {
-        "id": 41,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 20",
-        "order": "16.87500000000000000000"
-      }
-    ],
     "number": "2",
     "Created by": {
       "id": 86,
@@ -231,11 +125,9 @@
     },
     "Last modified": "2025-06-11",
     "orig_date": [],
-    "quires_number": null,
     "heigth": "TBD",
     "lines_number": null,
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": null,
     "written_height": null,
@@ -301,13 +193,6 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "quire": [
-      {
-        "id": 42,
-        "value": "UBWÜ, Cod. M. p. th. f. 46, L. 21",
-        "order": "16.88888888888888928363"
-      }
-    ],
     "number": "3",
     "Created by": {
       "id": 86,
@@ -320,11 +205,9 @@
     },
     "Last modified": "2025-06-11",
     "orig_date": [],
-    "quires_number": null,
     "heigth": "TBD",
     "lines_number": null,
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": null,
     "written_height": null,
@@ -371,18 +254,6 @@
         "order": "1.66666666666666674068"
       }
     ],
-    "quire": [
-      {
-        "id": 75,
-        "value": "ÖNB, Cod. 366, L. 1",
-        "order": "69.00000000000000000000"
-      },
-      {
-        "id": 76,
-        "value": "ÖNB, Cod. 366, L. 2",
-        "order": "70.00000000000000000000"
-      }
-    ],
     "number": "1",
     "Created by": {
       "id": 86,
@@ -395,11 +266,9 @@
     },
     "Last modified": "2025-06-11",
     "orig_date": [],
-    "quires_number": null,
     "heigth": "340 TBD",
     "lines_number": null,
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": null,
     "written_height": null,
@@ -440,103 +309,6 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "quire": [
-      {
-        "id": 56,
-        "value": "BSB, Clm. 6308, L. 1",
-        "order": "50.00000000000000000000"
-      },
-      {
-        "id": 57,
-        "value": "BSB, Clm. 6308, L. 2",
-        "order": "51.00000000000000000000"
-      },
-      {
-        "id": 58,
-        "value": "BSB, Clm. 6308, L. 3",
-        "order": "52.00000000000000000000"
-      },
-      {
-        "id": 59,
-        "value": "BSB, Clm. 6308, L. 4",
-        "order": "53.00000000000000000000"
-      },
-      {
-        "id": 60,
-        "value": "BSB, Clm. 6308, L. 5",
-        "order": "54.00000000000000000000"
-      },
-      {
-        "id": 61,
-        "value": "BSB, Clm. 6308, L. 6",
-        "order": "55.00000000000000000000"
-      },
-      {
-        "id": 62,
-        "value": "BSB, Clm. 6308, L. 7",
-        "order": "56.00000000000000000000"
-      },
-      {
-        "id": 63,
-        "value": "BSB, Clm. 6308, L. 8",
-        "order": "57.00000000000000000000"
-      },
-      {
-        "id": 64,
-        "value": "BSB, Clm. 6308, L. 9",
-        "order": "58.00000000000000000000"
-      },
-      {
-        "id": 65,
-        "value": "BSB, Clm. 6308, L. 10",
-        "order": "59.00000000000000000000"
-      },
-      {
-        "id": 66,
-        "value": "BSB, Clm. 6308, L. 11",
-        "order": "60.00000000000000000000"
-      },
-      {
-        "id": 67,
-        "value": "BSB, Clm. 6308, L. 12",
-        "order": "61.00000000000000000000"
-      },
-      {
-        "id": 68,
-        "value": "BSB, Clm. 6308, L. 13",
-        "order": "62.00000000000000000000"
-      },
-      {
-        "id": 69,
-        "value": "BSB, Clm. 6308, L. 14",
-        "order": "63.00000000000000000000"
-      },
-      {
-        "id": 70,
-        "value": "BSB, Clm. 6308, L. 15",
-        "order": "64.00000000000000000000"
-      },
-      {
-        "id": 71,
-        "value": "BSB, Clm. 6308, L. 16",
-        "order": "65.00000000000000000000"
-      },
-      {
-        "id": 72,
-        "value": "BSB, Clm. 6308, L. 17",
-        "order": "66.00000000000000000000"
-      },
-      {
-        "id": 73,
-        "value": "BSB, Clm. 6308, L. 18",
-        "order": "67.00000000000000000000"
-      },
-      {
-        "id": 74,
-        "value": "BSB, Clm. 6308, L. 19",
-        "order": "68.00000000000000000000"
-      }
-    ],
     "number": "1",
     "Created by": {
       "id": 86,
@@ -549,11 +321,9 @@
     },
     "Last modified": "2025-06-11",
     "orig_date": [],
-    "quires_number": "1-19",
     "heigth": "255",
     "lines_number": "23",
     "decorations": "Auf 4r ein rundes Bild, darstellend drei Kontinenten. \nDie beiden letzten,einander gegenüberliegenden Seiten (148V/149R) sind gleichartig figural geschrieben: beide in Form eines auf der Spitze stehenden gleichschenkligen Dreiecks (Bishoff, 77)",
-    "codicological_reworking": [],
     "basic_structure": [
       {
         "id": 18145,
@@ -631,7 +401,6 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 86,
@@ -644,11 +413,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "1-2",
     "heigth": "250",
     "lines_number": "25-30",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "133",
     "written_height": "195-215",
@@ -709,7 +476,6 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "2",
     "Created by": {
       "id": 86,
@@ -722,11 +488,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "3-12",
     "heigth": "250",
     "lines_number": "22",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "110-120",
     "written_height": "180",
@@ -799,7 +563,6 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "3",
     "Created by": {
       "id": 36,
@@ -812,11 +575,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "13-26",
     "heigth": "250",
     "lines_number": "25-30",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "133",
     "written_height": "195-215",
@@ -877,93 +638,6 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "quire": [
-      {
-        "id": 6,
-        "value": "BSB, Clm. 6326, L. 1",
-        "order": "17.00000000000000000000"
-      },
-      {
-        "id": 9,
-        "value": "BSB, Clm. 6326, L. 2",
-        "order": "18.00000000000000000000"
-      },
-      {
-        "id": 23,
-        "value": "BSB, Clm. 6326, L. 3",
-        "order": "22.00000000000000000000"
-      },
-      {
-        "id": 24,
-        "value": "BSB, Clm. 6326, L. 4",
-        "order": "23.00000000000000000000"
-      },
-      {
-        "id": 25,
-        "value": "BSB, Clm. 6326, L. 5",
-        "order": "24.00000000000000000000"
-      },
-      {
-        "id": 37,
-        "value": "BSB, Clm. 6326, L. 6",
-        "order": "24.50000000000000000000"
-      },
-      {
-        "id": 26,
-        "value": "BSB, Clm. 6326, L. 7",
-        "order": "25.00000000000000000000"
-      },
-      {
-        "id": 27,
-        "value": "BSB, Clm. 6326, L. 8",
-        "order": "26.00000000000000000000"
-      },
-      {
-        "id": 28,
-        "value": "BSB, Clm. 6326, L. 9",
-        "order": "27.00000000000000000000"
-      },
-      {
-        "id": 29,
-        "value": "BSB, Clm. 6326, L. 10",
-        "order": "28.00000000000000000000"
-      },
-      {
-        "id": 30,
-        "value": "BSB, Clm. 6326, L. 11",
-        "order": "29.00000000000000000000"
-      },
-      {
-        "id": 31,
-        "value": "BSB, Clm. 6326, L. 12",
-        "order": "30.00000000000000000000"
-      },
-      {
-        "id": 32,
-        "value": "BSB, Clm. 6326, L. 13",
-        "order": "31.00000000000000000000"
-      },
-      {
-        "id": 33,
-        "value": "BSB, Clm. 6326, L. 14",
-        "order": "32.00000000000000000000"
-      },
-      {
-        "id": 34,
-        "value": "BSB, Clm. 6326, L. 15",
-        "order": "33.00000000000000000000"
-      },
-      {
-        "id": 35,
-        "value": "BSB, Clm. 6326, L. 16",
-        "order": "34.00000000000000000000"
-      },
-      {
-        "id": 36,
-        "value": "BSB, Clm. 6326, L. 17",
-        "order": "35.00000000000000000000"
-      }
-    ],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -987,11 +661,9 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "quires_number": "1-17",
     "heigth": "195",
     "lines_number": "17",
     "decorations": "1r - rotes Initial E in 4 Zeilen, 4r - rotes Initial P in 5 Zeilen, beide ornamental und nah zu den Initialen in Clm 27305, Clm 17027, Clm 17043. Auf 5v - rotes Tierkopfinitial I in 11 Zeilen.",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "115",
     "written_height": "155",
@@ -1052,113 +724,6 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "quire": [
-      {
-        "id": 1,
-        "value": "ÖNB, Cod. 387, L. 1",
-        "order": "1.00000000000000000000"
-      },
-      {
-        "id": 77,
-        "value": "ÖNB, Cod. 387, L. 2",
-        "order": "71.00000000000000000000"
-      },
-      {
-        "id": 82,
-        "value": "ÖNB, Cod. 387, L. 3",
-        "order": "76.00000000000000000000"
-      },
-      {
-        "id": 83,
-        "value": "ÖNB, Cod. 387, L. 4",
-        "order": "77.00000000000000000000"
-      },
-      {
-        "id": 84,
-        "value": "ÖNB, Cod. 387, L. 5",
-        "order": "78.00000000000000000000"
-      },
-      {
-        "id": 85,
-        "value": "ÖNB, Cod. 387, L. 6",
-        "order": "79.00000000000000000000"
-      },
-      {
-        "id": 86,
-        "value": "ÖNB, Cod. 387, L. 7",
-        "order": "80.00000000000000000000"
-      },
-      {
-        "id": 87,
-        "value": "ÖNB, Cod. 387, L. 8",
-        "order": "81.00000000000000000000"
-      },
-      {
-        "id": 88,
-        "value": "ÖNB, Cod. 387, L. 9",
-        "order": "82.00000000000000000000"
-      },
-      {
-        "id": 89,
-        "value": "ÖNB, Cod. 387, L. 10",
-        "order": "83.00000000000000000000"
-      },
-      {
-        "id": 90,
-        "value": "ÖNB, Cod. 387, L. 11",
-        "order": "84.00000000000000000000"
-      },
-      {
-        "id": 91,
-        "value": "ÖNB, Cod. 387, L. 12",
-        "order": "85.00000000000000000000"
-      },
-      {
-        "id": 92,
-        "value": "ÖNB, Cod. 387, L. 13",
-        "order": "86.00000000000000000000"
-      },
-      {
-        "id": 93,
-        "value": "ÖNB, Cod. 387, L. 14",
-        "order": "87.00000000000000000000"
-      },
-      {
-        "id": 94,
-        "value": "ÖNB, Cod. 387, L. 15",
-        "order": "88.00000000000000000000"
-      },
-      {
-        "id": 95,
-        "value": "ÖNB, Cod. 387, L. 16",
-        "order": "89.00000000000000000000"
-      },
-      {
-        "id": 96,
-        "value": "ÖNB, Cod. 387, L. 17",
-        "order": "90.00000000000000000000"
-      },
-      {
-        "id": 97,
-        "value": "ÖNB, Cod. 387, L. 18",
-        "order": "91.00000000000000000000"
-      },
-      {
-        "id": 99,
-        "value": "ÖNB, Cod. 387, L. 19",
-        "order": "93.00000000000000000000"
-      },
-      {
-        "id": 100,
-        "value": "ÖNB, Cod. 387, L. 20",
-        "order": "94.00000000000000000000"
-      },
-      {
-        "id": 101,
-        "value": "ÖNB, Cod. 387, L. 21",
-        "order": "95.00000000000000000000"
-      }
-    ],
     "number": "1",
     "Created by": {
       "id": 86,
@@ -1171,11 +736,9 @@
     },
     "Last modified": "2025-06-11",
     "orig_date": [],
-    "quires_number": null,
     "heigth": null,
     "lines_number": null,
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": null,
     "written_height": null,
@@ -1216,7 +779,6 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -1229,17 +791,9 @@
     },
     "Last modified": "2025-06-11",
     "orig_date": [],
-    "quires_number": "1",
     "heigth": "355-360",
     "lines_number": "Stark variierende Zeilenanzahl aufgrund der graphischen Gestaltung der Texte (bis zu 36 Zeilen)",
     "decorations": "Texteinrahmungen und geometrische Formen in roter Tinte. Auf 5v der Versuch eines Diptychons im Stile der Salzburger Verbrüderungsbücher. Überschriften in roter Auszeichnungsschrift. Auf 3v ein Invokationskreuz.",
-    "codicological_reworking": [
-      {
-        "id": 17461,
-        "value": "sheet insertions",
-        "color": "yellow"
-      }
-    ],
     "basic_structure": [
       {
         "id": 18148,
@@ -1342,7 +896,6 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 86,
@@ -1355,11 +908,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "1-13",
     "heigth": "285",
     "lines_number": "35",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "150",
     "written_height": "225",
@@ -1420,7 +971,6 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -1433,11 +983,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "1-35",
     "heigth": "280",
     "lines_number": "20-21 (ab 4ⱽund  bis 131ʳ); 28 (bis 4ⱽund ab 131ʳ)",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "120 (ab 4ⱽund  bis 131ʳ); 150 (bis 4ⱽund ab 131ʳ)",
     "written_height": "180–190 (ab 4ⱽund  bis 131ʳ); 210 (bis 4ⱽund ab 131ʳ)",
@@ -1510,7 +1058,6 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -1523,11 +1070,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "1-6",
     "heigth": "240",
     "lines_number": "21",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [
       {
         "id": 18145,
@@ -1606,7 +1151,6 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "2",
     "Created by": {
       "id": 87,
@@ -1619,11 +1163,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "7-16",
     "heigth": "240",
     "lines_number": "29",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "130",
     "written_height": "205",
@@ -1684,7 +1226,6 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -1697,11 +1238,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "1-19",
     "heigth": "260",
     "lines_number": "31-38",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "160-175",
     "written_height": "210-225",
@@ -1762,7 +1301,6 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -1775,11 +1313,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": null,
     "heigth": "250",
     "lines_number": "25",
     "decorations": "2r - Initial B, rot, mit einem Tierkopf, die Zunge des Tieres ist um um den Hals geschlungen und endet in einen Blattkelch. 3v-Initial S, ornamental, mit Spangen geschmuckt. Beide Initiale zeigen Verwandschft mit dem besonders zarten insulären Stil, typisch für Sankt Gallen. Vorübergehen kommen kleinere rote Initiale in Überschriften vor, in Rustica oder Majuskel.",
-    "codicological_reworking": [],
     "basic_structure": [
       {
         "id": 18145,
@@ -1864,7 +1400,6 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "2",
     "Created by": {
       "id": 87,
@@ -1877,11 +1412,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": null,
     "heigth": "250",
     "lines_number": "28",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [
       {
         "id": 18145,
@@ -1954,7 +1487,6 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -1967,11 +1499,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "1-26",
     "heigth": "165-170",
     "lines_number": "16-20",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "75-85",
     "written_height": "135-145",
@@ -2032,7 +1562,6 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -2045,11 +1574,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "1-26",
     "heigth": "190",
     "lines_number": "18",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "105",
     "written_height": "145",
@@ -2110,7 +1637,6 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -2123,11 +1649,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "1-7",
     "heigth": "180",
     "lines_number": "22-24",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "105",
     "written_height": "140-150",
@@ -2188,7 +1712,6 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -2201,11 +1724,9 @@
     },
     "Last modified": "2025-06-11",
     "orig_date": [],
-    "quires_number": null,
     "heigth": "205",
     "lines_number": "18",
     "decorations": "Flechtbandinitiale in Rot oder Braun (Bl. 1ʳ, 3ʳ, 15ⱽ, 28ⱽ, 44ⱽ, 45ⱽ, 66ʳ, 82ʳ, 100ⱽ und andere), typisch für bayerische Ornamentik",
-    "codicological_reworking": [],
     "basic_structure": [
       {
         "id": 18146,
@@ -2290,7 +1811,6 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -2303,11 +1823,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "1-29",
     "heigth": "325",
     "lines_number": "27",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "180",
     "written_height": "265-275",
@@ -2380,7 +1898,6 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -2393,11 +1910,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "1-27",
     "heigth": "330",
     "lines_number": "31",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "155-165",
     "written_height": "265",
@@ -2477,7 +1992,6 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -2490,11 +2004,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": null,
     "heigth": null,
     "lines_number": null,
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": null,
     "written_height": null,
@@ -2549,7 +2061,6 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 86,
@@ -2568,11 +2079,9 @@
         "order": "60.00000000000000000000"
       }
     ],
-    "quires_number": "1-28",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -2650,7 +2159,6 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 87,
@@ -2669,11 +2177,9 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -2728,7 +2234,6 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 86,
@@ -2741,11 +2246,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -2786,7 +2289,6 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 86,
@@ -2799,11 +2301,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -2844,7 +2344,6 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -2857,11 +2356,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -2902,7 +2399,6 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -2915,11 +2411,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -2960,7 +2454,6 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -2973,11 +2466,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -3018,7 +2509,6 @@
         "order": "22.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -3031,11 +2521,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -3076,7 +2564,6 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -3089,11 +2576,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -3134,7 +2619,6 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -3147,11 +2631,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -3192,7 +2674,6 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -3205,11 +2686,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -3250,7 +2729,6 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -3263,11 +2741,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -3308,7 +2784,6 @@
         "order": "31.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -3321,11 +2796,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -3366,7 +2839,6 @@
         "order": "32.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -3379,11 +2851,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -3424,7 +2894,6 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -3437,11 +2906,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -3482,7 +2949,6 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -3495,11 +2961,9 @@
     },
     "Last modified": "2025-06-09",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "",
     "lines_number": "",
     "decorations": "",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
@@ -3540,7 +3004,6 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "quire": [],
     "number": "2",
     "Created by": {
       "id": 86,
@@ -3553,11 +3016,9 @@
     },
     "Last modified": "2025-06-11",
     "orig_date": [],
-    "quires_number": "2-5",
     "heigth": "365",
     "lines_number": "Uneinheitliche, variierende Zeilenanzahl",
     "decorations": "Am Anfang jedes Monats eine rote Initiale über 3-4 Zeilen. Tagesdatierung in roter Tinte.",
-    "codicological_reworking": [],
     "basic_structure": [
       {
         "id": 18145,
@@ -3635,7 +3096,6 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "quire": [],
     "number": "3",
     "Created by": {
       "id": 86,
@@ -3648,11 +3108,9 @@
     },
     "Last modified": "2025-06-11",
     "orig_date": [],
-    "quires_number": "6-12?",
     "heigth": "365",
     "lines_number": "36 (in Einzelfällen leicht höher)",
     "decorations": "Rote Initialen am Anfang eines Kapitels über mehrere Zeilen (zumeist 2-4). Gegen Ende des Textes und der kod. Einheit wurden diese Initialen mit floralen und rankenförmigen Mustern teils ausführlich verziert (siehe fol. 84r über 8 Zeilen, 85r über 6 Zeilen). Auf 88r wurde in der Mitte zwischen den Spalten eine figürliche Darstellung in brauner und roter Tinte eines Königs eingefügt. Zudem finden sich auf 84r, 85r und ? am Rand und teils mit Initialen kombiniert Zeichnungen von Hunden (?). Rote Überschriften (meistens) Auszeichnungsschrift.",
-    "codicological_reworking": [],
     "basic_structure": [
       {
         "id": 18145,
@@ -3725,7 +3183,6 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "quire": [],
     "number": "1",
     "Created by": {
       "id": 86,
@@ -3738,11 +3195,9 @@
     },
     "Last modified": "2025-06-11",
     "orig_date": [],
-    "quires_number": "",
     "heigth": "163",
     "lines_number": "1r-153v: 21-22 Zeilen; 154r-156r: 27 Zeilen; 156v-267r: 21 Zeilen",
     "decorations": "Rote Initialen, teils mit Ranken und Blattwerk verziert. Auf 187v zwei ordentlich ausgeführte Federzeichnungen (Maria mit ausgebreiteten Armen und Kopf des gekreuzigten Jesu) aus dem 13. Jahrhundert (vgl. Hermann, Die deutschen romanischen Handschriften, 35).",
-    "codicological_reworking": [],
     "basic_structure": [],
     "written_width": "",
     "written_height": "",
