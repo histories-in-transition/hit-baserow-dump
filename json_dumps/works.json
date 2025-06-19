@@ -4382,6 +4382,11 @@
     "source_text": [],
     "genre": [
       {
+        "id": 23,
+        "value": "Historiographie > Papst-/Bischofskatalog",
+        "order": "22.00000000000000000000"
+      },
+      {
         "id": 27,
         "value": "Hagiographie > Papst-/Bischofskatalog",
         "order": "26.00000000000000000000"
@@ -4397,7 +4402,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-23"
+    "Last modified": "2025-06-18"
   },
   "149": {
     "id": 149,
