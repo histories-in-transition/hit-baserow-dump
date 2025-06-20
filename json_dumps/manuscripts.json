@@ -4320,8 +4320,72 @@
   "44": {
     "id": 44,
     "order": "37.00000000000000000000",
-    "shelfmark": [],
+    "shelfmark": [
+      {
+        "id": 13,
+        "value": "Bruxelles KBR, ms. 6439-51"
+      }
+    ],
     "hit_id": "hit_manuscript__44",
+    "library": [
+      {
+        "id": 13,
+        "value": "Bruxelles KBR",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "ms. 6439-51",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 13,
+        "value": "Bibliothèque royale de Belgique"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-05-22",
+    "Last modified": "2025-06-19",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
+    "author_entry": [],
+    "title": null
+  },
+  "45": {
+    "id": 45,
+    "order": "38.00000000000000000000",
+    "shelfmark": [],
+    "hit_id": "hit_manuscript__45",
     "library": [],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
@@ -4356,13 +4420,13 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Created on": "2025-05-22",
-    "Last modified": "2025-05-22",
+    "Created on": "2025-06-19",
+    "Last modified": "2025-06-19",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
     "status": [],
     "author_entry": [],
-    "title": null
+    "title": ""
   }
 }

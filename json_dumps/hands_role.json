@@ -13039,5 +13039,79 @@
     "function": [],
     "scribe_type": [],
     "strata": []
+  },
+  "219": {
+    "id": 219,
+    "order": "205.00000000000000000000",
+    "hit_id": "hit_hands_role__219",
+    "hand": [
+      {
+        "id": 161,
+        "value": "Bruxelles KBR, ms. 6439-51_H. 1",
+        "order": "152.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 224,
+        "value": "ms_6439-51__224",
+        "order": "178.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 153,
+          "database_table_3491": 224
+        },
+        "value": "Liste fränkischer Könige und flandrischer Grafen"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 224,
+        "value": "123vb"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-19",
+    "Last modified": "2025-06-19",
+    "locus_layout": [
+      {
+        "id": 18158,
+        "value": "graphisch divers",
+        "color": "darker-green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18155,
+        "value": "konzeptbezogen",
+        "color": "darker-brown"
+      }
+    ],
+    "scribe_type": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ],
+    "strata": []
   }
 }

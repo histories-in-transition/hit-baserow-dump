@@ -14049,5 +14049,87 @@
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []
+  },
+  "224": {
+    "id": 224,
+    "order": "178.00000000000000000000",
+    "label": [
+      {
+        "id": 44,
+        "value": "ms_6439-51__224"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 44,
+        "value": "Bruxelles KBR, ms. 6439-51",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "Reges francorum / Comites flandrię",
+    "title_work": [
+      {
+        "id": 153,
+        "value": "Liste fränkischer Könige und flandrischer Grafen",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__224",
+    "filiation": "",
+    "locus_grp": "123vb",
+    "hands_role": [
+      {
+        "id": 219,
+        "value": "hit_hands_role__219",
+        "order": "205.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 51,
+        "value": "Bruxelles KBR, ms. 6439-51, cod. unit 1",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-19",
+    "Created on": "2025-06-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 44,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 6439-51_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 17434,
+        "value": "Liste",
+        "color": "darker-red"
+      }
+    ],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": []
   }
 }

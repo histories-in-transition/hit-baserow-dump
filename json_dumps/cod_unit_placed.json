@@ -1727,5 +1727,48 @@
     "uncertain_from": true,
     "uncertain_till": false,
     "uncertain_place": false
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "hit_id": "hit_codunit_place__38",
+    "cod_unit": [
+      {
+        "id": 51,
+        "value": "Bruxelles KBR, ms. 6439-51, cod. unit 1",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 31,
+        "value": "Saint-Vaast, Arras",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "from": [
+      {
+        "id": 13,
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "type": {
+      "id": 18150,
+      "value": "orig",
+      "color": "deep-dark-orange"
+    },
+    "till": [],
+    "ms": [
+      {
+        "id": 13,
+        "value": "Bruxelles KBR, ms. 6439-51"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "uncertain_from": true,
+    "uncertain_till": false,
+    "uncertain_place": true
   }
 }

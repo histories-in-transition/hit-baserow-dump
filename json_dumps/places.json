@@ -745,5 +745,32 @@
     "Last modified": "2025-05-10",
     "lat": "47.42391",
     "long": "9.37477"
+  },
+  "31": {
+    "id": 31,
+    "order": "29.00000000000000000000",
+    "name": "Saint-Vaast, Arras",
+    "geonames_url": "",
+    "hit_id": "hit_place__31",
+    "wikidata_url": "",
+    "country": [
+      {
+        "id": 14,
+        "value": "Frankreich",
+        "order": "2.50000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-19",
+    "lat": null,
+    "long": null
   }
 }

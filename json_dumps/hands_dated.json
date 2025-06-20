@@ -3972,5 +3972,43 @@
     "Last modified": "2025-06-12",
     "Created on": "2025-06-12",
     "note": ""
+  },
+  "125": {
+    "id": 125,
+    "order": "122.00000000000000000000",
+    "hit_id": "hit_hands_dated__125",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 13,
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 36,
+        "value": "12. Jh.",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 161,
+        "value": "Bruxelles KBR, ms. 6439-51_H. 1",
+        "order": "152.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-19",
+    "Created on": "2025-06-19",
+    "note": ""
   }
 }

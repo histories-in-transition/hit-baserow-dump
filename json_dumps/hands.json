@@ -13021,5 +13021,102 @@
     "scribe": [],
     "gruppe": false,
     "author_entry": []
+  },
+  "161": {
+    "id": 161,
+    "order": "152.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 44,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 6439-51_H. 1"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__161",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 44,
+        "value": "Bruxelles KBR, ms. 6439-51",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-19",
+    "hands_role": [
+      {
+        "id": 219,
+        "value": "hit_hands_role__219",
+        "order": "205.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 219,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 153,
+          "database_table_3491": 224
+        },
+        "value": "Liste fränkischer Könige und flandrischer Grafen"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 125,
+        "value": "hit_hands_dated__125",
+        "order": "122.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3520": 125
+        },
+        "value": "11 Jh."
+      },
+      {
+        "ids": {
+          "database_table_3512": 36,
+          "database_table_3520": 125
+        },
+        "value": "12. Jh."
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 64,
+        "value": "hit_hands_placed__64",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": true,
+    "author_entry": []
   }
 }

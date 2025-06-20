@@ -3246,5 +3246,74 @@
     "material_spec": "Kleinformat",
     "catchwords": null,
     "quiremarks": null
+  },
+  "51": {
+    "id": 51,
+    "order": "47.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 44,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 6439-51, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__51",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 44,
+        "value": "Bruxelles KBR, ms. 6439-51",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-19",
+    "orig_date": [],
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 38,
+        "value": "hit_codunit_place__38",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 31,
+          "database_table_3840": 38
+        },
+        "value": "Saint-Vaast, Arras"
+      }
+    ],
+    "strata": [],
+    "ruling": "",
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
+    "material_spec": "",
+    "catchwords": "",
+    "quiremarks": ""
   }
 }

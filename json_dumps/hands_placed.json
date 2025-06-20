@@ -1828,5 +1828,30 @@
       "id": 86,
       "name": "Leon Pürstinger"
     }
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "hit_id": "hit_hands_placed__64",
+    "hand": [
+      {
+        "id": 161,
+        "value": "Bruxelles KBR, ms. 6439-51_H. 1",
+        "order": "152.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 31,
+        "value": "Saint-Vaast, Arras",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   }
 }
