@@ -1853,5 +1853,30 @@
       "id": 86,
       "name": "Leon Pürstinger"
     }
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "hit_id": "hit_hands_placed__65",
+    "hand": [
+      {
+        "id": 162,
+        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864_H. 1",
+        "order": "153.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 33,
+        "value": "Lorsch",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   }
 }

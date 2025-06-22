@@ -8812,7 +8812,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-05-28",
+    "Last modified": "2025-06-21",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -8967,7 +8967,13 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [
+      {
+        "id": 19337,
+        "value": "Kodikologischer Eingriff",
+        "color": "brown"
+      }
+    ]
   },
   "133": {
     "id": 133,
@@ -9010,7 +9016,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-05-28",
+    "Last modified": "2025-06-21",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -9041,7 +9047,13 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [
+      {
+        "id": 19337,
+        "value": "Kodikologischer Eingriff",
+        "color": "brown"
+      }
+    ]
   },
   "134": {
     "id": 134,
@@ -9905,7 +9917,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2024-10-09",
+    "Last modified": "2025-06-21",
     "Created on": "2024-08-26",
     "Created by": {
       "id": 86,
@@ -9927,9 +9939,21 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []
@@ -10137,7 +10161,7 @@
     "locus_grp": "38r-40r",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-09-05",
+    "Last modified": "2025-06-21",
     "Created on": "2024-09-02",
     "Created by": {
       "id": 86,
@@ -10157,9 +10181,21 @@
       }
     ],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []
@@ -10220,7 +10256,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2024-09-05",
+    "Last modified": "2025-06-21",
     "Created on": "2024-09-02",
     "Created by": {
       "id": 86,
@@ -10269,9 +10305,21 @@
       }
     ],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []
@@ -11381,7 +11429,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2024-09-02",
+    "Last modified": "2025-06-21",
     "Created on": "2024-08-06",
     "Created by": {
       "id": 86,
@@ -11403,8 +11451,14 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Wurde auf einer freigebliebenen Seite neben Traditionsnotizen (Spalte a) als Spalte b eingefügt.",
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
@@ -11696,7 +11750,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-05",
+    "Last modified": "2025-06-21",
     "Created on": "2024-12-13",
     "Created by": {
       "id": 86,
@@ -11777,7 +11831,7 @@
       {
         "id": 18976,
         "value": "Ergänzung",
-        "color": "light-blue"
+        "color": "blue"
       },
       {
         "id": 19335,
@@ -11793,6 +11847,16 @@
         "id": 18977,
         "value": "Umstellung",
         "color": "deep-dark-green"
+      },
+      {
+        "id": 19670,
+        "value": "Umgestaltung",
+        "color": "darker-red"
+      },
+      {
+        "id": 19337,
+        "value": "Kodikologischer Eingriff",
+        "color": "brown"
       }
     ]
   },
@@ -11828,7 +11892,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__194",
     "filiation": null,
-    "locus_grp": "118v-144v",
+    "locus_grp": "118v-140v",
     "hands_role": [
       {
         "id": 183,
@@ -11843,7 +11907,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-01-24",
+    "Last modified": "2025-06-21",
     "Created on": "2025-01-16",
     "Created by": {
       "id": 86,
@@ -11882,7 +11946,18 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [
+      {
+        "id": 19337,
+        "value": "Kodikologischer Eingriff",
+        "color": "brown"
+      },
+      {
+        "id": 19334,
+        "value": "Auslassung",
+        "color": "orange"
+      }
+    ]
   },
   "196": {
     "id": 196,
@@ -12035,7 +12110,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-05",
+    "Last modified": "2025-06-21",
     "Created on": "2025-01-16",
     "Created by": {
       "id": 86,
@@ -12088,7 +12163,13 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [
+      {
+        "id": 18976,
+        "value": "Ergänzung",
+        "color": "blue"
+      }
+    ]
   },
   "193": {
     "id": 193,
@@ -12255,7 +12336,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-06",
+    "Last modified": "2025-06-21",
     "Created on": "2025-01-17",
     "Created by": {
       "id": 86,
@@ -12299,8 +12380,8 @@
     ],
     "text_modification": [
       {
-        "id": 19336,
-        "value": "Neubearbeitung",
+        "id": 19670,
+        "value": "Umgestaltung",
         "color": "darker-red"
       }
     ]
@@ -12516,7 +12597,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-05",
+    "Last modified": "2025-06-21",
     "Created on": "2025-02-13",
     "Created by": {
       "id": 86,
@@ -12526,7 +12607,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "Es handelt sich um eine spezifische Version der Visio Eucherii, die vor allem im 11. Jahrhundert in Nordfrankreich tradiert wurde.",
+    "note": "Es handelt sich um eine spezifische Version der Visio Eucherii, die vor allem im 11. Jahrhundert in Nordfrankreich tradiert wurde und einen modifizierten Text wiedergibt.",
     "hand": [
       {
         "ids": {
@@ -12555,7 +12636,13 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [
+      {
+        "id": 19670,
+        "value": "Umgestaltung",
+        "color": "darker-red"
+      }
+    ]
   },
   "204": {
     "id": 204,
@@ -12950,7 +13037,7 @@
       {
         "id": 18976,
         "value": "Ergänzung",
-        "color": "light-blue"
+        "color": "blue"
       },
       {
         "id": 19334,
@@ -14131,5 +14218,295 @@
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []
+  },
+  "225": {
+    "id": 225,
+    "order": "179.00000000000000000000",
+    "label": [
+      {
+        "id": 45,
+        "value": "cod_pal_lat_864__225"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 45,
+        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "incipit": "Decedente atque immo potius pereunte ab urbibus Gallicanis liberalium cultura litterarum",
+    "explicit": "sepultusque est Parisius basilica sancti Dionisii martyris",
+    "rubric": "n Christi nomine incipit praefatio Gregor Toronici episcopi",
+    "title_work": [
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "title_note": "Es handelt sich um die karolingische Fassung der Historien, in der Gregors neuntes und zehntes Buch zu Liber IX kombiniert wurde. Das vorliegende Liber X besteht aus dem vierten Buch der Fredegar-Chronik samt den Continuationes.",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__225",
+    "filiation": "",
+    "locus_grp": "1v-134v",
+    "hands_role": [
+      {
+        "id": 220,
+        "value": "hit_hands_role__220",
+        "order": "206.00000000000000000000"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2025-06-21",
+    "Created on": "2025-06-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 45,
+          "database_table_3488": 15
+        },
+        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [
+      {
+        "id": 19335,
+        "value": "Divergierende Kapitelselektion",
+        "color": "purple"
+      },
+      {
+        "id": 19337,
+        "value": "Kodikologischer Eingriff",
+        "color": "brown"
+      }
+    ]
+  },
+  "226": {
+    "id": 226,
+    "order": "180.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__226",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-06-21",
+    "Created on": "2025-06-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": []
+  },
+  "227": {
+    "id": 227,
+    "order": "181.00000000000000000000",
+    "label": [
+      {
+        "id": 45,
+        "value": "cod_pal_lat_864__227"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 45,
+        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 136,
+        "value": "Fredegar-Chronik",
+        "order": "134.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__227",
+    "filiation": "",
+    "locus_grp": "110v-134v",
+    "hands_role": [
+      {
+        "id": 220,
+        "value": "hit_hands_role__220",
+        "order": "206.00000000000000000000"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2025-06-21",
+    "Created on": "2025-06-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 45,
+          "database_table_3488": 15
+        },
+        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": []
+  },
+  "228": {
+    "id": 228,
+    "order": "182.00000000000000000000",
+    "label": [
+      {
+        "id": 45,
+        "value": "cod_pal_lat_864__228"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 45,
+        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 137,
+        "value": "Fredegarii Continuationes",
+        "order": "135.00000000000000000000"
+      }
+    ],
+    "title_note": "Bis Kapitel 24",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__228",
+    "filiation": "",
+    "locus_grp": "?-134v",
+    "hands_role": [
+      {
+        "id": 220,
+        "value": "hit_hands_role__220",
+        "order": "206.00000000000000000000"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2025-06-21",
+    "Created on": "2025-06-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 45,
+          "database_table_3488": 15
+        },
+        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [
+      {
+        "id": 19334,
+        "value": "Auslassung",
+        "color": "orange"
+      }
+    ]
   }
 }

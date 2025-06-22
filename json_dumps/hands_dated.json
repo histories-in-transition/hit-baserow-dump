@@ -4010,5 +4010,59 @@
     "Last modified": "2025-06-19",
     "Created on": "2025-06-19",
     "note": ""
+  },
+  "126": {
+    "id": 126,
+    "order": "123.00000000000000000000",
+    "hit_id": "hit_hands_dated__126",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 71,
+        "value": "um 800",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 162,
+        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864_H. 1",
+        "order": "153.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-21",
+    "Created on": "2025-06-21",
+    "note": ""
+  },
+  "127": {
+    "id": 127,
+    "order": "124.00000000000000000000",
+    "hit_id": "hit_hands_dated__127",
+    "authority": [],
+    "page": "",
+    "dated": [],
+    "hand": [],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-21",
+    "Created on": "2025-06-21",
+    "note": ""
   }
 }

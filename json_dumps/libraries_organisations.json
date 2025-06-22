@@ -349,5 +349,32 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-04-22"
+  },
+  "15": {
+    "id": 15,
+    "order": "14.00000000000000000000",
+    "label": "Universitätsbibliothek Heidelberg",
+    "hit_id": "hit_org__15",
+    "gnd_url": "https://d-nb.info/gnd/2002498-8",
+    "library_full": "",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 32,
+        "value": "Heidelberg",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-21",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-21"
   }
 }

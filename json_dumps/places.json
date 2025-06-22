@@ -772,5 +772,59 @@
     "Last modified": "2025-06-19",
     "lat": null,
     "long": null
+  },
+  "32": {
+    "id": 32,
+    "order": "30.00000000000000000000",
+    "name": "Heidelberg",
+    "geonames_url": "",
+    "hit_id": "hit_place__32",
+    "wikidata_url": "",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-21",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-21",
+    "lat": null,
+    "long": null
+  },
+  "33": {
+    "id": 33,
+    "order": "31.00000000000000000000",
+    "name": "Lorsch",
+    "geonames_url": "",
+    "hit_id": "hit_place__33",
+    "wikidata_url": "",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-21",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-21",
+    "lat": null,
+    "long": null
   }
 }
