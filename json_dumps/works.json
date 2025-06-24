@@ -448,7 +448,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -565,7 +565,7 @@
     "genre": [
       {
         "id": 8,
-        "value": " > Topographische Beschreibung",
+        "value": "Wissensliteratur > Topographische Beschreibung",
         "order": "7.00000000000000000000"
       }
     ],
@@ -641,7 +641,7 @@
     "genre": [
       {
         "id": 10,
-        "value": "Theologische Literatur > Confessio",
+        "value": "Theologische und liturgische Literatur > Confessio",
         "order": "9.00000000000000000000"
       }
     ],
@@ -740,7 +740,7 @@
     "genre": [
       {
         "id": 12,
-        "value": "Rechtstexte > ",
+        "value": "Normative Texte > Rechtstexte",
         "order": "11.00000000000000000000"
       }
     ],
@@ -804,7 +804,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -1392,7 +1392,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -1427,7 +1427,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -1462,7 +1462,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -1497,7 +1497,7 @@
     "genre": [
       {
         "id": 13,
-        "value": "Theologische Literatur > Bibelkommentar",
+        "value": "Theologische und liturgische Literatur > Bibelkommentar",
         "order": "12.00000000000000000000"
       }
     ],
@@ -1561,7 +1561,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -1631,7 +1631,7 @@
     "genre": [
       {
         "id": 14,
-        "value": " > Kalandologion",
+        "value": "Wissensliteratur > Kalandologion",
         "order": "13.00000000000000000000"
       }
     ],
@@ -1880,7 +1880,7 @@
     "genre": [
       {
         "id": 13,
-        "value": "Theologische Literatur > Bibelkommentar",
+        "value": "Theologische und liturgische Literatur > Bibelkommentar",
         "order": "12.00000000000000000000"
       }
     ],
@@ -2084,7 +2084,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -2119,7 +2119,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -2442,7 +2442,7 @@
     "genre": [
       {
         "id": 15,
-        "value": " > Hymnus",
+        "value": "Theologische und liturgische Literatur > Hymnus",
         "order": "14.00000000000000000000"
       }
     ],
@@ -2615,7 +2615,7 @@
     "genre": [
       {
         "id": 15,
-        "value": " > Hymnus",
+        "value": "Theologische und liturgische Literatur > Hymnus",
         "order": "14.00000000000000000000"
       }
     ],
@@ -3462,7 +3462,7 @@
     "genre": [
       {
         "id": 30,
-        "value": "Theologische Literatur > Bibelauszug",
+        "value": "Theologische und liturgische Literatur > Bibelauszug",
         "order": "29.00000000000000000000"
       }
     ],
@@ -3555,7 +3555,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -3584,7 +3584,7 @@
     "genre": [
       {
         "id": 29,
-        "value": "Consuetudines > ",
+        "value": "Normative Texte > Ordensregel",
         "order": "28.00000000000000000000"
       }
     ],
@@ -3907,7 +3907,7 @@
     "genre": [
       {
         "id": 18,
-        "value": " > Canones",
+        "value": "Normative Texte > Canones",
         "order": "17.00000000000000000000"
       }
     ],
@@ -3939,7 +3939,13 @@
     ],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 31,
+        "value": "Wissensliteratur > ",
+        "order": "30.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3950,7 +3956,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-09"
+    "Last modified": "2025-06-23"
   },
   "134": {
     "id": 134,
@@ -3962,7 +3968,13 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische und liturgische Literatur > ",
+        "order": "8.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3973,7 +3985,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-09"
+    "Last modified": "2025-06-23"
   },
   "135": {
     "id": 135,
@@ -4423,7 +4435,7 @@
     "genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -4458,7 +4470,7 @@
     "genre": [
       {
         "id": 13,
-        "value": "Theologische Literatur > Bibelkommentar",
+        "value": "Theologische und liturgische Literatur > Bibelkommentar",
         "order": "12.00000000000000000000"
       }
     ],

@@ -750,9 +750,9 @@
     "id": 31,
     "order": "29.00000000000000000000",
     "name": "Saint-Vaast, Arras",
-    "geonames_url": "",
+    "geonames_url": "https://www.geonames.org/12129552/abbaye-saint-vaast-d-arras.html",
     "hit_id": "hit_place__31",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q334220",
     "country": [
       {
         "id": 14,
@@ -766,20 +766,20 @@
     },
     "Created on": "2025-06-19",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2025-06-19",
-    "lat": null,
-    "long": null
+    "Last modified": "2025-06-24",
+    "lat": "50.29190",
+    "long": "2.77340"
   },
   "32": {
     "id": 32,
     "order": "30.00000000000000000000",
     "name": "Heidelberg",
-    "geonames_url": "",
+    "geonames_url": "https://www.geonames.org/6555638/heidelberg.html",
     "hit_id": "hit_place__32",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2966",
     "country": [
       {
         "id": 2,
@@ -793,20 +793,20 @@
     },
     "Created on": "2025-06-21",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2025-06-21",
-    "lat": null,
-    "long": null
+    "Last modified": "2025-06-24",
+    "lat": "49.40950",
+    "long": "8.69350"
   },
   "33": {
     "id": 33,
     "order": "31.00000000000000000000",
     "name": "Lorsch",
-    "geonames_url": "",
+    "geonames_url": "https://www.geonames.org/11204726/kloster-lorsch.html",
     "hit_id": "hit_place__33",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q157550",
     "country": [
       {
         "id": 2,
@@ -820,11 +820,11 @@
     },
     "Created on": "2025-06-21",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2025-06-21",
-    "lat": null,
-    "long": null
+    "Last modified": "2025-06-24",
+    "lat": "49.65389",
+    "long": "8.56889"
   }
 }

@@ -353,11 +353,11 @@
   "15": {
     "id": 15,
     "order": "14.00000000000000000000",
-    "label": "Universitätsbibliothek Heidelberg",
+    "label": "UB Heidelberg",
     "hit_id": "hit_org__15",
     "gnd_url": "https://d-nb.info/gnd/2002498-8",
-    "library_full": "",
-    "library_website": "",
+    "library_full": "Universitätsbibliothek Heidelberg",
+    "library_website": "https://www.ub.uni-heidelberg.de/de",
     "settlement": [
       {
         "id": 32,
@@ -365,7 +365,7 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "wikidata": "",
+    "wikidata": "https://www.wikidata.org/wiki/Q880794",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -375,6 +375,6 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-21"
+    "Last modified": "2025-06-23"
   }
 }

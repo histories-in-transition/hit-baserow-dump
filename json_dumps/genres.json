@@ -152,7 +152,7 @@
   "8": {
     "id": 8,
     "order": "7.00000000000000000000",
-    "label": " > Topographische Beschreibung",
+    "label": "Wissensliteratur > Topographische Beschreibung",
     "genre": "Topographische Beschreibung",
     "hit_id": "hit_genres__8",
     "m_genre": [],
@@ -162,23 +162,23 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
+    "Last modified": "2025-06-23",
     "sub_genre": "Topographische Beschreibung",
-    "main_genre": null
+    "main_genre": "Wissensliteratur"
   },
   "9": {
     "id": 9,
     "order": "8.00000000000000000000",
-    "label": "Theologische Literatur > ",
+    "label": "Theologische und liturgische Literatur > ",
     "genre": "Theologische Literatur",
     "hit_id": "hit_genres__9",
     "m_genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -188,23 +188,23 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
+    "Last modified": "2025-06-23",
     "sub_genre": "",
-    "main_genre": "Theologische Literatur"
+    "main_genre": "Theologische und liturgische Literatur"
   },
   "10": {
     "id": 10,
     "order": "9.00000000000000000000",
-    "label": "Theologische Literatur > Confessio",
+    "label": "Theologische und liturgische Literatur > Confessio",
     "genre": "Confessio",
     "hit_id": "hit_genres__10",
     "m_genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -214,12 +214,12 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
+    "Last modified": "2025-06-23",
     "sub_genre": "Confessio",
-    "main_genre": "Theologische Literatur"
+    "main_genre": "Theologische und liturgische Literatur"
   },
   "11": {
     "id": 11,
@@ -244,7 +244,7 @@
   "12": {
     "id": 12,
     "order": "11.00000000000000000000",
-    "label": "Rechtstexte > ",
+    "label": "Normative Texte > Rechtstexte",
     "genre": "Recht",
     "hit_id": "hit_genres__12",
     "m_genre": [],
@@ -257,20 +257,20 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-29",
-    "sub_genre": "",
-    "main_genre": "Rechtstexte"
+    "Last modified": "2025-06-23",
+    "sub_genre": "Rechtstexte",
+    "main_genre": "Normative Texte"
   },
   "13": {
     "id": 13,
     "order": "12.00000000000000000000",
-    "label": "Theologische Literatur > Bibelkommentar",
+    "label": "Theologische und liturgische Literatur > Bibelkommentar",
     "genre": "Biblische Kommentare",
     "hit_id": "hit_genres__13",
     "m_genre": [
       {
         "id": 9,
-        "value": "Theologische Literatur > ",
+        "value": "Theologische und liturgische Literatur > ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -283,14 +283,14 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-28",
+    "Last modified": "2025-06-23",
     "sub_genre": "Bibelkommentar",
-    "main_genre": "Theologische Literatur"
+    "main_genre": "Theologische und liturgische Literatur"
   },
   "14": {
     "id": 14,
     "order": "13.00000000000000000000",
-    "label": " > Kalandologion",
+    "label": "Wissensliteratur > Kalandologion",
     "genre": "Kalandologion",
     "hit_id": "hit_genres__14",
     "m_genre": [],
@@ -300,17 +300,17 @@
     },
     "Created on": "2024-07-12",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
+    "Last modified": "2025-06-23",
     "sub_genre": "Kalandologion",
-    "main_genre": null
+    "main_genre": "Wissensliteratur"
   },
   "15": {
     "id": 15,
     "order": "14.00000000000000000000",
-    "label": " > Hymnus",
+    "label": "Theologische und liturgische Literatur > Hymnus",
     "genre": "Hymnus",
     "hit_id": "hit_genres__15",
     "m_genre": [],
@@ -320,12 +320,12 @@
     },
     "Created on": "2024-07-16",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
+    "Last modified": "2025-06-23",
     "sub_genre": "Hymnus",
-    "main_genre": null
+    "main_genre": "Theologische und liturgische Literatur"
   },
   "16": {
     "id": 16,
@@ -370,7 +370,7 @@
   "18": {
     "id": 18,
     "order": "17.00000000000000000000",
-    "label": " > Canones",
+    "label": "Normative Texte > Canones",
     "genre": "Canones",
     "hit_id": "hit_genres__18",
     "m_genre": [],
@@ -380,12 +380,12 @@
     },
     "Created on": "2024-10-09",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-08",
+    "Last modified": "2025-06-23",
     "sub_genre": "Canones",
-    "main_genre": null
+    "main_genre": "Normative Texte"
   },
   "19": {
     "id": 19,
@@ -587,7 +587,7 @@
   "29": {
     "id": 29,
     "order": "28.00000000000000000000",
-    "label": "Consuetudines > ",
+    "label": "Normative Texte > Ordensregel",
     "genre": "",
     "hit_id": "hit_genres__29",
     "m_genre": [],
@@ -600,14 +600,14 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-29",
-    "sub_genre": "",
-    "main_genre": "Consuetudines"
+    "Last modified": "2025-06-23",
+    "sub_genre": "Ordensregel",
+    "main_genre": "Normative Texte"
   },
   "30": {
     "id": 30,
     "order": "29.00000000000000000000",
-    "label": "Theologische Literatur > Bibelauszug",
+    "label": "Theologische und liturgische Literatur > Bibelauszug",
     "genre": "",
     "hit_id": "hit_genres__30",
     "m_genre": [],
@@ -620,14 +620,14 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-29",
+    "Last modified": "2025-06-23",
     "sub_genre": "Bibelauszug",
-    "main_genre": "Theologische Literatur"
+    "main_genre": "Theologische und liturgische Literatur"
   },
   "31": {
     "id": 31,
     "order": "30.00000000000000000000",
-    "label": " > ",
+    "label": "Wissensliteratur > ",
     "genre": "",
     "hit_id": "hit_genres__31",
     "m_genre": [],
@@ -640,8 +640,28 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-13",
+    "Last modified": "2025-06-23",
     "sub_genre": "",
-    "main_genre": ""
+    "main_genre": "Wissensliteratur"
+  },
+  "32": {
+    "id": 32,
+    "order": "31.00000000000000000000",
+    "label": "Normative Texte > ",
+    "genre": "",
+    "hit_id": "hit_genres__32",
+    "m_genre": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-23",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-23",
+    "sub_genre": "",
+    "main_genre": "Normative Texte"
   }
 }

@@ -4405,14 +4405,14 @@
     "shelfmark": [
       {
         "id": 15,
-        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864"
+        "value": "UB Heidelberg, Cod. Pal. Lat. 864"
       }
     ],
     "hit_id": "hit_manuscript__45",
     "library": [
       {
         "id": 15,
-        "value": "Universitätsbibliothek Heidelberg",
+        "value": "UB Heidelberg",
         "order": "14.00000000000000000000"
       }
     ],
@@ -4426,7 +4426,7 @@
     "library_full": [
       {
         "id": 15,
-        "value": ""
+        "value": "Universitätsbibliothek Heidelberg"
       }
     ],
     "extent": "136",

@@ -13034,7 +13034,7 @@
         "value": "Bruxelles KBR, ms. 6439-51_H. 1"
       }
     ],
-    "description": "",
+    "description": "Schreibergruppe aus mindestens zwei Händen.",
     "hit_id": "hit_hands__161",
     "similar_hands": [],
     "nr_daniel": "",
@@ -13056,7 +13056,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-19",
+    "Last modified": "2025-06-23",
     "hands_role": [
       {
         "id": 219,
@@ -13128,7 +13128,7 @@
           "database_table_3487": 45,
           "database_table_3488": 15
         },
-        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864_H. 1"
+        "value": "UB Heidelberg, Cod. Pal. Lat. 864_H. 1"
       }
     ],
     "description": "Aus pragmatischen Gründen angelegte Schreibergruppe bestehend aus zahlreichen Händen (vgl. Bischoff 1989).",
@@ -13138,7 +13138,7 @@
     "manuscript": [
       {
         "id": 45,
-        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864",
+        "value": "UB Heidelberg, Cod. Pal. Lat. 864",
         "order": "38.00000000000000000000"
       }
     ],

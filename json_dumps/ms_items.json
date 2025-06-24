@@ -9993,7 +9993,7 @@
     "locus_grp": "41v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-10-09",
+    "Last modified": "2025-06-23",
     "Created on": "2024-10-09",
     "Created by": {
       "id": 86,
@@ -10007,9 +10007,21 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []
@@ -10031,7 +10043,7 @@
       }
     ],
     "incipit": "Fuit quidam solitarius et veniebat ad eum presbyter",
-    "explicit": "prius sanctificare sibi oblationem",
+    "explicit": "et fecut eum sicut prius sanctificare sibi oblationem",
     "rubric": "",
     "title_work": [
       {
@@ -10049,7 +10061,7 @@
     "locus_grp": "41v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-10-09",
+    "Last modified": "2025-06-23",
     "Created on": "2024-10-09",
     "Created by": {
       "id": 86,
@@ -10063,9 +10075,21 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []
@@ -10105,7 +10129,7 @@
     "locus_grp": "41v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-10-09",
+    "Last modified": "2025-06-23",
     "Created on": "2024-10-09",
     "Created by": {
       "id": 86,
@@ -10119,9 +10143,21 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
     "form_note": null,
-    "column": [],
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": []
@@ -14231,7 +14267,7 @@
     "manuscript": [
       {
         "id": 45,
-        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864",
+        "value": "UB Heidelberg, Cod. Pal. Lat. 864",
         "order": "38.00000000000000000000"
       }
     ],
@@ -14277,7 +14313,7 @@
           "database_table_3487": 45,
           "database_table_3488": 15
         },
-        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864_H. 1"
+        "value": "UB Heidelberg, Cod. Pal. Lat. 864_H. 1"
       }
     ],
     "decoration": [],
@@ -14363,7 +14399,7 @@
     "manuscript": [
       {
         "id": 45,
-        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864",
+        "value": "UB Heidelberg, Cod. Pal. Lat. 864",
         "order": "38.00000000000000000000"
       }
     ],
@@ -14409,7 +14445,7 @@
           "database_table_3487": 45,
           "database_table_3488": 15
         },
-        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864_H. 1"
+        "value": "UB Heidelberg, Cod. Pal. Lat. 864_H. 1"
       }
     ],
     "decoration": [],
@@ -14439,7 +14475,7 @@
     "manuscript": [
       {
         "id": 45,
-        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864",
+        "value": "UB Heidelberg, Cod. Pal. Lat. 864",
         "order": "38.00000000000000000000"
       }
     ],
@@ -14485,7 +14521,7 @@
           "database_table_3487": 45,
           "database_table_3488": 15
         },
-        "value": "Universitätsbibliothek Heidelberg, Cod. Pal. Lat. 864_H. 1"
+        "value": "UB Heidelberg, Cod. Pal. Lat. 864_H. 1"
       }
     ],
     "decoration": [],
