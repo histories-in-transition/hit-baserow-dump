@@ -370,7 +370,7 @@
   "18": {
     "id": 18,
     "order": "17.00000000000000000000",
-    "label": "Normative Texte > Canones",
+    "label": "Normative Texte > Canones / Kirchenrecht",
     "genre": "Canones",
     "hit_id": "hit_genres__18",
     "m_genre": [],
@@ -383,8 +383,8 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-23",
-    "sub_genre": "Canones",
+    "Last modified": "2025-06-24",
+    "sub_genre": "Canones / Kirchenrecht",
     "main_genre": "Normative Texte"
   },
   "19": {
@@ -587,7 +587,7 @@
   "29": {
     "id": 29,
     "order": "28.00000000000000000000",
-    "label": "Normative Texte > Ordensregel",
+    "label": "Normative Texte > Ordensregeln",
     "genre": "",
     "hit_id": "hit_genres__29",
     "m_genre": [],
@@ -600,8 +600,8 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-23",
-    "sub_genre": "Ordensregel",
+    "Last modified": "2025-06-24",
+    "sub_genre": "Ordensregeln",
     "main_genre": "Normative Texte"
   },
   "30": {
@@ -663,5 +663,65 @@
     "Last modified": "2025-06-23",
     "sub_genre": "",
     "main_genre": "Normative Texte"
+  },
+  "33": {
+    "id": 33,
+    "order": "32.00000000000000000000",
+    "label": "Historiographie > Res gestae",
+    "genre": "",
+    "hit_id": "hit_genres__33",
+    "m_genre": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-24",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-24",
+    "sub_genre": "Res gestae",
+    "main_genre": "Historiographie"
+  },
+  "34": {
+    "id": 34,
+    "order": "33.00000000000000000000",
+    "label": "Historiographie > Namenkataloge (weltlich)",
+    "genre": "",
+    "hit_id": "hit_genres__34",
+    "m_genre": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-24",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-24",
+    "sub_genre": "Namenkataloge (weltlich)",
+    "main_genre": "Historiographie"
+  },
+  "35": {
+    "id": 35,
+    "order": "34.00000000000000000000",
+    "label": "Wirtschaftliches und adminstratives Schriftgut > ",
+    "genre": "",
+    "hit_id": "hit_genres__35",
+    "m_genre": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-25",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-25",
+    "sub_genre": "",
+    "main_genre": "Wirtschaftliches und adminstratives Schriftgut"
   }
 }

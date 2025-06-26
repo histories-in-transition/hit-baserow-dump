@@ -2145,7 +2145,13 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 30,
+        "value": "Theologische und liturgische Literatur > Bibelauszug",
+        "order": "29.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -2156,7 +2162,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-06-25"
   },
   "68": {
     "id": 68,
@@ -3081,14 +3087,14 @@
     "source_text": [],
     "genre": [
       {
-        "id": 5,
-        "value": "Historiographie > ",
-        "order": "5.00000000000000000000"
-      },
-      {
         "id": 25,
         "value": "Genealogie > ",
         "order": "24.00000000000000000000"
+      },
+      {
+        "id": 34,
+        "value": "Historiographie > Namenkataloge (weltlich)",
+        "order": "33.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -3101,7 +3107,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-04-02"
+    "Last modified": "2025-06-24"
   },
   "103": {
     "id": 103,
@@ -3361,7 +3367,13 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 35,
+        "value": "Wirtschaftliches und adminstratives Schriftgut > ",
+        "order": "34.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3372,7 +3384,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-28"
+    "Last modified": "2025-06-25"
   },
   "113": {
     "id": 113,
@@ -3584,7 +3596,7 @@
     "genre": [
       {
         "id": 29,
-        "value": "Normative Texte > Ordensregel",
+        "value": "Normative Texte > Ordensregeln",
         "order": "28.00000000000000000000"
       }
     ],
@@ -3610,7 +3622,18 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische und liturgische Literatur > ",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 31,
+        "value": "Wissensliteratur > ",
+        "order": "30.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3621,7 +3644,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-09-02"
+    "Last modified": "2025-06-25"
   },
   "122": {
     "id": 122,
@@ -3852,7 +3875,13 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 35,
+        "value": "Wirtschaftliches und adminstratives Schriftgut > ",
+        "order": "34.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3863,7 +3892,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-03"
+    "Last modified": "2025-06-25"
   },
   "131": {
     "id": 131,
@@ -3875,7 +3904,13 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 35,
+        "value": "Wirtschaftliches und adminstratives Schriftgut > ",
+        "order": "34.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3886,7 +3921,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-03"
+    "Last modified": "2025-06-25"
   },
   "132": {
     "id": 132,
@@ -3907,7 +3942,7 @@
     "genre": [
       {
         "id": 18,
-        "value": "Normative Texte > Canones",
+        "value": "Normative Texte > Canones / Kirchenrecht",
         "order": "17.00000000000000000000"
       }
     ],
@@ -4562,14 +4597,14 @@
     "source_text": [],
     "genre": [
       {
-        "id": 5,
-        "value": "Historiographie > ",
-        "order": "5.00000000000000000000"
-      },
-      {
         "id": 25,
         "value": "Genealogie > ",
         "order": "24.00000000000000000000"
+      },
+      {
+        "id": 34,
+        "value": "Historiographie > Namenkataloge (weltlich)",
+        "order": "33.00000000000000000000"
       }
     ],
     "note_source": "",
@@ -4582,6 +4617,6 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-19"
+    "Last modified": "2025-06-24"
   }
 }
