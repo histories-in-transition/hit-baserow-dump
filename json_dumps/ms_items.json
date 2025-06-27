@@ -9916,8 +9916,14 @@
         "order": "103.00000000000000000000"
       }
     ],
-    "cod_unit": [],
-    "Last modified": "2025-06-21",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-08-26",
     "Created by": {
       "id": 86,
@@ -9992,8 +9998,14 @@
     "filiation": null,
     "locus_grp": "41v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2025-06-23",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-10-09",
     "Created by": {
       "id": 86,
@@ -10060,8 +10072,14 @@
     "filiation": null,
     "locus_grp": "41v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2025-06-23",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-10-09",
     "Created by": {
       "id": 86,
@@ -10128,8 +10146,14 @@
     "filiation": null,
     "locus_grp": "41v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2025-06-23",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-10-09",
     "Created by": {
       "id": 86,
@@ -10196,8 +10220,14 @@
     "filiation": null,
     "locus_grp": "38r-40r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2025-06-21",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-02",
     "Created by": {
       "id": 86,
@@ -10291,8 +10321,14 @@
         "order": "192.00000000000000000000"
       }
     ],
-    "cod_unit": [],
-    "Last modified": "2025-06-25",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-02",
     "Created by": {
       "id": 86,
@@ -10394,23 +10430,35 @@
     "filiation": null,
     "locus_grp": "93r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-17",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "",
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
@@ -10432,9 +10480,9 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
+    "incipit": "In nomine sanctę et individuę trinitatis. Notum sit omnibus tam praesentibus",
+    "explicit": "Data Salzburc XV kalendis iunii a venerabili eiusdem sedis metropolitano antistite Conrado",
+    "rubric": null,
     "title_work": [
       {
         "id": 127,
@@ -10450,8 +10498,14 @@
     "filiation": null,
     "locus_grp": "93r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2025-06-06",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-10-03",
     "Created by": {
       "id": 86,
@@ -10463,10 +10517,22 @@
     },
     "note": "",
     "hand": [],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
@@ -10506,8 +10572,14 @@
     "filiation": null,
     "locus_grp": "93v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-02",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-02",
     "Created by": {
       "id": 86,
@@ -10517,12 +10589,18 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "",
+    "note": "r centuries\nafterward, the set of six Greek names would figure not in legislation, but in\nbooks about words - first in bilingual glossaries and then in Latin dic-\ntionaries https://www.jstor.org/stable/2853793?seq=8",
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
@@ -10562,23 +10640,35 @@
     "filiation": null,
     "locus_grp": "93v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-17",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "note": "wohl Hand 12. Jh.",
+    "note": "12. Jh.?",
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
@@ -10618,23 +10708,35 @@
     "filiation": null,
     "locus_grp": "94r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-18",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "note": "",
+    "note": null,
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
@@ -10674,8 +10776,14 @@
     "filiation": null,
     "locus_grp": "94v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-18",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
@@ -10685,7 +10793,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "",
+    "note": null,
     "hand": [],
     "decoration": [],
     "facs_url": "",
@@ -10730,8 +10838,14 @@
     "filiation": null,
     "locus_grp": "94v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-10-03",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-10-03",
     "Created by": {
       "id": 86,
@@ -10786,8 +10900,14 @@
     "filiation": null,
     "locus_grp": "95r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-02",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-02",
     "Created by": {
       "id": 86,
@@ -10842,8 +10962,14 @@
     "filiation": null,
     "locus_grp": "95r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-02",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-02",
     "Created by": {
       "id": 86,
@@ -10898,16 +11024,22 @@
     "filiation": null,
     "locus_grp": "95r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-18",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "",
     "hand": [],
@@ -10954,16 +11086,22 @@
     "filiation": null,
     "locus_grp": "95v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-18",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "",
     "hand": [],
@@ -11010,8 +11148,14 @@
     "filiation": null,
     "locus_grp": "95v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-10-03",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-10-03",
     "Created by": {
       "id": 86,
@@ -11066,16 +11210,22 @@
     "filiation": null,
     "locus_grp": "96r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-18",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "Nr. 36 Notiz über Beendigung eines Besitzstreites mit Bischof Otto von Bamberg",
     "hand": [],
@@ -11122,8 +11272,14 @@
     "filiation": null,
     "locus_grp": "96r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-10-03",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-10-03",
     "Created by": {
       "id": 86,
@@ -11178,16 +11334,22 @@
     "filiation": null,
     "locus_grp": "96v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-18",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "",
     "hand": [],
@@ -11234,16 +11396,22 @@
     "filiation": null,
     "locus_grp": "96v-97r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-18",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-11",
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "",
     "hand": [],
@@ -11290,16 +11458,22 @@
     "filiation": null,
     "locus_grp": "97r",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-18",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "Nr. 56 ähnlich wie Briefe, also 2. Hälfte des 12. Jahrhunderts",
     "hand": [],
@@ -11346,8 +11520,14 @@
     "filiation": null,
     "locus_grp": "97v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-18",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-18",
     "Created by": {
       "id": 86,
@@ -11402,16 +11582,22 @@
     "filiation": null,
     "locus_grp": "97v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-09-18",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
       "name": "Jesper van der Most"
     },
     "Last modified by": {
-      "id": 96,
-      "name": "Jesper van der Most"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": "Nr. 57 ct-Ligatur aufgebrochen",
     "hand": [],
@@ -11464,8 +11650,14 @@
         "order": "82.00000000000000000000"
       }
     ],
-    "cod_unit": [],
-    "Last modified": "2025-06-21",
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-06-26",
     "Created on": "2024-08-06",
     "Created by": {
       "id": 86,
