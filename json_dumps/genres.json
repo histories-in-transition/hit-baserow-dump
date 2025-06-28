@@ -723,5 +723,25 @@
     "Last modified": "2025-06-25",
     "sub_genre": "",
     "main_genre": "Wirtschaftliches und adminstratives Schriftgut"
+  },
+  "36": {
+    "id": 36,
+    "order": "35.00000000000000000000",
+    "label": "Hagiographie > Passio",
+    "genre": "",
+    "hit_id": "hit_genres__36",
+    "m_genre": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-06-27",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-06-27",
+    "sub_genre": "Passio",
+    "main_genre": "Hagiographie"
   }
 }
