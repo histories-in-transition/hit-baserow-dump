@@ -13222,5 +13222,50 @@
     "scribe": [],
     "gruppe": true,
     "author_entry": []
+  },
+  "163": {
+    "id": 163,
+    "order": "154.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 43,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 1029_H. 2"
+      }
+    ],
+    "description": "Aus pragmatischen Gründen angelegte Schreibergruppe, bestehend aus Händen aus der 1. und 2. Hälfte des 11. Jahrhunderts, die getrennt in zwei Phasen den Codex angefertigt haben.",
+    "hit_id": "hit_hands__163",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 43,
+        "value": "ÖNB, Cod. 1029",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-07-01",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-07-01",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": true,
+    "author_entry": []
   }
 }

@@ -79,7 +79,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "68": {
     "id": 68,
@@ -155,7 +162,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "10": {
     "id": 10,
@@ -237,7 +251,14 @@
       }
     ],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "5": {
     "id": 5,
@@ -337,7 +358,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "12": {
     "id": 12,
@@ -449,7 +477,14 @@
       }
     ],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -525,7 +560,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -613,7 +655,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "8": {
     "id": 8,
@@ -719,7 +768,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "11": {
     "id": 11,
@@ -831,7 +887,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "69": {
     "id": 69,
@@ -913,7 +976,14 @@
       }
     ],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -983,7 +1053,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -1059,7 +1136,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "72": {
     "id": 72,
@@ -1129,7 +1213,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "73": {
     "id": 73,
@@ -1205,7 +1296,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "75": {
     "id": 75,
@@ -1281,7 +1379,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "77": {
     "id": 77,
@@ -1357,7 +1462,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -1457,7 +1569,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -1551,7 +1670,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -1633,7 +1759,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -1715,7 +1848,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -1809,7 +1949,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -1891,7 +2038,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "23": {
     "id": 23,
@@ -1973,7 +2127,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -2055,7 +2216,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "24": {
     "id": 24,
@@ -2137,7 +2305,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -2219,7 +2394,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "26": {
     "id": 26,
@@ -2295,7 +2477,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "27": {
     "id": 27,
@@ -2371,7 +2560,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "28": {
     "id": 28,
@@ -2459,7 +2655,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "29": {
     "id": 29,
@@ -2535,7 +2738,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "30": {
     "id": 30,
@@ -2597,7 +2807,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "31": {
     "id": 31,
@@ -2684,7 +2901,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "32": {
     "id": 32,
@@ -2757,7 +2981,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "33": {
     "id": 33,
@@ -2857,7 +3088,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "34": {
     "id": 34,
@@ -2945,7 +3183,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "35": {
     "id": 35,
@@ -3033,7 +3278,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "36": {
     "id": 36,
@@ -3121,7 +3373,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "37": {
     "id": 37,
@@ -3209,7 +3468,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "38": {
     "id": 38,
@@ -3297,7 +3563,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -3385,7 +3658,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "40": {
     "id": 40,
@@ -3473,7 +3753,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "41": {
     "id": 41,
@@ -3561,7 +3848,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "42": {
     "id": 42,
@@ -3649,7 +3943,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "43": {
     "id": 43,
@@ -3737,7 +4038,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "44": {
     "id": 44,
@@ -3813,7 +4121,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "45": {
     "id": 45,
@@ -3875,7 +4190,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "46": {
     "id": 46,
@@ -3951,7 +4273,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "47": {
     "id": 47,
@@ -4027,7 +4356,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "48": {
     "id": 48,
@@ -4120,7 +4456,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "49": {
     "id": 49,
@@ -4220,7 +4563,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "50": {
     "id": 50,
@@ -4308,7 +4658,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "51": {
     "id": 51,
@@ -4390,7 +4747,14 @@
       }
     ],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "52": {
     "id": 52,
@@ -4501,7 +4865,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "53": {
     "id": 53,
@@ -4563,7 +4934,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "54": {
     "id": 54,
@@ -4625,7 +5003,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "55": {
     "id": 55,
@@ -4687,7 +5072,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "56": {
     "id": 56,
@@ -4749,7 +5141,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "57": {
     "id": 57,
@@ -4811,7 +5210,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "58": {
     "id": 58,
@@ -4873,7 +5279,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "59": {
     "id": 59,
@@ -4935,7 +5348,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "60": {
     "id": 60,
@@ -5022,7 +5442,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "61": {
     "id": 61,
@@ -5098,7 +5525,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "62": {
     "id": 62,
@@ -5174,7 +5608,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "63": {
     "id": 63,
@@ -5262,7 +5703,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "64": {
     "id": 64,
@@ -5338,7 +5786,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "65": {
     "id": 65,
@@ -5414,7 +5869,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "66": {
     "id": 66,
@@ -5490,7 +5952,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "67": {
     "id": 67,
@@ -5546,7 +6015,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "80": {
     "id": 80,
@@ -5658,7 +6134,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "81": {
     "id": 81,
@@ -5734,7 +6217,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "82": {
     "id": 82,
@@ -5810,7 +6300,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "83": {
     "id": 83,
@@ -5886,7 +6383,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "84": {
     "id": 84,
@@ -5948,7 +6452,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "85": {
     "id": 85,
@@ -6036,7 +6547,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "87": {
     "id": 87,
@@ -6092,7 +6610,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "88": {
     "id": 88,
@@ -6142,7 +6667,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "89": {
     "id": 89,
@@ -6192,7 +6724,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "114": {
     "id": 114,
@@ -6280,7 +6819,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "90": {
     "id": 90,
@@ -6356,7 +6902,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "100": {
     "id": 100,
@@ -6432,7 +6985,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "93": {
     "id": 93,
@@ -6508,7 +7068,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "92": {
     "id": 92,
@@ -6584,7 +7151,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "102": {
     "id": 102,
@@ -6660,7 +7234,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "121": {
     "id": 121,
@@ -6748,7 +7329,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "103": {
     "id": 103,
@@ -6824,7 +7412,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "104": {
     "id": 104,
@@ -6924,7 +7519,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "110": {
     "id": 110,
@@ -7000,7 +7602,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "112": {
     "id": 112,
@@ -7076,7 +7685,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "113": {
     "id": 113,
@@ -7206,7 +7822,14 @@
       }
     ],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "116": {
     "id": 116,
@@ -7282,7 +7905,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "117": {
     "id": 117,
@@ -7358,7 +7988,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "119": {
     "id": 119,
@@ -7476,7 +8113,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "120": {
     "id": 120,
@@ -7552,7 +8196,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "139": {
     "id": 139,
@@ -7646,7 +8297,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "179": {
     "id": 179,
@@ -7722,7 +8380,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "122": {
     "id": 122,
@@ -7810,7 +8475,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "123": {
     "id": 123,
@@ -7914,7 +8586,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "124": {
     "id": 124,
@@ -8002,7 +8681,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "125": {
     "id": 125,
@@ -8096,7 +8782,14 @@
       }
     ],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "140": {
     "id": 140,
@@ -8184,7 +8877,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "127": {
     "id": 127,
@@ -8283,7 +8983,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "128": {
     "id": 128,
@@ -8389,7 +9096,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "141": {
     "id": 141,
@@ -8477,7 +9191,14 @@
       }
     ],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "129": {
     "id": 129,
@@ -8565,7 +9286,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "130": {
     "id": 130,
@@ -8688,7 +9416,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "131": {
     "id": 131,
@@ -8973,6 +9708,13 @@
         "value": "Kodikologischer Eingriff",
         "color": "brown"
       }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
     ]
   },
   "133": {
@@ -9053,6 +9795,13 @@
         "value": "Kodikologischer Eingriff",
         "color": "brown"
       }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
     ]
   },
   "134": {
@@ -9127,7 +9876,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "132": {
     "id": 132,
@@ -9220,7 +9976,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "135": {
     "id": 135,
@@ -9313,7 +10076,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "137": {
     "id": 137,
@@ -9418,7 +10188,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "144": {
     "id": 144,
@@ -9512,7 +10289,14 @@
       }
     ],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "138": {
     "id": 138,
@@ -9689,7 +10473,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "160": {
     "id": 160,
@@ -9763,7 +10554,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "145": {
     "id": 145,
@@ -9874,7 +10672,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "146": {
     "id": 146,
@@ -9962,7 +10767,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "187": {
     "id": 187,
@@ -10036,7 +10848,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "188": {
     "id": 188,
@@ -10110,7 +10929,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "186": {
     "id": 186,
@@ -10184,7 +11010,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "147": {
     "id": 147,
@@ -10264,7 +11097,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "148": {
     "id": 148,
@@ -10394,7 +11234,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "161": {
     "id": 161,
@@ -10462,7 +11309,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "180": {
     "id": 180,
@@ -10536,7 +11390,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "149": {
     "id": 149,
@@ -10604,7 +11465,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "164": {
     "id": 164,
@@ -10672,7 +11540,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "166": {
     "id": 166,
@@ -10740,7 +11615,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "167": {
     "id": 167,
@@ -10802,7 +11684,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "183": {
     "id": 183,
@@ -10864,7 +11753,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "150": {
     "id": 150,
@@ -10926,7 +11822,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "151": {
     "id": 151,
@@ -10988,7 +11891,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "169": {
     "id": 169,
@@ -11050,7 +11960,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "170": {
     "id": 170,
@@ -11112,7 +12029,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "184": {
     "id": 184,
@@ -11174,7 +12098,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "171": {
     "id": 171,
@@ -11236,7 +12167,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "185": {
     "id": 185,
@@ -11298,7 +12236,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "172": {
     "id": 172,
@@ -11360,7 +12305,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "177": {
     "id": 177,
@@ -11422,7 +12374,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "173": {
     "id": 173,
@@ -11484,7 +12443,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "178": {
     "id": 178,
@@ -11546,7 +12512,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "174": {
     "id": 174,
@@ -11608,7 +12581,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "143": {
     "id": 143,
@@ -11690,7 +12670,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "152": {
     "id": 152,
@@ -11746,7 +12733,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "153": {
     "id": 153,
@@ -11802,7 +12796,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "175": {
     "id": 175,
@@ -11858,7 +12859,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "176": {
     "id": 176,
@@ -11914,7 +12922,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "191": {
     "id": 191,
@@ -12086,6 +13101,13 @@
         "value": "Kodikologischer Eingriff",
         "color": "brown"
       }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
     ]
   },
   "194": {
@@ -12185,6 +13207,13 @@
         "value": "Auslassung",
         "color": "orange"
       }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
     ]
   },
   "196": {
@@ -12278,6 +13307,13 @@
         "id": 19334,
         "value": "Auslassung",
         "color": "orange"
+      }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
       }
     ]
   },
@@ -12396,6 +13432,13 @@
         "id": 18976,
         "value": "Ergänzung",
         "color": "blue"
+      }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
       }
     ]
   },
@@ -12521,7 +13564,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "198": {
     "id": 198,
@@ -12612,6 +13662,13 @@
         "value": "Umgestaltung",
         "color": "darker-red"
       }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
     ]
   },
   "201": {
@@ -12694,7 +13751,14 @@
       }
     ],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "202": {
     "id": 202,
@@ -12776,7 +13840,14 @@
       }
     ],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "203": {
     "id": 203,
@@ -12870,6 +13941,13 @@
         "value": "Umgestaltung",
         "color": "darker-red"
       }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
     ]
   },
   "204": {
@@ -12890,15 +13968,15 @@
     "locus_grp": "",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2025-02-13",
+    "Last modified": "2025-07-01",
     "Created on": "2025-02-13",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "",
     "hand": [],
@@ -12909,7 +13987,8 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": []
   },
   "205": {
     "id": 205,
@@ -12997,7 +14076,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "206": {
     "id": 206,
@@ -13085,7 +14171,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "207": {
     "id": 207,
@@ -13173,7 +14266,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "208": {
     "id": 208,
@@ -13272,6 +14372,13 @@
         "value": "Auslassung",
         "color": "orange"
       }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
     ]
   },
   "209": {
@@ -13348,7 +14455,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "210": {
     "id": 210,
@@ -13368,15 +14482,15 @@
     "locus_grp": "",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2025-02-17",
+    "Last modified": "2025-07-01",
     "Created on": "2025-02-17",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "",
     "hand": [],
@@ -13387,7 +14501,8 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": []
   },
   "211": {
     "id": 211,
@@ -13463,7 +14578,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "212": {
     "id": 212,
@@ -13545,7 +14667,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "213": {
     "id": 213,
@@ -13633,7 +14762,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "214": {
     "id": 214,
@@ -13739,7 +14875,14 @@
       }
     ],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "215": {
     "id": 215,
@@ -13795,7 +14938,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "216": {
     "id": 216,
@@ -13865,7 +15015,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "217": {
     "id": 217,
@@ -13974,7 +15131,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "218": {
     "id": 218,
@@ -14062,7 +15226,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "219": {
     "id": 219,
@@ -14096,7 +15267,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__219",
     "filiation": "",
-    "locus_grp": "241v-267",
+    "locus_grp": "241v-267v",
     "hands_role": [
       {
         "id": 207,
@@ -14111,7 +15282,7 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "Last modified": "2025-05-27",
+    "Last modified": "2025-07-01",
     "Created on": "2025-05-27",
     "Created by": {
       "id": 86,
@@ -14156,7 +15327,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "220": {
     "id": 220,
@@ -14176,15 +15354,15 @@
     "locus_grp": "",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2025-05-27",
+    "Last modified": "2025-07-01",
     "Created on": "2025-05-27",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "",
     "hand": [],
@@ -14195,7 +15373,8 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": []
   },
   "221": {
     "id": 221,
@@ -14289,7 +15468,14 @@
       }
     ],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "222": {
     "id": 222,
@@ -14363,7 +15549,14 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "224": {
     "id": 224,
@@ -14445,7 +15638,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "225": {
     "id": 225,
@@ -14538,6 +15738,13 @@
         "value": "Kodikologischer Eingriff",
         "color": "brown"
       }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
     ]
   },
   "226": {
@@ -14558,15 +15765,15 @@
     "locus_grp": "",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2025-06-21",
+    "Last modified": "2025-07-01",
     "Created on": "2025-06-21",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "",
     "hand": [],
@@ -14577,7 +15784,8 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": []
   },
   "227": {
     "id": 227,
@@ -14653,7 +15861,14 @@
     "column": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": []
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
   },
   "228": {
     "id": 228,
@@ -14734,6 +15949,94 @@
         "id": 19334,
         "value": "Auslassung",
         "color": "orange"
+      }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "229": {
+    "id": 229,
+    "order": "183.00000000000000000000",
+    "label": [
+      {
+        "id": 43,
+        "value": "cod_1029__229"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 43,
+        "value": "ÖNB, Cod. 1029",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 154,
+        "value": "Theologische Schriften",
+        "order": "152.00000000000000000000"
+      }
+    ],
+    "title_note": "Stellvertreter für zahlreiche theologische Texte innerhalb der Handschrift (vgl. Manuscripta.at).",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__229",
+    "filiation": "",
+    "locus_grp": "1r-228v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 50,
+        "value": "ÖNB, Cod. 1029, cod. unit 1",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-07-01",
+    "Created on": "2025-07-01",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
       }
     ]
   }
