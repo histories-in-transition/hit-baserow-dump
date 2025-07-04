@@ -1918,8 +1918,22 @@
     "Last modified": "2024-10-23",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 27,
+        "value": "BSB, Clm. 6375, cod. unit 1",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 8,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6375, cod. unit 1"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -1981,8 +1995,22 @@
     "Last modified": "2024-10-23",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 27,
+        "value": "BSB, Clm. 6375, cod. unit 1",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 8,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6375, cod. unit 1"
+      }
+    ]
   },
   "21": {
     "id": 21,

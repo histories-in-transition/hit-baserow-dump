@@ -7041,7 +7041,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "Last modified": "2024-07-23",
+    "Last modified": "2025-07-02",
     "Created on": "2024-07-20",
     "Created by": {
       "id": 86,
@@ -7071,9 +7071,9 @@
     "text_modification": [],
     "language": [
       {
-        "id": 19677,
-        "value": "Latein",
-        "color": "light-cyan"
+        "id": 19678,
+        "value": "Althochdeutsch",
+        "color": "darker-pink"
       }
     ]
   },

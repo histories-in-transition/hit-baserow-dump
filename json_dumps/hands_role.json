@@ -2501,7 +2501,7 @@
     "locus_layout": [
       {
         "id": 15096,
-        "value": "marginal rechts",
+        "value": "marginal rechts OUTDATED",
         "color": "darker-red"
       }
     ],
@@ -2699,7 +2699,7 @@
     "locus_layout": [
       {
         "id": 15383,
-        "value": "marginal links",
+        "value": "marginal links OUTDATED",
         "color": "darker-brown"
       },
       {
@@ -3521,7 +3521,7 @@
     "locus_layout": [
       {
         "id": 15383,
-        "value": "marginal links",
+        "value": "marginal links OUTDATED",
         "color": "darker-brown"
       }
     ],
@@ -8547,12 +8547,12 @@
     "locus_layout": [
       {
         "id": 15096,
-        "value": "marginal rechts",
+        "value": "marginal rechts OUTDATED",
         "color": "darker-red"
       },
       {
         "id": 15383,
-        "value": "marginal links",
+        "value": "marginal links OUTDATED",
         "color": "darker-brown"
       }
     ],
@@ -9098,7 +9098,7 @@
     "locus_layout": [
       {
         "id": 15383,
-        "value": "marginal links",
+        "value": "marginal links OUTDATED",
         "color": "darker-brown"
       }
     ],
@@ -10696,12 +10696,12 @@
     "locus_layout": [
       {
         "id": 15383,
-        "value": "marginal links",
+        "value": "marginal links OUTDATED",
         "color": "darker-brown"
       },
       {
         "id": 15096,
-        "value": "marginal rechts",
+        "value": "marginal rechts OUTDATED",
         "color": "darker-red"
       },
       {
@@ -12867,12 +12867,12 @@
       },
       {
         "id": 15096,
-        "value": "marginal rechts",
+        "value": "marginal rechts OUTDATED",
         "color": "darker-red"
       },
       {
         "id": 15383,
-        "value": "marginal links",
+        "value": "marginal links OUTDATED",
         "color": "darker-brown"
       }
     ],

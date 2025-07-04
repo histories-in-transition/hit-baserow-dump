@@ -1821,12 +1821,18 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-07-01",
+    "Last modified": "2025-07-02",
     "orig_date": [],
     "heigth": "325",
     "lines_number": "27",
-    "decorations": "2v - P, 3v - S, 15v - rote Xp, 22v - Q (quaecumque oportuit velut in),",
-    "basic_structure": [],
+    "decorations": "bunte ornamentale Initiale im insulären Stil, an und ab mit Tierköpfen: 2v - P, 3v - S, 15v - rote Xp, 22v - Q (\"quaecumque oportuit velut in\" ist bunt gefärbt), 40v - I mit Tierkopf, 64r - D, 86r - I mit Tierkopf, 112v - A mit Tierkopf, 139v - S, 176v - h, 185v - I, 190r - C (in Form eines Vogels), 210v - P. Auf der Seite 158v wurde ein Vogel gezeichnet. Dazu wurden die Überschriften oft in Uncial mit bunt gefärbten Füllungen geschrieben.",
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
     "written_width": "180",
     "written_height": "265-275",
     "width": "225",
@@ -1865,7 +1871,18 @@
         "value": "Südbayern"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 19,
+        "value": "Clm. 6375, Stratum 1",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 20,
+        "value": "Clm. 6375, Stratum 2",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "ruling": null,
     "material": {
       "id": 19338,
