@@ -135,7 +135,7 @@
   "6": {
     "id": 6,
     "order": "5.00000000000000000000",
-    "title": "Epactae lunae & solis",
+    "title": "Epactae lunae et solis",
     "gnd_url": "",
     "note": "",
     "hit_id": "hit_works__6",
@@ -156,10 +156,10 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-12"
+    "Last modified": "2025-07-07"
   },
   "7": {
     "id": 7,
