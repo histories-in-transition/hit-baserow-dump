@@ -468,7 +468,7 @@
     "id": 20,
     "order": "19.00000000000000000000",
     "title": "Miracula sancti Martini",
-    "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
+    "gnd_url": "https://d-nb.info/1336713453",
     "note": "",
     "hit_id": "hit_works__20",
     "author": [
@@ -500,10 +500,10 @@
     },
     "Created on": "2024-07-04",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-07-08"
   },
   "21": {
     "id": 21,
@@ -585,7 +585,7 @@
     "id": 74,
     "order": "21.50000000000000000000",
     "title": "Vita sancti Bricii",
-    "gnd_url": "https://portal.dnb.de/opac/showFullRecord?currentResultId=Gregor+and+Tours%26any&currentPosition=6",
+    "gnd_url": "https://d-nb.info/1336713453",
     "note": "",
     "hit_id": "hit_works__74",
     "author": [
@@ -617,10 +617,10 @@
     },
     "Created on": "2024-07-11",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-11"
+    "Last modified": "2025-07-08"
   },
   "23": {
     "id": 23,
