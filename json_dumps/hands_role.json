@@ -13213,5 +13213,30 @@
     ],
     "scribe_type": [],
     "strata": []
+  },
+  "221": {
+    "id": 221,
+    "order": "207.00000000000000000000",
+    "hit_id": "hit_hands_role__221",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-07-11",
+    "Last modified": "2025-07-11",
+    "locus_layout": [],
+    "function": [],
+    "scribe_type": [],
+    "strata": []
   }
 }

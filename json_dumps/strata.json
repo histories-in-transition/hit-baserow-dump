@@ -3605,7 +3605,13 @@
         "value": "Clm. 6380, Stratum 2"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 14765,
+        "value": "annotation",
+        "color": "light-brown"
+      }
+    ],
     "manuscript": [
       {
         "id": 7,
@@ -3618,7 +3624,7 @@
     "hand_role": [],
     "ms_items": [],
     "locus": [],
-    "note": "",
+    "note": "Einige Zeichen und Notae stammen vermutlich von einer anderen Hand. Mit den Notae wurden meistens wichtige Meilensteine der Weltgeschichte bezeichnet, wie der Krieg von Sparta, die Herrschaft von Nebukadnezar, Krieg von Xerxes gegen Griechen usw., was eine Benutzung der Handschrift für Erstellung weirerer Geschichtswerke andeuten kann.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -3628,7 +3634,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-07-10",
+    "Last modified": "2025-07-11",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [],

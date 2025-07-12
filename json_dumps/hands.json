@@ -13267,5 +13267,50 @@
     "scribe": [],
     "gruppe": true,
     "author_entry": []
+  },
+  "164": {
+    "id": 164,
+    "order": "155.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380_H. 2"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__164",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-07-11",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-07-11",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
   }
 }
