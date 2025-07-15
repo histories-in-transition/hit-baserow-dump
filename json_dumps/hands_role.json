@@ -7135,7 +7135,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-02",
-    "Last modified": "2024-11-06",
+    "Last modified": "2025-07-14",
     "locus_layout": [
       {
         "id": 15841,
@@ -7143,7 +7143,13 @@
         "color": "green"
       }
     ],
-    "function": [],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
     "strata": []
   },
@@ -7393,7 +7399,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-02",
-    "Last modified": "2024-11-06",
+    "Last modified": "2025-07-14",
     "locus_layout": [
       {
         "id": 15841,
@@ -7401,7 +7407,13 @@
         "color": "green"
       }
     ],
-    "function": [],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
     "strata": []
   },
@@ -7455,7 +7467,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-02",
-    "Last modified": "2024-11-06",
+    "Last modified": "2025-07-14",
     "locus_layout": [
       {
         "id": 15841,
@@ -7463,7 +7475,13 @@
         "color": "green"
       }
     ],
-    "function": [],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
     "strata": []
   },
