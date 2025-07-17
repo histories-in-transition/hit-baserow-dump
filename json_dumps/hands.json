@@ -8004,17 +8004,17 @@
       }
     ],
     "number": "1",
-    "note": "Dem Schriftstil nach - aus dem Kreis der Haupthand von Clm. 4566, nah zu Basileensis F III 15k. Interpunktion: meistens drei Punkte, manchmal Semikolon, selten ein Punkt.",
+    "note": "Dem Schriftstil nach - aus dem Kreis der Haupthand von Clm. 4566, nah zu Basileensis F III 15k. Interpunktion: meistens drei Punkte, manchmal Semikolon, selten ein Punkt. Ähnliche Hände in Basel FIII15k, Clm 4566, Clm 14704, Clm 4554, Clm 29054.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-04",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-05",
+    "Last modified": "2025-07-16",
     "hands_role": [
       {
         "id": 120,
@@ -8047,7 +8047,7 @@
     "dating": [],
     "hands_placed": [],
     "scribe": [],
-    "gruppe": false,
+    "gruppe": true,
     "author_entry": [
       {
         "id": 2,
@@ -8080,17 +8080,17 @@
       }
     ],
     "number": "2",
-    "note": "Entwickelte Minuskel, Eigenschaften: selten -\ncc, offenes cc mit zwei Spitzen und halbunziales a; nur d; an Ligaturen\nu.a. eN|, nt, cz, ret; ft ist bisweilen unverbunden. Einzige Interpunktion\nist der Punkt.",
+    "note": "Entwickelte Minuskel, Eigenschaften: selten -\ncc, offenes cc mit zwei Spitzen und halbunziales a; nur d; an Ligaturen\nu.a. eN|, nt, cz, ret; ft ist bisweilen unverbunden. Einzige Interpunktion\nist der Punkt. Die Custoden stehen mit einem quia-Symbol am Ende jeder Lage.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-04",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-05",
+    "Last modified": "2025-07-16",
     "hands_role": [
       {
         "id": 122,
@@ -8412,17 +8412,17 @@
       }
     ],
     "number": "3",
-    "note": "Dem Schriftstil nach - aus dem Kreis der Haupthand von Clm. 4566, nah zu Basileensis F III 15k. Interpunktion: meistens drei Punkte, manchmal Semikolon, selten ein Punkt",
+    "note": "Dem Schriftstil nach - aus dem Kreis der Haupthand von Clm. 4566, nah zu Basileensis F III 15k. Interpunktion: meistens drei Punkte, manchmal Semikolon, selten ein Punkt. Ähnliche Hände in Basel FIII15k, Clm 4566, Clm 14704, Clm 4554, Clm 29054.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-04",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-05",
+    "Last modified": "2025-07-16",
     "hands_role": [
       {
         "id": 123,
@@ -8455,7 +8455,7 @@
     "dating": [],
     "hands_placed": [],
     "scribe": [],
-    "gruppe": false,
+    "gruppe": true,
     "author_entry": [
       {
         "id": 2,
