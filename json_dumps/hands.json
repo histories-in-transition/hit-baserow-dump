@@ -8216,6 +8216,11 @@
         "id": 21,
         "value": "hit_hands_placed__21",
         "order": "21.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "hit_hands_placed__66",
+        "order": "66.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -8453,7 +8458,13 @@
     ],
     "hands_dated": [],
     "dating": [],
-    "hands_placed": [],
+    "hands_placed": [
+      {
+        "id": 66,
+        "value": "hit_hands_placed__66",
+        "order": "66.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": true,
     "author_entry": [
@@ -9310,6 +9321,11 @@
         "id": 23,
         "value": "hit_hands_placed__23",
         "order": "23.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "hit_hands_placed__66",
+        "order": "66.00000000000000000000"
       }
     ],
     "scribe": [
@@ -12756,7 +12772,15 @@
         ]
       }
     ],
-    "texts": [],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 27,
+          "database_table_3491": 30
+        },
+        "value": "Historia tripartita ab Epiphanio scholastico translata"
+      }
+    ],
     "hands_dated": [
       {
         "id": 120,
@@ -12838,7 +12862,15 @@
         ]
       }
     ],
-    "texts": [],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 27,
+          "database_table_3491": 30
+        },
+        "value": "Historia tripartita ab Epiphanio scholastico translata"
+      }
+    ],
     "hands_dated": [
       {
         "id": 121,
@@ -12920,7 +12952,15 @@
         ]
       }
     ],
-    "texts": [],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 27,
+          "database_table_3491": 30
+        },
+        "value": "Historia tripartita ab Epiphanio scholastico translata"
+      }
+    ],
     "hands_dated": [
       {
         "id": 122,
@@ -12972,7 +13012,7 @@
       }
     ],
     "number": "4",
-    "note": "",
+    "note": "Dieselbe Hand, laut Bischoff hat die ersten 7 Folia der Clm 15813 geschrieben.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -12982,7 +13022,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-12",
+    "Last modified": "2025-07-17",
     "hands_role": [
       {
         "id": 218,
@@ -12998,11 +13038,24 @@
             "id": 15373,
             "value": "Korrektor",
             "color": "darker-brown"
+          },
+          {
+            "id": 15376,
+            "value": "Kommentator",
+            "color": "darker-green"
           }
         ]
       }
     ],
-    "texts": [],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 27,
+          "database_table_3491": 30
+        },
+        "value": "Historia tripartita ab Epiphanio scholastico translata"
+      }
+    ],
     "hands_dated": [
       {
         "id": 123,
@@ -13010,7 +13063,15 @@
         "order": "120.00000000000000000000"
       }
     ],
-    "dating": [],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 6,
+          "database_table_3520": 123
+        },
+        "value": "9 Jh., erste Hälfte"
+      }
+    ],
     "hands_placed": [
       {
         "id": 58,

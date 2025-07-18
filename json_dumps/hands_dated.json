@@ -3931,7 +3931,13 @@
       }
     ],
     "page": "212",
-    "dated": [],
+    "dated": [
+      {
+        "id": 6,
+        "value": "9 Jh., erste Hälfte",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "hand": [
       {
         "id": 160,
@@ -3948,7 +3954,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-12",
+    "Last modified": "2025-07-17",
     "Created on": "2025-06-12",
     "note": ""
   },

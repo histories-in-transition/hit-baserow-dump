@@ -12921,7 +12921,13 @@
         "order": "148.00000000000000000000"
       }
     ],
-    "ms_item": [],
+    "ms_item": [
+      {
+        "id": 30,
+        "value": "clm_6376__30",
+        "order": "23.00000000000000000000"
+      }
+    ],
     "role": [
       {
         "id": 14758,
@@ -12930,8 +12936,21 @@
       }
     ],
     "locus": "",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 27,
+          "database_table_3491": 30
+        },
+        "value": "Historia tripartita ab Epiphanio scholastico translata"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 30,
+        "value": "Iv-213r"
+      }
+    ],
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -12941,7 +12960,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-06-12",
-    "Last modified": "2025-06-12",
+    "Last modified": "2025-07-17",
     "locus_layout": [],
     "function": [],
     "scribe_type": [],
@@ -12958,7 +12977,13 @@
         "order": "149.00000000000000000000"
       }
     ],
-    "ms_item": [],
+    "ms_item": [
+      {
+        "id": 30,
+        "value": "clm_6376__30",
+        "order": "23.00000000000000000000"
+      }
+    ],
     "role": [
       {
         "id": 14758,
@@ -12967,8 +12992,21 @@
       }
     ],
     "locus": "116r (Z. 16) - 117r  (Z.30)",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 27,
+          "database_table_3491": 30
+        },
+        "value": "Historia tripartita ab Epiphanio scholastico translata"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 30,
+        "value": "Iv-213r"
+      }
+    ],
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -12978,7 +13016,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-06-12",
-    "Last modified": "2025-06-12",
+    "Last modified": "2025-07-17",
     "locus_layout": [],
     "function": [],
     "scribe_type": [],
@@ -12995,7 +13033,13 @@
         "order": "150.00000000000000000000"
       }
     ],
-    "ms_item": [],
+    "ms_item": [
+      {
+        "id": 30,
+        "value": "clm_6376__30",
+        "order": "23.00000000000000000000"
+      }
+    ],
     "role": [
       {
         "id": 14758,
@@ -13004,8 +13048,21 @@
       }
     ],
     "locus": "",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 27,
+          "database_table_3491": 30
+        },
+        "value": "Historia tripartita ab Epiphanio scholastico translata"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 30,
+        "value": "Iv-213r"
+      }
+    ],
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -13015,7 +13072,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-06-12",
-    "Last modified": "2025-06-12",
+    "Last modified": "2025-07-17",
     "locus_layout": [],
     "function": [],
     "scribe_type": [],
@@ -13032,17 +13089,41 @@
         "order": "151.00000000000000000000"
       }
     ],
-    "ms_item": [],
+    "ms_item": [
+      {
+        "id": 30,
+        "value": "clm_6376__30",
+        "order": "23.00000000000000000000"
+      }
+    ],
     "role": [
       {
         "id": 15373,
         "value": "Korrektor",
         "color": "darker-brown"
+      },
+      {
+        "id": 15376,
+        "value": "Kommentator",
+        "color": "darker-green"
       }
     ],
     "locus": "",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 27,
+          "database_table_3491": 30
+        },
+        "value": "Historia tripartita ab Epiphanio scholastico translata"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 30,
+        "value": "Iv-213r"
+      }
+    ],
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -13052,9 +13133,15 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-06-12",
-    "Last modified": "2025-06-12",
+    "Last modified": "2025-07-17",
     "locus_layout": [],
-    "function": [],
+    "function": [
+      {
+        "id": 15836,
+        "value": "inhaltsbezogen",
+        "color": "darker-orange"
+      }
+    ],
     "scribe_type": [],
     "strata": []
   },
