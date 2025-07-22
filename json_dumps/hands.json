@@ -8043,9 +8043,29 @@
         "value": "Historia ecclesiastica cum Rufini continuatione"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 127,
+        "value": "hit_hands_dated__127",
+        "order": "124.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3520": 127
+        },
+        "value": "9 Jh., Mitte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 66,
+        "value": "hit_hands_placed__66",
+        "order": "66.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": true,
     "author_entry": [
@@ -8119,9 +8139,29 @@
         "value": "Historia ecclesiastica cum Rufini continuatione"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 127,
+        "value": "hit_hands_dated__127",
+        "order": "124.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3520": 127
+        },
+        "value": "9 Jh., Mitte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 66,
+        "value": "hit_hands_placed__66",
+        "order": "66.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": [
@@ -8216,11 +8256,6 @@
         "id": 21,
         "value": "hit_hands_placed__21",
         "order": "21.00000000000000000000"
-      },
-      {
-        "id": 66,
-        "value": "hit_hands_placed__66",
-        "order": "66.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -8456,8 +8491,22 @@
         "value": "Historia ecclesiastica cum Rufini continuatione"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
+    "hands_dated": [
+      {
+        "id": 127,
+        "value": "hit_hands_dated__127",
+        "order": "124.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 3,
+          "database_table_3520": 127
+        },
+        "value": "9 Jh., Mitte"
+      }
+    ],
     "hands_placed": [
       {
         "id": 66,
@@ -9321,11 +9370,6 @@
         "id": 23,
         "value": "hit_hands_placed__23",
         "order": "23.00000000000000000000"
-      },
-      {
-        "id": 66,
-        "value": "hit_hands_placed__66",
-        "order": "66.00000000000000000000"
       }
     ],
     "scribe": [
