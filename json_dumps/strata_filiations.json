@@ -32,6 +32,11 @@
         "id": 1,
         "value": "Cod. M. p. th. f. 46, Stratum 1",
         "order": "1.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Clm. 6308, Stratum 1",
+        "order": "6.00000000000000000000"
       }
     ],
     "filiated_stratum": [
