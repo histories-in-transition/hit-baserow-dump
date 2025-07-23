@@ -3639,5 +3639,119 @@
     "note_filiation": "",
     "cod_units": [],
     "cod_unit": []
+  },
+  "45": {
+    "id": 45,
+    "order": "41.00000000000000000000",
+    "label": [
+      {
+        "id": 9,
+        "value": "Clm. 6381, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 14761,
+        "value": "base",
+        "color": "yellow"
+      },
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6381",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__45",
+    "hand_role": [
+      {
+        "id": 120,
+        "value": "hit_hands_role__120",
+        "order": "106.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "hit_hands_role__122",
+        "order": "108.00000000000000000000"
+      },
+      {
+        "id": 123,
+        "value": "hit_hands_role__123",
+        "order": "109.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 33
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      },
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 33
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      },
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 33
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "locus": [
+      {
+        "id": 33,
+        "value": "1v-250v"
+      },
+      {
+        "id": 33,
+        "value": "1v-250v"
+      },
+      {
+        "id": 33,
+        "value": "1v-250v"
+      }
+    ],
+    "note": "Die Handschrift Clm 6381 besteht grundsätzlich aus nur einem Hauptstratum mit dem Text von Eusebius. Die seltenen Marginalien stammen von verschiedenen Händen und korrigieren einzelne Fehler oder fügen Kommentare, z.B. ein Datum für das Ereignis (44v), hinzu.",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-07-22",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-07-22",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 6381, cod. unit 1",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 9,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6381, cod. unit 1"
+      }
+    ]
   }
 }

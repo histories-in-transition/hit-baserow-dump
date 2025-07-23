@@ -845,11 +845,11 @@
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2025-03-20",
+    "Last modified": "2025-07-22",
     "content_summary": "Martinellus, Geschichtliche Texte, Hagiographische Texte, Lyrik",
     "charakter": [
       {
@@ -878,7 +878,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Martinellus"
   },
   "6": {
     "id": 6,
@@ -1372,7 +1372,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2025-04-29",
+    "Last modified": "2025-07-22",
     "content_summary": "Eusebius, Rufinus",
     "charakter": [
       {
@@ -1396,7 +1396,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Eusebius Caesariensis"
   },
   "10": {
     "id": 10,
@@ -1502,7 +1502,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2025-04-29",
+    "Last modified": "2025-07-22",
     "content_summary": "Vita s. Euphrosinae, Liber interrogatorius, Erchanbertus ep. Frisingensis, Gregorius Magnus",
     "charakter": [
       {
@@ -1526,7 +1526,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Sammelbuch"
   },
   "11": {
     "id": 11,

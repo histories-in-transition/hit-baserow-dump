@@ -7992,7 +7992,7 @@
         "value": "BSB, Clm. 6381_H. 1"
       }
     ],
-    "description": "Interpunktion am meisten mit drei Punkten, seltener mit zwei und einem Punkt.",
+    "description": "Runde flache Schrift, offene a, runde d, oft vorkommene N. Die Ligaturen einschliessen Nt, or, us, eet (mit einem Überstrich für esset).  Interpunktion am meisten mit drei Punkten, seltener mit zwei und einem Punkt. Die Hände 1 und 3 gehören der Gruppe, die auch Clm 4566. Die überstrichene p mit übergeschriebenen a für prae ist am meisten für die Gruppe bezeichnend.",
     "hit_id": "hit_hands__94",
     "similar_hands": [],
     "nr_daniel": "",
@@ -8014,7 +8014,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-07-16",
+    "Last modified": "2025-07-22",
     "hands_role": [
       {
         "id": 120,
@@ -8110,7 +8110,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-07-16",
+    "Last modified": "2025-07-22",
     "hands_role": [
       {
         "id": 122,
@@ -8440,7 +8440,7 @@
         "value": "BSB, Clm. 6381_H. 3"
       }
     ],
-    "description": "Interpunktion am meisten mit drei Punkten, seltener mit zwei und einem Punkt.",
+    "description": "Runde flache Schrift, offene a, runde d, oft vorkommene N. Die Ligaturen einschliessen Nt, or, us, eet (mit einem Überstrich für esset). Interpunktion am meisten mit drei Punkten, seltener mit zwei und einem Punkt. Die Hände 1 und 3 gehören der Gruppe, die auch Clm 4566. Die überstrichene p mit übergeschriebenen a für prae ist am meisten für die Gruppe bezeichnend.",
     "hit_id": "hit_hands__98",
     "similar_hands": [],
     "nr_daniel": "",
@@ -8462,7 +8462,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-07-16",
+    "Last modified": "2025-07-22",
     "hands_role": [
       {
         "id": 123,
@@ -9552,7 +9552,7 @@
         "value": "BSB, Clm. 6383_H. 2"
       }
     ],
-    "description": "kursive Hand, wahrscheinlich nicht aus Freising",
+    "description": "Eine kursive Hand, wahrscheinlich nicht aus Freising",
     "hit_id": "hit_hands__118",
     "similar_hands": [],
     "nr_daniel": "",
@@ -9571,10 +9571,10 @@
     },
     "Created on": "2024-11-13",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-05",
+    "Last modified": "2025-07-22",
     "hands_role": [
       {
         "id": 154,

@@ -978,15 +978,21 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-07-22",
     "orig_date": [],
     "heigth": "280",
     "lines_number": "20-21 (ab 4ⱽund  bis 131ʳ); 28 (bis 4ⱽund ab 131ʳ)",
-    "decorations": "",
-    "basic_structure": [],
+    "decorations": "Einfache rote Initiale kommen durchaus vor. Einzelne geschmukte Buchstaben mit kleinen ornamentalen Strichen: 33r - Q, fast alle Initiale I (insb. 61r, 68r).",
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
     "written_width": "120 (ab 4ⱽund  bis 131ʳ); 150 (bis 4ⱽund ab 131ʳ)",
     "written_height": "180–190 (ab 4ⱽund  bis 131ʳ); 210 (bis 4ⱽund ab 131ʳ)",
     "width": "190-200",
@@ -1025,7 +1031,13 @@
         "value": "Benediktbeuern"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 45,
+        "value": "Clm. 6381, Stratum 1",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "ruling": null,
     "material": {
       "id": 19338,
@@ -1034,7 +1046,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "Die Custoden der Hand 2 stehen mit einem quia-Symbol am Ende jeder Lage. Die erste Hand setzt nur die Zahlen, von denen die meisten abgeschnitten wurden."
   },
   "18": {
     "id": 18,
