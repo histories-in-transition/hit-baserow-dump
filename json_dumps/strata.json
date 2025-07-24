@@ -124,12 +124,12 @@
     "strata_filiation": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. Test 2, ",
+        "value": "ÖNB, Cod. Test 2",
         "order": "1.00000000000000000000"
       },
       {
         "id": 2,
-        "value": "ÖNB, Cod. TEST, 21-12",
+        "value": "ÖNB, Cod. TEST",
         "order": "2.00000000000000000000"
       }
     ],

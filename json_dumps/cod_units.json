@@ -1060,7 +1060,7 @@
         "value": "BSB, Clm. 6382, cod. unit 1"
       }
     ],
-    "notes": "",
+    "notes": "Inhaltlich zeigt die Kodikologische Einheit nahe Verwandschaft mit Reims und Laon.",
     "hit_id": "hit_cod_unit__18",
     "locus": "1r-43v",
     "manuscript": [
@@ -1077,10 +1077,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-07-23",
     "orig_date": [],
     "heigth": "240",
     "lines_number": "21",
@@ -1153,7 +1153,7 @@
         "value": "BSB, Clm. 6382, cod. unit 2"
       }
     ],
-    "notes": "",
+    "notes": "Eine Kopie von Clm 6297",
     "hit_id": "hit_cod_unit__19",
     "locus": "44r-172v",
     "manuscript": [
@@ -1170,10 +1170,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-07-23",
     "orig_date": [],
     "heigth": "240",
     "lines_number": "29",

@@ -5,19 +5,7 @@
     "label": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. Test 2, "
-      }
-    ],
-    "work": [
-      {
-        "id": 4,
-        "value": "Ostertafel mit annalistischen Einschüben",
-        "order": "3.00000000000000000000"
-      },
-      {
-        "id": 7,
-        "value": "De temporum ratione",
-        "order": "6.00000000000000000000"
+        "value": "ÖNB, Cod. Test 2"
       }
     ],
     "library": [
@@ -30,7 +18,8 @@
     "idno": "Cod. Test 2",
     "locus": "",
     "catalog_url": "",
-    "hit_id": "hit_filiated_stratum__1"
+    "hit_id": "hit_filiated_stratum__1",
+    "note": null
   },
   "2": {
     "id": 2,
@@ -38,10 +27,9 @@
     "label": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. TEST, 21-12"
+        "value": "ÖNB, Cod. TEST"
       }
     ],
-    "work": [],
     "library": [
       {
         "id": 1,
@@ -52,17 +40,18 @@
     "idno": "Cod. TEST",
     "locus": "21-12",
     "catalog_url": "",
-    "hit_id": "hit_filiated_stratum__2"
+    "hit_id": "hit_filiated_stratum__2",
+    "note": null
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "label": [],
-    "work": [],
     "library": [],
     "idno": "",
     "locus": "",
     "catalog_url": "",
-    "hit_id": "hit_filiated_stratum__3"
+    "hit_id": "hit_filiated_stratum__3",
+    "note": null
   }
 }

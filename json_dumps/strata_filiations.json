@@ -13,7 +13,7 @@
     "filiated_stratum": [
       {
         "id": 2,
-        "value": "ÖNB, Cod. TEST, 21-12",
+        "value": "ÖNB, Cod. TEST",
         "order": "2.00000000000000000000"
       }
     ],
@@ -21,7 +21,8 @@
       "id": 18186,
       "value": "kodikologisch",
       "color": "darker-blue"
-    }
+    },
+    "note": null
   },
   "2": {
     "id": 2,
@@ -32,17 +33,12 @@
         "id": 1,
         "value": "Cod. M. p. th. f. 46, Stratum 1",
         "order": "1.00000000000000000000"
-      },
-      {
-        "id": 6,
-        "value": "Clm. 6308, Stratum 1",
-        "order": "6.00000000000000000000"
       }
     ],
     "filiated_stratum": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. Test 2, ",
+        "value": "ÖNB, Cod. Test 2",
         "order": "1.00000000000000000000"
       }
     ],
@@ -50,6 +46,7 @@
       "id": 18188,
       "value": "layout",
       "color": "darker-yellow"
-    }
+    },
+    "note": null
   }
 }
