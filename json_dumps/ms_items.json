@@ -11465,7 +11465,7 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "incipit": "",
+    "incipit": "Inter philisopohos et grammaticos et rethoricus pene ab ipsis",
     "explicit": "",
     "rubric": "",
     "title_work": [
@@ -11490,7 +11490,7 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-26",
+    "Last modified": "2025-08-05",
     "Created on": "2024-09-02",
     "Created by": {
       "id": 86,
@@ -11512,7 +11512,13 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [],
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -11565,7 +11571,7 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-26",
+    "Last modified": "2025-08-05",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
@@ -11587,7 +11593,13 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [],
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -16072,6 +16084,87 @@
       }
     ],
     "form_note": "",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "230": {
+    "id": 230,
+    "order": "184.00000000000000000000",
+    "label": [
+      {
+        "id": 21,
+        "value": "cod_2090__230"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "incipit": "Xenodochium id locus venerabilis in quo peregrini",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 155,
+        "value": "Topographische Glossen TBD",
+        "order": "153.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__230",
+    "filiation": "",
+    "locus_grp": "93v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 49,
+        "value": "ÖNB, Cod. 2090, cod. unit 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-08-05",
+    "Created on": "2025-08-05",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
     "column": [
       {
         "id": 17457,
