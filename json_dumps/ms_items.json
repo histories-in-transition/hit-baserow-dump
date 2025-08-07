@@ -11465,8 +11465,8 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "incipit": "Inter philisopohos et grammaticos et rethoricus pene ab ipsis",
-    "explicit": "",
+    "incipit": "Ratconalis disciplina est per quam doctrine verborum",
+    "explicit": "Canonem lego, historiam narro, numerum investigo, grammaticam conpono",
     "rubric": "",
     "title_work": [
       {
@@ -11490,7 +11490,7 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "Last modified": "2025-08-05",
+    "Last modified": "2025-08-06",
     "Created on": "2024-09-02",
     "Created by": {
       "id": 86,
@@ -11500,7 +11500,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "r centuries\nafterward, the set of six Greek names would figure not in legislation, but in\nbooks about words - first in bilingual glossaries and then in Latin dic-\ntionaries https://www.jstor.org/stable/2853793?seq=8",
+    "note": "Sammlung von mehreren kurzen Textbausteinen",
     "hand": [],
     "decoration": [],
     "facs_url": "",
@@ -11652,7 +11652,7 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-26",
+    "Last modified": "2025-08-06",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
@@ -11674,7 +11674,18 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [],
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      },
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -11727,7 +11738,7 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-26",
+    "Last modified": "2025-08-06",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
@@ -11741,9 +11752,26 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      },
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -11796,7 +11824,7 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-26",
+    "Last modified": "2025-08-06",
     "Created on": "2024-10-03",
     "Created by": {
       "id": 86,
@@ -11810,9 +11838,21 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -11865,7 +11905,7 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-26",
+    "Last modified": "2025-08-06",
     "Created on": "2024-09-02",
     "Created by": {
       "id": 86,
@@ -11879,9 +11919,21 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -11934,7 +11986,7 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-26",
+    "Last modified": "2025-08-06",
     "Created on": "2024-09-02",
     "Created by": {
       "id": 86,
@@ -11948,9 +12000,21 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -12003,7 +12067,7 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-26",
+    "Last modified": "2025-08-06",
     "Created on": "2024-09-09",
     "Created by": {
       "id": 96,
@@ -12017,9 +12081,26 @@
     "hand": [],
     "decoration": [],
     "facs_url": "",
-    "form": [],
-    "form_note": null,
-    "column": [],
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      },
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -16119,12 +16200,12 @@
       }
     ],
     "incipit": "Xenodochium id locus venerabilis in quo peregrini",
-    "explicit": "",
+    "explicit": "Brephothrofium id locus venerabilis in quo infantes aluntur.",
     "rubric": "",
     "title_work": [
       {
         "id": 155,
-        "value": "Topographische Glossen TBD",
+        "value": "\"Greek Philanthropic Nomenclature\"",
         "order": "153.00000000000000000000"
       }
     ],
@@ -16143,7 +16224,7 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "Last modified": "2025-08-05",
+    "Last modified": "2025-08-06",
     "Created on": "2025-08-05",
     "Created by": {
       "id": 86,
@@ -16153,7 +16234,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "",
+    "note": "Vgl. https://www.jstor.org/stable/2853793?seq=8",
     "hand": [],
     "decoration": [],
     "facs_url": "",

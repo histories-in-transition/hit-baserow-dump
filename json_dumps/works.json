@@ -3624,11 +3624,6 @@
     "source_text": [],
     "genre": [
       {
-        "id": 9,
-        "value": "Theologische und liturgische Literatur > ",
-        "order": "8.00000000000000000000"
-      },
-      {
         "id": 31,
         "value": "Wissensliteratur > ",
         "order": "30.00000000000000000000"
@@ -3644,7 +3639,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-25"
+    "Last modified": "2025-08-06"
   },
   "122": {
     "id": 122,
@@ -3656,7 +3651,13 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie > ",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3667,7 +3668,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-09-02"
+    "Last modified": "2025-08-06"
   },
   "123": {
     "id": 123,
@@ -3852,7 +3853,13 @@
     "author": [],
     "bibliography": [],
     "source_text": [],
-    "genre": [],
+    "genre": [
+      {
+        "id": 18,
+        "value": "Normative Texte > Canones / Kirchenrecht",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "note_source": "",
     "Created by": {
       "id": 86,
@@ -3863,7 +3870,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-10-03"
+    "Last modified": "2025-08-06"
   },
   "130": {
     "id": 130,
@@ -4651,7 +4658,7 @@
   "155": {
     "id": 155,
     "order": "153.00000000000000000000",
-    "title": "Topographische Glossen TBD",
+    "title": "\"Greek Philanthropic Nomenclature\"",
     "gnd_url": "",
     "note": "",
     "hit_id": "hit_works__155",
@@ -4675,6 +4682,6 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-08-05"
+    "Last modified": "2025-08-06"
   }
 }
