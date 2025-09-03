@@ -4000,7 +4000,7 @@
     "hand": [
       {
         "id": 161,
-        "value": "Bruxelles KBR, ms. 6439-51_H. 1",
+        "value": "Bruxelles KBR, ms. 6439-51_H. 2",
         "order": "152.00000000000000000000"
       }
     ],
@@ -4097,6 +4097,248 @@
     },
     "Last modified": "2025-07-21",
     "Created on": "2025-06-21",
+    "note": ""
+  },
+  "128": {
+    "id": 128,
+    "order": "125.00000000000000000000",
+    "hit_id": "hit_hands_dated__128",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 13,
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 36,
+        "value": "12. Jh.",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 165,
+        "value": "Bruxelles KBR, ms. 6439-51_H. 1",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "note": ""
+  },
+  "129": {
+    "id": 129,
+    "order": "126.00000000000000000000",
+    "hit_id": "hit_hands_dated__129",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 72,
+        "value": "um 850",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 166,
+        "value": "Namur, ms. 11_H. 1",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "note": ""
+  },
+  "130": {
+    "id": 130,
+    "order": "127.00000000000000000000",
+    "hit_id": "hit_hands_dated__130",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 1,
+        "value": "9 Jh.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 167,
+        "value": "Namur, ms. 11_H. 2",
+        "order": "158.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "note": ""
+  },
+  "131": {
+    "id": 131,
+    "order": "128.00000000000000000000",
+    "hit_id": "hit_hands_dated__131",
+    "authority": [
+      {
+        "id": 273,
+        "value": "Heinzelmann",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "page": "167",
+    "dated": [
+      {
+        "id": 28,
+        "value": "8 Jh.",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 168,
+        "value": "UB Leiden, Voss. lat. Qu. 63_H. 1",
+        "order": "159.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "note": ""
+  },
+  "132": {
+    "id": 132,
+    "order": "129.00000000000000000000",
+    "hit_id": "hit_hands_dated__132",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 73,
+        "value": "7. Jh., erste Hälfte",
+        "order": "73.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 169,
+        "value": "UB Leiden, Lat. fragm. n. 21_H. 1",
+        "order": "160.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "note": ""
+  },
+  "133": {
+    "id": 133,
+    "order": "130.00000000000000000000",
+    "hit_id": "hit_hands_dated__133",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 74,
+        "value": "8. Jh., erstes Drittel",
+        "order": "74.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 170,
+        "value": "BLB Karlsruhe, Cod. Aug. Fr. 104_H. 1",
+        "order": "161.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "note": "vgl. https://digital.blb-karlsruhe.de/blbhs/content/titleinfo/23476"
+  },
+  "134": {
+    "id": 134,
+    "order": "131.00000000000000000000",
+    "hit_id": "hit_hands_dated__134",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 46,
+        "value": "11. Jh., viertes Viertel",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 171,
+        "value": "Montecassino, ms. 275_H. 1",
+        "order": "162.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
     "note": ""
   }
 }

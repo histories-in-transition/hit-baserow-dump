@@ -1670,5 +1670,182 @@
     },
     "Last modified": "2025-05-23T08:27:57.213483Z",
     "note": ""
+  },
+  "49": {
+    "id": 49,
+    "order": "46.00000000000000000000",
+    "hit_id": "hit_dated__49",
+    "manuscript": [
+      {
+        "id": 46,
+        "value": "Namur, ms. 11",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 72,
+        "value": "um 850",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02T12:49:37.819539Z",
+    "note": ""
+  },
+  "50": {
+    "id": 50,
+    "order": "47.00000000000000000000",
+    "hit_id": "hit_dated__50",
+    "manuscript": [
+      {
+        "id": 47,
+        "value": "UB Leiden, Voss. lat. Qu. 63",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 28,
+        "value": "8 Jh.",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 273,
+        "value": "Heinzelmann",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "page": "168",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02T13:59:17.603647Z",
+    "note": ""
+  },
+  "51": {
+    "id": 51,
+    "order": "48.00000000000000000000",
+    "hit_id": "hit_dated__51",
+    "manuscript": [
+      {
+        "id": 48,
+        "value": "UB Leiden, Lat. fragm. n. 21",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 73,
+        "value": "7. Jh., erste Hälfte",
+        "order": "73.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 274,
+        "value": "Bischoff",
+        "order": "274.00000000000000000000"
+      }
+    ],
+    "page": "214",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02T16:06:44.576041Z",
+    "note": ""
+  },
+  "52": {
+    "id": 52,
+    "order": "49.00000000000000000000",
+    "hit_id": "hit_dated__52",
+    "manuscript": [
+      {
+        "id": 49,
+        "value": "BLB Karlsruhe, Cod. Aug. Fr. 104",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 74,
+        "value": "8. Jh., erstes Drittel",
+        "order": "74.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02T16:19:19.419985Z",
+    "note": "Vgl. https://digital.blb-karlsruhe.de/blbhs/content/titleinfo/23476"
+  },
+  "53": {
+    "id": 53,
+    "order": "50.00000000000000000000",
+    "hit_id": "hit_dated__53",
+    "manuscript": [
+      {
+        "id": 50,
+        "value": "Montecassino, ms. 275",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 46,
+        "value": "11. Jh., viertes Viertel",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02T16:47:43.985623Z",
+    "note": ""
   }
 }

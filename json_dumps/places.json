@@ -826,5 +826,242 @@
     "Last modified": "2025-06-24",
     "lat": "49.65389",
     "long": "8.56889"
+  },
+  "34": {
+    "id": 34,
+    "order": "32.00000000000000000000",
+    "name": "Namur",
+    "geonames_url": "https://www.geonames.org/2790471/namur.html",
+    "hit_id": "hit_place__34",
+    "wikidata_url": "",
+    "country": [
+      {
+        "id": 23,
+        "value": "Belgien",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-09-03",
+    "lat": "50.46690",
+    "long": "4.86746"
+  },
+  "35": {
+    "id": 35,
+    "order": "33.00000000000000000000",
+    "name": "Saint-Hubert",
+    "geonames_url": "https://www.geonames.org/2787407/saint-hubert.html",
+    "hit_id": "hit_place__35",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q713740",
+    "country": [
+      {
+        "id": 23,
+        "value": "Belgien",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-09-03",
+    "lat": "50.02668",
+    "long": "5.37401"
+  },
+  "36": {
+    "id": 36,
+    "order": "34.00000000000000000000",
+    "name": "Niederlande",
+    "geonames_url": "https://www.geonames.org/2750405/kingdom-of-the-netherlands.html",
+    "hit_id": "hit_place__36",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q55",
+    "country": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-09-03",
+    "lat": "52.25000",
+    "long": "5.75000"
+  },
+  "37": {
+    "id": 37,
+    "order": "35.00000000000000000000",
+    "name": "Leiden",
+    "geonames_url": "https://www.geonames.org/2751773/leiden.html",
+    "hit_id": "hit_place__37",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q43631",
+    "country": [
+      {
+        "id": 36,
+        "value": "Niederlande",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-09-03",
+    "lat": "52.15833",
+    "long": "4.49306"
+  },
+  "38": {
+    "id": 38,
+    "order": "36.00000000000000000000",
+    "name": "Tours",
+    "geonames_url": "https://www.geonames.org/2972191/tours.html",
+    "hit_id": "hit_place__38",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q288",
+    "country": [
+      {
+        "id": 14,
+        "value": "Frankreich",
+        "order": "2.50000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-09-03",
+    "lat": "47.39484",
+    "long": "0.70398"
+  },
+  "39": {
+    "id": 39,
+    "order": "37.00000000000000000000",
+    "name": "Saint-Mesmin de Micy",
+    "geonames_url": "https://www.geonames.org/11184789/abbaye-saint-mesmin-de-micy.html",
+    "hit_id": "hit_place__39",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q334190",
+    "country": [
+      {
+        "id": 14,
+        "value": "Frankreich",
+        "order": "2.50000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-09-03",
+    "lat": "47.87673",
+    "long": "1.83862"
+  },
+  "40": {
+    "id": 40,
+    "order": "38.00000000000000000000",
+    "name": "Karlsruhe",
+    "geonames_url": "https://www.geonames.org/2892794/karlsruhe.html",
+    "hit_id": "hit_place__40",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1040",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-09-03",
+    "lat": "49.00937",
+    "long": "8.40444"
+  },
+  "41": {
+    "id": 41,
+    "order": "39.00000000000000000000",
+    "name": "Kloster Reichenau",
+    "geonames_url": "https://www.geonames.org/11548421/kloster-reichenau.html",
+    "hit_id": "hit_place__41",
+    "wikidata_url": "https://www.geonames.org/11548421/kloster-reichenau.html",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-09-03",
+    "lat": "47.69887",
+    "long": "9.06220"
+  },
+  "42": {
+    "id": 42,
+    "order": "40.00000000000000000000",
+    "name": "Montecassino",
+    "geonames_url": "https://www.geonames.org/3173005/abbazia-di-montecassino.html",
+    "hit_id": "hit_place__42",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q334051",
+    "country": [
+      {
+        "id": 13,
+        "value": "Italien",
+        "order": "2.33333333333333348136"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-09-03",
+    "lat": "41.48916",
+    "long": "13.81222"
   }
 }

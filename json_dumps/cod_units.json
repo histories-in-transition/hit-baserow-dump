@@ -3344,5 +3344,42 @@
     "material_spec": "",
     "catchwords": "",
     "quiremarks": ""
+  },
+  "52": {
+    "id": 52,
+    "order": "48.00000000000000000000",
+    "label": [],
+    "notes": "",
+    "hit_id": "hit_cod_unit__52",
+    "locus": "",
+    "manuscript": [],
+    "number": null,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "orig_date": [],
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": [],
+    "ruling": "",
+    "material": null,
+    "material_spec": "",
+    "catchwords": "",
+    "quiremarks": ""
   }
 }

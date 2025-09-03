@@ -13136,7 +13136,7 @@
           "database_table_3487": 44,
           "database_table_3488": 13
         },
-        "value": "Bruxelles KBR, ms. 6439-51_H. 1"
+        "value": "Bruxelles KBR, ms. 6439-51_H. 2"
       }
     ],
     "description": "Schreibergruppe aus mindestens zwei Händen.",
@@ -13150,7 +13150,7 @@
         "order": "37.00000000000000000000"
       }
     ],
-    "number": "1",
+    "number": "2",
     "note": "",
     "Created by": {
       "id": 86,
@@ -13161,7 +13161,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-23",
+    "Last modified": "2025-09-02",
     "hands_role": [
       {
         "id": 219,
@@ -13416,6 +13416,650 @@
     "hands_placed": [],
     "scribe": [],
     "gruppe": false,
+    "author_entry": []
+  },
+  "165": {
+    "id": 165,
+    "order": "156.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 44,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 6439-51_H. 1"
+      }
+    ],
+    "description": "Aus pragmatischen Gründen angelegte Schreibergruppe mit vorerst undefinierter Anzahl an Händen, die Gregor von Tours Decem libri historiarum anfertigte.",
+    "hit_id": "hit_hands__165",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 44,
+        "value": "Bruxelles KBR, ms. 6439-51",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "hands_role": [
+      {
+        "id": 222,
+        "value": "hit_hands_role__222",
+        "order": "208.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 222,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 263
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 128,
+        "value": "hit_hands_dated__128",
+        "order": "125.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3520": 128
+        },
+        "value": "11 Jh."
+      },
+      {
+        "ids": {
+          "database_table_3512": 36,
+          "database_table_3520": 128
+        },
+        "value": "12. Jh."
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 67,
+        "value": "hit_hands_placed__67",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": true,
+    "author_entry": []
+  },
+  "166": {
+    "id": 166,
+    "order": "157.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 46,
+          "database_table_3488": 16
+        },
+        "value": "Namur, ms. 11_H. 1"
+      }
+    ],
+    "description": "Aus pragmatischen Gründen angelegte Schreibergruppe bestehend aus einigen Händen unterschiedlicher Qualität.",
+    "hit_id": "hit_hands__166",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 46,
+        "value": "Namur, ms. 11",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "hands_role": [
+      {
+        "id": 223,
+        "value": "hit_hands_role__223",
+        "order": "209.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 223,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 264
+        },
+        "value": "Decem libri historiarum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 188,
+          "database_table_3491": 267
+        },
+        "value": "Historia ecclesiastica gentis Anglorum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 129,
+        "value": "hit_hands_dated__129",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 72,
+          "database_table_3520": 129
+        },
+        "value": "um 850"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 68,
+        "value": "hit_hands_placed__68",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": true,
+    "author_entry": []
+  },
+  "167": {
+    "id": 167,
+    "order": "158.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 46,
+          "database_table_3488": 16
+        },
+        "value": "Namur, ms. 11_H. 2"
+      }
+    ],
+    "description": "Vorerst undefinierte Schreibergruppe, die den Katalog der fränkischen Herrscher auf der letzten Seite der Handschrift hinzufügt.",
+    "hit_id": "hit_hands__167",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 46,
+        "value": "Namur, ms. 11",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "hands_role": [
+      {
+        "id": 224,
+        "value": "hit_hands_role__224",
+        "order": "210.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 224,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 189,
+          "database_table_3491": 269
+        },
+        "value": "Genealogischer Katalog der fränkischen Könige"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 130,
+        "value": "hit_hands_dated__130",
+        "order": "127.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 1,
+          "database_table_3520": 130
+        },
+        "value": "9 Jh."
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 69,
+        "value": "hit_hands_placed__69",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": true,
+    "author_entry": []
+  },
+  "168": {
+    "id": 168,
+    "order": "159.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 47,
+          "database_table_3488": 17
+        },
+        "value": "UB Leiden, Voss. lat. Qu. 63_H. 1"
+      }
+    ],
+    "description": "Undefinierte Schreibergruppe",
+    "hit_id": "hit_hands__168",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 47,
+        "value": "UB Leiden, Voss. lat. Qu. 63",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "hands_role": [
+      {
+        "id": 225,
+        "value": "hit_hands_role__225",
+        "order": "211.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 225,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 271
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 131,
+        "value": "hit_hands_dated__131",
+        "order": "128.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 28,
+          "database_table_3520": 131
+        },
+        "value": "8 Jh."
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 70,
+        "value": "hit_hands_placed__70",
+        "order": "70.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": true,
+    "author_entry": []
+  },
+  "169": {
+    "id": 169,
+    "order": "160.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 48,
+          "database_table_3488": 17
+        },
+        "value": "UB Leiden, Lat. fragm. n. 21_H. 1"
+      }
+    ],
+    "description": "Undefinierte Schreibergruppe",
+    "hit_id": "hit_hands__169",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 48,
+        "value": "UB Leiden, Lat. fragm. n. 21",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "hands_role": [
+      {
+        "id": 226,
+        "value": "hit_hands_role__226",
+        "order": "212.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 226,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 272
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 132,
+        "value": "hit_hands_dated__132",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 73,
+          "database_table_3520": 132
+        },
+        "value": "7. Jh., erste Hälfte"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 71,
+        "value": "hit_hands_placed__71",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": true,
+    "author_entry": []
+  },
+  "170": {
+    "id": 170,
+    "order": "161.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 49,
+          "database_table_3488": 18
+        },
+        "value": "BLB Karlsruhe, Cod. Aug. Fr. 104_H. 1"
+      }
+    ],
+    "description": "Undefinierte Schreibergruppe",
+    "hit_id": "hit_hands__170",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 49,
+        "value": "BLB Karlsruhe, Cod. Aug. Fr. 104",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "hands_role": [
+      {
+        "id": 227,
+        "value": "hit_hands_role__227",
+        "order": "213.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 227,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 273
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 133,
+        "value": "hit_hands_dated__133",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 74,
+          "database_table_3520": 133
+        },
+        "value": "8. Jh., erstes Drittel"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 72,
+        "value": "hit_hands_placed__72",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": true,
+    "author_entry": []
+  },
+  "171": {
+    "id": 171,
+    "order": "162.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 50,
+          "database_table_3488": 19
+        },
+        "value": "Montecassino, ms. 275_H. 1"
+      }
+    ],
+    "description": "Undefinierte Schreibergruppe",
+    "hit_id": "hit_hands__171",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 50,
+        "value": "Montecassino, ms. 275",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02",
+    "hands_role": [
+      {
+        "id": 228,
+        "value": "hit_hands_role__228",
+        "order": "214.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 228,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 274
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 134,
+        "value": "hit_hands_dated__134",
+        "order": "131.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 46,
+          "database_table_3520": 134
+        },
+        "value": "11. Jh., viertes Viertel"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 73,
+        "value": "hit_hands_placed__73",
+        "order": "73.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": true,
     "author_entry": []
   }
 }

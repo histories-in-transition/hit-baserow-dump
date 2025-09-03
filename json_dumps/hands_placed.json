@@ -1836,7 +1836,7 @@
     "hand": [
       {
         "id": 161,
-        "value": "Bruxelles KBR, ms. 6439-51_H. 1",
+        "value": "Bruxelles KBR, ms. 6439-51_H. 2",
         "order": "152.00000000000000000000"
       }
     ],
@@ -1918,6 +1918,181 @@
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
+    }
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "hit_id": "hit_hands_placed__67",
+    "hand": [
+      {
+        "id": 165,
+        "value": "Bruxelles KBR, ms. 6439-51_H. 1",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 31,
+        "value": "Saint-Vaast, Arras",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "hit_id": "hit_hands_placed__68",
+    "hand": [
+      {
+        "id": 166,
+        "value": "Namur, ms. 11_H. 1",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 35,
+        "value": "Saint-Hubert",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "hit_id": "hit_hands_placed__69",
+    "hand": [
+      {
+        "id": 167,
+        "value": "Namur, ms. 11_H. 2",
+        "order": "158.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 35,
+        "value": "Saint-Hubert",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "hit_id": "hit_hands_placed__70",
+    "hand": [
+      {
+        "id": 168,
+        "value": "UB Leiden, Voss. lat. Qu. 63_H. 1",
+        "order": "159.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 38,
+        "value": "Tours",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "hit_id": "hit_hands_placed__71",
+    "hand": [
+      {
+        "id": 169,
+        "value": "UB Leiden, Lat. fragm. n. 21_H. 1",
+        "order": "160.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 39,
+        "value": "Saint-Mesmin de Micy",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "hit_id": "hit_hands_placed__72",
+    "hand": [
+      {
+        "id": 170,
+        "value": "BLB Karlsruhe, Cod. Aug. Fr. 104_H. 1",
+        "order": "161.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 41,
+        "value": "Kloster Reichenau",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "hit_id": "hit_hands_placed__73",
+    "hand": [
+      {
+        "id": 171,
+        "value": "Montecassino, ms. 275_H. 1",
+        "order": "162.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 42,
+        "value": "Montecassino",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
     }
   }
 }

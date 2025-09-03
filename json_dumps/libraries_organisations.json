@@ -376,5 +376,113 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-06-23"
+  },
+  "16": {
+    "id": 16,
+    "order": "15.00000000000000000000",
+    "label": "Namur",
+    "hit_id": "hit_org__16",
+    "gnd_url": "",
+    "library_full": "Musée des Arts Anciens du Namurois",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 34,
+        "value": "Namur",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02"
+  },
+  "17": {
+    "id": 17,
+    "order": "16.00000000000000000000",
+    "label": "UB Leiden",
+    "hit_id": "hit_org__17",
+    "gnd_url": "https://d-nb.info/gnd/7540412-6",
+    "library_full": "Universitätsbibliothek Leiden",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 37,
+        "value": "Leiden",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q638395",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02"
+  },
+  "18": {
+    "id": 18,
+    "order": "17.00000000000000000000",
+    "label": "BLB Karlsruhe",
+    "hit_id": "hit_org__18",
+    "gnd_url": "https://d-nb.info/gnd/2005707-6",
+    "library_full": "Badische Landesbibliothek Karlsruhe",
+    "library_website": "https://www.blb-karlsruhe.de/",
+    "settlement": [
+      {
+        "id": 40,
+        "value": "Karlsruhe",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q26311483",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02"
+  },
+  "19": {
+    "id": 19,
+    "order": "18.00000000000000000000",
+    "label": "Montecassino",
+    "hit_id": "hit_org__19",
+    "gnd_url": "",
+    "library_full": "Montecassino, Biblioteca della Badia",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 42,
+        "value": "Montecassino",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02"
   }
 }

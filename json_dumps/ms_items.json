@@ -13100,7 +13100,7 @@
         "order": "72.00000000000000000000"
       }
     ],
-    "title_note": "",
+    "title_note": "Es handelt sich um die karolingische Fassung der Historien, in der Gregors neuntes und zehntes Buch zu Liber IX kombiniert wurde. Das vorliegende Liber X besteht aus dem vierten Buch der Fredegar-Chronik samt den Continuationes.",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -13136,7 +13136,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-21",
+    "Last modified": "2025-09-02",
     "Created on": "2024-12-13",
     "Created by": {
       "id": 86,
@@ -13146,7 +13146,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "Es handelt sich um die karolingische Fassung der Historien, in der Gregors neuntes und zehntes Buch zu Liber IX kombiniert wurde. Das vorliegende Liber X besteht aus dem vierten Buch der Fredegar-Chronik samt den Continuationes.",
+    "note": "",
     "hand": [
       {
         "ids": {
@@ -13742,7 +13742,7 @@
         "order": "136.00000000000000000000"
       }
     ],
-    "title_note": "",
+    "title_note": "In der Handschrift als das zweite Buch der Decem libri historiarum markiert. Enthält sowohl Kapitel der Historien als auch des Liber historiae Francorum in einer originellen Neubearbeitung.",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
@@ -13757,7 +13757,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-21",
+    "Last modified": "2025-09-02",
     "Created on": "2025-01-17",
     "Created by": {
       "id": 86,
@@ -13767,7 +13767,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "note": "In der Handschrift als das zweite Buch der Decem libri historiarum markiert. Enthält sowohl Kapitel der Historien als auch des Liber historiae Francorum in einer originellen Neubearbeitung.",
+    "note": null,
     "hand": [],
     "decoration": [],
     "facs_url": "",
@@ -15765,7 +15765,7 @@
           "database_table_3487": 44,
           "database_table_3488": 13
         },
-        "value": "Bruxelles KBR, ms. 6439-51_H. 1"
+        "value": "Bruxelles KBR, ms. 6439-51_H. 2"
       }
     ],
     "decoration": [],
@@ -15808,7 +15808,7 @@
     ],
     "incipit": "Decedente atque immo potius pereunte ab urbibus Gallicanis liberalium cultura litterarum",
     "explicit": "sepultusque est Parisius basilica sancti Dionisii martyris",
-    "rubric": "n Christi nomine incipit praefatio Gregor Toronici episcopi",
+    "rubric": "In Christi nomine incipit praefatio Gregor Toronici episcopi",
     "title_work": [
       {
         "id": 73,
@@ -15831,7 +15831,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-06-21",
+    "Last modified": "2025-09-02",
     "Created on": "2025-06-21",
     "Created by": {
       "id": 86,
@@ -16253,6 +16253,989 @@
         "color": "light-red"
       }
     ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "263": {
+    "id": 263,
+    "order": "185.00000000000000000000",
+    "label": [
+      {
+        "id": 44,
+        "value": "ms_6439-51__263"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 44,
+        "value": "Bruxelles KBR, ms. 6439-51",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "title_note": "Es handelt sich um die karolingische Fassung der Historien, in der Gregors neuntes und zehntes Buch zu Liber IX kombiniert wurde. Das vorliegende Liber X besteht aus dem vierten Buch der Fredegar-Chronik samt den Continuationes.",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__263",
+    "filiation": "",
+    "locus_grp": "17v-71v",
+    "hands_role": [
+      {
+        "id": 222,
+        "value": "hit_hands_role__222",
+        "order": "208.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 51,
+        "value": "Bruxelles KBR, ms. 6439-51, cod. unit 1",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 44,
+          "database_table_3488": 13
+        },
+        "value": "Bruxelles KBR, ms. 6439-51_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [
+      {
+        "id": 152,
+        "value": "Liber historiae Francorum",
+        "order": "150.00000000000000000000"
+      }
+    ],
+    "text_modification": [
+      {
+        "id": 18976,
+        "value": "Ergänzung",
+        "color": "blue"
+      },
+      {
+        "id": 19334,
+        "value": "Auslassung",
+        "color": "orange"
+      },
+      {
+        "id": 19335,
+        "value": "Divergierende Kapitelselektion",
+        "color": "purple"
+      },
+      {
+        "id": 18977,
+        "value": "Umstellung",
+        "color": "deep-dark-green"
+      },
+      {
+        "id": 19670,
+        "value": "Umgestaltung",
+        "color": "darker-red"
+      }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "264": {
+    "id": 264,
+    "order": "186.00000000000000000000",
+    "label": [
+      {
+        "id": 46,
+        "value": "ms_11__264"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 46,
+        "value": "Namur, ms. 11",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "title_note": "Es handelt sich um die karolingische Fassung der Historien, in der Gregors neuntes und zehntes Buch zu Liber IX kombiniert wurde. Das vorliegende Liber X besteht aus dem vierten Buch der Fredegar-Chronik samt den Continuationes.",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__264",
+    "filiation": "",
+    "locus_grp": "61r-222r",
+    "hands_role": [
+      {
+        "id": 223,
+        "value": "hit_hands_role__223",
+        "order": "209.00000000000000000000"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 46,
+          "database_table_3488": 16
+        },
+        "value": "Namur, ms. 11_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [
+      {
+        "id": 19334,
+        "value": "Auslassung",
+        "color": "orange"
+      },
+      {
+        "id": 19335,
+        "value": "Divergierende Kapitelselektion",
+        "color": "purple"
+      }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "265": {
+    "id": 265,
+    "order": "187.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__265",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "266": {
+    "id": 266,
+    "order": "188.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__266",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "267": {
+    "id": 267,
+    "order": "189.00000000000000000000",
+    "label": [
+      {
+        "id": 46,
+        "value": "ms_11__267"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 46,
+        "value": "Namur, ms. 11",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 188,
+        "value": "Historia ecclesiastica gentis Anglorum",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__267",
+    "filiation": "",
+    "locus_grp": "1r-60v",
+    "hands_role": [
+      {
+        "id": 223,
+        "value": "hit_hands_role__223",
+        "order": "209.00000000000000000000"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 46,
+          "database_table_3488": 16
+        },
+        "value": "Namur, ms. 11_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "268": {
+    "id": 268,
+    "order": "190.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__268",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "269": {
+    "id": 269,
+    "order": "191.00000000000000000000",
+    "label": [
+      {
+        "id": 46,
+        "value": "ms_11__269"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 46,
+        "value": "Namur, ms. 11",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 189,
+        "value": "Genealogischer Katalog der fränkischen Könige",
+        "order": "155.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__269",
+    "filiation": "",
+    "locus_grp": "223r",
+    "hands_role": [
+      {
+        "id": 224,
+        "value": "hit_hands_role__224",
+        "order": "210.00000000000000000000"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 46,
+          "database_table_3488": 16
+        },
+        "value": "Namur, ms. 11_H. 2"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [
+      {
+        "id": 264,
+        "value": "ms_11__264",
+        "order": "186.00000000000000000000"
+      }
+    ],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "270": {
+    "id": 270,
+    "order": "192.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__270",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "271": {
+    "id": 271,
+    "order": "193.00000000000000000000",
+    "label": [
+      {
+        "id": 47,
+        "value": "voss_lat_qu_63__271"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 47,
+        "value": "UB Leiden, Voss. lat. Qu. 63",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "title_note": "Sechs-Buch-Version",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__271",
+    "filiation": "",
+    "locus_grp": "1-93",
+    "hands_role": [
+      {
+        "id": 225,
+        "value": "hit_hands_role__225",
+        "order": "211.00000000000000000000"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 47,
+          "database_table_3488": 17
+        },
+        "value": "UB Leiden, Voss. lat. Qu. 63_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [
+      {
+        "id": 19334,
+        "value": "Auslassung",
+        "color": "orange"
+      },
+      {
+        "id": 19335,
+        "value": "Divergierende Kapitelselektion",
+        "color": "purple"
+      }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "272": {
+    "id": 272,
+    "order": "194.00000000000000000000",
+    "label": [
+      {
+        "id": 48,
+        "value": "lat_fragm_n_21__272"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 48,
+        "value": "UB Leiden, Lat. fragm. n. 21",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "title_note": "Fragment der vollständigen Fassung (Zehn Bücher) der merowingischen Historien. Sehr nahe zu Gregors Lebenszeit!",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__272",
+    "filiation": "",
+    "locus_grp": "1-2",
+    "hands_role": [
+      {
+        "id": 226,
+        "value": "hit_hands_role__226",
+        "order": "212.00000000000000000000"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 48,
+          "database_table_3488": 17
+        },
+        "value": "UB Leiden, Lat. fragm. n. 21_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "273": {
+    "id": 273,
+    "order": "195.00000000000000000000",
+    "label": [
+      {
+        "id": 49,
+        "value": "cod_aug_fr_104__273"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 49,
+        "value": "BLB Karlsruhe, Cod. Aug. Fr. 104",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "title_note": "Sechs-Buch-Version",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__273",
+    "filiation": "",
+    "locus_grp": "1-2",
+    "hands_role": [
+      {
+        "id": 227,
+        "value": "hit_hands_role__227",
+        "order": "213.00000000000000000000"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 49,
+          "database_table_3488": 18
+        },
+        "value": "BLB Karlsruhe, Cod. Aug. Fr. 104_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
+    "form_note": "",
+    "column": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [
+      {
+        "id": 19334,
+        "value": "Auslassung",
+        "color": "orange"
+      },
+      {
+        "id": 19335,
+        "value": "Divergierende Kapitelselektion",
+        "color": "purple"
+      }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "274": {
+    "id": 274,
+    "order": "196.00000000000000000000",
+    "label": [
+      {
+        "id": 50,
+        "value": "ms_275__274"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 50,
+        "value": "Montecassino, ms. 275",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 73,
+        "value": "Decem libri historiarum",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "title_note": "Vollständige Fassung der Historien. Nach Edition A1",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__274",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [
+      {
+        "id": 228,
+        "value": "hit_hands_role__228",
+        "order": "214.00000000000000000000"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 50,
+          "database_table_3488": 19
+        },
+        "value": "Montecassino, ms. 275_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ]
+  },
+  "275": {
+    "id": 275,
+    "order": "197.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__275",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-09-02",
+    "Created on": "2025-09-02",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "column": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],

@@ -4683,5 +4683,74 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-08-06"
+  },
+  "188": {
+    "id": 188,
+    "order": "154.00000000000000000000",
+    "title": "Historia ecclesiastica gentis Anglorum",
+    "gnd_url": "https://d-nb.info/gnd/4236580-6",
+    "note": "",
+    "hit_id": "hit_works__188",
+    "author": [
+      {
+        "id": 1,
+        "value": "Beda, Heiliger",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 4,
+        "value": "Historiographie > Chronik",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02"
+  },
+  "189": {
+    "id": 189,
+    "order": "155.00000000000000000000",
+    "title": "Genealogischer Katalog der fränkischen Könige",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__189",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 25,
+        "value": "Genealogie > ",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 34,
+        "value": "Historiographie > Namenkataloge (weltlich)",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-02"
   }
 }

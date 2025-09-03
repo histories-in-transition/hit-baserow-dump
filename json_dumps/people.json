@@ -42,6 +42,11 @@
         "id": 98,
         "value": "De natura rerum",
         "order": "96.00000000000000000000"
+      },
+      {
+        "id": 188,
+        "value": "Historia ecclesiastica gentis Anglorum",
+        "order": "154.00000000000000000000"
       }
     ],
     "work": [
@@ -60,6 +65,10 @@
       {
         "id": 98,
         "value": "De natura rerum"
+      },
+      {
+        "id": 188,
+        "value": "Historia ecclesiastica gentis Anglorum"
       }
     ]
   },

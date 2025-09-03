@@ -13170,7 +13170,7 @@
     "hand": [
       {
         "id": 161,
-        "value": "Bruxelles KBR, ms. 6439-51_H. 1",
+        "value": "Bruxelles KBR, ms. 6439-51_H. 2",
         "order": "152.00000000000000000000"
       }
     ],
@@ -13359,6 +13359,504 @@
     "Last modified": "2025-07-11",
     "locus_layout": [],
     "function": [],
+    "scribe_type": [],
+    "strata": []
+  },
+  "222": {
+    "id": 222,
+    "order": "208.00000000000000000000",
+    "hit_id": "hit_hands_role__222",
+    "hand": [
+      {
+        "id": 165,
+        "value": "Bruxelles KBR, ms. 6439-51_H. 1",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 263,
+        "value": "ms_6439-51__263",
+        "order": "185.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 263
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 263,
+        "value": "17v-71v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified": "2025-09-02",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [],
+    "strata": []
+  },
+  "223": {
+    "id": 223,
+    "order": "209.00000000000000000000",
+    "hit_id": "hit_hands_role__223",
+    "hand": [
+      {
+        "id": 166,
+        "value": "Namur, ms. 11_H. 1",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 264,
+        "value": "ms_11__264",
+        "order": "186.00000000000000000000"
+      },
+      {
+        "id": 267,
+        "value": "ms_11__267",
+        "order": "189.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 264
+        },
+        "value": "Decem libri historiarum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 188,
+          "database_table_3491": 267
+        },
+        "value": "Historia ecclesiastica gentis Anglorum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 264,
+        "value": "61r-222r"
+      },
+      {
+        "id": 267,
+        "value": "1r-60v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified": "2025-09-02",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [],
+    "strata": []
+  },
+  "224": {
+    "id": 224,
+    "order": "210.00000000000000000000",
+    "hit_id": "hit_hands_role__224",
+    "hand": [
+      {
+        "id": 167,
+        "value": "Namur, ms. 11_H. 2",
+        "order": "158.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 269,
+        "value": "ms_11__269",
+        "order": "191.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 189,
+          "database_table_3491": 269
+        },
+        "value": "Genealogischer Katalog der fränkischen Könige"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 269,
+        "value": "223r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified": "2025-09-02",
+    "locus_layout": [
+      {
+        "id": 18158,
+        "value": "graphisch divers",
+        "color": "darker-green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18155,
+        "value": "konzeptbezogen",
+        "color": "darker-brown"
+      }
+    ],
+    "scribe_type": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ],
+    "strata": []
+  },
+  "225": {
+    "id": 225,
+    "order": "211.00000000000000000000",
+    "hit_id": "hit_hands_role__225",
+    "hand": [
+      {
+        "id": 168,
+        "value": "UB Leiden, Voss. lat. Qu. 63_H. 1",
+        "order": "159.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 271,
+        "value": "voss_lat_qu_63__271",
+        "order": "193.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 271
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 271,
+        "value": "1-93"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified": "2025-09-02",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [],
+    "strata": []
+  },
+  "226": {
+    "id": 226,
+    "order": "212.00000000000000000000",
+    "hit_id": "hit_hands_role__226",
+    "hand": [
+      {
+        "id": 169,
+        "value": "UB Leiden, Lat. fragm. n. 21_H. 1",
+        "order": "160.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 272,
+        "value": "lat_fragm_n_21__272",
+        "order": "194.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 272
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 272,
+        "value": "1-2"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified": "2025-09-02",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [],
+    "strata": []
+  },
+  "227": {
+    "id": 227,
+    "order": "213.00000000000000000000",
+    "hit_id": "hit_hands_role__227",
+    "hand": [
+      {
+        "id": 170,
+        "value": "BLB Karlsruhe, Cod. Aug. Fr. 104_H. 1",
+        "order": "161.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 273,
+        "value": "cod_aug_fr_104__273",
+        "order": "195.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 273
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 273,
+        "value": "1-2"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified": "2025-09-02",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [],
+    "strata": []
+  },
+  "228": {
+    "id": 228,
+    "order": "214.00000000000000000000",
+    "hit_id": "hit_hands_role__228",
+    "hand": [
+      {
+        "id": 171,
+        "value": "Montecassino, ms. 275_H. 1",
+        "order": "162.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 274,
+        "value": "ms_275__274",
+        "order": "196.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 274
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 274,
+        "value": ""
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-02",
+    "Last modified": "2025-09-02",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
     "strata": []
   }
