@@ -14061,5 +14061,185 @@
     "scribe": [],
     "gruppe": true,
     "author_entry": []
+  },
+  "172": {
+    "id": 172,
+    "order": "163.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 51,
+          "database_table_3488": 20
+        },
+        "value": "Paris BnF, Lat. 9765_H. 1"
+      }
+    ],
+    "description": "Undefinierte Schreibergruppe",
+    "hit_id": "hit_hands__172",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "Paris BnF, Lat. 9765",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-03",
+    "hands_role": [
+      {
+        "id": 229,
+        "value": "hit_hands_role__229",
+        "order": "215.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 229,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 276
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 135,
+        "value": "hit_hands_dated__135",
+        "order": "132.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 75,
+          "database_table_3520": 135
+        },
+        "value": "um 900"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 74,
+        "value": "hit_hands_placed__74",
+        "order": "74.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": true,
+    "author_entry": []
+  },
+  "173": {
+    "id": 173,
+    "order": "164.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 52,
+          "database_table_3488": 20
+        },
+        "value": "Paris BnF, Lat. 5921_H. 1"
+      }
+    ],
+    "description": "Undefinierte Schreibergruppe",
+    "hit_id": "hit_hands__173",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 52,
+        "value": "Paris BnF, Lat. 5921",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-03",
+    "hands_role": [
+      {
+        "id": 230,
+        "value": "hit_hands_role__230",
+        "order": "216.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 230,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 73,
+          "database_table_3491": 277
+        },
+        "value": "Decem libri historiarum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 136,
+        "value": "hit_hands_dated__136",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 69,
+          "database_table_3520": 136
+        },
+        "value": "gegen 1000"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 75,
+        "value": "hit_hands_placed__75",
+        "order": "75.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": true,
+    "author_entry": []
   }
 }

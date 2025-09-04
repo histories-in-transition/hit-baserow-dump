@@ -1063,5 +1063,107 @@
     "Last modified": "2025-09-03",
     "lat": "41.48916",
     "long": "13.81222"
+  },
+  "43": {
+    "id": 43,
+    "order": "41.00000000000000000000",
+    "name": "Paris",
+    "geonames_url": "https://www.geonames.org/2988507/paris.html",
+    "hit_id": "hit_place__43",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q90",
+    "country": [
+      {
+        "id": 14,
+        "value": "Frankreich",
+        "order": "2.50000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-03",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-09-04",
+    "lat": "48.85341",
+    "long": "2.34880"
+  },
+  "44": {
+    "id": 44,
+    "order": "42.00000000000000000000",
+    "name": "Luxemburg",
+    "geonames_url": "https://www.geonames.org/2960313/grand-duchy-of-luxembourg.html",
+    "hit_id": "hit_place__44",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1126",
+    "country": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-03",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-09-04",
+    "lat": "49.75000",
+    "long": "6.16667"
+  },
+  "45": {
+    "id": 45,
+    "order": "43.00000000000000000000",
+    "name": "Echternach",
+    "geonames_url": "https://www.geonames.org/maps/google_49.8139_6.4225.html",
+    "hit_id": "hit_place__45",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q702704",
+    "country": [
+      {
+        "id": 44,
+        "value": "Luxemburg",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-03",
+    "lat": null,
+    "long": null
+  },
+  "46": {
+    "id": 46,
+    "order": "44.00000000000000000000",
+    "name": "Metz",
+    "geonames_url": "https://www.geonames.org/2994160/metz.html",
+    "hit_id": "hit_place__46",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q22690",
+    "country": [
+      {
+        "id": 14,
+        "value": "Frankreich",
+        "order": "2.50000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-03",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2025-09-04",
+    "lat": "49.11911",
+    "long": "6.17269"
   }
 }

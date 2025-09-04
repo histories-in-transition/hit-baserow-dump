@@ -484,5 +484,32 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-09-02"
+  },
+  "20": {
+    "id": 20,
+    "order": "19.00000000000000000000",
+    "label": "Paris BnF",
+    "hit_id": "hit_org__20",
+    "gnd_url": "https://d-nb.info/gnd/5156217-0",
+    "library_full": "Bibliothèque nationale de France",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 43,
+        "value": "Paris",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q193563?wprov=srpw1_0",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-03"
   }
 }

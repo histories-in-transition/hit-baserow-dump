@@ -1847,5 +1847,71 @@
     },
     "Last modified": "2025-09-02T16:47:43.985623Z",
     "note": ""
+  },
+  "54": {
+    "id": 54,
+    "order": "51.00000000000000000000",
+    "hit_id": "hit_dated__54",
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "Paris BnF, Lat. 9765",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 75,
+        "value": "um 900",
+        "order": "75.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-03T13:30:58.084707Z",
+    "note": ""
+  },
+  "55": {
+    "id": 55,
+    "order": "52.00000000000000000000",
+    "hit_id": "hit_dated__55",
+    "manuscript": [
+      {
+        "id": 52,
+        "value": "Paris BnF, Lat. 5921",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 69,
+        "value": "gegen 1000",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-03",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-03T13:43:00.421985Z",
+    "note": ""
   }
 }

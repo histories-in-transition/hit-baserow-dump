@@ -2094,5 +2094,55 @@
       "id": 86,
       "name": "Leon Pürstinger"
     }
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "hit_id": "hit_hands_placed__74",
+    "hand": [
+      {
+        "id": 172,
+        "value": "Paris BnF, Lat. 9765_H. 1",
+        "order": "163.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 45,
+        "value": "Echternach",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "hit_id": "hit_hands_placed__75",
+    "hand": [
+      {
+        "id": 173,
+        "value": "Paris BnF, Lat. 5921_H. 1",
+        "order": "164.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 46,
+        "value": "Metz",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   }
 }

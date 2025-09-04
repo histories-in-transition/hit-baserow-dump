@@ -4340,5 +4340,71 @@
     "Last modified": "2025-09-02",
     "Created on": "2025-09-02",
     "note": ""
+  },
+  "135": {
+    "id": 135,
+    "order": "132.00000000000000000000",
+    "hit_id": "hit_hands_dated__135",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 75,
+        "value": "um 900",
+        "order": "75.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 172,
+        "value": "Paris BnF, Lat. 9765_H. 1",
+        "order": "163.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-03",
+    "Created on": "2025-09-03",
+    "note": ""
+  },
+  "136": {
+    "id": 136,
+    "order": "133.00000000000000000000",
+    "hit_id": "hit_hands_dated__136",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 69,
+        "value": "gegen 1000",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 173,
+        "value": "Paris BnF, Lat. 5921_H. 1",
+        "order": "164.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-09-03",
+    "Created on": "2025-09-03",
+    "note": ""
   }
 }
