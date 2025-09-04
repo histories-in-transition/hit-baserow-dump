@@ -13281,7 +13281,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-09-03",
+    "Last modified": "2025-09-04",
     "Created on": "2024-12-13",
     "Created by": {
       "id": 86,
@@ -13397,7 +13397,13 @@
         "color": "light-cyan"
       }
     ],
-    "version": []
+    "version": [
+      {
+        "id": 1,
+        "value": "Decem libri historiarum: karolingische Version",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "194": {
     "id": 194,
@@ -16005,15 +16011,15 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-09-02",
+    "Last modified": "2025-09-04",
     "Created on": "2025-06-21",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "",
     "hand": [
@@ -16063,7 +16069,13 @@
         "color": "light-cyan"
       }
     ],
-    "version": []
+    "version": [
+      {
+        "id": 1,
+        "value": "Decem libri historiarum: karolingische Version",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "226": {
     "id": 226,
@@ -16491,15 +16503,15 @@
         "order": "47.00000000000000000000"
       }
     ],
-    "Last modified": "2025-09-02",
+    "Last modified": "2025-09-04",
     "Created on": "2025-09-02",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "",
     "hand": [
@@ -16570,7 +16582,13 @@
         "color": "light-cyan"
       }
     ],
-    "version": []
+    "version": [
+      {
+        "id": 1,
+        "value": "Decem libri historiarum: karolingische Version",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "264": {
     "id": 264,
@@ -16613,15 +16631,15 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-09-02",
+    "Last modified": "2025-09-04",
     "Created on": "2025-09-02",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "",
     "hand": [
@@ -16671,7 +16689,13 @@
         "color": "light-cyan"
       }
     ],
-    "version": []
+    "version": [
+      {
+        "id": 1,
+        "value": "Decem libri historiarum: karolingische Version",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "265": {
     "id": 265,
