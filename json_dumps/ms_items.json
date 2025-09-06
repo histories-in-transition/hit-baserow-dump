@@ -13400,7 +13400,7 @@
     "version": [
       {
         "id": 1,
-        "value": "Decem libri historiarum: karolingische Version",
+        "value": "Karolingische Fassung (C-Klasse)",
         "order": "1.00000000000000000000"
       }
     ]
@@ -16072,7 +16072,7 @@
     "version": [
       {
         "id": 1,
-        "value": "Decem libri historiarum: karolingische Version",
+        "value": "Karolingische Fassung (C-Klasse)",
         "order": "1.00000000000000000000"
       }
     ]
@@ -16585,7 +16585,7 @@
     "version": [
       {
         "id": 1,
-        "value": "Decem libri historiarum: karolingische Version",
+        "value": "Karolingische Fassung (C-Klasse)",
         "order": "1.00000000000000000000"
       }
     ]
@@ -16692,7 +16692,7 @@
     "version": [
       {
         "id": 1,
-        "value": "Decem libri historiarum: karolingische Version",
+        "value": "Karolingische Fassung (C-Klasse)",
         "order": "1.00000000000000000000"
       }
     ]
@@ -17380,7 +17380,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-09-02",
+    "Last modified": "2025-09-04",
     "Created on": "2025-09-02",
     "Created by": {
       "id": 86,
@@ -17415,7 +17415,13 @@
         "color": "light-cyan"
       }
     ],
-    "version": []
+    "version": [
+      {
+        "id": 5,
+        "value": "Vollständige Fassung (A1 nach Edition)",
+        "order": "4.00000000000000000000"
+      }
+    ]
   },
   "275": {
     "id": 275,
@@ -17505,7 +17511,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-09-03",
+    "Last modified": "2025-09-04",
     "Created on": "2025-09-03",
     "Created by": {
       "id": 86,
@@ -17551,7 +17557,13 @@
         "color": "light-cyan"
       }
     ],
-    "version": []
+    "version": [
+      {
+        "id": 1,
+        "value": "Karolingische Fassung (C-Klasse)",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "277": {
     "id": 277,
@@ -17594,7 +17606,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-09-03",
+    "Last modified": "2025-09-04",
     "Created on": "2025-09-03",
     "Created by": {
       "id": 86,
@@ -17647,6 +17659,12 @@
         "color": "light-cyan"
       }
     ],
-    "version": []
+    "version": [
+      {
+        "id": 1,
+        "value": "Karolingische Fassung (C-Klasse)",
+        "order": "1.00000000000000000000"
+      }
+    ]
   }
 }

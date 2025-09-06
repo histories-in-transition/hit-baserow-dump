@@ -1116,7 +1116,7 @@
     "id": 45,
     "order": "43.00000000000000000000",
     "name": "Echternach",
-    "geonames_url": "https://www.geonames.org/maps/google_49.8139_6.4225.html",
+    "geonames_url": "https://www.geonames.org/2960630/echternach.html",
     "hit_id": "hit_place__45",
     "wikidata_url": "https://www.wikidata.org/wiki/Q702704",
     "country": [
@@ -1132,12 +1132,12 @@
     },
     "Created on": "2025-09-03",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2025-09-03",
-    "lat": null,
-    "long": null
+    "Last modified": "2025-09-05",
+    "lat": "49.81212",
+    "long": "6.41846"
   },
   "46": {
     "id": 46,
