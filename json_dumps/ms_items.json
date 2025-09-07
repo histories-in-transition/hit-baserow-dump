@@ -17112,7 +17112,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-09-02",
+    "Last modified": "2025-09-06",
     "Created on": "2025-09-02",
     "Created by": {
       "id": 86,
@@ -17158,7 +17158,13 @@
         "color": "light-cyan"
       }
     ],
-    "version": []
+    "version": [
+      {
+        "id": 2,
+        "value": "Sechs-Buch-Version (B-Klasse)",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "272": {
     "id": 272,
@@ -17201,7 +17207,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-09-02",
+    "Last modified": "2025-09-06",
     "Created on": "2025-09-02",
     "Created by": {
       "id": 86,
@@ -17236,7 +17242,13 @@
         "color": "light-cyan"
       }
     ],
-    "version": []
+    "version": [
+      {
+        "id": 5,
+        "value": "Vollständige Fassung (A1 +A2 nach Edition)",
+        "order": "4.00000000000000000000"
+      }
+    ]
   },
   "273": {
     "id": 273,
@@ -17279,7 +17291,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-09-02",
+    "Last modified": "2025-09-06",
     "Created on": "2025-09-02",
     "Created by": {
       "id": 86,
@@ -17337,7 +17349,13 @@
         "color": "light-cyan"
       }
     ],
-    "version": []
+    "version": [
+      {
+        "id": 2,
+        "value": "Sechs-Buch-Version (B-Klasse)",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "274": {
     "id": 274,
@@ -17418,7 +17436,7 @@
     "version": [
       {
         "id": 5,
-        "value": "Vollständige Fassung (A1 nach Edition)",
+        "value": "Vollständige Fassung (A1 +A2 nach Edition)",
         "order": "4.00000000000000000000"
       }
     ]

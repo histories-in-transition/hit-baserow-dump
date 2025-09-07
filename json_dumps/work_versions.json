@@ -44,7 +44,7 @@
   "5": {
     "id": 5,
     "order": "4.00000000000000000000",
-    "label": "Vollständige Fassung (A1 nach Edition)",
+    "label": "Vollständige Fassung (A1 +A2 nach Edition)",
     "work": [
       {
         "id": 73,
@@ -52,7 +52,7 @@
         "order": "72.00000000000000000000"
       }
     ],
-    "version": "Vollständige Fassung (A1 nach Edition)",
+    "version": "Vollständige Fassung (A1 +A2 nach Edition)",
     "hit_id": "hit_work_versions__5"
   }
 }
