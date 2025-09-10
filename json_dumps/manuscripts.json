@@ -4422,8 +4422,8 @@
     ],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
-    "catalog_url": "https://digi.ub.uni-heidelberg.de/diglit/cpl864",
-    "digi_url": "https://digi.ub.uni-heidelberg.de/touch/cpl864/",
+    "catalog_url": "https://doi.org/10.11588/diglit.306",
+    "digi_url": "https://doi.org/10.11588/diglit.306#0001",
     "idno": "Cod. Pal. Lat. 864",
     "idno_former": "",
     "quire_structure": "",
@@ -4459,11 +4459,11 @@
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "Created on": "2025-06-19",
-    "Last modified": "2025-06-21",
+    "Last modified": "2025-09-08",
     "content_summary": "",
     "charakter": [],
     "case_study": [
@@ -5186,6 +5186,70 @@
         "color": "light-brown"
       }
     ],
+    "author_entry": [],
+    "title": ""
+  },
+  "53": {
+    "id": 53,
+    "order": "46.00000000000000000000",
+    "shelfmark": [
+      {
+        "id": 7,
+        "value": "Erzabtei St. Peter (Salzburg), Hs. A1"
+      }
+    ],
+    "hit_id": "hit_manuscript__53",
+    "library": [
+      {
+        "id": 7,
+        "value": "Erzabtei St. Peter (Salzburg)",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "manuscripta_url": "",
+    "handschriftenportal_url": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "idno": "Hs. A1",
+    "idno_former": "",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 7,
+        "value": "Salzburg, Erzabtei St. Peter, Stiftsarchiv"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-09-09",
+    "Last modified": "2025-09-09",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [],
+    "status": [],
     "author_entry": [],
     "title": ""
   }

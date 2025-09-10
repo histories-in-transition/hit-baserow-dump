@@ -54,5 +54,33 @@
     ],
     "version": "Vollständige Fassung (A1 +A2 nach Edition)",
     "hit_id": "hit_work_versions__5"
+  },
+  "6": {
+    "id": 6,
+    "order": "5.00000000000000000000",
+    "label": "Unabhängig überlieferte Fassung",
+    "work": [
+      {
+        "id": 101,
+        "value": "Catalogus praesulum Iuvavensium",
+        "order": "99.00000000000000000000"
+      }
+    ],
+    "version": "Unabhängig überlieferte Fassung",
+    "hit_id": "hit_work_versions__6"
+  },
+  "7": {
+    "id": 7,
+    "order": "6.00000000000000000000",
+    "label": "In Kombination mit der \"Vita Gebhardi I\"",
+    "work": [
+      {
+        "id": 101,
+        "value": "Catalogus praesulum Iuvavensium",
+        "order": "99.00000000000000000000"
+      }
+    ],
+    "version": "In Kombination mit der \"Vita Gebhardi I\"",
+    "hit_id": "hit_work_versions__7"
   }
 }

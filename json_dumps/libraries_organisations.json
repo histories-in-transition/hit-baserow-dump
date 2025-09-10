@@ -137,10 +137,10 @@
   "7": {
     "id": 7,
     "order": "6.00000000000000000000",
-    "label": "Erzabtei Sankt Peter (Salzburg)",
+    "label": "Erzabtei St. Peter (Salzburg)",
     "hit_id": "hit_org__7",
     "gnd_url": "https://d-nb.info/gnd/2070551-7",
-    "library_full": "Erzabtei Sankt Peter (Salzburg)",
+    "library_full": "Salzburg, Erzabtei St. Peter, Stiftsarchiv",
     "library_website": "",
     "settlement": [
       {
@@ -156,10 +156,10 @@
     },
     "Created on": "2024-07-05",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2024-07-05"
+    "Last modified": "2025-09-09"
   },
   "8": {
     "id": 8,

@@ -76,7 +76,7 @@
       }
     ],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -160,7 +160,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -244,7 +244,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [
       {
         "id": 5,
@@ -358,7 +358,7 @@
       }
     ],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -472,7 +472,7 @@
       }
     ],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [
       {
         "id": 5,
@@ -562,7 +562,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -652,7 +652,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -772,7 +772,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -886,7 +886,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -976,7 +976,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [
       {
         "id": 11,
@@ -1060,7 +1060,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -1144,7 +1144,7 @@
       }
     ],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -1222,7 +1222,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -1306,7 +1306,7 @@
       }
     ],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -1390,7 +1390,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -1474,7 +1474,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -1582,7 +1582,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -1678,7 +1678,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -1768,7 +1768,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -1858,7 +1858,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -1960,7 +1960,7 @@
     "facs_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00006546_00237/full/472,/0/default.jpg",
     "form": [],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -2050,7 +2050,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -2140,7 +2140,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -2230,7 +2230,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -2320,7 +2320,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -2410,7 +2410,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -2500,7 +2500,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -2584,7 +2584,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -2680,7 +2680,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -2764,7 +2764,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -2884,7 +2884,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -2979,7 +2979,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -3060,7 +3060,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -3168,7 +3168,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -3264,7 +3264,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -3360,7 +3360,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -3456,7 +3456,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -3552,7 +3552,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -3648,7 +3648,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -3744,7 +3744,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -3840,7 +3840,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -3936,7 +3936,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -4032,7 +4032,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -4128,7 +4128,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -4212,7 +4212,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -4282,7 +4282,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -4366,7 +4366,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -4450,7 +4450,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -4551,7 +4551,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -4659,7 +4659,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -4755,7 +4755,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -4839,7 +4839,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [
       {
         "id": 50,
@@ -4964,7 +4964,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5034,7 +5034,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5104,7 +5104,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5174,7 +5174,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5244,7 +5244,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5314,7 +5314,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5384,7 +5384,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5454,7 +5454,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5549,7 +5549,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5633,7 +5633,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5717,7 +5717,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5813,7 +5813,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5897,7 +5897,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -5981,7 +5981,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -6065,7 +6065,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -6129,7 +6129,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -6249,7 +6249,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -6333,7 +6333,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -6417,7 +6417,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -6501,7 +6501,7 @@
     "facs_url": "http://vb.uni-wuerzburg.de/ub/books/mpthf46/folio-std/DE-20__M_p_th_f_46__0195__0098r.jpg",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -6571,7 +6571,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -6661,7 +6661,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -6731,7 +6731,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -6789,7 +6789,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -6847,7 +6847,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -6943,7 +6943,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -7027,7 +7027,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -7111,7 +7111,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -7195,7 +7195,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -7279,7 +7279,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -7363,7 +7363,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -7459,7 +7459,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -7543,7 +7543,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -7651,7 +7651,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -7735,7 +7735,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -7819,7 +7819,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -7945,7 +7945,7 @@
       }
     ],
     "form_note": "Am Rande einer Ostertafel eingefügte annalistische Notizen.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -8041,7 +8041,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -8125,7 +8125,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -8195,7 +8195,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-04-02",
+    "Last modified": "2025-09-09",
     "Created on": "2024-07-25",
     "Created by": {
       "id": 86,
@@ -8245,7 +8245,7 @@
       }
     ],
     "form_note": "Am linken Rand der ersten Rectoseite platziert und mit einem roten Trennstrich zur Seitenmitte abegtrennt. Die angrenzenden Texte wurden aber wohl erst wesentlich später hinzugefügt.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -8262,7 +8262,13 @@
         "color": "light-cyan"
       }
     ],
-    "version": []
+    "version": [
+      {
+        "id": 6,
+        "value": "Unabhängig überlieferte Fassung",
+        "order": "5.00000000000000000000"
+      }
+    ]
   },
   "120": {
     "id": 120,
@@ -8335,7 +8341,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -8431,7 +8437,7 @@
       }
     ],
     "form_note": "Am oberen Rand der ersten Rectoseite neben einem roten Trennstrich angelegt, der aber wohl früher entstanden ist.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -8521,7 +8527,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -8611,7 +8617,7 @@
       }
     ],
     "form_note": "Füllt den verbleibenden Raum auf der ersten Rectoseite aus. Wurde neben einem roten Trennstirch platziert, der wohl wesentlich früher entstanden ist.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -8723,7 +8729,7 @@
       }
     ],
     "form_note": "Es handelt sich um eine zweispaltige genealogische Königsliste. Jede Spalte ist auf beiden Seiten rot eingerahmt und von einem spitz zulaufenden, doppelten Dach bedeckt.",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -8758,7 +8764,7 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "incipit": "H. gratia dei Ratisponenses",
+    "incipit": "Gratia dei Ratisponenses",
     "explicit": "ad obedienciam animum praeparens",
     "rubric": "",
     "title_work": [
@@ -8789,7 +8795,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-04-02",
+    "Last modified": "2025-09-08",
     "Created on": "2024-07-26",
     "Created by": {
       "id": 86,
@@ -8819,7 +8825,7 @@
       }
     ],
     "form_note": "Exakt neben die rote Trennlinie der Königsliste platziert.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -8915,7 +8921,7 @@
       }
     ],
     "form_note": "Exakt neben die rote Trennlinie der Königsliste platziert.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -9017,7 +9023,7 @@
       }
     ],
     "form_note": "Die zweispaltigen antithetisch Verse wurden von späterer Hand genau in die beiden bereits bestehenden rot eingerahmten Felder eingefügt.",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -9124,7 +9130,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 18621,
         "value": "4",
@@ -9238,7 +9244,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -9334,7 +9340,7 @@
       }
     ],
     "form_note": "TBD",
-    "column": [],
+    "columns": [],
     "commented_msitem": [
       {
         "id": 127,
@@ -9369,7 +9375,7 @@
         "order": "1.50000000000000000000"
       }
     ],
-    "incipit": "Domino R. venerabili dei gratia Gurcensis episcopo",
+    "incipit": "Domino venerabili dei gratia Gurcensis episcopo",
     "explicit": "",
     "rubric": null,
     "title_work": [
@@ -9400,7 +9406,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-05-22",
+    "Last modified": "2025-09-08",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -9430,7 +9436,7 @@
       }
     ],
     "form_note": "Exakt zwischen den Papst- und den Salzburger Bischofskatalog platziert.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -9561,7 +9567,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 18621,
         "value": "4",
@@ -9843,7 +9849,7 @@
       }
     ],
     "form_note": "Die Spaltenanzahl der dreiseitigen Annalen nimmt kontinuierlich ab. Die erste Seite der Annalen enthählt drei rot gerahmte Spalten. Die zweite Seite weist zwei Spalten auf und die letzte nur mehr eine. Die kodikologische Befund zeigt, dass ursprünglich wohl nur die ersten Seite angegt wurde und die anschließenden (wenig) später hinzugefügt wurden.",
-    "column": [
+    "columns": [
       {
         "id": 17459,
         "value": "3",
@@ -9936,7 +9942,7 @@
       }
     ],
     "form_note": "Links neben einer umfangreichen Traditionsnotiz platziert und durch einen roten Trennstrich abgegrenzt.",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -10024,7 +10030,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -10125,7 +10131,7 @@
       }
     ],
     "form_note": "Am Ende des Haupttextes dieser Seite angefügt.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -10226,7 +10232,7 @@
       }
     ],
     "form_note": "Auf Grundlage der paläographischen und kodikologischen Spuren handelt es sich hierbei um den ersten Text dieser Seite, um den herum die weiteren Textbausteine angeordnet wurden. Auffallend ist, dass der linke Rand bereits freigelassen wurde.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -10345,7 +10351,7 @@
       }
     ],
     "form_note": "Diptychen. Listen im versuchten Stile der Salzburger Verbrüderungsbücher. Auszeichnungsschrift teils rot ausgefüllt.",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -10435,7 +10441,7 @@
       }
     ],
     "form_note": "Traditionsnotiz einer \"nobiles matrona\" namens Aza unter den Bereich für Witwen auf freigebliebenem Raum hinzugefügt.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -10632,7 +10638,7 @@
       }
     ],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -10708,7 +10714,7 @@
       }
     ],
     "form_note": "Auf der freigebliebenen unteren Hälfte der Seite bzw. am Ende des Nekrologs eingefügt.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -10827,7 +10833,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -10923,7 +10929,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -11005,7 +11011,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -11087,7 +11093,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -11169,7 +11175,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -11257,7 +11263,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -11395,7 +11401,7 @@
       }
     ],
     "form_note": null,
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -11477,7 +11483,7 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -11559,7 +11565,7 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -11635,7 +11641,7 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -11717,7 +11723,7 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -11799,7 +11805,7 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -11886,7 +11892,7 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -11973,7 +11979,7 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -12055,7 +12061,7 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -12137,7 +12143,7 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -12219,7 +12225,7 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -12300,7 +12306,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -12370,7 +12376,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -12440,7 +12446,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -12510,7 +12516,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -12580,7 +12586,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -12650,7 +12656,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -12720,7 +12726,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -12790,7 +12796,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -12860,7 +12866,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -12950,7 +12956,7 @@
       }
     ],
     "form_note": "Wurde auf einer freigebliebenen Seite neben Traditionsnotizen (Spalte a) als Spalte b eingefügt.",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -13014,7 +13020,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -13078,7 +13084,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -13142,7 +13148,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -13206,7 +13212,7 @@
     "facs_url": "",
     "form": [],
     "form_note": null,
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -13343,7 +13349,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -13361,7 +13367,7 @@
     "text_modification": [
       {
         "id": 19335,
-        "value": "Divergierende Kapitelselektion",
+        "value": "Abweichende Kapitelselektion",
         "color": "purple"
       },
       {
@@ -13452,7 +13458,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-21",
+    "Last modified": "2025-09-08",
     "Created on": "2025-01-16",
     "Created by": {
       "id": 86,
@@ -13472,7 +13478,18 @@
         "value": "Saint-Omer, ms. 706_H. 3"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      },
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
@@ -13482,7 +13499,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -13559,7 +13576,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-05",
+    "Last modified": "2025-09-08",
     "Created on": "2025-01-16",
     "Created by": {
       "id": 86,
@@ -13579,7 +13596,18 @@
         "value": "Saint-Omer, ms. 706_H. 3"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      },
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
@@ -13589,7 +13617,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -13671,7 +13699,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-21",
+    "Last modified": "2025-09-08",
     "Created on": "2025-01-16",
     "Created by": {
       "id": 86,
@@ -13705,7 +13733,18 @@
         "value": "Saint-Omer, ms. 706_H. 1"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 18622,
+        "value": "Mischform Capitalis/Unziale_Rot",
+        "color": "dark-gray"
+      },
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
@@ -13715,7 +13754,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -13802,7 +13841,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-06-05",
+    "Last modified": "2025-09-08",
     "Created on": "2025-01-16",
     "Created by": {
       "id": 86,
@@ -13843,9 +13882,25 @@
         "value": "Saint-Omer, ms. 706_H. 2"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      },
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
     "facs_url": "",
     "form": [
+      {
+        "id": 18261,
+        "value": "mit geometrischen Formen",
+        "color": "dark-red"
+      },
       {
         "id": 18627,
         "value": "Einspaltig (Standard)",
@@ -13853,7 +13908,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -13913,7 +13968,7 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "Last modified": "2025-09-02",
+    "Last modified": "2025-09-08",
     "Created on": "2025-01-17",
     "Created by": {
       "id": 86,
@@ -13925,7 +13980,18 @@
     },
     "note": null,
     "hand": [],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      },
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
@@ -13935,7 +14001,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -14042,7 +14108,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [
       {
         "id": 11,
@@ -14132,7 +14198,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [
       {
         "id": 5,
@@ -14228,7 +14294,7 @@
       }
     ],
     "form_note": "Wurde auf freigebliebenem Pergament geschrieben",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -14287,7 +14353,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -14371,7 +14437,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -14467,7 +14533,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -14563,7 +14629,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -14659,7 +14725,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -14760,7 +14826,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -14807,7 +14873,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -14885,7 +14951,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -14975,7 +15041,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -15071,7 +15137,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -15116,7 +15182,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__214",
     "filiation": "",
-    "locus_grp": "13v | 16v | 21r",
+    "locus_grp": "90",
     "hands_role": [
       {
         "id": 187,
@@ -15136,7 +15202,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-05-29",
+    "Last modified": "2025-09-08",
     "Created on": "2025-03-19",
     "Created by": {
       "id": 86,
@@ -15173,7 +15239,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -15249,7 +15315,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -15327,7 +15393,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -15438,7 +15504,7 @@
       }
     ],
     "form_note": "Die Abfolge der Päpste bestimmt die mise-en-page. Jeder Papst wird mit einer roten Nummerierung gekennzeichnet. Der erste Buchstabe des Namens wird als rote Majuskel in einem eigenes dafür vorgesehenen Feld (vertikale Linierung) wiedergegeben.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -15534,7 +15600,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -15636,7 +15702,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -15689,7 +15755,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -15773,7 +15839,7 @@
       }
     ],
     "form_note": "Auf freigebliebenem Raum unter die ältere, umfangreiche Traditionsnotiz hinzugefügt. Es besteht wohl eine inhaltliche Verbindung.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -15861,7 +15927,7 @@
       }
     ],
     "form_note": "Auf der freigebliebenen unteren Hälfte der Seite bzw. am Ende des Nekrologs eingefügt.",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -15957,7 +16023,7 @@
       }
     ],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -16011,7 +16077,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-09-04",
+    "Last modified": "2025-09-08",
     "Created on": "2025-06-21",
     "Created by": {
       "id": 86,
@@ -16032,7 +16098,7 @@
       }
     ],
     "decoration": [],
-    "facs_url": "",
+    "facs_url": "https://doi.org/10.11588/diglit.306#0008",
     "form": [
       {
         "id": 18627,
@@ -16041,7 +16107,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -16053,7 +16119,7 @@
     "text_modification": [
       {
         "id": 19335,
-        "value": "Divergierende Kapitelselektion",
+        "value": "Abweichende Kapitelselektion",
         "color": "purple"
       },
       {
@@ -16111,7 +16177,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -16159,15 +16225,15 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-06-21",
+    "Last modified": "2025-09-08",
     "Created on": "2025-06-21",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": "",
     "hand": [
@@ -16180,7 +16246,7 @@
       }
     ],
     "decoration": [],
-    "facs_url": "",
+    "facs_url": "https://doi.org/10.11588/diglit.306#0230",
     "form": [
       {
         "id": 18627,
@@ -16189,7 +16255,7 @@
       }
     ],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -16273,7 +16339,7 @@
       }
     ],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [
@@ -16355,7 +16421,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -16437,7 +16503,7 @@
       }
     ],
     "form_note": "Auf leer gebliebenen Seiten nachträglich in Kombination mit anderen Textbausteinen hinzugefügt (neben- und untereinander).",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -16533,7 +16599,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -16561,7 +16627,7 @@
       },
       {
         "id": 19335,
-        "value": "Divergierende Kapitelselektion",
+        "value": "Abweichende Kapitelselektion",
         "color": "purple"
       },
       {
@@ -16661,7 +16727,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -16678,7 +16744,7 @@
       },
       {
         "id": 19335,
-        "value": "Divergierende Kapitelselektion",
+        "value": "Abweichende Kapitelselektion",
         "color": "purple"
       }
     ],
@@ -16731,7 +16797,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -16778,7 +16844,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -16862,7 +16928,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -16915,7 +16981,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -16999,7 +17065,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -17058,7 +17124,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -17136,7 +17202,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [
@@ -17147,7 +17213,7 @@
       },
       {
         "id": 19335,
-        "value": "Divergierende Kapitelselektion",
+        "value": "Abweichende Kapitelselektion",
         "color": "purple"
       }
     ],
@@ -17231,7 +17297,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -17321,7 +17387,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17458,
         "value": "2",
@@ -17338,7 +17404,7 @@
       },
       {
         "id": 19335,
-        "value": "Divergierende Kapitelselektion",
+        "value": "Abweichende Kapitelselektion",
         "color": "purple"
       }
     ],
@@ -17422,7 +17488,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -17475,7 +17541,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -17553,7 +17619,7 @@
     "facs_url": "",
     "form": [],
     "form_note": "",
-    "column": [],
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [
@@ -17654,7 +17720,7 @@
       }
     ],
     "form_note": "",
-    "column": [
+    "columns": [
       {
         "id": 17457,
         "value": "1",
@@ -17682,6 +17748,88 @@
         "id": 1,
         "value": "Karolingische Fassung (C-Klasse)",
         "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "278": {
+    "id": 278,
+    "order": "200.00000000000000000000",
+    "label": [
+      {
+        "id": 53,
+        "value": "hs_a1__278"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 53,
+        "value": "Erzabtei St. Peter (Salzburg), Hs. A1",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 101,
+        "value": "Catalogus praesulum Iuvavensium",
+        "order": "99.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__278",
+    "filiation": "",
+    "locus_grp": "2v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-09-09",
+    "Created on": "2025-09-09",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": [
+      {
+        "id": 7,
+        "value": "In Kombination mit der \"Vita Gebhardi I\"",
+        "order": "6.00000000000000000000"
       }
     ]
   }
