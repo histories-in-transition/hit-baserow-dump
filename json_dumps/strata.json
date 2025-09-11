@@ -658,6 +658,233 @@
     "cod_units": [],
     "cod_unit": []
   },
+  "12": {
+    "id": 12,
+    "order": "2.81818181818181834331",
+    "label": [
+      {
+        "id": 21,
+        "value": "Cod. 2090, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__12",
+    "hand_role": [
+      {
+        "id": 62,
+        "value": "hit_hands_role__62",
+        "order": "54.00000000000000000000"
+      },
+      {
+        "id": 63,
+        "value": "hit_hands_role__63",
+        "order": "55.00000000000000000000"
+      },
+      {
+        "id": 64,
+        "value": "hit_hands_role__64",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "hit_hands_role__70",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "hit_hands_role__78",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 79,
+        "value": "hit_hands_role__79",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 102,
+          "database_table_3491": 123
+        },
+        "value": "Nomina regum Francorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 113,
+          "database_table_3491": 137
+        },
+        "value": "Fratres de foris"
+      },
+      {
+        "ids": {
+          "database_table_3489": 114,
+          "database_table_3491": 138
+        },
+        "value": "Necrologium Salisburgense"
+      },
+      {
+        "ids": {
+          "database_table_3489": 101,
+          "database_table_3491": 119
+        },
+        "value": "Catalogus praesulum Iuvavensium"
+      },
+      {
+        "ids": {
+          "database_table_3489": 117,
+          "database_table_3491": 141
+        },
+        "value": "Historiographische Annotationen"
+      },
+      {
+        "ids": {
+          "database_table_3489": 107,
+          "database_table_3491": 127
+        },
+        "value": "Nomina pontificum Romanae sedis"
+      }
+    ],
+    "locus": [
+      {
+        "id": 123,
+        "value": "1v"
+      },
+      {
+        "id": 137,
+        "value": "5v"
+      },
+      {
+        "id": 138,
+        "value": "6r-36r"
+      },
+      {
+        "id": 119,
+        "value": "1r"
+      },
+      {
+        "id": 141,
+        "value": "2v"
+      },
+      {
+        "id": 127,
+        "value": "2r-2v"
+      }
+    ],
+    "note": "STRATUM 1b: Dieses Stratum beschreibt die Anlage der meisten zentralen Texte und die Kombination sowie Vollendung mit Stratum 1a. Das Strum erfasst u.a. die Königs-, Papst- und Bischofslisten, die erste Seite der Annalen und die Auflistung der verbrüderten hiesigen und fremden Geistlichen. Deren Grundstruktur ist zu Lebzeiten des Erzbischofs Gebhard entstanden, wohl in den 1060er-Jahren. In dieser Zeit (1060-1065) wurde auch die Struktur des Nekrologiums vollendet.\n(Note: Catalogus auch und Fortsetzung des Catalogus. Texte aus spätem 11. Jahrhundert auch eigens zählen?)",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-29",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2025-05-22",
+    "strata_filiation": [],
+    "note_filiation": null,
+    "cod_units": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 48,
+        "value": "ÖNB, Cod. 2090, cod. unit 2",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 2"
+      },
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "order": "2.83333333333333348136",
+    "label": [
+      {
+        "id": 21,
+        "value": "Cod. 2090, Stratum 2"
+      }
+    ],
+    "character": [
+      {
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 21,
+        "value": "ÖNB, Cod. 2090",
+        "order": "1.50000000000000000000"
+      }
+    ],
+    "number": "2",
+    "hit_id": "hit_strata__13",
+    "hand_role": [],
+    "ms_items": [],
+    "locus": [],
+    "note": "Zahlreiche Schreiber haben im 12. Jahrhundert die angelegten Listen bis ca. 1180 fortgesetzt und neue Texte auf freigebliebenen Platz eingefügt.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-07-29",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2024-10-15",
+    "strata_filiation": [],
+    "note_filiation": null,
+    "cod_units": [
+      {
+        "id": 15,
+        "value": "ÖNB, Cod. 2090, cod. unit 1",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 21,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 2090, cod. unit 1"
+      }
+    ]
+  },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
@@ -1225,233 +1452,6 @@
     "note_filiation": null,
     "cod_units": [],
     "cod_unit": []
-  },
-  "12": {
-    "id": 12,
-    "order": "10.00000000000000000000",
-    "label": [
-      {
-        "id": 21,
-        "value": "Cod. 2090, Stratum 1"
-      }
-    ],
-    "character": [
-      {
-        "id": 15900,
-        "value": "Anlage",
-        "color": "gray"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 21,
-        "value": "ÖNB, Cod. 2090",
-        "order": "1.50000000000000000000"
-      }
-    ],
-    "number": "1",
-    "hit_id": "hit_strata__12",
-    "hand_role": [
-      {
-        "id": 62,
-        "value": "hit_hands_role__62",
-        "order": "54.00000000000000000000"
-      },
-      {
-        "id": 63,
-        "value": "hit_hands_role__63",
-        "order": "55.00000000000000000000"
-      },
-      {
-        "id": 64,
-        "value": "hit_hands_role__64",
-        "order": "56.00000000000000000000"
-      },
-      {
-        "id": 70,
-        "value": "hit_hands_role__70",
-        "order": "62.00000000000000000000"
-      },
-      {
-        "id": 78,
-        "value": "hit_hands_role__78",
-        "order": "68.00000000000000000000"
-      },
-      {
-        "id": 79,
-        "value": "hit_hands_role__79",
-        "order": "69.00000000000000000000"
-      }
-    ],
-    "ms_items": [
-      {
-        "ids": {
-          "database_table_3489": 102,
-          "database_table_3491": 123
-        },
-        "value": "Nomina regum Francorum"
-      },
-      {
-        "ids": {
-          "database_table_3489": 113,
-          "database_table_3491": 137
-        },
-        "value": "Fratres de foris"
-      },
-      {
-        "ids": {
-          "database_table_3489": 114,
-          "database_table_3491": 138
-        },
-        "value": "Necrologium Salisburgense"
-      },
-      {
-        "ids": {
-          "database_table_3489": 101,
-          "database_table_3491": 119
-        },
-        "value": "Catalogus praesulum Iuvavensium"
-      },
-      {
-        "ids": {
-          "database_table_3489": 117,
-          "database_table_3491": 141
-        },
-        "value": "Historiographische Annotationen"
-      },
-      {
-        "ids": {
-          "database_table_3489": 107,
-          "database_table_3491": 127
-        },
-        "value": "Nomina pontificum Romanae sedis"
-      }
-    ],
-    "locus": [
-      {
-        "id": 123,
-        "value": "1v"
-      },
-      {
-        "id": 137,
-        "value": "5v"
-      },
-      {
-        "id": 138,
-        "value": "6r-36r"
-      },
-      {
-        "id": 119,
-        "value": "1r"
-      },
-      {
-        "id": 141,
-        "value": "2v"
-      },
-      {
-        "id": 127,
-        "value": "2r-2v"
-      }
-    ],
-    "note": "STRATUM 1b: Dieses Stratum beschreibt die Anlage der meisten zentralen Texte und die Kombination sowie Vollendung mit Stratum 1a. Das Strum erfasst u.a. die Königs-, Papst- und Bischofslisten, die erste Seite der Annalen und die Auflistung der verbrüderten hiesigen und fremden Geistlichen. Deren Grundstruktur ist zu Lebzeiten des Erzbischofs Gebhard entstanden, wohl in den 1060er-Jahren. In dieser Zeit (1060-1065) wurde auch die Struktur des Nekrologiums vollendet.\n(Note: Catalogus auch und Fortsetzung des Catalogus. Texte aus spätem 11. Jahrhundert auch eigens zählen?)",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-07-29",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified": "2025-05-22",
-    "strata_filiation": [],
-    "note_filiation": null,
-    "cod_units": [
-      {
-        "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1",
-        "order": "13.00000000000000000000"
-      },
-      {
-        "id": 48,
-        "value": "ÖNB, Cod. 2090, cod. unit 2",
-        "order": "44.00000000000000000000"
-      }
-    ],
-    "cod_unit": [
-      {
-        "ids": {
-          "database_table_3487": 21,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 2090, cod. unit 2"
-      },
-      {
-        "ids": {
-          "database_table_3487": 21,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
-      }
-    ]
-  },
-  "13": {
-    "id": 13,
-    "order": "11.00000000000000000000",
-    "label": [
-      {
-        "id": 21,
-        "value": "Cod. 2090, Stratum 2"
-      }
-    ],
-    "character": [
-      {
-        "id": 15368,
-        "value": "textuelle Veränderung",
-        "color": "dark-yellow"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 21,
-        "value": "ÖNB, Cod. 2090",
-        "order": "1.50000000000000000000"
-      }
-    ],
-    "number": "2",
-    "hit_id": "hit_strata__13",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
-    "note": "Zahlreiche Schreiber haben im 12. Jahrhundert die angelegten Listen bis ca. 1180 fortgesetzt und neue Texte auf freigebliebenen Platz eingefügt.",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2024-07-29",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified": "2024-10-15",
-    "strata_filiation": [],
-    "note_filiation": null,
-    "cod_units": [
-      {
-        "id": 15,
-        "value": "ÖNB, Cod. 2090, cod. unit 1",
-        "order": "13.00000000000000000000"
-      }
-    ],
-    "cod_unit": [
-      {
-        "ids": {
-          "database_table_3487": 21,
-          "database_table_3488": 1
-        },
-        "value": "ÖNB, Cod. 2090, cod. unit 1"
-      }
-    ]
   },
   "15": {
     "id": 15,
