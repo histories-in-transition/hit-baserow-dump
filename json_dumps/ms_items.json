@@ -17178,7 +17178,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-09-06",
+    "Last modified": "2025-09-11",
     "Created on": "2025-09-02",
     "Created by": {
       "id": 86,
@@ -17200,7 +17200,13 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
     "form_note": "",
     "columns": [],
     "commented_msitem": [],
@@ -17595,7 +17601,7 @@
       }
     ],
     "cod_unit": [],
-    "Last modified": "2025-09-04",
+    "Last modified": "2025-09-11",
     "Created on": "2025-09-03",
     "Created by": {
       "id": 86,
@@ -17617,7 +17623,13 @@
     ],
     "decoration": [],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
     "form_note": "",
     "columns": [],
     "commented_msitem": [],
@@ -17832,5 +17844,52 @@
         "order": "6.00000000000000000000"
       }
     ]
+  },
+  "279": {
+    "id": 279,
+    "order": "201.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__279",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2025-09-11",
+    "Created on": "2025-09-11",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
   }
 }
