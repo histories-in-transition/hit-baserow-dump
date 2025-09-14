@@ -1642,6 +1642,13 @@
     "texts": [
       {
         "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 24
+        },
+        "value": "De temporum ratione"
+      },
+      {
+        "ids": {
           "database_table_3489": 17,
           "database_table_3491": 18
         },
@@ -2693,17 +2700,17 @@
       },
       {
         "ids": {
-          "database_table_3489": 99,
-          "database_table_3491": 120
-        },
-        "value": "Mondkalender"
-      },
-      {
-        "ids": {
           "database_table_3489": 100,
           "database_table_3491": 121
         },
         "value": "Komputistische Schriften"
+      },
+      {
+        "ids": {
+          "database_table_3489": 96,
+          "database_table_3491": 114
+        },
+        "value": "Liber calculationis"
       },
       {
         "ids": {
@@ -2714,10 +2721,10 @@
       },
       {
         "ids": {
-          "database_table_3489": 96,
-          "database_table_3491": 114
+          "database_table_3489": 99,
+          "database_table_3491": 120
         },
-        "value": "Liber calculationis"
+        "value": "Mondkalender"
       }
     ],
     "hands_dated": [
@@ -9879,7 +9886,7 @@
       {
         "id": 30,
         "value": "ÖNB, Cod. 420",
-        "order": "23.00000000000000000000"
+        "order": "2.50000000000000000000"
       }
     ],
     "number": "1",
@@ -11477,7 +11484,7 @@
       {
         "id": 30,
         "value": "ÖNB, Cod. 420",
-        "order": "23.00000000000000000000"
+        "order": "2.50000000000000000000"
       }
     ],
     "number": "2",
@@ -12531,7 +12538,7 @@
       {
         "id": 43,
         "value": "ÖNB, Cod. 1029",
-        "order": "36.00000000000000000000"
+        "order": "2.66666666666666651864"
       }
     ],
     "number": "1",
@@ -13348,7 +13355,7 @@
       {
         "id": 43,
         "value": "ÖNB, Cod. 1029",
-        "order": "36.00000000000000000000"
+        "order": "2.66666666666666651864"
       }
     ],
     "number": "2",

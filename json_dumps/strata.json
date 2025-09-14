@@ -925,6 +925,13 @@
     "ms_items": [
       {
         "ids": {
+          "database_table_3489": 7,
+          "database_table_3491": 24
+        },
+        "value": "De temporum ratione"
+      },
+      {
+        "ids": {
           "database_table_3489": 17,
           "database_table_3491": 18
         },
@@ -3340,7 +3347,7 @@
       {
         "id": 43,
         "value": "ÖNB, Cod. 1029",
-        "order": "36.00000000000000000000"
+        "order": "2.66666666666666651864"
       }
     ],
     "number": "1",
@@ -3403,7 +3410,7 @@
       {
         "id": 43,
         "value": "ÖNB, Cod. 1029",
-        "order": "36.00000000000000000000"
+        "order": "2.66666666666666651864"
       }
     ],
     "number": "2",

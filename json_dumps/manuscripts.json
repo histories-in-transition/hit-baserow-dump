@@ -18,7 +18,7 @@
     ],
     "manuscripta_url": "https://manuscripta.at/?ID=5974",
     "handschriftenportal_url": "",
-    "catalog_url": "http://data.onb.ac.at/rec/AC13961630",
+    "catalog_url": "https://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21303539350003338",
     "digi_url": "http://data.onb.ac.at/dtl/3049329",
     "idno": "Cod. 387",
     "idno_former": "Salisb. 421",
@@ -123,11 +123,11 @@
       "name": "Peter Andorfer"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-04",
-    "Last modified": "2025-03-20",
+    "Last modified": "2025-09-13",
     "content_summary": "Einordnung der Handschrift nach den grundlegenden Studien von Arno Borst, die eine aktuellere Klassifikation als die gängigen Bibliothekskataloge bieten. Die Handschrift enthält, wie ihre Schwesternhandschrift Clm 210, den Liber calculationis (Sigle k12 nach Borst). Der Liber besteht aus drei Segmenten, von denen zwei im Inhaltsverzeichnis mit insgesamt 111 Kapitelnummern versehen wurden. Der erste Abschnitt enthält in 99 Kapiteln u.a. einen liturgischen Sonnenjahreskalender (E2) und diverse komputistische Tabellen sowie Anleitungen (darunter verschiedene Auszüge aus Bedas Texten, vgl. k6). Der zweite Block behandelt mit 11 Kapiteln astronomische Inhalte. Das dritte Segement besteht aus Bedas \"De natura rerurm\" (vgl. k5) und einem umfangreichen Mondzykluskalender (E5).\nIn vorliegender Datenbank wird der Liber calculationis als Gesamtwerk, die drei Segmente und ausgewählte inhaltliche Bestandteile angeführt.",
     "charakter": [],
     "case_study": [
@@ -172,7 +172,7 @@
     ],
     "manuscripta_url": "https://manuscripta.at/?ID=5187",
     "handschriftenportal_url": "",
-    "catalog_url": "http://data.onb.ac.at/rec/AC13961404",
+    "catalog_url": "https://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21302420140003338",
     "digi_url": "http://data.onb.ac.at/dtl/8931254",
     "idno": "Cod. 2090",
     "idno_former": "Salisb. 311",
@@ -257,7 +257,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-17",
-    "Last modified": "2025-05-22",
+    "Last modified": "2025-09-13",
     "content_summary": "Auf 1v sind zwei nur zum Teil lesbare Annotationen (wohl spätes 11. Jh.) ersichtlich. Am oberen Rand der Seiten finden sich regelmäßig Federproben in Form von \"probatio\" bzw. \"probatio penne\" (z.B. 89v).",
     "charakter": [
       {
@@ -311,7 +311,7 @@
     "catalog_url": "https://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21302410040003338",
     "digi_url": "",
     "idno": "Cod. 366",
-    "idno_former": "",
+    "idno_former": "Salisb. 417",
     "quire_structure": "TBD.",
     "library_full": [
       {
@@ -377,11 +377,11 @@
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-01",
-    "Last modified": "2025-03-20",
+    "Last modified": "2025-09-13",
     "content_summary": null,
     "charakter": [],
     "case_study": [
@@ -426,7 +426,7 @@
     ],
     "manuscripta_url": "https://manuscripta.at/?ID=9755",
     "handschriftenportal_url": "",
-    "catalog_url": "http://data.onb.ac.at/rec/AC13957864",
+    "catalog_url": "https://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21303484410003338",
     "digi_url": "https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_9330751&order=1&view=SINGLE",
     "idno": "Cod. 371",
     "idno_former": "Salisb. 28",
@@ -483,11 +483,11 @@
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-03",
-    "Last modified": "2025-03-20",
+    "Last modified": "2025-09-13",
     "content_summary": null,
     "charakter": [],
     "case_study": [
@@ -642,6 +642,223 @@
     ],
     "title": null
   },
+  "30": {
+    "id": 30,
+    "order": "2.50000000000000000000",
+    "shelfmark": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 420"
+      }
+    ],
+    "hit_id": "hit_manuscript__30",
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "manuscripta_url": "https://manuscripta.at/?ID=9794",
+    "handschriftenportal_url": "",
+    "catalog_url": "https://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21301316830003338",
+    "digi_url": "",
+    "idno": "Cod. 420",
+    "idno_former": "Salisb. 39",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 1,
+        "value": "Österreichische Nationalbibliothek"
+      }
+    ],
+    "extent": "",
+    "foliation": "",
+    "acc_mat": "",
+    "binding": "",
+    "binding_date": [],
+    "history": "",
+    "bibliography": [],
+    "height": null,
+    "width": null,
+    "material_spec": "",
+    "orig_place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": null,
+    "provenance": [],
+    "manuscripts_dated": [],
+    "orig_dated": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2024-12-21",
+    "Last modified": "2025-09-13",
+    "content_summary": "",
+    "charakter": [],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17449,
+        "value": "in Bearbeitung",
+        "color": "light-brown"
+      }
+    ],
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "title": null
+  },
+  "43": {
+    "id": 43,
+    "order": "2.66666666666666651864",
+    "shelfmark": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 1029"
+      }
+    ],
+    "hit_id": "hit_manuscript__43",
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "manuscripta_url": "https://manuscripta.at/?ID=10347",
+    "handschriftenportal_url": "",
+    "catalog_url": "https://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21303438230003338",
+    "digi_url": "",
+    "idno": "Cod. 1029",
+    "idno_former": "Salisb. 190",
+    "quire_structure": "",
+    "library_full": [
+      {
+        "id": 1,
+        "value": "Österreichische Nationalbibliothek"
+      }
+    ],
+    "extent": "267",
+    "foliation": "Neuzeitlich",
+    "acc_mat": "Enthält Fragmente",
+    "binding": "Braunes Wildleder, dicke Holzdeckel",
+    "binding_date": [
+      {
+        "id": 13,
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 36,
+        "value": "12. Jh.",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "history": "Wurde in zwei Phasen (1. Hälfte und 2. Hälfte des 11. Jahrhunderts) in Salzburg angefertigt.",
+    "bibliography": [],
+    "height": "163",
+    "width": "240",
+    "material_spec": "Kleinformat",
+    "orig_place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "catchwords": "",
+    "quiremarks": "",
+    "material": {
+      "id": 14782,
+      "value": "Pergament",
+      "color": "darker-orange"
+    },
+    "provenance": [
+      {
+        "id": 8,
+        "value": "Dombibliothek Salzburg",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "manuscripts_dated": [
+      {
+        "id": 48,
+        "value": "hit_dated__48",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3516": 48
+        },
+        "value": "11 Jh."
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2025-04-22",
+    "Last modified": "2025-09-13",
+    "content_summary": "Enthält kurze Biographien der ersten Päpste. Da es sich aber ansonsten zumindest oberflächlich um ein theologisches Kompendium handelt, wurden dessen Texte (u.a. Augustinus, Ambrosius) nicht vollständig, sondern nur das unmittelbare kodik./textuelle Umfeld aufgenommen. Die Handschrift weist zudem vereinzelt Marginalannotationen auf.",
+    "charakter": [
+      {
+        "id": 17439,
+        "value": "Kompendium",
+        "color": "green"
+      }
+    ],
+    "case_study": [
+      {
+        "id": 17442,
+        "value": "Salzburg",
+        "color": "purple"
+      }
+    ],
+    "status": [
+      {
+        "id": 17450,
+        "value": "grob erfasst",
+        "color": "darker-brown"
+      }
+    ],
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "title": null
+  },
   "4": {
     "id": 4,
     "order": "3.00000000000000000000",
@@ -664,7 +881,7 @@
     "catalog_url": "https://resolver.staatsbibliothek-berlin.de/HSP0003B3F900000000",
     "digi_url": "https://mdz-nbn-resolving.de/details:bsb00047183",
     "idno": "Clm. 210",
-    "idno_former": "Cim. 309",
+    "idno_former": "Clm. 309",
     "quire_structure": "1 + (II+1)**5** + 6 IV**53** + IV**61**/**62** (61/62 Doppelblatt zum Ausfalten) + 6 IV**110** + 2 (IV+1)**128** + 4 IV**160** + (II-1)**163** +1",
     "library_full": [
       {
@@ -716,11 +933,11 @@
       "name": "Ivana Dobcheva"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created on": "2024-06-12",
-    "Last modified": "2025-03-20",
+    "Last modified": "2025-09-13",
     "content_summary": null,
     "charakter": [],
     "case_study": [
@@ -2972,88 +3189,6 @@
     ],
     "title": null
   },
-  "30": {
-    "id": 30,
-    "order": "23.00000000000000000000",
-    "shelfmark": [
-      {
-        "id": 1,
-        "value": "ÖNB, Cod. 420"
-      }
-    ],
-    "hit_id": "hit_manuscript__30",
-    "library": [
-      {
-        "id": 1,
-        "value": "ÖNB",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "manuscripta_url": "",
-    "handschriftenportal_url": "",
-    "catalog_url": "",
-    "digi_url": "",
-    "idno": "Cod. 420",
-    "idno_former": "",
-    "quire_structure": "",
-    "library_full": [
-      {
-        "id": 1,
-        "value": "Österreichische Nationalbibliothek"
-      }
-    ],
-    "extent": "",
-    "foliation": "",
-    "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
-    "history": "",
-    "bibliography": [],
-    "height": null,
-    "width": null,
-    "material_spec": "",
-    "orig_place": [],
-    "catchwords": "",
-    "quiremarks": "",
-    "material": null,
-    "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
-    },
-    "Created on": "2024-12-21",
-    "Last modified": "2025-03-20",
-    "content_summary": "",
-    "charakter": [],
-    "case_study": [
-      {
-        "id": 17442,
-        "value": "Salzburg",
-        "color": "purple"
-      }
-    ],
-    "status": [
-      {
-        "id": 17449,
-        "value": "in Bearbeitung",
-        "color": "light-brown"
-      }
-    ],
-    "author_entry": [
-      {
-        "id": 1,
-        "value": "Leon Pürstinger",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "title": null
-  },
   "31": {
     "id": 31,
     "order": "24.00000000000000000000",
@@ -4177,135 +4312,6 @@
         "id": 17449,
         "value": "in Bearbeitung",
         "color": "light-brown"
-      }
-    ],
-    "author_entry": [
-      {
-        "id": 1,
-        "value": "Leon Pürstinger",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "title": null
-  },
-  "43": {
-    "id": 43,
-    "order": "36.00000000000000000000",
-    "shelfmark": [
-      {
-        "id": 1,
-        "value": "ÖNB, Cod. 1029"
-      }
-    ],
-    "hit_id": "hit_manuscript__43",
-    "library": [
-      {
-        "id": 1,
-        "value": "ÖNB",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "manuscripta_url": "https://manuscripta.at/?ID=10347",
-    "handschriftenportal_url": "",
-    "catalog_url": "http://data.onb.ac.at/rec/AC13956670",
-    "digi_url": "",
-    "idno": "Cod. 1029",
-    "idno_former": "Salisb. 190",
-    "quire_structure": "",
-    "library_full": [
-      {
-        "id": 1,
-        "value": "Österreichische Nationalbibliothek"
-      }
-    ],
-    "extent": "267",
-    "foliation": "Neuzeitlich",
-    "acc_mat": "Enthält Fragmente",
-    "binding": "Braunes Wildleder, dicke Holzdeckel",
-    "binding_date": [
-      {
-        "id": 13,
-        "value": "11 Jh.",
-        "order": "13.00000000000000000000"
-      },
-      {
-        "id": 36,
-        "value": "12. Jh.",
-        "order": "36.00000000000000000000"
-      }
-    ],
-    "history": "Wurde in zwei Phasen (1. Hälfte und 2. Hälfte des 11. Jahrhunderts) in Salzburg angefertigt.",
-    "bibliography": [],
-    "height": "163",
-    "width": "240",
-    "material_spec": "Kleinformat",
-    "orig_place": [
-      {
-        "id": 3,
-        "value": "Salzburg",
-        "order": "3.00000000000000000000"
-      }
-    ],
-    "catchwords": "",
-    "quiremarks": "",
-    "material": {
-      "id": 14782,
-      "value": "Pergament",
-      "color": "darker-orange"
-    },
-    "provenance": [
-      {
-        "id": 8,
-        "value": "Dombibliothek Salzburg",
-        "order": "7.00000000000000000000"
-      }
-    ],
-    "manuscripts_dated": [
-      {
-        "id": 48,
-        "value": "hit_dated__48",
-        "order": "45.00000000000000000000"
-      }
-    ],
-    "orig_dated": [
-      {
-        "ids": {
-          "database_table_3512": 13,
-          "database_table_3516": 48
-        },
-        "value": "11 Jh."
-      }
-    ],
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2025-04-22",
-    "Last modified": "2025-05-27",
-    "content_summary": "Enthält kurze Biographien der ersten Päpste. Da es sich aber ansonsten zumindest oberflächlich um ein theologisches Kompendium handelt, wurden dessen Texte (u.a. Augustinus, Ambrosius) nicht vollständig, sondern nur das unmittelbare kodik./textuelle Umfeld aufgenommen. Die Handschrift weist zudem vereinzelt Marginalannotationen auf.",
-    "charakter": [
-      {
-        "id": 17439,
-        "value": "Kompendium",
-        "color": "green"
-      }
-    ],
-    "case_study": [
-      {
-        "id": 17442,
-        "value": "Salzburg",
-        "color": "purple"
-      }
-    ],
-    "status": [
-      {
-        "id": 17450,
-        "value": "grob erfasst",
-        "color": "darker-brown"
       }
     ],
     "author_entry": [

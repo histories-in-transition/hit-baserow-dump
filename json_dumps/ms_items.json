@@ -728,7 +728,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "Last modified": "2024-11-19",
+    "Last modified": "2025-09-13",
     "Created on": "2024-06-17",
     "Created by": {
       "id": 86,
@@ -2270,6 +2270,11 @@
     "rubric": "Item incipit liber sancti Martini de sancta trinitate",
     "title_work": [
       {
+        "id": 7,
+        "value": "De temporum ratione",
+        "order": "6.00000000000000000000"
+      },
+      {
         "id": 23,
         "value": "Confessio sancti Martini",
         "order": "22.00000000000000000000"
@@ -2296,15 +2301,15 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "Last modified": "2024-12-18",
+    "Last modified": "2025-09-13",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": null,
     "hand": [
@@ -14977,7 +14982,7 @@
       {
         "id": 30,
         "value": "ÖNB, Cod. 420",
-        "order": "23.00000000000000000000"
+        "order": "2.50000000000000000000"
       }
     ],
     "incipit": "",
@@ -15419,7 +15424,7 @@
       {
         "id": 43,
         "value": "ÖNB, Cod. 1029",
-        "order": "36.00000000000000000000"
+        "order": "2.66666666666666651864"
       }
     ],
     "incipit": "Beatus petrus apostolus et princeps apostolorum",
@@ -15536,7 +15541,7 @@
       {
         "id": 43,
         "value": "ÖNB, Cod. 1029",
-        "order": "36.00000000000000000000"
+        "order": "2.66666666666666651864"
       }
     ],
     "incipit": "",
@@ -15632,7 +15637,7 @@
       {
         "id": 43,
         "value": "ÖNB, Cod. 1029",
-        "order": "36.00000000000000000000"
+        "order": "2.66666666666666651864"
       }
     ],
     "incipit": "Dilectissimo in christo fratri sigulfo Dilectissimo in christo fratri sigulfo presbitero Albinus salutem",
@@ -16371,7 +16376,7 @@
       {
         "id": 43,
         "value": "ÖNB, Cod. 1029",
-        "order": "36.00000000000000000000"
+        "order": "2.66666666666666651864"
       }
     ],
     "incipit": "",
