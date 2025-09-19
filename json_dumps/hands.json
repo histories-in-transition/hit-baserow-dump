@@ -14248,5 +14248,50 @@
     "scribe": [],
     "gruppe": true,
     "author_entry": []
+  },
+  "206": {
+    "id": 206,
+    "order": "165.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393_H. 1"
+      }
+    ],
+    "description": "Eine Gruppe von fünf verwandten Freisinger Händen, die abwechselnd schreiben. Die Hände auf der Seiten 93r, 138r ähneln sich den Händen der Clm 6305. Die Schrift ist Frühkarolingische Minuskel, die aber schon d und cc-a vermeidet.",
+    "hit_id": "hit_hands__206",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-09-18",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-09-18",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
   }
 }

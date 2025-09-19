@@ -1506,15 +1506,21 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-09-18",
     "orig_date": [],
     "heigth": "165-170",
     "lines_number": "16-20",
-    "decorations": "",
-    "basic_structure": [],
+    "decorations": "1v - Initial B und bunte Überschrift (rot-grün), ornamental geschmuckt, im insulären Stil;weiter mehrere Initiale mit bescheidenen Pflanzenornamenten, Stufenbändern, Seilenbändern in rot und grün (2v, 5r, 9v, 21r, 24r, 38r). Darunter besonders auffällig sind E auf der Seite 57r (Fischkorf mit Schrägkreuz), U auf 99r, 101v, 112v, T auf 114v.",
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
     "written_width": "75-85",
     "written_height": "135-145",
     "width": "105",
@@ -1542,7 +1548,7 @@
       }
     ],
     "strata": [],
-    "ruling": null,
+    "ruling": "16-18 Zeilen, eifache Liniirung mit Doppellinien am Rand. Geschrieben werden oft 20-21 Zeilen.",
     "material": {
       "id": 19338,
       "value": "Pergament",
@@ -1550,7 +1556,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "Am Ende der Lagen mit den Buchstaben von C/21 bis R/133 und mit Zahlen von I/141 bis XVII /269"
   },
   "24": {
     "id": 24,
