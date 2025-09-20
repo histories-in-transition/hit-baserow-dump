@@ -5155,7 +5155,13 @@
     "hit_id": "hit_ms_items__55",
     "filiation": null,
     "locus_grp": "1r-133r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 263,
+        "value": "hit_hands_role__263",
+        "order": "217.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 23,
@@ -5174,7 +5180,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -5225,7 +5239,13 @@
     "hit_id": "hit_ms_items__56",
     "filiation": null,
     "locus_grp": "134r-176r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 263,
+        "value": "hit_hands_role__263",
+        "order": "217.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 23,
@@ -5244,7 +5264,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -5295,7 +5323,13 @@
     "hit_id": "hit_ms_items__57",
     "filiation": null,
     "locus_grp": "176r-188r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 263,
+        "value": "hit_hands_role__263",
+        "order": "217.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 23,
@@ -5314,7 +5348,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -5365,7 +5407,13 @@
     "hit_id": "hit_ms_items__58",
     "filiation": null,
     "locus_grp": "188r-203r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 263,
+        "value": "hit_hands_role__263",
+        "order": "217.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 23,
@@ -5384,7 +5432,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -5435,7 +5491,13 @@
     "hit_id": "hit_ms_items__59",
     "filiation": null,
     "locus_grp": "203r-276v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 263,
+        "value": "hit_hands_role__263",
+        "order": "217.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 23,
@@ -5454,7 +5516,15 @@
       "name": "Ksenia Borisova"
     },
     "note": null,
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],

@@ -14002,5 +14002,173 @@
     ],
     "scribe_type": [],
     "strata": []
+  },
+  "263": {
+    "id": 263,
+    "order": "217.00000000000000000000",
+    "hit_id": "hit_hands_role__263",
+    "hand": [
+      {
+        "id": 206,
+        "value": "BSB, Clm. 6393_H. 1",
+        "order": "165.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 55,
+        "value": "clm_6393__55",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 56,
+        "value": "clm_6393__56",
+        "order": "49.00000000000000000000"
+      },
+      {
+        "id": 57,
+        "value": "clm_6393__57",
+        "order": "50.00000000000000000000"
+      },
+      {
+        "id": 58,
+        "value": "clm_6393__58",
+        "order": "51.00000000000000000000"
+      },
+      {
+        "id": 59,
+        "value": "clm_6393__59",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      },
+      {
+        "id": 15373,
+        "value": "Korrektor",
+        "color": "darker-brown"
+      }
+    ],
+    "locus": "durchaus",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 34,
+          "database_table_3491": 56
+        },
+        "value": "Vita sancti Hilarionis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 35,
+          "database_table_3491": 57
+        },
+        "value": "Vita sancti Malchi"
+      },
+      {
+        "ids": {
+          "database_table_3489": 36,
+          "database_table_3491": 58
+        },
+        "value": "Vita sancti Pauli"
+      },
+      {
+        "ids": {
+          "database_table_3489": 37,
+          "database_table_3491": 59
+        },
+        "value": "Vita beati Antonii abbatis, Euagrio interprete"
+      },
+      {
+        "ids": {
+          "database_table_3489": 55,
+          "database_table_3491": 55
+        },
+        "value": "Historia monachorum"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 55,
+        "value": "1r-133r"
+      },
+      {
+        "id": 56,
+        "value": "134r-176r"
+      },
+      {
+        "id": 57,
+        "value": "176r-188r"
+      },
+      {
+        "id": 58,
+        "value": "188r-203r"
+      },
+      {
+        "id": 59,
+        "value": "203r-276v"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-09-19",
+    "Last modified": "2025-09-19",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [],
+    "strata": [
+      {
+        "id": 46,
+        "value": "Clm. 6393, Stratum 1",
+        "order": "42.00000000000000000000"
+      }
+    ]
+  },
+  "264": {
+    "id": 264,
+    "order": "218.00000000000000000000",
+    "hit_id": "hit_hands_role__264",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-09-19",
+    "Last modified": "2025-09-19",
+    "locus_layout": [],
+    "function": [],
+    "scribe_type": [],
+    "strata": []
   }
 }

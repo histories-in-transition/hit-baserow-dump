@@ -3760,5 +3760,126 @@
         "value": "BSB, Clm. 6381, cod. unit 1"
       }
     ]
+  },
+  "46": {
+    "id": 46,
+    "order": "42.00000000000000000000",
+    "label": [
+      {
+        "id": 15,
+        "value": "Clm. 6393, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__46",
+    "hand_role": [
+      {
+        "id": 263,
+        "value": "hit_hands_role__263",
+        "order": "217.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 34,
+          "database_table_3491": 56
+        },
+        "value": "Vita sancti Hilarionis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 35,
+          "database_table_3491": 57
+        },
+        "value": "Vita sancti Malchi"
+      },
+      {
+        "ids": {
+          "database_table_3489": 36,
+          "database_table_3491": 58
+        },
+        "value": "Vita sancti Pauli"
+      },
+      {
+        "ids": {
+          "database_table_3489": 37,
+          "database_table_3491": 59
+        },
+        "value": "Vita beati Antonii abbatis, Euagrio interprete"
+      },
+      {
+        "ids": {
+          "database_table_3489": 55,
+          "database_table_3491": 55
+        },
+        "value": "Historia monachorum"
+      }
+    ],
+    "locus": [
+      {
+        "id": 55,
+        "value": "1r-133r"
+      },
+      {
+        "id": 56,
+        "value": "134r-176r"
+      },
+      {
+        "id": 57,
+        "value": "176r-188r"
+      },
+      {
+        "id": 58,
+        "value": "188r-203r"
+      },
+      {
+        "id": 59,
+        "value": "203r-276v"
+      }
+    ],
+    "note": "Die Handschrift besteht aus einem Stratum, an der gegen fünf Schreiber gearbeitet haben. Das Stratum umfasst hagiographische Stücke aus verschiedenen patristischen Werke. Die Reihenfolge der Texte bildet eine feste Überlieferungseinheit (Glauche, 83; Bischoff, II, 24), die auch durch Wien.Ser.nov.2070, Ser. nov. 3753, Ser. nov. 3763 bezeugt ist.",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-09-19",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-09-19",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [
+      {
+        "id": 23,
+        "value": "BSB, Clm. 6393, cod. unit 1",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 15,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6393, cod. unit 1"
+      }
+    ]
   }
 }

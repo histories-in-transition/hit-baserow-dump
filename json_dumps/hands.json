@@ -14261,7 +14261,7 @@
         "value": "BSB, Clm. 6393_H. 1"
       }
     ],
-    "description": "Eine Gruppe von fünf verwandten Freisinger Händen, die abwechselnd schreiben. Die Hände auf der Seiten 93r, 138r ähneln sich den Händen der Clm 6305. Die Schrift ist Frühkarolingische Minuskel, die aber schon d und cc-a vermeidet.",
+    "description": "Eine Gruppe von fünf verwandten Freisinger Händen, die abwechselnd schreiben. Die Hände auf der Seiten 93r, 138r ähneln sich den Händen der Clm 6305. Die Schrift ist Frühkarolingische Minuskel. Die Hände sind reich an den Ligaturen (re, nt, et, st, ec, us) und Abkürzungen (prae, pro, bus, us, tur), auch mitten in den Wörtern, Buchstaben: die Hände vermeiden d und cc-a, die merovingische e kommt an und ab vor, g oft mit einem Strich oben statt des Kreises, die Abkürzungen von den Pronomina, nomina sacra und esse sind hier üblich. Die Wörter sind nur teilweise von einander getrennt. Eine detalierte Beschreibung s. in Bischoff, Schreibschulen, I, 83.\\\nDrei Hände sind bemerkenswert dadurch, dass eine (14r ff.) aus der Umgebung einbisschen herausfällt und die anderen zwei zeigen Verwandschaft mit den Händen der Clm 6305. Die erste Hand benutzt auch unciales d und cc-a, insulares g, I longa, Majuskel-R, tief nach unten gehendes s und sieht generell konservativer aus. Die zwei Hände (93r-v ff. und ff. 138r-141v) können mit den Händen der Clm 6305 (ff. 143v-144r und 130r Z. 1-19) identisch sein. Die letzte Hand gehört möglicherweisen dem Diakon Leidrat. Die seltenen Korrekturen in der Handschrift wurden wahrscheinlich von einer dieser fünf Hände eingetragen.",
     "hit_id": "hit_hands__206",
     "similar_hands": [],
     "nr_daniel": "",
@@ -14283,13 +14283,91 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-09-18",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "Last modified": "2025-09-19",
+    "hands_role": [
+      {
+        "id": 263,
+        "value": "hit_hands_role__263",
+        "order": "217.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 263,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          },
+          {
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 34,
+          "database_table_3491": 56
+        },
+        "value": "Vita sancti Hilarionis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 35,
+          "database_table_3491": 57
+        },
+        "value": "Vita sancti Malchi"
+      },
+      {
+        "ids": {
+          "database_table_3489": 36,
+          "database_table_3491": 58
+        },
+        "value": "Vita sancti Pauli"
+      },
+      {
+        "ids": {
+          "database_table_3489": 37,
+          "database_table_3491": 59
+        },
+        "value": "Vita beati Antonii abbatis, Euagrio interprete"
+      },
+      {
+        "ids": {
+          "database_table_3489": 55,
+          "database_table_3491": 55
+        },
+        "value": "Historia monachorum"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 169,
+        "value": "hit_hands_dated__169",
+        "order": "134.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 108,
+          "database_table_3520": 169
+        },
+        "value": "8. Jh., Ende"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 108,
+        "value": "hit_hands_placed__108",
+        "order": "76.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": []

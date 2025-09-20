@@ -1509,7 +1509,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-09-18",
+    "Last modified": "2025-09-19",
     "orig_date": [],
     "heigth": "165-170",
     "lines_number": "16-20",
@@ -1547,7 +1547,13 @@
         "value": "Freising"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 46,
+        "value": "Clm. 6393, Stratum 1",
+        "order": "42.00000000000000000000"
+      }
+    ],
     "ruling": "16-18 Zeilen, eifache Liniirung mit Doppellinien am Rand. Geschrieben werden oft 20-21 Zeilen.",
     "material": {
       "id": 19338,
@@ -1662,10 +1668,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-09-19",
     "orig_date": [],
     "heigth": "180",
     "lines_number": "22-24",
@@ -1686,6 +1692,11 @@
         "id": 21,
         "value": "hit_codunit_place__21",
         "order": "21.00000000000000000000"
+      },
+      {
+        "id": 39,
+        "value": "hit_codunit_place__39",
+        "order": "39.00000000000000000000"
       }
     ],
     "prov_place": [
@@ -1695,10 +1706,17 @@
           "database_table_3840": 21
         },
         "value": "Freising"
+      },
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 39
+        },
+        "value": "Freising"
       }
     ],
     "strata": [],
-    "ruling": null,
+    "ruling": "Einfache Liniirung, 24, dann 23 (ab Lage 5.) und 24 (ab Lage 6.) Zeile.",
     "material": {
       "id": 19338,
       "value": "Pergament",
