@@ -584,7 +584,7 @@
   "74": {
     "id": 74,
     "order": "21.50000000000000000000",
-    "title": "Vita sancti Bricii",
+    "title": "Vita sancti Briccii",
     "gnd_url": "https://d-nb.info/1336713453",
     "note": "",
     "hit_id": "hit_works__74",
@@ -617,10 +617,10 @@
     },
     "Created on": "2024-07-11",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-07-08"
+    "Last modified": "2025-09-27"
   },
   "23": {
     "id": 23,
@@ -1895,88 +1895,6 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2024-10-22"
-  },
-  "60": {
-    "id": 60,
-    "order": "59.00000000000000000000",
-    "title": "Miracula sancti Martini",
-    "gnd_url": "",
-    "note": "",
-    "hit_id": "hit_works__60",
-    "author": [
-      {
-        "id": 7,
-        "value": "Gregor, Tours",
-        "order": "6.00000000000000000000"
-      }
-    ],
-    "bibliography": [],
-    "source_text": [
-      {
-        "id": 20,
-        "value": "Miracula sancti Martini",
-        "order": "19.00000000000000000000"
-      }
-    ],
-    "genre": [
-      {
-        "id": 2,
-        "value": "Hagiographie > Miracula",
-        "order": "2.00000000000000000000"
-      }
-    ],
-    "note_source": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-08",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-07-09"
-  },
-  "61": {
-    "id": 61,
-    "order": "60.00000000000000000000",
-    "title": "Vita sancti Briccii",
-    "gnd_url": "",
-    "note": "",
-    "hit_id": "hit_works__61",
-    "author": [
-      {
-        "id": 7,
-        "value": "Gregor, Tours",
-        "order": "6.00000000000000000000"
-      }
-    ],
-    "bibliography": [],
-    "source_text": [
-      {
-        "id": 20,
-        "value": "Miracula sancti Martini",
-        "order": "19.00000000000000000000"
-      }
-    ],
-    "genre": [
-      {
-        "id": 1,
-        "value": "Hagiographie > Vita",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "note_source": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-07-09",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2024-07-09"
   },
   "62": {
     "id": 62,

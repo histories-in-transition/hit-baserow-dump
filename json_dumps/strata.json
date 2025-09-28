@@ -953,6 +953,13 @@
       },
       {
         "ids": {
+          "database_table_3489": 20,
+          "database_table_3491": 21
+        },
+        "value": "Miracula sancti Martini"
+      },
+      {
+        "ids": {
           "database_table_3489": 21,
           "database_table_3491": 23
         },
@@ -970,7 +977,7 @@
           "database_table_3489": 74,
           "database_table_3491": 22
         },
-        "value": "Vita sancti Bricii"
+        "value": "Vita sancti Briccii"
       },
       {
         "ids": {
@@ -985,13 +992,6 @@
           "database_table_3491": 25
         },
         "value": "Miraculum de puella ab ortu nativitatis suae muta et surda"
-      },
-      {
-        "ids": {
-          "database_table_3489": 60,
-          "database_table_3491": 21
-        },
-        "value": "Miracula sancti Martini"
       }
     ],
     "locus": [
@@ -1800,7 +1800,7 @@
       },
       {
         "ids": {
-          "database_table_3489": 60,
+          "database_table_3489": 20,
           "database_table_3491": 21
         },
         "value": "Miracula sancti Martini"

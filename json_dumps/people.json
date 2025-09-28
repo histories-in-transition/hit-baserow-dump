@@ -242,18 +242,8 @@
       },
       {
         "id": 74,
-        "value": "Vita sancti Bricii",
-        "order": "21.50000000000000000000"
-      },
-      {
-        "id": 60,
-        "value": "Miracula sancti Martini",
-        "order": "59.00000000000000000000"
-      },
-      {
-        "id": 61,
         "value": "Vita sancti Briccii",
-        "order": "60.00000000000000000000"
+        "order": "21.50000000000000000000"
       },
       {
         "id": 73,
@@ -272,14 +262,6 @@
       },
       {
         "id": 74,
-        "value": "Vita sancti Bricii"
-      },
-      {
-        "id": 60,
-        "value": "Miracula sancti Martini"
-      },
-      {
-        "id": 61,
         "value": "Vita sancti Briccii"
       },
       {
