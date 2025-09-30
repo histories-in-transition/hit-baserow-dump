@@ -14371,5 +14371,81 @@
     "scribe": [],
     "gruppe": false,
     "author_entry": []
+  },
+  "207": {
+    "id": 207,
+    "order": "166.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 14,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6392_H. 1"
+      }
+    ],
+    "description": "Eine Gruppe der karolingischen Schreiber",
+    "hit_id": "hit_hands__207",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 14,
+        "value": "BSB, Clm. 6392",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-09-29",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-09-29",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "208": {
+    "id": 208,
+    "order": "167.00000000000000000000",
+    "label": [],
+    "description": "",
+    "hit_id": "hit_hands__208",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-09-29",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-09-29",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
   }
 }
