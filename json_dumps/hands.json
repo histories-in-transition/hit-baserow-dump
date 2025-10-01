@@ -14384,7 +14384,7 @@
         "value": "BSB, Clm. 6392_H. 1"
       }
     ],
-    "description": "Eine Gruppe der karolingischen Schreiber",
+    "description": "Eine Gruppe der Schreiber, die abwechselnd wirken und gemeine Eigenschaften teilen. Unter die charakteristischen Buchstabenformen kann man rundes d, R für r, v mit einer Oberlänge, H und N mit der rechten Unterlänge. Die Schrift aller Hände ist reich an Ligaturen und Abkürzungen. Verkürzt sind sowohl Prefixen und Affixen (typische Minuskelabkürzungen für pro, prae, per, que, bus, us wird duch einem überschrieben Kringel ersetzt etc.), als auch ganze Wörter (q-Wörter, hic durch h mit überschriebenem i, vero durch v und o darüber, Formen von esse, wo ss oben stehen). Die Buchstaben s,n,a,i,u,o werden oft überschrieben. Ligaturen ct, st, or,  Auf der 55r schreibt eine Hand das Endteil des Textes in der Urkundenschrift.",
     "hit_id": "hit_hands__207",
     "similar_hands": [],
     "nr_daniel": "",
@@ -14406,13 +14406,65 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-09-29",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "Last modified": "2025-09-30",
+    "hands_role": [
+      {
+        "id": 264,
+        "value": "hit_hands_role__264",
+        "order": "218.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 264,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 53,
+          "database_table_3491": 53
+        },
+        "value": "Epitoma de Tito Livio"
+      },
+      {
+        "ids": {
+          "database_table_3489": 54,
+          "database_table_3491": 54
+        },
+        "value": "Periochae"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 170,
+        "value": "hit_hands_dated__170",
+        "order": "135.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3520": 170
+        },
+        "value": "11 Jh."
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 109,
+        "value": "hit_hands_placed__109",
+        "order": "77.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": []

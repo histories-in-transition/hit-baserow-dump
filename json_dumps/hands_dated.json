@@ -4445,5 +4445,44 @@
     "Last modified": "2025-09-19",
     "Created on": "2025-09-19",
     "note": ""
+  },
+  "170": {
+    "id": 170,
+    "order": "135.00000000000000000000",
+    "hit_id": "hit_hands_dated__170",
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche G.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "page": "172",
+    "dated": [
+      {
+        "id": 13,
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 207,
+        "value": "BSB, Clm. 6392_H. 1",
+        "order": "166.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-09-30",
+    "Created on": "2025-09-30",
+    "note": ""
   }
 }

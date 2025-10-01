@@ -1797,9 +1797,9 @@
     ],
     "from": [
       {
-        "id": 6,
-        "value": "9 Jh., erste Hälfte",
-        "order": "6.00000000000000000000"
+        "id": 13,
+        "value": "11 Jh.",
+        "order": "13.00000000000000000000"
       }
     ],
     "type": {
@@ -1822,8 +1822,24 @@
     ],
     "authority": [],
     "page": "",
-    "uncertain_from": false,
+    "uncertain_from": true,
     "uncertain_till": false,
     "uncertain_place": true
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "hit_id": "hit_codunit_place__40",
+    "cod_unit": [],
+    "place": [],
+    "from": [],
+    "type": null,
+    "till": [],
+    "ms": [],
+    "authority": [],
+    "page": "",
+    "uncertain_from": false,
+    "uncertain_till": false,
+    "uncertain_place": false
   }
 }

@@ -2201,7 +2201,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2025-09-29",
+    "Last modified": "2025-09-30",
     "content_summary": "Florus",
     "charakter": [
       {
@@ -2217,7 +2217,13 @@
         "color": "deep-dark-orange"
       }
     ],
-    "status": [],
+    "status": [
+      {
+        "id": 17449,
+        "value": "in Bearbeitung",
+        "color": "light-brown"
+      }
+    ],
     "author_entry": [
       {
         "id": 2,

@@ -3881,5 +3881,155 @@
         "value": "BSB, Clm. 6393, cod. unit 1"
       }
     ]
+  },
+  "47": {
+    "id": 47,
+    "order": "43.00000000000000000000",
+    "label": [
+      {
+        "id": 14,
+        "value": "Clm. 6392, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 14,
+        "value": "BSB, Clm. 6392",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__47",
+    "hand_role": [
+      {
+        "id": 264,
+        "value": "hit_hands_role__264",
+        "order": "218.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 53,
+          "database_table_3491": 53
+        },
+        "value": "Epitoma de Tito Livio"
+      },
+      {
+        "ids": {
+          "database_table_3489": 54,
+          "database_table_3491": 54
+        },
+        "value": "Periochae"
+      }
+    ],
+    "locus": [
+      {
+        "id": 53,
+        "value": "1r-50v"
+      },
+      {
+        "id": 54,
+        "value": "50v-55r"
+      }
+    ],
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-09-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-09-30",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
+  },
+  "48": {
+    "id": 48,
+    "order": "44.00000000000000000000",
+    "label": [
+      {
+        "id": 14,
+        "value": "Clm. 6392, Stratum 2"
+      }
+    ],
+    "character": [],
+    "manuscript": [
+      {
+        "id": 14,
+        "value": "BSB, Clm. 6392",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "hit_id": "hit_strata__48",
+    "hand_role": [],
+    "ms_items": [],
+    "locus": [],
+    "note": "Das Endteil der Periochae (55r) ist in der Urkundenschrift geschrieben. Daneben gibt es auch eine Marginalie auf der 42v oben, deren Minuskel durch den auffälligen Oberlängen sehr ähnlich aussieht.",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-09-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-09-30",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
+  },
+  "49": {
+    "id": 49,
+    "order": "45.00000000000000000000",
+    "label": [
+      {
+        "id": 14,
+        "value": "Clm. 6392, Stratum 3"
+      }
+    ],
+    "character": [],
+    "manuscript": [
+      {
+        "id": 14,
+        "value": "BSB, Clm. 6392",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "number": "3",
+    "hit_id": "hit_strata__49",
+    "hand_role": [],
+    "ms_items": [],
+    "locus": [],
+    "note": "Gliederung des Werkes mit den Winkeln beiseitig bzw. durch die Überschriften in Majuskel am Rand, die manche Ereignisse auszeichnen wie Kriege oder Herrschaftszeiten Römischer Kaiser.",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-09-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-09-30",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
   }
 }
