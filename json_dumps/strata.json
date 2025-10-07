@@ -3940,7 +3940,7 @@
         "value": "50v-55r"
       }
     ],
-    "note": "",
+    "note": "Das Hauptstratum, in dem mehrere Schreiber in der Zusammenarbeit ein Livius'  Sammelband verfassen.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -3950,7 +3950,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-09-30",
+    "Last modified": "2025-10-06",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [],
@@ -3965,7 +3965,13 @@
         "value": "Clm. 6392, Stratum 2"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
+      }
+    ],
     "manuscript": [
       {
         "id": 14,
@@ -3975,10 +3981,40 @@
     ],
     "number": "2",
     "hit_id": "hit_strata__48",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
-    "note": "Das Endteil der Periochae (55r) ist in der Urkundenschrift geschrieben. Daneben gibt es auch eine Marginalie auf der 42v oben, deren Minuskel durch den auffälligen Oberlängen sehr ähnlich aussieht.",
+    "hand_role": [
+      {
+        "id": 264,
+        "value": "hit_hands_role__264",
+        "order": "218.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 53,
+          "database_table_3491": 53
+        },
+        "value": "Epitoma de Tito Livio"
+      },
+      {
+        "ids": {
+          "database_table_3489": 54,
+          "database_table_3491": 54
+        },
+        "value": "Periochae"
+      }
+    ],
+    "locus": [
+      {
+        "id": 53,
+        "value": "1r-50v"
+      },
+      {
+        "id": 54,
+        "value": "50v-55r"
+      }
+    ],
+    "note": "Das Endteil der Periochae (55r) ist in der Urkundenschrift geschrieben. Daneben gibt es auch eine Marginalie auf der 42v oben (Einfügung eines ausgelassenen Stückes), deren Minuskel durch den auffälligen Oberlängen sehr ähnlich aussieht.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -3988,7 +4024,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-09-30",
+    "Last modified": "2025-10-06",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [],
@@ -4016,7 +4052,7 @@
     "hand_role": [],
     "ms_items": [],
     "locus": [],
-    "note": "Gliederung des Werkes mit den Winkeln beiseitig bzw. durch die Überschriften in Majuskel am Rand, die manche Ereignisse auszeichnen wie Kriege oder Herrschaftszeiten Römischer Kaiser.",
+    "note": "Gliederung des Werkes mit den Winkeln beiseitig bzw. durch die Überschriften in Majuskel am Rand, die manche Ereignisse auszeichnen, wie Kriege oder Herrschaftszeiten Römischer Kaiser. Die Hand kann kaum identifiziert werden, sieht aber einbisschen anders aus als diejenige der Hauptschreiber.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4026,7 +4062,34 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-09-30",
+    "Last modified": "2025-10-06",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
+  },
+  "50": {
+    "id": 50,
+    "order": "46.00000000000000000000",
+    "label": [],
+    "character": [],
+    "manuscript": [],
+    "number": "",
+    "hit_id": "hit_strata__50",
+    "hand_role": [],
+    "ms_items": [],
+    "locus": [],
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-10-06",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-10-06",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [],
