@@ -3953,8 +3953,22 @@
     "Last modified": "2025-10-06",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 25,
+        "value": "BSB, Clm. 6392, cod. unit 1",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 14,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6392, cod. unit 1"
+      }
+    ]
   },
   "48": {
     "id": 48,
@@ -4027,8 +4041,22 @@
     "Last modified": "2025-10-06",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 25,
+        "value": "BSB, Clm. 6392, cod. unit 1",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 14,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6392, cod. unit 1"
+      }
+    ]
   },
   "49": {
     "id": 49,
@@ -4065,21 +4093,103 @@
     "Last modified": "2025-10-06",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 25,
+        "value": "BSB, Clm. 6392, cod. unit 1",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 14,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6392, cod. unit 1"
+      }
+    ]
   },
   "50": {
     "id": 50,
     "order": "46.00000000000000000000",
-    "label": [],
-    "character": [],
-    "manuscript": [],
-    "number": "",
+    "label": [
+      {
+        "id": 13,
+        "value": "Clm. 6391, Stratum 1"
+      }
+    ],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 13,
+        "value": "BSB, Clm. 6391",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "number": "1",
     "hit_id": "hit_strata__50",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
-    "note": "",
+    "hand_role": [
+      {
+        "id": 143,
+        "value": "hit_hands_role__143",
+        "order": "129.00000000000000000000"
+      },
+      {
+        "id": 144,
+        "value": "hit_hands_role__144",
+        "order": "130.00000000000000000000"
+      },
+      {
+        "id": 145,
+        "value": "hit_hands_role__145",
+        "order": "131.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 33,
+          "database_table_3491": 52
+        },
+        "value": "Historia Langobardorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 33,
+          "database_table_3491": 52
+        },
+        "value": "Historia Langobardorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 33,
+          "database_table_3491": 52
+        },
+        "value": "Historia Langobardorum"
+      }
+    ],
+    "locus": [
+      {
+        "id": 52,
+        "value": "1r-193v"
+      },
+      {
+        "id": 52,
+        "value": "1r-193v"
+      },
+      {
+        "id": 52,
+        "value": "1r-193v"
+      }
+    ],
+    "note": "Das Stratum besteht aus den Beiträgen zweier Schreiber, zwischen denen die Lagen aufgeteilt wurden. Die einzigen Marginalien, die noch aus dem Mittelalter stammen, enthalten die ausgelassenen Stücke und gehören wahrscheinlich auch den Hauptschreiber. Keine weitere Spuren der Bearbeitung des Textes sind hier zu sehen.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4089,10 +4199,24 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-10-06",
+    "Last modified": "2025-10-15",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 24,
+        "value": "BSB, Clm. 6391, cod. unit 1",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 13,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6391, cod. unit 1"
+      }
+    ]
   }
 }

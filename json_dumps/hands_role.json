@@ -8057,11 +8057,23 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-19",
-    "Last modified": "2024-09-19",
+    "Last modified": "2025-10-15",
     "locus_layout": [],
-    "function": [],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
-    "strata": []
+    "strata": [
+      {
+        "id": 50,
+        "value": "Clm. 6391, Stratum 1",
+        "order": "46.00000000000000000000"
+      }
+    ]
   },
   "144": {
     "id": 144,
@@ -8113,17 +8125,46 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-19",
-    "Last modified": "2024-09-19",
+    "Last modified": "2025-10-15",
     "locus_layout": [],
-    "function": [],
-    "scribe_type": [],
-    "strata": []
+    "function": [
+      {
+        "id": 18156,
+        "value": "inhaltlich",
+        "color": "dark-blue"
+      },
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [
+      {
+        "id": 18173,
+        "value": "Fortsetzung",
+        "color": "red"
+      }
+    ],
+    "strata": [
+      {
+        "id": 50,
+        "value": "Clm. 6391, Stratum 1",
+        "order": "46.00000000000000000000"
+      }
+    ]
   },
   "145": {
     "id": 145,
     "order": "131.00000000000000000000",
     "hit_id": "hit_hands_role__145",
-    "hand": [],
+    "hand": [
+      {
+        "id": 104,
+        "value": "BSB, Clm. 6391_H. 2",
+        "order": "96.00000000000000000000"
+      }
+    ],
     "ms_item": [
       {
         "id": 52,
@@ -8163,7 +8204,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-19",
-    "Last modified": "2025-05-30",
+    "Last modified": "2025-10-15",
     "locus_layout": [
       {
         "id": 15380,
@@ -8179,7 +8220,13 @@
       }
     ],
     "scribe_type": [],
-    "strata": []
+    "strata": [
+      {
+        "id": 50,
+        "value": "Clm. 6391, Stratum 1",
+        "order": "46.00000000000000000000"
+      }
+    ]
   },
   "148": {
     "id": 148,

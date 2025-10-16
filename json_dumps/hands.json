@@ -8987,6 +8987,11 @@
         "id": 144,
         "value": "hit_hands_role__144",
         "order": "130.00000000000000000000"
+      },
+      {
+        "id": 145,
+        "value": "hit_hands_role__145",
+        "order": "131.00000000000000000000"
       }
     ],
     "role": [
@@ -9003,9 +9008,26 @@
             "color": "darker-red"
           }
         ]
+      },
+      {
+        "id": 145,
+        "value": [
+          {
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
+          }
+        ]
       }
     ],
     "texts": [
+      {
+        "ids": {
+          "database_table_3489": 33,
+          "database_table_3491": 52
+        },
+        "value": "Historia Langobardorum"
+      },
       {
         "ids": {
           "database_table_3489": 33,

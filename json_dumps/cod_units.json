@@ -1593,15 +1593,21 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-10-15",
     "orig_date": [],
     "heigth": "190",
     "lines_number": "18",
-    "decorations": "",
-    "basic_structure": [],
+    "decorations": "Beide Hände benutzen einfache rote Initiale ohne Schmuck.",
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
     "written_width": "105",
     "written_height": "145",
     "width": "140",
@@ -1628,8 +1634,14 @@
         "value": "Freising"
       }
     ],
-    "strata": [],
-    "ruling": null,
+    "strata": [
+      {
+        "id": 50,
+        "value": "Clm. 6391, Stratum 1",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "ruling": "Die Hände halten streng an den 18 Zeilen",
     "material": {
       "id": 19338,
       "value": "Pergament",
@@ -1637,7 +1649,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "Jede Lage wurde auf der letzten Seite mit einer Römischen Zahl bezeichnet. Manche Zahlen wurden abgewischt. Die erste Lage wurde verloren, wie auch das letzte Blatt. Bei dem Handwechsel (98r) wurden leere Blätter der Lage herausgeschnitten, was auf die lagenweise Aufteilung der Arbeit zwischen den Schreibern zeigt."
   },
   "25": {
     "id": 25,
@@ -1671,7 +1683,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-09-19",
+    "Last modified": "2025-10-15",
     "orig_date": [],
     "heigth": "180",
     "lines_number": "22-24",
@@ -1715,7 +1727,23 @@
         "value": "Freising"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 47,
+        "value": "Clm. 6392, Stratum 1",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 48,
+        "value": "Clm. 6392, Stratum 2",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 49,
+        "value": "Clm. 6392, Stratum 3",
+        "order": "45.00000000000000000000"
+      }
+    ],
     "ruling": "Einfache Liniirung, 24, dann 23 (ab Lage 5.) und 24 (ab Lage 6.) Zeile.",
     "material": {
       "id": 19338,
