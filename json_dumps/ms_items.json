@@ -5027,6 +5027,16 @@
         "id": 264,
         "value": "hit_hands_role__264",
         "order": "218.00000000000000000000"
+      },
+      {
+        "id": 265,
+        "value": "hit_hands_role__265",
+        "order": "219.00000000000000000000"
+      },
+      {
+        "id": 266,
+        "value": "hit_hands_role__266",
+        "order": "220.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -5054,6 +5064,20 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6392_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 14,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6392_H. 2"
+      },
+      {
+        "ids": {
+          "database_table_3487": 14,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6392_H. 3"
       }
     ],
     "decoration": [],
@@ -5111,6 +5135,11 @@
         "id": 264,
         "value": "hit_hands_role__264",
         "order": "218.00000000000000000000"
+      },
+      {
+        "id": 265,
+        "value": "hit_hands_role__265",
+        "order": "219.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -5138,6 +5167,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6392_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 14,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6392_H. 2"
       }
     ],
     "decoration": [],

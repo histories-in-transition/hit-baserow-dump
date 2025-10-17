@@ -14406,7 +14406,7 @@
         "value": "BSB, Clm. 6392_H. 1"
       }
     ],
-    "description": "Eine Gruppe der Schreiber, die abwechselnd wirken und gemeine Eigenschaften teilen. Unter die charakteristischen Buchstabenformen kann man rundes d, R für r, v mit einer Oberlänge, H und N mit der rechten Unterlänge. Die Schrift aller Hände ist reich an Ligaturen und Abkürzungen. Verkürzt sind sowohl Prefixen und Affixen (typische Minuskelabkürzungen für pro, prae, per, que, bus, us wird duch einem überschrieben Kringel ersetzt etc.), als auch ganze Wörter (q-Wörter, hic durch h mit überschriebenem i, vero durch v und o darüber, Formen von esse, wo ss oben stehen). Die Buchstaben s,n,a,i,u,o werden oft überschrieben. Ligaturen ct, st, or,  Auf der 55r schreibt eine Hand das Endteil des Textes in der Urkundenschrift.",
+    "description": "Eine Gruppe der Schreiber, die abwechselnd wirken und gemeine Eigenschaften teilen. Unter die charakteristischen Buchstabenformen kann man rundes d, R für r, v mit einer Oberlänge, H und N mit der rechten Unterlänge. Die Schrift aller Hände ist reich an Ligaturen und Abkürzungen. Verkürzt sind sowohl Prefixen und Affixen (typische Minuskelabkürzungen für pro, prae, per, que, bus, us wird duch einem überschrieben Kringel ersetzt etc.), als auch ganze Wörter (q-Wörter, hic durch h mit überschriebenem i, vero durch v und o darüber, Formen von esse, wo ss oben stehen). Die Buchstaben s,n,a,i,u,o werden oft überschrieben. Ligaturen ct, st, or, Auf der 55r schreibt eine Hand das Endteil des Textes in der Urkundenschrift.",
     "hit_id": "hit_hands__207",
     "similar_hands": [],
     "nr_daniel": "",
@@ -14428,7 +14428,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-09-30",
+    "Last modified": "2025-10-16",
     "hands_role": [
       {
         "id": 264,
@@ -14494,13 +14494,27 @@
   "208": {
     "id": 208,
     "order": "167.00000000000000000000",
-    "label": [],
-    "description": "",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 14,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6392_H. 2"
+      }
+    ],
+    "description": "Eine Hand, die im Urkundenstil schreibt. Die Oberlängen sind doppelt länger, r und s haben Unterlängen, v unterscheidet sich von u durch eine rechte Unterlänge. Die Hand benutzt Ligaturen ct, st, nt; Abkürzungen: qui durch eine überschriebene i,  con mit einem Strich, bus durch einen Punkt.",
     "hit_id": "hit_hands__208",
     "similar_hands": [],
     "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
+    "manuscript": [
+      {
+        "id": 14,
+        "value": "BSB, Clm. 6392",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "number": "2",
     "note": "",
     "Created by": {
       "id": 87,
@@ -14511,13 +14525,167 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-09-29",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "Last modified": "2025-10-16",
+    "hands_role": [
+      {
+        "id": 265,
+        "value": "hit_hands_role__265",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 265,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          },
+          {
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 53,
+          "database_table_3491": 53
+        },
+        "value": "Epitoma de Tito Livio"
+      },
+      {
+        "ids": {
+          "database_table_3489": 54,
+          "database_table_3491": 54
+        },
+        "value": "Periochae"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 171,
+        "value": "hit_hands_dated__171",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3520": 171
+        },
+        "value": "11 Jh."
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 110,
+        "value": "hit_hands_placed__110",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "209": {
+    "id": 209,
+    "order": "168.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 14,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6392_H. 3"
+      }
+    ],
+    "description": "Eine Hand, die Marginalien, meistens in Majuskel, schreibt. Die kurze Anschriften lassen die Hand nicht beschreiben und identifizieren, aber die Schaften der Buchstaben sehen dünner und schärfer aus als bei den Buchstaben der Haupthände.",
+    "hit_id": "hit_hands__209",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 14,
+        "value": "BSB, Clm. 6392",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "number": "3",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-10-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-10-16",
+    "hands_role": [
+      {
+        "id": 266,
+        "value": "hit_hands_role__266",
+        "order": "220.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 266,
+        "value": [
+          {
+            "id": 15376,
+            "value": "Kommentator",
+            "color": "darker-green"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 53,
+          "database_table_3491": 53
+        },
+        "value": "Epitoma de Tito Livio"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 172,
+        "value": "hit_hands_dated__172",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 13,
+          "database_table_3520": 172
+        },
+        "value": "11 Jh."
+      },
+      {
+        "ids": {
+          "database_table_3512": 36,
+          "database_table_3520": 172
+        },
+        "value": "12. Jh."
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 111,
+        "value": "hit_hands_placed__111",
+        "order": "79.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": []

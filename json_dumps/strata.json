@@ -4000,6 +4000,11 @@
         "id": 264,
         "value": "hit_hands_role__264",
         "order": "218.00000000000000000000"
+      },
+      {
+        "id": 265,
+        "value": "hit_hands_role__265",
+        "order": "219.00000000000000000000"
       }
     ],
     "ms_items": [
@@ -4016,9 +4021,31 @@
           "database_table_3491": 54
         },
         "value": "Periochae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 53,
+          "database_table_3491": 53
+        },
+        "value": "Epitoma de Tito Livio"
+      },
+      {
+        "ids": {
+          "database_table_3489": 54,
+          "database_table_3491": 54
+        },
+        "value": "Periochae"
       }
     ],
     "locus": [
+      {
+        "id": 53,
+        "value": "1r-50v"
+      },
+      {
+        "id": 54,
+        "value": "50v-55r"
+      },
       {
         "id": 53,
         "value": "1r-50v"
@@ -4077,9 +4104,28 @@
     ],
     "number": "3",
     "hit_id": "hit_strata__49",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
+    "hand_role": [
+      {
+        "id": 266,
+        "value": "hit_hands_role__266",
+        "order": "220.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 53,
+          "database_table_3491": 53
+        },
+        "value": "Epitoma de Tito Livio"
+      }
+    ],
+    "locus": [
+      {
+        "id": 53,
+        "value": "1r-50v"
+      }
+    ],
     "note": "Gliederung des Werkes mit den Winkeln beiseitig bzw. durch die Überschriften in Majuskel am Rand, die manche Ereignisse auszeichnen, wie Kriege oder Herrschaftszeiten Römischer Kaiser. Die Hand kann kaum identifiziert werden, sieht aber einbisschen anders aus als diejenige der Hauptschreiber.",
     "Created by": {
       "id": 87,
@@ -4189,7 +4235,7 @@
         "value": "1r-193v"
       }
     ],
-    "note": "Das Stratum besteht aus den Beiträgen zweier Schreiber, zwischen denen die Lagen aufgeteilt wurden. Die einzigen Marginalien, die noch aus dem Mittelalter stammen, enthalten die ausgelassenen Stücke und gehören wahrscheinlich auch den Hauptschreiber. Keine weitere Spuren der Bearbeitung des Textes sind hier zu sehen.",
+    "note": "Das Stratum besteht aus den Beiträgen zweier Schreiber, zwischen denen die Lagen aufgeteilt wurden. Die einzigen Marginalien, die noch aus dem Mittelalter stammen, enthalten die ausgelassenen Stücke und gehören wahrscheinlich auch den Hauptschreiber. Keine weitere Spuren der Bearbeitung des Textes, ausser ein Paar unidentifizierter Notae-Zeichen, sind hier zu sehen.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4199,7 +4245,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-10-15",
+    "Last modified": "2025-10-16",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [

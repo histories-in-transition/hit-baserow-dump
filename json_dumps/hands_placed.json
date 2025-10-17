@@ -2206,5 +2206,55 @@
       "id": 87,
       "name": "Ksenia Borisova"
     }
+  },
+  "110": {
+    "id": 110,
+    "order": "78.00000000000000000000",
+    "hit_id": "hit_hands_placed__110",
+    "hand": [
+      {
+        "id": 208,
+        "value": "BSB, Clm. 6392_H. 2",
+        "order": "167.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
+  },
+  "111": {
+    "id": 111,
+    "order": "79.00000000000000000000",
+    "hit_id": "hit_hands_placed__111",
+    "hand": [
+      {
+        "id": 209,
+        "value": "BSB, Clm. 6392_H. 3",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   }
 }
