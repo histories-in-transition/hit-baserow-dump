@@ -4561,5 +4561,44 @@
     "Last modified": "2025-10-16",
     "Created on": "2025-10-16",
     "note": ""
+  },
+  "173": {
+    "id": 173,
+    "order": "138.00000000000000000000",
+    "hit_id": "hit_hands_dated__173",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "73",
+    "dated": [
+      {
+        "id": 3,
+        "value": "9 Jh., Mitte",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 114,
+        "value": "BSB, Clm. 6382_H. 2",
+        "order": "106.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-10-20",
+    "Created on": "2025-10-20",
+    "note": ""
   }
 }

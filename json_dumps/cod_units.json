@@ -1060,7 +1060,7 @@
         "value": "BSB, Clm. 6382, cod. unit 1"
       }
     ],
-    "notes": "Inhaltlich zeigt die Kodikologische Einheit nahe Verwandschaft mit Reims und Laon.",
+    "notes": "Inhaltlich zeigt die Kodikologische Einheit eine nahe Verwandschaft mit Reims und Laon.",
     "hit_id": "hit_cod_unit__18",
     "locus": "1r-43v",
     "manuscript": [
@@ -1080,11 +1080,11 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-07-23",
+    "Last modified": "2025-10-20",
     "orig_date": [],
     "heigth": "240",
     "lines_number": "21",
-    "decorations": "",
+    "decorations": "Initiale sind rot gefärbt",
     "basic_structure": [
       {
         "id": 18145,
@@ -1173,12 +1173,18 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-07-23",
+    "Last modified": "2025-10-20",
     "orig_date": [],
     "heigth": "240",
     "lines_number": "29",
-    "decorations": "",
-    "basic_structure": [],
+    "decorations": "Einfache Flechtbandinitiale am Anfang der Kapiteln und Textstücke. Die feinsten Beispiele stellen die P (105v), Q (118v), A (135v), Q (146v) dar.",
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
     "written_width": "130",
     "written_height": "205",
     "width": "175",
@@ -1214,7 +1220,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "Lagenzahlung am Ende I-XV."
   },
   "20": {
     "id": 20,
