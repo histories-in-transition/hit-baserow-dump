@@ -110,5 +110,19 @@
     ],
     "version": "Die Periochae bilden mit der Klasse C der Epitomae eine Überlieferungseinheit",
     "hit_id": "hit_work_versions__40"
+  },
+  "73": {
+    "id": 73,
+    "order": "9.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 17,
+        "value": "Vita sancti Martini",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__73"
   }
 }
