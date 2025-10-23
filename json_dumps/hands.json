@@ -8415,9 +8415,22 @@
         "id": 84,
         "value": "hit_hands_dated__84",
         "order": "84.00000000000000000000"
+      },
+      {
+        "id": 176,
+        "value": "hit_hands_dated__176",
+        "order": "141.00000000000000000000"
       }
     ],
-    "dating": [],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 59,
+          "database_table_3520": 176
+        },
+        "value": "9 Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": [
       {
         "id": 22,
@@ -9685,7 +9698,7 @@
         "value": "BSB, Clm. 6382_H. 4"
       }
     ],
-    "description": "",
+    "description": "Mehrere, oft wechselnde Karolingische Hände, in deren Eigenschaften Bischoff einen Reimser Character sieht. Die Schrift aller Hände ist eine entwickelte Karolingische Minuskel mit typischen Abkürzungen (nomina sacra, Pronomina, die Formen von esse), schnell, oft nach rechts geneigt. Unter den Buchstabenformen sind auffällig: x mit einer linken Unterlänge, g entweder offen oder wie 8 aussehend, \\\nLigaturen: st, Nt, -li mit einer unterschriebenen i.\\\nAbkürzungen schliessen aut mit einem Strich für autem; -q mit einem Punkt für -que; b; für -bus; -e mit einem Strich für est; 2 für -tur; eine übergeschriebene Komma für -us ein. \\\nFür Fragezeichen stehen Schnörkel in unterschiedlichen Formen. \\\nAls Auszeichnungsschrift dient Rustica mit roten Flecken.",
     "hit_id": "hit_hands__120",
     "similar_hands": [],
     "nr_daniel": "",
@@ -9704,10 +9717,10 @@
     },
     "Created on": "2024-12-05",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-05",
+    "Last modified": "2025-10-22",
     "hands_role": [
       {
         "id": 150,
@@ -9813,8 +9826,22 @@
         "value": "De temporibus anni"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
+    "hands_dated": [
+      {
+        "id": 175,
+        "value": "hit_hands_dated__175",
+        "order": "140.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 59,
+          "database_table_3520": 175
+        },
+        "value": "9 Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": [],
     "scribe": [],
     "gruppe": false,
@@ -10727,8 +10754,22 @@
       }
     ],
     "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "hands_dated": [
+      {
+        "id": 174,
+        "value": "hit_hands_dated__174",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 58,
+          "database_table_3520": 174
+        },
+        "value": "8 Jh., Mitte"
+      }
+    ],
     "hands_placed": [],
     "scribe": [],
     "gruppe": false,

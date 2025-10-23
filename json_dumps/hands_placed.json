@@ -2256,5 +2256,18 @@
       "id": 87,
       "name": "Ksenia Borisova"
     }
+  },
+  "112": {
+    "id": 112,
+    "order": "80.00000000000000000000",
+    "hit_id": "hit_hands_placed__112",
+    "hand": [],
+    "authority": [],
+    "page": "",
+    "place": [],
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    }
   }
 }

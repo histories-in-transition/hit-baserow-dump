@@ -4600,5 +4600,143 @@
     "Last modified": "2025-10-20",
     "Created on": "2025-10-20",
     "note": ""
+  },
+  "174": {
+    "id": 174,
+    "order": "139.00000000000000000000",
+    "hit_id": "hit_hands_dated__174",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "73",
+    "dated": [
+      {
+        "id": 58,
+        "value": "8 Jh., Mitte",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 135,
+        "value": "BSB, Clm. 6382_H. 3",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-10-22",
+    "Created on": "2025-10-22",
+    "note": "unsichere Datierung der Korrekturen, eine Annahme von Bischoff"
+  },
+  "175": {
+    "id": 175,
+    "order": "140.00000000000000000000",
+    "hit_id": "hit_hands_dated__175",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "147",
+    "dated": [
+      {
+        "id": 59,
+        "value": "9 Jh., zweite Hälfte",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 120,
+        "value": "BSB, Clm. 6382_H. 4",
+        "order": "112.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-10-22",
+    "Created on": "2025-10-22",
+    "note": ""
+  },
+  "176": {
+    "id": 176,
+    "order": "141.00000000000000000000",
+    "hit_id": "hit_hands_dated__176",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "147",
+    "dated": [
+      {
+        "id": 59,
+        "value": "9 Jh., zweite Hälfte",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 97,
+        "value": "BSB, Clm. 6382_H. 5",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-10-22",
+    "Created on": "2025-10-22",
+    "note": ""
+  },
+  "177": {
+    "id": 177,
+    "order": "142.00000000000000000000",
+    "hit_id": "hit_hands_dated__177",
+    "authority": [],
+    "page": "",
+    "dated": [],
+    "hand": [],
+    "new_dating": false,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-10-22",
+    "Created on": "2025-10-22",
+    "note": ""
   }
 }
