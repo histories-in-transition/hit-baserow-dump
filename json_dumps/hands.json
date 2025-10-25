@@ -9698,7 +9698,7 @@
         "value": "BSB, Clm. 6382_H. 4"
       }
     ],
-    "description": "Mehrere, oft wechselnde Karolingische Hände, in deren Eigenschaften Bischoff einen Reimser Character sieht. Die Schrift aller Hände ist eine entwickelte Karolingische Minuskel mit typischen Abkürzungen (nomina sacra, Pronomina, die Formen von esse), schnell, oft nach rechts geneigt. Unter den Buchstabenformen sind auffällig: x mit einer linken Unterlänge, g entweder offen oder wie 8 aussehend, \\\nLigaturen: st, Nt, -li mit einer unterschriebenen i.\\\nAbkürzungen schliessen aut mit einem Strich für autem; -q mit einem Punkt für -que; b; für -bus; -e mit einem Strich für est; 2 für -tur; eine übergeschriebene Komma für -us ein. \\\nFür Fragezeichen stehen Schnörkel in unterschiedlichen Formen. \\\nAls Auszeichnungsschrift dient Rustica mit roten Flecken.",
+    "description": "Mehrere, oft wechselnde Karolingische Hände, in deren Eigenschaften Bischoff einen Reimser Character sieht. Die Schrift aller Hände ist eine entwickelte Karolingische Minuskel mit typischen Abkürzungen (nomina sacra, Pronomina, die Formen von esse), schnell, oft nach rechts geneigt. Unter den Buchstabenformen sind auffällig: x mit einer linken Unterlänge, g entweder offen oder wie 8 aussehend, \\\nLigaturen: st, Nt, -li mit einer unterschriebenen i.\\\nAbkürzungen schliessen aut mit einem Strich für autem; -q mit einem Punkt für -que; b; für -bus; -e mit einem Strich für est; 2 für -tur; eine übergeschriebene Komma für -us ein. \\\nFür Fragezeichen stehen Schnörkel in unterschiedlichen Formen. \\\nAls Auszeichnungsschrift dient Rustica mit roten Flecken.\n\nDie Marginalien zu Isidorus (Liber interrogatorius de differentiis rerum...) wurden wahrscheinlich von der Hand hinzugefügt, die auch das Griechische Alphabet eingetragen hat. Die Besonderheit dieser Hand ist eine runde d fast ohne obere Schaft.",
     "hit_id": "hit_hands__120",
     "similar_hands": [],
     "nr_daniel": "",
@@ -9720,7 +9720,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-10-22",
+    "Last modified": "2025-10-24",
     "hands_role": [
       {
         "id": 150,
@@ -9844,7 +9844,7 @@
     ],
     "hands_placed": [],
     "scribe": [],
-    "gruppe": false,
+    "gruppe": true,
     "author_entry": [
       {
         "id": 2,

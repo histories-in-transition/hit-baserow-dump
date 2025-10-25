@@ -1060,7 +1060,7 @@
         "value": "BSB, Clm. 6382, cod. unit 1"
       }
     ],
-    "notes": "Inhaltlich zeigt die Kodikologische Einheit eine nahe Verwandschaft mit Reims und Laon.",
+    "notes": "Inhaltlich zeigt die Kodikologische Einheit eine nahe Verwandschaft mit Reims und Laon. Die ornamentalen\nGriffelzeichnungen am unteren Rande von Bl. 27V könnten, laut Bischoff, ein Muster von\nkarolingischen Einbandstempeln sein (Süddeutsche Schreibschulen, I, S.147)",
     "hit_id": "hit_cod_unit__18",
     "locus": "1r-43v",
     "manuscript": [
@@ -1080,7 +1080,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-10-20",
+    "Last modified": "2025-10-24",
     "orig_date": [],
     "heigth": "240",
     "lines_number": "21",
@@ -1173,11 +1173,11 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-10-20",
+    "Last modified": "2025-10-24",
     "orig_date": [],
     "heigth": "240",
     "lines_number": "29",
-    "decorations": "Einfache Flechtbandinitiale am Anfang der Kapiteln und Textstücke. Die feinsten Beispiele stellen die P (105v), Q (118v), A (135v), Q (146v) dar.",
+    "decorations": "Einfache Flechtbandinitiale am Anfang der Kapiteln und Textstücke. Die feinsten Beispiele stellen die P (105v), Q (118v), A (135v), Q (146v) dar. Das grösste und feinste Initial kommt auf der Seite 75r vor.",
     "basic_structure": [
       {
         "id": 18145,
