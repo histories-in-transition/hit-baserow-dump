@@ -623,13 +623,7 @@
     "id": 22,
     "order": "22.00000000000000000000",
     "hit_id": "hit_hands_placed__22",
-    "hand": [
-      {
-        "id": 97,
-        "value": "BSB, Clm. 6382_H. 5",
-        "order": "89.00000000000000000000"
-      }
-    ],
+    "hand": [],
     "authority": [
       {
         "id": 3,

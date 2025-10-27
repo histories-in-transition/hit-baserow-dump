@@ -4264,5 +4264,157 @@
         "value": "BSB, Clm. 6391, cod. unit 1"
       }
     ]
+  },
+  "83": {
+    "id": 83,
+    "order": "47.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "Clm. 6382, Stratum 1"
+      }
+    ],
+    "character": [],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "hit_id": "hit_strata__83",
+    "hand_role": [],
+    "ms_items": [],
+    "locus": [],
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-10-26",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-10-26",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
+  },
+  "84": {
+    "id": 84,
+    "order": "48.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "Clm. 6382, Stratum 2"
+      }
+    ],
+    "character": [],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "hit_id": "hit_strata__84",
+    "hand_role": [],
+    "ms_items": [],
+    "locus": [],
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-10-26",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-10-26",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
+  },
+  "85": {
+    "id": 85,
+    "order": "49.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "Clm. 6382, Stratum 3"
+      }
+    ],
+    "character": [],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "number": "3",
+    "hit_id": "hit_strata__85",
+    "hand_role": [],
+    "ms_items": [],
+    "locus": [],
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-10-26",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-10-26",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
+  },
+  "86": {
+    "id": 86,
+    "order": "50.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "Clm. 6382, Stratum 4"
+      }
+    ],
+    "character": [],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "number": "4",
+    "hit_id": "hit_strata__86",
+    "hand_role": [],
+    "ms_items": [],
+    "locus": [],
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-10-26",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-10-26",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
   }
 }

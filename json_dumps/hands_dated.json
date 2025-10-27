@@ -2580,13 +2580,7 @@
     "authority": [],
     "page": "",
     "dated": [],
-    "hand": [
-      {
-        "id": 97,
-        "value": "BSB, Clm. 6382_H. 5",
-        "order": "89.00000000000000000000"
-      }
-    ],
+    "hand": [],
     "new_dating": false,
     "Created by": {
       "id": 87,
@@ -4698,13 +4692,7 @@
         "order": "59.00000000000000000000"
       }
     ],
-    "hand": [
-      {
-        "id": 97,
-        "value": "BSB, Clm. 6382_H. 5",
-        "order": "89.00000000000000000000"
-      }
-    ],
+    "hand": [],
     "new_dating": false,
     "Created by": {
       "id": 87,
