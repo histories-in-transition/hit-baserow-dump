@@ -8422,7 +8422,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-10-03",
-    "Last modified": "2025-10-26",
+    "Last modified": "2025-11-04",
     "locus_layout": [
       {
         "id": 15841,
@@ -8432,7 +8432,13 @@
     ],
     "function": [],
     "scribe_type": [],
-    "strata": []
+    "strata": [
+      {
+        "id": 86,
+        "value": "Clm. 6382, Stratum 4",
+        "order": "50.00000000000000000000"
+      }
+    ]
   },
   "150": {
     "id": 150,
@@ -8633,7 +8639,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-10-03",
-    "Last modified": "2025-03-13",
+    "Last modified": "2025-11-04",
     "locus_layout": [
       {
         "id": 15096,
@@ -8654,7 +8660,13 @@
       }
     ],
     "scribe_type": [],
-    "strata": []
+    "strata": [
+      {
+        "id": 86,
+        "value": "Clm. 6382, Stratum 4",
+        "order": "50.00000000000000000000"
+      }
+    ]
   },
   "151": {
     "id": 151,
@@ -8706,7 +8718,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-10-03",
-    "Last modified": "2025-03-13",
+    "Last modified": "2025-11-04",
     "locus_layout": [
       {
         "id": 15841,
@@ -8716,7 +8728,13 @@
     ],
     "function": [],
     "scribe_type": [],
-    "strata": []
+    "strata": [
+      {
+        "id": 85,
+        "value": "Clm. 6382, Stratum 3",
+        "order": "49.00000000000000000000"
+      }
+    ]
   },
   "152": {
     "id": 152,
@@ -8990,7 +9008,13 @@
     ],
     "function": [],
     "scribe_type": [],
-    "strata": []
+    "strata": [
+      {
+        "id": 83,
+        "value": "Clm. 6382, Stratum 1",
+        "order": "47.00000000000000000000"
+      }
+    ]
   },
   "156": {
     "id": 156,
@@ -10286,11 +10310,36 @@
         "order": "126.00000000000000000000"
       }
     ],
-    "ms_item": [],
-    "role": [],
+    "ms_item": [
+      {
+        "id": 46,
+        "value": "clm_6382__46",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 15373,
+        "value": "Korrektor",
+        "color": "darker-brown"
+      }
+    ],
     "locus": "",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 48,
+          "database_table_3491": 46
+        },
+        "value": "Moralia in Job"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 46,
+        "value": "45ra-172rb"
+      }
+    ],
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -10300,11 +10349,23 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-02-13",
-    "Last modified": "2025-03-13",
-    "locus_layout": [],
+    "Last modified": "2025-11-04",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
     "function": [],
     "scribe_type": [],
-    "strata": []
+    "strata": [
+      {
+        "id": 84,
+        "value": "Clm. 6382, Stratum 2",
+        "order": "48.00000000000000000000"
+      }
+    ]
   },
   "178": {
     "id": 178,

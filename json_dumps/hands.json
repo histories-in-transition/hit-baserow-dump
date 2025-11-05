@@ -10662,10 +10662,24 @@
     "role": [
       {
         "id": 177,
-        "value": []
+        "value": [
+          {
+            "id": 15373,
+            "value": "Korrektor",
+            "color": "darker-brown"
+          }
+        ]
       }
     ],
-    "texts": [],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 48,
+          "database_table_3491": 46
+        },
+        "value": "Moralia in Job"
+      }
+    ],
     "hands_dated": [
       {
         "id": 174,

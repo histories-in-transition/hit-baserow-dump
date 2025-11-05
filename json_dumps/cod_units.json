@@ -1080,7 +1080,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-10-24",
+    "Last modified": "2025-11-04",
     "orig_date": [],
     "heigth": "240",
     "lines_number": "21",
@@ -1130,7 +1130,13 @@
         "value": "Reims"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 86,
+        "value": "Clm. 6382, Stratum 4",
+        "order": "50.00000000000000000000"
+      }
+    ],
     "ruling": "Einfache vertikale und horizontale Liniirung von beiden Seiten.",
     "material": {
       "id": 19338,
@@ -1173,11 +1179,11 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-10-24",
+    "Last modified": "2025-11-04",
     "orig_date": [],
     "heigth": "240",
     "lines_number": "29",
-    "decorations": "Einfache Flechtbandinitiale am Anfang der Kapiteln und Textstücke. Die feinsten Beispiele stellen die P (105v), Q (118v), A (135v), Q (146v) dar. Das grösste und feinste Initial kommt auf der Seite 75r vor.",
+    "decorations": "Einfache Flechtbandinitiale am Anfang der Kapiteln und Textstücke. Die feinsten Beispiele stellen die P (105v), Q (118v), A (135v), Q (146v) dar. Die grössten und feinsten, doch generell ziemlich grob gezeichneten Initiale kommen auf den Seiten 45r und 75r vor.",
     "basic_structure": [
       {
         "id": 18145,
@@ -1211,7 +1217,23 @@
         "value": "Freising"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 83,
+        "value": "Clm. 6382, Stratum 1",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 84,
+        "value": "Clm. 6382, Stratum 2",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 85,
+        "value": "Clm. 6382, Stratum 3",
+        "order": "49.00000000000000000000"
+      }
+    ],
     "ruling": "Doppelliniirung rechts von den beiden Spalten",
     "material": {
       "id": 19338,

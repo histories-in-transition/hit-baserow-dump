@@ -4274,7 +4274,13 @@
         "value": "Clm. 6382, Stratum 1"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
     "manuscript": [
       {
         "id": 10,
@@ -4284,10 +4290,29 @@
     ],
     "number": "1",
     "hit_id": "hit_strata__83",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
-    "note": "",
+    "hand_role": [
+      {
+        "id": 155,
+        "value": "hit_hands_role__155",
+        "order": "141.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 48,
+          "database_table_3491": 46
+        },
+        "value": "Moralia in Job"
+      }
+    ],
+    "locus": [
+      {
+        "id": 46,
+        "value": "45ra-172rb"
+      }
+    ],
+    "note": "Das Stratum ergibt sich aus dem Werk einer vorkarolingischen Hand. Das Stratum steht textuell nah zu dem Job-Text in Clm 6297 (geschrieben von Peregrinus) dadurch, dass entweder die beiden auf eine gemeine Vorlage zurückgehen oder das Stratum aus der Clm 6382 dem Peregrinus-Codex als Vorlage diente.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4297,11 +4322,25 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-10-26",
+    "Last modified": "2025-11-04",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6382, cod. unit 2",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382, cod. unit 2"
+      }
+    ]
   },
   "84": {
     "id": 84,
@@ -4312,7 +4351,13 @@
         "value": "Clm. 6382, Stratum 2"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
+      }
+    ],
     "manuscript": [
       {
         "id": 10,
@@ -4322,10 +4367,29 @@
     ],
     "number": "2",
     "hit_id": "hit_strata__84",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
-    "note": "",
+    "hand_role": [
+      {
+        "id": 177,
+        "value": "hit_hands_role__177",
+        "order": "163.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 48,
+          "database_table_3491": 46
+        },
+        "value": "Moralia in Job"
+      }
+    ],
+    "locus": [
+      {
+        "id": 46,
+        "value": "45ra-172rb"
+      }
+    ],
+    "note": "Die spärlichen Korrekturen des Textes stammen von einer - laut Bischoff - angelsächsichen Hand, die den Text demnächst verbessert.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4335,11 +4399,25 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-10-26",
+    "Last modified": "2025-11-04",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6382, cod. unit 2",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382, cod. unit 2"
+      }
+    ]
   },
   "85": {
     "id": 85,
@@ -4350,7 +4428,13 @@
         "value": "Clm. 6382, Stratum 3"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
     "manuscript": [
       {
         "id": 10,
@@ -4360,10 +4444,29 @@
     ],
     "number": "3",
     "hit_id": "hit_strata__85",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
-    "note": "",
+    "hand_role": [
+      {
+        "id": 151,
+        "value": "hit_hands_role__151",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 64,
+          "database_table_3491": 44
+        },
+        "value": "Epistola de reliquiis sancti Bartholomaei apostoli nuper in Baioariam allatis"
+      }
+    ],
+    "locus": [
+      {
+        "id": 44,
+        "value": "44r"
+      }
+    ],
+    "note": "Das Stratum stellt sich einen Nachtrag der Mitte des IX Jh. dar, dafür wurde ein leer gebliebenes und als ein Umschlag gedientes Blatt benutzt. Auf dem Blatt wurde",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4373,11 +4476,25 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-10-26",
+    "Last modified": "2025-11-04",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6382, cod. unit 2",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382, cod. unit 2"
+      }
+    ]
   },
   "86": {
     "id": 86,
@@ -4388,7 +4505,13 @@
         "value": "Clm. 6382, Stratum 4"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
     "manuscript": [
       {
         "id": 10,
@@ -4398,10 +4521,243 @@
     ],
     "number": "4",
     "hit_id": "hit_strata__86",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
-    "note": "",
+    "hand_role": [
+      {
+        "id": 148,
+        "value": "hit_hands_role__148",
+        "order": "134.00000000000000000000"
+      },
+      {
+        "id": 150,
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 41,
+          "database_table_3491": 34
+        },
+        "value": "Vita sanctae Euphrosinae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 42,
+          "database_table_3491": 35
+        },
+        "value": "Synonyma"
+      },
+      {
+        "ids": {
+          "database_table_3489": 43,
+          "database_table_3491": 38
+        },
+        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 45,
+          "database_table_3491": 39
+        },
+        "value": "Breviarium apostolorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 46,
+          "database_table_3491": 36
+        },
+        "value": "Concordia testimoniorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 47,
+          "database_table_3491": 37
+        },
+        "value": "De unitate sanctae trinitatis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 52,
+          "database_table_3491": 40
+        },
+        "value": "Revelatio Esdrae de qualitatibus anni"
+      },
+      {
+        "ids": {
+          "database_table_3489": 62,
+          "database_table_3491": 42
+        },
+        "value": "De somnis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 63,
+          "database_table_3491": 43
+        },
+        "value": "Capitulare evangeliorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 147,
+          "database_table_3491": 41
+        },
+        "value": "De temporibus anni"
+      },
+      {
+        "ids": {
+          "database_table_3489": 41,
+          "database_table_3491": 34
+        },
+        "value": "Vita sanctae Euphrosinae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 42,
+          "database_table_3491": 35
+        },
+        "value": "Synonyma"
+      },
+      {
+        "ids": {
+          "database_table_3489": 43,
+          "database_table_3491": 38
+        },
+        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 45,
+          "database_table_3491": 39
+        },
+        "value": "Breviarium apostolorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 46,
+          "database_table_3491": 36
+        },
+        "value": "Concordia testimoniorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 47,
+          "database_table_3491": 37
+        },
+        "value": "De unitate sanctae trinitatis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 52,
+          "database_table_3491": 40
+        },
+        "value": "Revelatio Esdrae de qualitatibus anni"
+      },
+      {
+        "ids": {
+          "database_table_3489": 62,
+          "database_table_3491": 42
+        },
+        "value": "De somnis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 63,
+          "database_table_3491": 43
+        },
+        "value": "Capitulare evangeliorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 147,
+          "database_table_3491": 41
+        },
+        "value": "De temporibus anni"
+      }
+    ],
+    "locus": [
+      {
+        "id": 34,
+        "value": "1r-7r"
+      },
+      {
+        "id": 35,
+        "value": "7r-9v"
+      },
+      {
+        "id": 36,
+        "value": "10r-20v"
+      },
+      {
+        "id": 37,
+        "value": "20v-23v"
+      },
+      {
+        "id": 38,
+        "value": "23v-41r"
+      },
+      {
+        "id": 39,
+        "value": "41v-42v"
+      },
+      {
+        "id": 40,
+        "value": "42v"
+      },
+      {
+        "id": 41,
+        "value": "42v"
+      },
+      {
+        "id": 42,
+        "value": "42v-43r"
+      },
+      {
+        "id": 43,
+        "value": "43v"
+      },
+      {
+        "id": 34,
+        "value": "1r-7r"
+      },
+      {
+        "id": 35,
+        "value": "7r-9v"
+      },
+      {
+        "id": 36,
+        "value": "10r-20v"
+      },
+      {
+        "id": 37,
+        "value": "20v-23v"
+      },
+      {
+        "id": 38,
+        "value": "23v-41r"
+      },
+      {
+        "id": 39,
+        "value": "41v-42v"
+      },
+      {
+        "id": 40,
+        "value": "42v"
+      },
+      {
+        "id": 41,
+        "value": "42v"
+      },
+      {
+        "id": 42,
+        "value": "42v-43r"
+      },
+      {
+        "id": 43,
+        "value": "43v"
+      }
+    ],
+    "note": "Das Stratum umfasst die Beiträgen von mehreren Händen.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4411,7 +4767,65 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-10-26",
+    "Last modified": "2025-11-04",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [
+      {
+        "id": 18,
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382, cod. unit 1"
+      }
+    ]
+  },
+  "87": {
+    "id": 87,
+    "order": "51.00000000000000000000",
+    "label": [
+      {
+        "id": 10,
+        "value": "Clm. 6382, Stratum 5"
+      }
+    ],
+    "character": [
+      {
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6382",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "number": "5",
+    "hit_id": "hit_strata__87",
+    "hand_role": [],
+    "ms_items": [],
+    "locus": [],
+    "note": "In der ersten kodikologischen Einheit der Clm 6382 kommen oft die Marginalien vor, darunter einige als Kommentare, die anderen als Gliederungen des Textes zu betrachten sind. Die Schrift der Marginalien lässt vermuten, dass sie von manchen der Hauptschreiber stammen, vor allem des Schreibers des griechischen Alphabets. Detalliert sehen die Marginalien folgenderweise aus. Im Isidorus-Text wurden mal die Fragen am Rand wiederholt, mal die Themen der Fragen bezeichnet, so dass die Antworten schnell zu finden sind. Diese kommen wahrscheinlich von zwei Händen.  Die Marginalien zum Breviarium apostolorum sind von anderer Art. Hier wurden am Rand die Namen der zwölf Edelsteine geschrieben, die den Namen der Aposteln entsprechen (der Tradition des Exodus folgend, die zwölf Edelsteine mit den zwölf Stämmen Israels zusammenbringt).",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-11-04",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-11-04",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [],

@@ -4338,6 +4338,11 @@
         "id": 155,
         "value": "hit_hands_role__155",
         "order": "141.00000000000000000000"
+      },
+      {
+        "id": 177,
+        "value": "hit_hands_role__177",
+        "order": "163.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -4365,6 +4370,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6382_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382_H. 3"
       }
     ],
     "decoration": [],
