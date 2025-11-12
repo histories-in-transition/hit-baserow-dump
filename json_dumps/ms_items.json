@@ -2830,11 +2830,6 @@
         "id": 217,
         "value": "hit_hands_role__217",
         "order": "203.00000000000000000000"
-      },
-      {
-        "id": 218,
-        "value": "hit_hands_role__218",
-        "order": "204.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -2876,13 +2871,6 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6376_H. 3"
-      },
-      {
-        "ids": {
-          "database_table_3487": 16,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6376_H. 4"
       }
     ],
     "decoration": [],
