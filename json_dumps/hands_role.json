@@ -13177,7 +13177,13 @@
       }
     ],
     "scribe_type": [],
-    "strata": []
+    "strata": [
+      {
+        "id": 89,
+        "value": "Clm. 6376, Stratum 2",
+        "order": "53.00000000000000000000"
+      }
+    ]
   },
   "217": {
     "id": 217,
@@ -13209,7 +13215,7 @@
         "color": "darker-green"
       }
     ],
-    "locus": "",
+    "locus": "10v, 12v, 13v, 14v, 49v, 67v, 74v, 82v, 92v, 160v",
     "text": [
       {
         "ids": {
@@ -13234,23 +13240,40 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-06-12",
-    "Last modified": "2025-11-11",
+    "Last modified": "2025-11-12",
     "locus_layout": [
       {
         "id": 15380,
         "value": "beidseitig",
         "color": "darker-orange"
+      },
+      {
+        "id": 15382,
+        "value": "marginal unten",
+        "color": "cyan"
       }
     ],
     "function": [
       {
-        "id": 18155,
-        "value": "konzeptbezogen",
-        "color": "darker-brown"
+        "id": 15836,
+        "value": "inhaltsbezogen",
+        "color": "darker-orange"
       }
     ],
-    "scribe_type": [],
-    "strata": []
+    "scribe_type": [
+      {
+        "id": 18169,
+        "value": "Kommentar",
+        "color": "green"
+      }
+    ],
+    "strata": [
+      {
+        "id": 90,
+        "value": "Clm. 6376, Stratum 3",
+        "order": "54.00000000000000000000"
+      }
+    ]
   },
   "219": {
     "id": 219,

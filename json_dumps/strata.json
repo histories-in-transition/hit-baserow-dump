@@ -4840,7 +4840,13 @@
         "value": "Clm. 6376, Stratum 1"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
     "manuscript": [
       {
         "id": 16,
@@ -4882,11 +4888,25 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-11",
+    "Last modified": "2025-11-12",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 28,
+        "value": "BSB, Clm. 6376, cod. unit 1",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 16,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6376, cod. unit 1"
+      }
+    ]
   },
   "89": {
     "id": 89,
@@ -4897,7 +4917,13 @@
         "value": "Clm. 6376, Stratum 2"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
     "manuscript": [
       {
         "id": 16,
@@ -4907,9 +4933,28 @@
     ],
     "number": "2",
     "hit_id": "hit_strata__89",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
+    "hand_role": [
+      {
+        "id": 216,
+        "value": "hit_hands_role__216",
+        "order": "202.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 27,
+          "database_table_3491": 30
+        },
+        "value": "Historia tripartita ab Epiphanio scholastico translata"
+      }
+    ],
+    "locus": [
+      {
+        "id": 30,
+        "value": "Iv-213r"
+      }
+    ],
     "note": "",
     "Created by": {
       "id": 87,
@@ -4920,11 +4965,25 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-11",
+    "Last modified": "2025-11-12",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 28,
+        "value": "BSB, Clm. 6376, cod. unit 1",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 16,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6376, cod. unit 1"
+      }
+    ]
   },
   "90": {
     "id": 90,
@@ -4935,7 +4994,13 @@
         "value": "Clm. 6376, Stratum 3"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
+      }
+    ],
     "manuscript": [
       {
         "id": 16,
@@ -4945,10 +5010,29 @@
     ],
     "number": "3",
     "hit_id": "hit_strata__90",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
-    "note": "",
+    "hand_role": [
+      {
+        "id": 217,
+        "value": "hit_hands_role__217",
+        "order": "203.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 27,
+          "database_table_3491": 30
+        },
+        "value": "Historia tripartita ab Epiphanio scholastico translata"
+      }
+    ],
+    "locus": [
+      {
+        "id": 30,
+        "value": "Iv-213r"
+      }
+    ],
+    "note": "Die Marginalien dienen zur Auszeichnung einzelner Epioden, Gliederung des Textes, Korrekturen und Erläuterungen. Auf der Seite 67v wurde von der Hand eine Bearbeitung von dem Kapitelverzeichnis untegenommen.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4958,10 +5042,24 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-11",
+    "Last modified": "2025-11-12",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 28,
+        "value": "BSB, Clm. 6376, cod. unit 1",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 16,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6376, cod. unit 1"
+      }
+    ]
   }
 }

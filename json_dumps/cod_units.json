@@ -2014,10 +2014,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-11-12",
     "orig_date": [],
     "heigth": "330",
     "lines_number": "31",
@@ -2068,7 +2068,23 @@
         "value": "St. Emmeram"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 88,
+        "value": "Clm. 6376, Stratum 1",
+        "order": "52.00000000000000000000"
+      },
+      {
+        "id": 89,
+        "value": "Clm. 6376, Stratum 2",
+        "order": "53.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "Clm. 6376, Stratum 3",
+        "order": "54.00000000000000000000"
+      }
+    ],
     "ruling": null,
     "material": {
       "id": 19338,

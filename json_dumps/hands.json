@@ -12784,7 +12784,7 @@
         "value": "BSB, Clm. 6376_H. 1"
       }
     ],
-    "description": "Die Haupthand der Handschrift, die nur für ein paar Seiten (116-117) unterbrochen wurde. B.Bischoff weist auch auf einen Handwechsel auf der f. 216r (210r) Z. 29-31 hin, wahrscheinlich weil es da eine sehr auffällige Buchstabe z mit zwei Haken vorkommt. Eine solche z sieht man aber auch sehr selten an anderen Stellen, sonst wird eine übliche karolingische z vewendet. Ansonsten sieht die Schrift der f. 126r  gleich aus und ich würde hier vermuten, dass die Hand zwei Varianten von z kennt oder dass sie durch die Schrift der Vorlage beeinflusst wurde. \\\nDie Eigenschaften der Schrift umfassen mehrere Ligaturen und zahlreiche Verkürzungen: Ligaturen st, ct, li, ri, rt, os mit obergeschrieben s, et; verkürzt werden Prefixe und Suffixe  prae, per, pro, rum, que; Abkürzungen schliessen die Formen von esse, q-Wörter, die nomina sacra, Wörter wie imperator, episcopus, ein. Als syntaktischen Zeichen werden einen Punkt und einen Semikolon benutzt.",
+    "description": "Die Haupthand der Handschrift, die nur für ein paar Seiten (116-117) unterbrochen wurde. B.Bischoff weist auch auf einen Handwechsel auf der f. 216r (210r) Z. 29-31 hin, wahrscheinlich weil es da eine sehr auffällige Buchstabe z mit zwei Haken vorkommt. Eine solche z sieht man aber auch sehr selten an anderen Stellen, sonst wird eine übliche karolingische z vewendet. Ansonsten sieht die Schrift der f. 126r gleich aus und ich würde hier vermuten, dass die Hand zwei Varianten von z kennt oder dass sie durch die Schrift der Vorlage beeinflusst wurde. \\\nDie Eigenschaften der Schrift umfassen mehrere Ligaturen und zahlreiche Verkürzungen: Ligaturen st, ct, li, ri, rt, os mit obergeschrieben s, et; verkürzt werden Prefixe und Suffixe prae, per, pro, rum, que; Abkürzungen schliessen die Formen von esse, q-Wörter, die nomina sacra, Wörter wie imperator, episcopus, ein. Als syntaktischen Zeichen werden einen Punkt und einen Semikolon benutzt. Eine typische für St. Emmeran Verkürzung  - orum durch or-Ligatur mit einem Kreuzstrich und einem Punkt - wird hier oft gebraucht.",
     "hit_id": "hit_hands__157",
     "similar_hands": [],
     "nr_daniel": "",
@@ -12806,7 +12806,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-11",
+    "Last modified": "2025-11-12",
     "hands_role": [
       {
         "id": 215,
@@ -12874,7 +12874,7 @@
         "value": "BSB, Clm. 6376_H. 2"
       }
     ],
-    "description": "",
+    "description": "Ein kleines Stück wurde von einer sehr ähnlichen Hand eingetragen. Bischoff weist aber auf eine \"unter die Zeile reichende\" r. Sont teilt die Hand die Eigenschaften der Haupthand, sieht aber einbisschen ungleicher und grober aus, manche Fehler treten auf. Keine Bearbeitung des Textes ist aber zu finden. Wenn es hier wirklich um eine andere Hand handelt, könnte man vermuten, dass der Hauptschreiber einen Schlüler sich probieren liess.",
     "hit_id": "hit_hands__158",
     "similar_hands": [],
     "nr_daniel": "",
@@ -12896,7 +12896,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-12",
+    "Last modified": "2025-11-12",
     "hands_role": [
       {
         "id": 216,
@@ -12964,7 +12964,7 @@
         "value": "BSB, Clm. 6376_H. 3"
       }
     ],
-    "description": "",
+    "description": "Eine Hand (oder zwei Hände), die Marginalien schreibt. Die Schrift ist meistens ungerade, manchmal zeigt sich die Feder nicht genug geschärft. Die Hand benutzt Uncial und Minuskel. Unter den Eigenschaften sind eine cc-a und besondere Ligaturen (ro, rt) zu nennen.",
     "hit_id": "hit_hands__159",
     "similar_hands": [],
     "nr_daniel": "",
@@ -12986,7 +12986,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-12",
+    "Last modified": "2025-11-12",
     "hands_role": [
       {
         "id": 217,
@@ -13022,16 +13022,16 @@
     ],
     "hands_dated": [
       {
-        "id": 122,
-        "value": "hit_hands_dated__122",
-        "order": "119.00000000000000000000"
+        "id": 123,
+        "value": "hit_hands_dated__123",
+        "order": "120.00000000000000000000"
       }
     ],
     "dating": [
       {
         "ids": {
           "database_table_3512": 6,
-          "database_table_3520": 122
+          "database_table_3520": 123
         },
         "value": "9 Jh., erste Hälfte"
       }
