@@ -12856,6 +12856,11 @@
         "id": 57,
         "value": "hit_hands_placed__57",
         "order": "57.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "hit_hands_placed__112",
+        "order": "80.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -12946,6 +12951,11 @@
         "id": 57,
         "value": "hit_hands_placed__57",
         "order": "57.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "hit_hands_placed__112",
+        "order": "80.00000000000000000000"
       }
     ],
     "scribe": [],
@@ -12964,7 +12974,7 @@
         "value": "BSB, Clm. 6376_H. 3"
       }
     ],
-    "description": "Eine Hand (oder zwei Hände), die Marginalien schreibt. Die Schrift ist meistens ungerade, manchmal zeigt sich die Feder nicht genug geschärft. Die Hand benutzt Uncial und Minuskel. Unter den Eigenschaften sind eine cc-a und besondere Ligaturen (ro, rt) zu nennen.",
+    "description": "Eine Hand, die Marginalien schreibt und Korrekturen einträgt. Die Schrift ist meistens ungerade, manchmal zeigt sich die Feder nicht genug geschärft. Die Hand benutzt Uncial und Minuskel. Unter den Eigenschaften sind eine cc-a und besondere Ligaturen (ro, rt) zu nennen. Bischoff sieht in dieser Hand dieselbe Hand aus Salzburg, die 1r-7v in Clm 15813 geschrieben hat.",
     "hit_id": "hit_hands__159",
     "similar_hands": [],
     "nr_daniel": "",
@@ -12986,7 +12996,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-12",
+    "Last modified": "2025-11-13",
     "hands_role": [
       {
         "id": 217,
@@ -13041,6 +13051,11 @@
         "id": 57,
         "value": "hit_hands_placed__57",
         "order": "57.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "hit_hands_placed__113",
+        "order": "81.00000000000000000000"
       }
     ],
     "scribe": [],

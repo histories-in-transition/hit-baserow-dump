@@ -4878,7 +4878,7 @@
         "value": "Iv-213r"
       }
     ],
-    "note": "",
+    "note": "Hauptstratum, von zwei Händen geschaffen. Eine Handschrift enthält nur einen Text, mit Korrekturen, teilweisen von den  schreibenden Händen. Keine Spuren der Bearbeitung des Textes sind vorhanden.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4888,84 +4888,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-12",
-    "strata_filiation": [],
-    "note_filiation": "",
-    "cod_units": [
-      {
-        "id": 28,
-        "value": "BSB, Clm. 6376, cod. unit 1",
-        "order": "26.00000000000000000000"
-      }
-    ],
-    "cod_unit": [
-      {
-        "ids": {
-          "database_table_3487": 16,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6376, cod. unit 1"
-      }
-    ]
-  },
-  "89": {
-    "id": 89,
-    "order": "53.00000000000000000000",
-    "label": [
-      {
-        "id": 16,
-        "value": "Clm. 6376, Stratum 2"
-      }
-    ],
-    "character": [
-      {
-        "id": 15900,
-        "value": "Anlage",
-        "color": "gray"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 16,
-        "value": "BSB, Clm. 6376",
-        "order": "15.00000000000000000000"
-      }
-    ],
-    "number": "2",
-    "hit_id": "hit_strata__89",
-    "hand_role": [
-      {
-        "id": 216,
-        "value": "hit_hands_role__216",
-        "order": "202.00000000000000000000"
-      }
-    ],
-    "ms_items": [
-      {
-        "ids": {
-          "database_table_3489": 27,
-          "database_table_3491": 30
-        },
-        "value": "Historia tripartita ab Epiphanio scholastico translata"
-      }
-    ],
-    "locus": [
-      {
-        "id": 30,
-        "value": "Iv-213r"
-      }
-    ],
-    "note": "",
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2025-11-11",
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Last modified": "2025-11-12",
+    "Last modified": "2025-11-13",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [
@@ -4991,7 +4914,7 @@
     "label": [
       {
         "id": 16,
-        "value": "Clm. 6376, Stratum 3"
+        "value": "Clm. 6376, Stratum 2"
       }
     ],
     "character": [
@@ -5008,7 +4931,7 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "number": "3",
+    "number": "2",
     "hit_id": "hit_strata__90",
     "hand_role": [
       {
@@ -5042,7 +4965,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-12",
+    "Last modified": "2025-11-13",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [

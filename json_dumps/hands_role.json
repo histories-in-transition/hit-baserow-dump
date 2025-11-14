@@ -13177,13 +13177,7 @@
       }
     ],
     "scribe_type": [],
-    "strata": [
-      {
-        "id": 89,
-        "value": "Clm. 6376, Stratum 2",
-        "order": "53.00000000000000000000"
-      }
-    ]
+    "strata": []
   },
   "217": {
     "id": 217,
@@ -13270,7 +13264,7 @@
     "strata": [
       {
         "id": 90,
-        "value": "Clm. 6376, Stratum 3",
+        "value": "Clm. 6376, Stratum 2",
         "order": "54.00000000000000000000"
       }
     ]
