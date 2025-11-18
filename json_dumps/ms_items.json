@@ -8547,7 +8547,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-04-02",
+    "Last modified": "2025-11-17",
     "Created on": "2024-07-30",
     "Created by": {
       "id": 86,
@@ -8592,7 +8592,13 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": [],
+    "text_modification": [
+      {
+        "id": 19334,
+        "value": "Auslassung",
+        "color": "orange"
+      }
+    ],
     "language": [
       {
         "id": 19677,
@@ -9139,7 +9145,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "Last modified": "2025-04-01",
+    "Last modified": "2025-11-17",
     "Created on": "2024-07-30",
     "Created by": {
       "id": 86,
@@ -9178,7 +9184,13 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": [],
+    "text_modification": [
+      {
+        "id": 19670,
+        "value": "Umgestaltung",
+        "color": "darker-red"
+      }
+    ],
     "language": [
       {
         "id": 19677,
@@ -10694,7 +10706,7 @@
         "order": "44.00000000000000000000"
       }
     ],
-    "Last modified": "2025-05-28",
+    "Last modified": "2025-11-17",
     "Created on": "2024-07-28",
     "Created by": {
       "id": 86,
@@ -10787,7 +10799,13 @@
     "columns": [],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": [],
+    "text_modification": [
+      {
+        "id": 18976,
+        "value": "Ergänzung",
+        "color": "blue"
+      }
+    ],
     "language": [
       {
         "id": 19677,

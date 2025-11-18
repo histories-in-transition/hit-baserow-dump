@@ -1045,8 +1045,22 @@
     "Last modified": "2025-06-03",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ]
   },
   "6": {
     "id": 6,
@@ -2079,8 +2093,22 @@
     "Last modified": "2025-07-10",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6380, cod. unit 1",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 7,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6380, cod. unit 1"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -2117,8 +2145,22 @@
     "Last modified": "2024-11-13",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 20,
+        "value": "BSB, Clm. 6383, cod. unit 1",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 11,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6383, cod. unit 1"
+      }
+    ]
   },
   "23": {
     "id": 23,
@@ -2174,8 +2216,22 @@
     "Last modified": "2025-02-12",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6388, cod. unit 2",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 2"
+      }
+    ]
   },
   "24": {
     "id": 24,
@@ -2231,8 +2287,22 @@
     "Last modified": "2025-03-11",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6388, cod. unit 2",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 2"
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -2803,8 +2873,22 @@
     "Last modified": "2025-03-11",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6388, cod. unit 1",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 1"
+      }
+    ]
   },
   "32": {
     "id": 32,
@@ -2866,8 +2950,22 @@
     "Last modified": "2025-03-11",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6388, cod. unit 3",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 3"
+      }
+    ]
   },
   "33": {
     "id": 33,
@@ -2929,8 +3027,22 @@
     "Last modified": "2025-03-11",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 9,
+        "value": "BSB, Clm. 6388, cod. unit 3",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 12,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6388, cod. unit 3"
+      }
+    ]
   },
   "34": {
     "id": 34,
@@ -4526,84 +4638,9 @@
         "id": 148,
         "value": "hit_hands_role__148",
         "order": "134.00000000000000000000"
-      },
-      {
-        "id": 150,
-        "value": "hit_hands_role__150",
-        "order": "136.00000000000000000000"
       }
     ],
     "ms_items": [
-      {
-        "ids": {
-          "database_table_3489": 41,
-          "database_table_3491": 34
-        },
-        "value": "Vita sanctae Euphrosinae"
-      },
-      {
-        "ids": {
-          "database_table_3489": 42,
-          "database_table_3491": 35
-        },
-        "value": "Synonyma"
-      },
-      {
-        "ids": {
-          "database_table_3489": 43,
-          "database_table_3491": 38
-        },
-        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
-      },
-      {
-        "ids": {
-          "database_table_3489": 45,
-          "database_table_3491": 39
-        },
-        "value": "Breviarium apostolorum"
-      },
-      {
-        "ids": {
-          "database_table_3489": 46,
-          "database_table_3491": 36
-        },
-        "value": "Concordia testimoniorum"
-      },
-      {
-        "ids": {
-          "database_table_3489": 47,
-          "database_table_3491": 37
-        },
-        "value": "De unitate sanctae trinitatis"
-      },
-      {
-        "ids": {
-          "database_table_3489": 52,
-          "database_table_3491": 40
-        },
-        "value": "Revelatio Esdrae de qualitatibus anni"
-      },
-      {
-        "ids": {
-          "database_table_3489": 62,
-          "database_table_3491": 42
-        },
-        "value": "De somnis"
-      },
-      {
-        "ids": {
-          "database_table_3489": 63,
-          "database_table_3491": 43
-        },
-        "value": "Capitulare evangeliorum"
-      },
-      {
-        "ids": {
-          "database_table_3489": 147,
-          "database_table_3491": 41
-        },
-        "value": "De temporibus anni"
-      },
       {
         "ids": {
           "database_table_3489": 41,
@@ -4715,46 +4752,6 @@
       {
         "id": 43,
         "value": "43v"
-      },
-      {
-        "id": 34,
-        "value": "1r-7r"
-      },
-      {
-        "id": 35,
-        "value": "7r-9v"
-      },
-      {
-        "id": 36,
-        "value": "10r-20v"
-      },
-      {
-        "id": 37,
-        "value": "20v-23v"
-      },
-      {
-        "id": 38,
-        "value": "23v-41r"
-      },
-      {
-        "id": 39,
-        "value": "41v-42v"
-      },
-      {
-        "id": 40,
-        "value": "42v"
-      },
-      {
-        "id": 41,
-        "value": "42v"
-      },
-      {
-        "id": 42,
-        "value": "42v-43r"
-      },
-      {
-        "id": 43,
-        "value": "43v"
       }
     ],
     "note": "Das Stratum umfasst die Beiträgen von mehreren Händen.",
@@ -4767,7 +4764,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-04",
+    "Last modified": "2025-11-17",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [
@@ -4812,9 +4809,127 @@
     ],
     "number": "5",
     "hit_id": "hit_strata__87",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
+    "hand_role": [
+      {
+        "id": 150,
+        "value": "hit_hands_role__150",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 41,
+          "database_table_3491": 34
+        },
+        "value": "Vita sanctae Euphrosinae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 42,
+          "database_table_3491": 35
+        },
+        "value": "Synonyma"
+      },
+      {
+        "ids": {
+          "database_table_3489": 43,
+          "database_table_3491": 38
+        },
+        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 45,
+          "database_table_3491": 39
+        },
+        "value": "Breviarium apostolorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 46,
+          "database_table_3491": 36
+        },
+        "value": "Concordia testimoniorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 47,
+          "database_table_3491": 37
+        },
+        "value": "De unitate sanctae trinitatis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 52,
+          "database_table_3491": 40
+        },
+        "value": "Revelatio Esdrae de qualitatibus anni"
+      },
+      {
+        "ids": {
+          "database_table_3489": 62,
+          "database_table_3491": 42
+        },
+        "value": "De somnis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 63,
+          "database_table_3491": 43
+        },
+        "value": "Capitulare evangeliorum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 147,
+          "database_table_3491": 41
+        },
+        "value": "De temporibus anni"
+      }
+    ],
+    "locus": [
+      {
+        "id": 34,
+        "value": "1r-7r"
+      },
+      {
+        "id": 35,
+        "value": "7r-9v"
+      },
+      {
+        "id": 36,
+        "value": "10r-20v"
+      },
+      {
+        "id": 37,
+        "value": "20v-23v"
+      },
+      {
+        "id": 38,
+        "value": "23v-41r"
+      },
+      {
+        "id": 39,
+        "value": "41v-42v"
+      },
+      {
+        "id": 40,
+        "value": "42v"
+      },
+      {
+        "id": 41,
+        "value": "42v"
+      },
+      {
+        "id": 42,
+        "value": "42v-43r"
+      },
+      {
+        "id": 43,
+        "value": "43v"
+      }
+    ],
     "note": "In der ersten kodikologischen Einheit der Clm 6382 kommen oft die Marginalien vor, darunter einige als Kommentare, die anderen als Gliederungen des Textes zu betrachten sind. Die Schrift der Marginalien lässt vermuten, dass sie von manchen der Hauptschreiber stammen, vor allem des Schreibers des griechischen Alphabets. Detalliert sehen die Marginalien folgenderweise aus. Im Isidorus-Text wurden mal die Fragen am Rand wiederholt, mal die Themen der Fragen bezeichnet, so dass die Antworten schnell zu finden sind. Diese kommen wahrscheinlich von zwei Händen.  Die Marginalien zum Breviarium apostolorum sind von anderer Art. Hier wurden am Rand die Namen der zwölf Edelsteine geschrieben, die den Namen der Aposteln entsprechen (der Tradition des Exodus folgend, die zwölf Edelsteine mit den zwölf Stämmen Israels zusammenbringt).",
     "Created by": {
       "id": 87,
@@ -4825,11 +4940,25 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-04",
+    "Last modified": "2025-11-17",
     "strata_filiation": [],
     "note_filiation": "",
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 18,
+        "value": "BSB, Clm. 6382, cod. unit 1",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 10,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6382, cod. unit 1"
+      }
+    ]
   },
   "88": {
     "id": 88,
@@ -4984,5 +5113,32 @@
         "value": "BSB, Clm. 6376, cod. unit 1"
       }
     ]
+  },
+  "91": {
+    "id": 91,
+    "order": "55.00000000000000000000",
+    "label": [],
+    "character": [],
+    "manuscript": [],
+    "number": "",
+    "hit_id": "hit_strata__91",
+    "hand_role": [],
+    "ms_items": [],
+    "locus": [],
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2025-11-17",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2025-11-17",
+    "strata_filiation": [],
+    "note_filiation": "",
+    "cod_units": [],
+    "cod_unit": []
   }
 }

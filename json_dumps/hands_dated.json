@@ -4483,8 +4483,14 @@
     "id": 172,
     "order": "137.00000000000000000000",
     "hit_id": "hit_hands_dated__172",
-    "authority": [],
-    "page": "",
+    "authority": [
+      {
+        "id": 3,
+        "value": "Glauche G.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "page": "171",
     "dated": [
       {
         "id": 13,
@@ -4504,7 +4510,7 @@
         "order": "168.00000000000000000000"
       }
     ],
-    "new_dating": true,
+    "new_dating": false,
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4513,7 +4519,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-10-16",
+    "Last modified": "2025-11-17",
     "Created on": "2025-10-16",
     "note": ""
   },

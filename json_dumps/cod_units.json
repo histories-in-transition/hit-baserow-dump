@@ -319,7 +319,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-11",
+    "Last modified": "2025-11-17",
     "orig_date": [],
     "heigth": "255",
     "lines_number": "23",
@@ -377,7 +377,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "Lagenzählung am Ende unter einem Klammer I*7*-XIV*110.*"
   },
   "6": {
     "id": 6,
@@ -408,15 +408,21 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-11-17",
     "orig_date": [],
     "heigth": "250",
     "lines_number": "25-30",
     "decorations": "",
-    "basic_structure": [],
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
     "written_width": "133",
     "written_height": "195-215",
     "width": "180",
@@ -443,7 +449,13 @@
         "value": "Freising"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 31,
+        "value": "Clm. 6388, Stratum 3",
+        "order": "28.00000000000000000000"
+      }
+    ],
     "ruling": "Doppelliniirung von beiden Seiten",
     "material": {
       "id": 19338,
@@ -452,7 +464,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "keine"
   },
   "8": {
     "id": 8,
@@ -483,15 +495,21 @@
     },
     "Created on": "2024-06-17",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-11-17",
     "orig_date": [],
     "heigth": "250",
     "lines_number": "22",
     "decorations": "",
-    "basic_structure": [],
+    "basic_structure": [
+      {
+        "id": 18147,
+        "value": "FHFH",
+        "color": "darker-blue"
+      }
+    ],
     "written_width": "110-120",
     "written_height": "180",
     "width": "180",
@@ -530,7 +548,18 @@
         "value": "Norditalien"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 23,
+        "value": "Clm. 6388, Stratum 1",
+        "order": "20.00000000000000000000"
+      },
+      {
+        "id": 24,
+        "value": "Clm. 6388, Stratum 2",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "ruling": "Doppelliniirung von beiden Seiten",
     "material": {
       "id": 19338,
@@ -539,7 +568,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "Lagenzählung am Ende  II*7*-VIIII*81*, VIII *65* und VII *73* bei der Lagenzahlung verwechselt, Textfolge aber richtig."
   },
   "9": {
     "id": 9,
@@ -570,15 +599,21 @@
     },
     "Created on": "2024-06-24",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-11-17",
     "orig_date": [],
     "heigth": "250",
     "lines_number": "25-30",
     "decorations": "",
-    "basic_structure": [],
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
     "written_width": "133",
     "written_height": "195-215",
     "width": "180",
@@ -605,7 +640,18 @@
         "value": "Freising"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 32,
+        "value": "Clm. 6388, Stratum 4",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 33,
+        "value": "Clm. 6388, Stratum 5",
+        "order": "30.00000000000000000000"
+      }
+    ],
     "ruling": "Doppelliniirung von beiden Seiten",
     "material": {
       "id": 19338,
@@ -614,7 +660,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "I*93* und V*101* zwischen\\\nPunkten und Strichen (laut Glauche, gehört die Zahlung zum 10. Jh.), VI*109*-XVI*189* (laut Glauche, 15. Jh.)"
   },
   "10": {
     "id": 10,
@@ -645,10 +691,10 @@
     },
     "Created on": "2024-07-08",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-11-17",
     "orig_date": [
       {
         "id": 4,
@@ -691,7 +737,13 @@
         "value": "Freising"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 3,
+        "value": "Clm. 6326, Stratum 1",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "ruling": "Doppelliniirung von den beiden Seiten",
     "material": {
       "id": 19338,
@@ -700,7 +752,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "Lagenzählung am Ende I*7* - XVI*127* zwischen Punkten"
   },
   "14": {
     "id": 14,
@@ -903,10 +955,10 @@
     },
     "Created on": "2024-07-25",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-11-17",
     "orig_date": [],
     "heigth": "285",
     "lines_number": "35",
@@ -938,7 +990,13 @@
         "value": "Freising"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 21,
+        "value": "Clm. 6380, Stratum 1",
+        "order": "18.00000000000000000000"
+      }
+    ],
     "ruling": null,
     "material": {
       "id": 19338,
@@ -947,7 +1005,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "nur die Zahl VI auf f. 48"
   },
   "17": {
     "id": 17,
@@ -1080,7 +1138,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-04",
+    "Last modified": "2025-11-17",
     "orig_date": [],
     "heigth": "240",
     "lines_number": "21",
@@ -1135,6 +1193,11 @@
         "id": 86,
         "value": "Clm. 6382, Stratum 4",
         "order": "50.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "Clm. 6382, Stratum 5",
+        "order": "51.00000000000000000000"
       }
     ],
     "ruling": "Einfache vertikale und horizontale Liniirung von beiden Seiten.",
@@ -1145,7 +1208,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "keine"
   },
   "19": {
     "id": 19,
@@ -1273,15 +1336,21 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-11-17",
     "orig_date": [],
     "heigth": "260",
     "lines_number": "31-38",
     "decorations": "",
-    "basic_structure": [],
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
     "written_width": "160-175",
     "written_height": "210-225",
     "width": "205",
@@ -1308,7 +1377,13 @@
         "value": "Freising"
       }
     ],
-    "strata": [],
+    "strata": [
+      {
+        "id": 22,
+        "value": "Clm. 6383, Stratum 1",
+        "order": "19.00000000000000000000"
+      }
+    ],
     "ruling": "",
     "material": {
       "id": 19338,
@@ -1317,7 +1392,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "Lagenzählung am Ende I*8*-XVII*137* zwischen Bündeln von\\\nStrichen"
   },
   "21": {
     "id": 21,
@@ -1447,10 +1522,10 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2025-11-17",
     "orig_date": [],
     "heigth": "250",
     "lines_number": "28",
@@ -1503,7 +1578,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "nur III*84*"
   },
   "23": {
     "id": 23,
@@ -1814,7 +1889,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-11",
+    "Last modified": "2025-11-17",
     "orig_date": [],
     "heigth": "205",
     "lines_number": "18",
@@ -1879,7 +1954,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "Lagenzählung am Ende zwischen vier Punkten von III*23* bis XII*94*"
   },
   "27": {
     "id": 27,
@@ -1913,7 +1988,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-07-09",
+    "Last modified": "2025-11-17",
     "orig_date": [],
     "heigth": "325",
     "lines_number": "27",
@@ -1983,7 +2058,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "Lagenzählung am Ende von I*7* bis XXVIII*222* zwischen Strichen und Schnörkeln,\\\nzum Teil abgeschnitten"
   },
   "28": {
     "id": 28,
@@ -2017,7 +2092,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-12",
+    "Last modified": "2025-11-17",
     "orig_date": [],
     "heigth": "330",
     "lines_number": "31",
@@ -2088,7 +2163,7 @@
     },
     "material_spec": null,
     "catchwords": null,
-    "quiremarks": null
+    "quiremarks": "Lagenzählung am Ende von I*7* bis XXVI*205* in Raute, einige abgeschnitten."
   },
   "29": {
     "id": 29,
