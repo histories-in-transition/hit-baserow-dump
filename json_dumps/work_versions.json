@@ -129,8 +129,330 @@
     "id": 74,
     "order": "10.00000000000000000000",
     "label": "",
-    "work": [],
+    "work": [
+      {
+        "id": 3,
+        "value": "Historiae adversus paganos",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "version": "",
     "hit_id": "hit_work_versions__74"
+  },
+  "75": {
+    "id": 75,
+    "order": "11.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 11,
+        "value": "hieronymi chronicon",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__75"
+  },
+  "76": {
+    "id": 76,
+    "order": "12.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 17,
+        "value": "Vita sancti Martini",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__76"
+  },
+  "77": {
+    "id": 77,
+    "order": "13.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 18,
+        "value": "Epistulae",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__77"
+  },
+  "78": {
+    "id": 78,
+    "order": "14.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 19,
+        "value": "Dialogi",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__78"
+  },
+  "79": {
+    "id": 79,
+    "order": "15.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 20,
+        "value": "Miracula sancti Martini",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__79"
+  },
+  "80": {
+    "id": 80,
+    "order": "16.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 21,
+        "value": "Tituli metrici de sancto Martino",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__80"
+  },
+  "81": {
+    "id": 81,
+    "order": "17.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 22,
+        "value": "De basilica sancti Martini et sollemnitatibus",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__81"
+  },
+  "82": {
+    "id": 82,
+    "order": "18.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 74,
+        "value": "Vita sancti Briccii",
+        "order": "21.50000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__82"
+  },
+  "83": {
+    "id": 83,
+    "order": "19.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 23,
+        "value": "Confessio sancti Martini",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__83"
+  },
+  "84": {
+    "id": 84,
+    "order": "20.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 24,
+        "value": "Miraculum de puella ab ortu nativitatis suae muta et surda",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__84"
+  },
+  "85": {
+    "id": 85,
+    "order": "21.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 29,
+        "value": "Historia ecclesiastica cum Rufini continuatione",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__85"
+  },
+  "86": {
+    "id": 86,
+    "order": "22.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 30,
+        "value": "Historia Ottonis",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__86"
+  },
+  "87": {
+    "id": 87,
+    "order": "23.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 31,
+        "value": "Antapodosis",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__87"
+  },
+  "88": {
+    "id": 88,
+    "order": "24.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 32,
+        "value": "Chronica cum Adalberti continuatione",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__88"
+  },
+  "89": {
+    "id": 89,
+    "order": "25.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 38,
+        "value": "Vita sancti Bonifatii",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__89"
+  },
+  "90": {
+    "id": 90,
+    "order": "26.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 39,
+        "value": "Vita sancti Wunebaldi",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__90"
+  },
+  "91": {
+    "id": 91,
+    "order": "27.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 40,
+        "value": "Vita sancti Willibaldi",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__91"
+  },
+  "92": {
+    "id": 92,
+    "order": "28.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 41,
+        "value": "Vita sanctae Euphrosinae",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__92"
+  },
+  "93": {
+    "id": 93,
+    "order": "29.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 42,
+        "value": "Synonyma",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__93"
+  },
+  "94": {
+    "id": 94,
+    "order": "30.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 43,
+        "value": "Liber interrogatorius de differentiis rerum et etymologiis secundum Isidorum",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__94"
+  },
+  "95": {
+    "id": 95,
+    "order": "31.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 44,
+        "value": "De natura rerum",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__95"
+  },
+  "96": {
+    "id": 96,
+    "order": "32.00000000000000000000",
+    "label": "",
+    "work": [
+      {
+        "id": 45,
+        "value": "Breviarium apostolorum",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "version": "",
+    "hit_id": "hit_work_versions__96"
+  },
+  "97": {
+    "id": 97,
+    "order": "33.00000000000000000000",
+    "label": "",
+    "work": [],
+    "version": "",
+    "hit_id": "hit_work_versions__97"
   }
 }

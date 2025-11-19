@@ -7975,7 +7975,15 @@
         "order": "86.00000000000000000000"
       }
     ],
-    "dating": [],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 59,
+          "database_table_3520": 87
+        },
+        "value": "9 Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": [],
     "scribe": [],
     "gruppe": false,

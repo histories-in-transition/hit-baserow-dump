@@ -2637,15 +2637,15 @@
     "id": 87,
     "order": "86.00000000000000000000",
     "hit_id": "hit_hands_dated__87",
-    "authority": [
+    "authority": [],
+    "page": "",
+    "dated": [
       {
-        "id": 2,
-        "value": "Bischoff",
-        "order": "2.00000000000000000000"
+        "id": 59,
+        "value": "9 Jh., zweite Hälfte",
+        "order": "59.00000000000000000000"
       }
     ],
-    "page": "147",
-    "dated": [],
     "hand": [
       {
         "id": 93,
@@ -2653,7 +2653,7 @@
         "order": "85.00000000000000000000"
       }
     ],
-    "new_dating": false,
+    "new_dating": true,
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -2662,7 +2662,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23",
+    "Last modified": "2025-11-18",
     "Created on": "2024-10-23",
     "note": ""
   },
