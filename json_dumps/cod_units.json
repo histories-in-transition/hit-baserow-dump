@@ -3514,12 +3514,26 @@
   "52": {
     "id": 52,
     "order": "48.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 86,
+          "database_table_3488": 7
+        },
+        "value": "Erzabtei St. Peter (Salzburg), a IX 9, cod. unit 1"
+      }
+    ],
     "notes": "",
     "hit_id": "hit_cod_unit__52",
-    "locus": "",
-    "manuscript": [],
-    "number": null,
+    "locus": "1r-241v",
+    "manuscript": [
+      {
+        "id": 86,
+        "value": "Erzabtei St. Peter (Salzburg), a IX 9",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "number": "1",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -3529,23 +3543,39 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-09-02",
+    "Last modified": "2025-11-19",
     "orig_date": [],
-    "heigth": "",
-    "lines_number": "",
-    "decorations": "",
-    "basic_structure": [],
-    "written_width": "",
-    "written_height": "",
-    "width": "",
-    "columns": [],
+    "heigth": "311",
+    "lines_number": "29 Zeilen",
+    "decorations": "2",
+    "basic_structure": [
+      {
+        "id": 18147,
+        "value": "FHFH",
+        "color": "darker-blue"
+      }
+    ],
+    "written_width": "173",
+    "written_height": "245",
+    "width": "225",
+    "columns": [
+      {
+        "id": 18124,
+        "value": "2",
+        "color": "dark-blue"
+      }
+    ],
     "cod_unit_placed": [],
     "prov_place": [],
     "strata": [],
-    "ruling": "",
-    "material": null,
-    "material_spec": "",
+    "ruling": "Deutlich erkennbare Linierung mit zwei Hauptfelder.",
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
+    "material_spec": "Pergament von solider Qualität. Regelmäßig sind kleinere Löcher und (genähte) Risse zu finden.",
     "catchwords": "",
-    "quiremarks": ""
+    "quiremarks": "Kustoden (römische Zahlen) zumeist auf der Versoseite des letzten Blattes eines Lage. Teils auch auf der Versoseite des ersten Blattes. Gelegentlich in roter Tinte und mit Korrekturen/Rasuren"
   }
 }
