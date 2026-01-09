@@ -1769,8 +1769,22 @@
     "Last modified": "2024-09-18",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 4,
+        "value": "BSB, Clm. 6308, cod. unit 1",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 6,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6308, cod. unit 1"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -1843,8 +1857,22 @@
     "Last modified": "2024-10-23",
     "strata_filiation": [],
     "note_filiation": null,
-    "cod_units": [],
-    "cod_unit": []
+    "cod_units": [
+      {
+        "id": 10,
+        "value": "BSB, Clm. 6326, cod. unit 1",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "ids": {
+          "database_table_3487": 5,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6326, cod. unit 1"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -1860,6 +1888,11 @@
         "id": 14761,
         "value": "base OUTDATED",
         "color": "yellow"
+      },
+      {
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
       }
     ],
     "manuscript": [
@@ -1936,7 +1969,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-10-23",
+    "Last modified": "2026-01-08",
     "strata_filiation": [],
     "note_filiation": null,
     "cod_units": [
@@ -2047,6 +2080,11 @@
         "id": 14761,
         "value": "base OUTDATED",
         "color": "yellow"
+      },
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
       }
     ],
     "manuscript": [
@@ -2090,7 +2128,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-07-10",
+    "Last modified": "2026-01-08",
     "strata_filiation": [],
     "note_filiation": null,
     "cod_units": [
@@ -2119,7 +2157,13 @@
         "value": "Clm. 6383, Stratum 1"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
     "manuscript": [
       {
         "id": 11,
@@ -2142,7 +2186,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2024-11-13",
+    "Last modified": "2026-01-08",
     "strata_filiation": [],
     "note_filiation": null,
     "cod_units": [
@@ -2171,7 +2215,13 @@
         "value": "Clm. 6388, Stratum 1"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
     "manuscript": [
       {
         "id": 12,
@@ -2213,7 +2263,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-02-12",
+    "Last modified": "2026-01-08",
     "strata_filiation": [],
     "note_filiation": null,
     "cod_units": [
@@ -2242,7 +2292,13 @@
         "value": "Clm. 6388, Stratum 2"
       }
     ],
-    "character": [],
+    "character": [
+      {
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
+      }
+    ],
     "manuscript": [
       {
         "id": 12,
@@ -2284,7 +2340,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-03-11",
+    "Last modified": "2026-01-08",
     "strata_filiation": [],
     "note_filiation": null,
     "cod_units": [
@@ -2816,6 +2872,11 @@
         "id": 14761,
         "value": "base OUTDATED",
         "color": "yellow"
+      },
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
       }
     ],
     "manuscript": [
@@ -2870,7 +2931,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-03-11",
+    "Last modified": "2026-01-08",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [
@@ -2904,6 +2965,11 @@
         "id": 14761,
         "value": "base OUTDATED",
         "color": "yellow"
+      },
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
       }
     ],
     "manuscript": [
@@ -2947,7 +3013,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-03-11",
+    "Last modified": "2026-01-08",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [
@@ -2981,6 +3047,11 @@
         "id": 14765,
         "value": "annotation OUTDATED",
         "color": "light-brown"
+      },
+      {
+        "id": 15368,
+        "value": "textuelle Veränderung",
+        "color": "dark-yellow"
       }
     ],
     "manuscript": [
@@ -3024,7 +3095,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-03-11",
+    "Last modified": "2026-01-08",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [

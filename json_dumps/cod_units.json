@@ -319,7 +319,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-17",
+    "Last modified": "2026-01-08",
     "orig_date": [],
     "heigth": "255",
     "lines_number": "23",
@@ -367,6 +367,11 @@
         "id": 7,
         "value": "Clm. 6308, Stratum 2",
         "order": "7.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "Clm. 6308, Stratum 3",
+        "order": "14.00000000000000000000"
       }
     ],
     "ruling": "Einfache Doppelliniirung von der Aussenseite. An den meisten Blättern ist die Liniirung kaum zu sehen.",
@@ -694,7 +699,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-17",
+    "Last modified": "2026-01-08",
     "orig_date": [
       {
         "id": 4,
@@ -710,7 +715,13 @@
     "heigth": "195",
     "lines_number": "17",
     "decorations": "1r - rotes Initial E in 4 Zeilen, 4r - rotes Initial P in 5 Zeilen, beide ornamental und nah zu den Initialen in Clm 27305, Clm 17027, Clm 17043. Auf 5v - rotes Tierkopfinitial I in 11 Zeilen.",
-    "basic_structure": [],
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
     "written_width": "115",
     "written_height": "155",
     "width": "165",
@@ -742,6 +753,11 @@
         "id": 3,
         "value": "Clm. 6326, Stratum 1",
         "order": "3.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "Clm. 6326, Stratum 2",
+        "order": "15.00000000000000000000"
       }
     ],
     "ruling": "Doppelliniirung von den beiden Seiten",
