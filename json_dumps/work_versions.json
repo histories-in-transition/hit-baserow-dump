@@ -114,7 +114,7 @@
   "73": {
     "id": 73,
     "order": "9.00000000000000000000",
-    "label": "",
+    "label": "BHL 5610",
     "work": [
       {
         "id": 17,
@@ -122,7 +122,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "version": "",
+    "version": "BHL 5610",
     "hit_id": "hit_work_versions__73"
   },
   "74": {
@@ -170,7 +170,7 @@
   "77": {
     "id": 77,
     "order": "13.00000000000000000000",
-    "label": "",
+    "label": "BHL 5611-5613",
     "work": [
       {
         "id": 18,
@@ -178,13 +178,13 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "version": "",
+    "version": "BHL 5611-5613",
     "hit_id": "hit_work_versions__77"
   },
   "78": {
     "id": 78,
     "order": "14.00000000000000000000",
-    "label": "",
+    "label": "BHL 5614- 5616",
     "work": [
       {
         "id": 19,
@@ -192,13 +192,13 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "version": "",
+    "version": "BHL 5614- 5616",
     "hit_id": "hit_work_versions__78"
   },
   "79": {
     "id": 79,
     "order": "15.00000000000000000000",
-    "label": "",
+    "label": "Historia Francorum 1,48; BHL 5619-5623",
     "work": [
       {
         "id": 20,
@@ -206,13 +206,13 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "version": "",
+    "version": "Historia Francorum 1,48; BHL 5619-5623",
     "hit_id": "hit_work_versions__79"
   },
   "80": {
     "id": 80,
     "order": "16.00000000000000000000",
-    "label": "",
+    "label": "BHL, n. s. 5624b-d",
     "work": [
       {
         "id": 21,
@@ -220,13 +220,13 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "version": "",
+    "version": "BHL, n. s. 5624b-d",
     "hit_id": "hit_work_versions__80"
   },
   "81": {
     "id": 81,
     "order": "17.00000000000000000000",
-    "label": "",
+    "label": "BHL, n. s. 5624b-d",
     "work": [
       {
         "id": 22,
@@ -234,13 +234,13 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "version": "",
+    "version": "BHL, n. s. 5624b-d",
     "hit_id": "hit_work_versions__81"
   },
   "82": {
     "id": 82,
     "order": "18.00000000000000000000",
-    "label": "",
+    "label": "Historia Francorum II, 1; BHL 1452",
     "work": [
       {
         "id": 74,
@@ -248,7 +248,7 @@
         "order": "21.50000000000000000000"
       }
     ],
-    "version": "",
+    "version": "Historia Francorum II, 1; BHL 1452",
     "hit_id": "hit_work_versions__82"
   },
   "83": {
@@ -268,7 +268,7 @@
   "84": {
     "id": 84,
     "order": "20.00000000000000000000",
-    "label": "",
+    "label": "BHL, n. s. 5653c",
     "work": [
       {
         "id": 24,
@@ -276,7 +276,7 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "version": "",
+    "version": "BHL, n. s. 5653c",
     "hit_id": "hit_work_versions__84"
   },
   "85": {

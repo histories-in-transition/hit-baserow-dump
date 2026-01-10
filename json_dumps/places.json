@@ -357,7 +357,7 @@
     "id": 15,
     "order": "13.00000000000000000000",
     "name": "Schwabien",
-    "geonames_url": "",
+    "geonames_url": "https://www.geonames.org/2824481/swabia.html",
     "hit_id": "hit_place__15",
     "wikidata_url": "",
     "country": [
@@ -373,12 +373,12 @@
     },
     "Created on": "2024-07-18",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-07-18",
-    "lat": null,
-    "long": null
+    "Last modified": "2026-01-09",
+    "lat": "48.00000",
+    "long": "9.00000"
   },
   "16": {
     "id": 16,
@@ -481,12 +481,12 @@
     },
     "Created on": "2024-09-19",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2024-09-19",
-    "lat": null,
-    "long": null
+    "Last modified": "2026-01-09",
+    "lat": "49.01513",
+    "long": "12.10161"
   },
   "20": {
     "id": 20,
@@ -621,7 +621,7 @@
     "id": 26,
     "order": "24.00000000000000000000",
     "name": "Fulda",
-    "geonames_url": "https://www.geonames.org/5027555/fulda.html",
+    "geonames_url": "https://www.geonames.org/2923822/fulda.html",
     "hit_id": "hit_place__26",
     "wikidata_url": "https://www.wikidata.org/wiki/Q3963",
     "country": [
@@ -637,12 +637,12 @@
     },
     "Created on": "2025-02-25",
     "Last modified by": {
-      "id": 3,
-      "name": "Peter Andorfer"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2025-03-26",
-    "lat": "43.87052",
-    "long": "-95.60029"
+    "Last modified": "2026-01-09",
+    "lat": "50.55162",
+    "long": "9.67518"
   },
   "27": {
     "id": 27,

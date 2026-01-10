@@ -2736,6 +2736,16 @@
         "id": 139,
         "value": "hit_hands_role__139",
         "order": "125.00000000000000000000"
+      },
+      {
+        "id": 212,
+        "value": "hit_hands_role__212",
+        "order": "198.00000000000000000000"
+      },
+      {
+        "id": 267,
+        "value": "hit_hands_role__267",
+        "order": "221.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -2763,6 +2773,13 @@
           "database_table_3488": 4
         },
         "value": "BSB, Clm. 6375_H. 1"
+      },
+      {
+        "ids": {
+          "database_table_3487": 8,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6375_H. 3"
       }
     ],
     "decoration": [],

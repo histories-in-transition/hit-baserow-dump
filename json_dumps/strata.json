@@ -5188,14 +5188,50 @@
   "91": {
     "id": 91,
     "order": "55.00000000000000000000",
-    "label": [],
-    "character": [],
-    "manuscript": [],
-    "number": "",
+    "label": [
+      {
+        "id": 8,
+        "value": "Clm. 6375, Stratum 3"
+      }
+    ],
+    "character": [
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "number": "3",
     "hit_id": "hit_strata__91",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
+    "hand_role": [
+      {
+        "id": 267,
+        "value": "hit_hands_role__267",
+        "order": "221.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 25,
+          "database_table_3491": 29
+        },
+        "value": "De orthographia"
+      }
+    ],
+    "locus": [
+      {
+        "id": 29,
+        "value": "227v"
+      }
+    ],
     "note": "",
     "Created by": {
       "id": 87,
@@ -5206,7 +5242,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-11-17",
+    "Last modified": "2026-01-09",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [],

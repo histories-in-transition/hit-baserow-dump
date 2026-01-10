@@ -11995,13 +11995,27 @@
   "149": {
     "id": 149,
     "order": "140.00000000000000000000",
-    "label": [],
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 8,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm. 6375_H. 3"
+      }
+    ],
     "description": "",
     "hit_id": "hit_hands__149",
     "similar_hands": [],
     "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "BSB, Clm. 6375",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "number": "3",
     "note": "",
     "Created by": {
       "id": 86,
@@ -12009,15 +12023,54 @@
     },
     "Created on": "2025-04-18",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-05",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
+    "Last modified": "2026-01-09",
+    "hands_role": [
+      {
+        "id": 267,
+        "value": "hit_hands_role__267",
+        "order": "221.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 267,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 25,
+          "database_table_3491": 29
+        },
+        "value": "De orthographia"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 84,
+        "value": "hit_hands_dated__84",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 5,
+          "database_table_3520": 84
+        },
+        "value": "10 Jh., zweite Hälfte"
+      }
+    ],
     "hands_placed": [],
     "scribe": [],
     "gruppe": false,
@@ -14600,6 +14653,37 @@
         "order": "79.00000000000000000000"
       }
     ],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "210": {
+    "id": 210,
+    "order": "169.00000000000000000000",
+    "label": [],
+    "description": "",
+    "hit_id": "hit_hands__210",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-01-09",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-01-09",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
     "scribe": [],
     "gruppe": false,
     "author_entry": []
