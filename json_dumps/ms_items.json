@@ -2450,8 +2450,8 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "incipit": "Robor arbor est. Robur uirtutis. Rubor coloris ... seras portarum suarum",
-    "explicit": "",
+    "incipit": "Robor arbor est. Robur uirtutis. Rubor coloris ...",
+    "explicit": "...seras portarum suarum",
     "rubric": "[ … ut] vlcero … reuinco",
     "title_work": [
       {
@@ -2481,15 +2481,15 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "Last modified": "2024-11-18",
+    "Last modified": "2026-01-12",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "note": null,
     "hand": [
@@ -2619,7 +2619,7 @@
       }
     ],
     "incipit": "Peritorum dicunt esse medicorum ubi inmine‹ re urbibus …",
-    "explicit": "",
+    "explicit": "Explicit liber XImus. Finit utcumque hoc officium. Deo gratias",
     "rubric": "",
     "title_work": [
       {
@@ -2654,15 +2654,15 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "Last modified": "2024-11-18",
+    "Last modified": "2026-01-12",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "note": null,
     "hand": [
@@ -2714,8 +2714,8 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "incipit": "",
-    "explicit": "Ualde aduerbium a ualido‖",
+    "incipit": "Transmigro enim cum de loco",
+    "explicit": "Ualde aduerbium a ualido",
     "rubric": "",
     "title_work": [
       {
@@ -2733,9 +2733,9 @@
     "locus_grp": "227v",
     "hands_role": [
       {
-        "id": 139,
-        "value": "hit_hands_role__139",
-        "order": "125.00000000000000000000"
+        "id": 180,
+        "value": "hit_hands_role__180",
+        "order": "166.00000000000000000000"
       },
       {
         "id": 212,
@@ -2755,7 +2755,7 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-27",
+    "Last modified": "2026-01-12",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
@@ -2769,10 +2769,10 @@
     "hand": [
       {
         "ids": {
-          "database_table_3487": 8,
+          "database_table_3487": 10,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm. 6375_H. 1"
+        "value": "BSB, Clm. 6382_H. 4"
       },
       {
         "ids": {

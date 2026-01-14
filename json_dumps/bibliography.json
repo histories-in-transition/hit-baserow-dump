@@ -3250,5 +3250,17 @@
     "year": "",
     "citation": "",
     "link": ""
+  },
+  "307": {
+    "id": 307,
+    "order": "275.00000000000000000000",
+    "author": "Glauche, Günter",
+    "short_title": "Katalog, Bd. 1",
+    "zotero_id": "",
+    "hit_id": "hit_bibl__307",
+    "title": "Katalog der lateinischen Handschriften der Bayerischen Staatsbibliothek München. Die Pergamenthandschriften aus dem Domkapitel Freising, Bd. 1: Clm 6201-6316 (Catalogus codicum manu scriptorum Bibliothecae Monacensis III,2,1)",
+    "year": "2000",
+    "citation": "Günter Glauche, Katalog der lateinischen Handschriften der Bayerischen Staatsbibliothek München. Die Pergamenthandschriften aus dem Domkapitel Freising, Bd. 1: Clm 6201-6316 (Catalogus codicum manu scriptorum Bibliothecae Monacensis III,2,1), Wiesbaden 2000",
+    "link": "https://handschriftenportal.de/workspace?type=undefined&id=https%3A%2F%2Fiiif.ub.uni-leipzig.de%2F0000034962%2Fmanifest.json&page=1"
   }
 }

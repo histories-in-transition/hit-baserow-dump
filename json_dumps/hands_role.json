@@ -7778,11 +7778,6 @@
         "id": 28,
         "value": "clm_6375__28",
         "order": "21.00000000000000000000"
-      },
-      {
-        "id": 29,
-        "value": "clm_6375__29",
-        "order": "22.00000000000000000000"
       }
     ],
     "role": [
@@ -7798,13 +7793,6 @@
         "ids": {
           "database_table_3489": 25,
           "database_table_3491": 26
-        },
-        "value": "De orthographia"
-      },
-      {
-        "ids": {
-          "database_table_3489": 25,
-          "database_table_3491": 29
         },
         "value": "De orthographia"
       },
@@ -7835,10 +7823,6 @@
       {
         "id": 28,
         "value": "2v-227r"
-      },
-      {
-        "id": 29,
-        "value": "227v"
       }
     ],
     "Last modified by": {
@@ -7850,7 +7834,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-04",
-    "Last modified": "2024-10-23",
+    "Last modified": "2026-01-12",
     "locus_layout": [
       {
         "id": 15841,
@@ -10526,11 +10510,36 @@
         "order": "112.00000000000000000000"
       }
     ],
-    "ms_item": [],
-    "role": [],
-    "locus": "",
-    "text": [],
-    "locus_text": [],
+    "ms_item": [
+      {
+        "id": 29,
+        "value": "clm_6375__29",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "227v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 25,
+          "database_table_3491": 29
+        },
+        "value": "De orthographia"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 29,
+        "value": "227v"
+      }
+    ],
     "Last modified by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -10540,11 +10549,35 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2025-02-13",
-    "Last modified": "2025-03-13",
-    "locus_layout": [],
-    "function": [],
-    "scribe_type": [],
-    "strata": []
+    "Last modified": "2026-01-12",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [
+      {
+        "id": 18173,
+        "value": "Fortsetzung",
+        "color": "red"
+      }
+    ],
+    "strata": [
+      {
+        "id": 91,
+        "value": "Clm. 6375, Stratum 3",
+        "order": "55.00000000000000000000"
+      }
+    ]
   },
   "181": {
     "id": 181,

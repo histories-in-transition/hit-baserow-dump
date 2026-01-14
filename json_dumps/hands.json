@@ -7858,13 +7858,6 @@
       },
       {
         "ids": {
-          "database_table_3489": 25,
-          "database_table_3491": 29
-        },
-        "value": "De orthographia"
-      },
-      {
-        "ids": {
           "database_table_3489": 26,
           "database_table_3491": 27
         },
@@ -9601,7 +9594,13 @@
       },
       {
         "id": 180,
-        "value": []
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
     "texts": [
@@ -9674,6 +9673,13 @@
           "database_table_3491": 41
         },
         "value": "De temporibus anni"
+      },
+      {
+        "ids": {
+          "database_table_3489": 25,
+          "database_table_3491": 29
+        },
+        "value": "De orthographia"
       },
       {
         "ids": {

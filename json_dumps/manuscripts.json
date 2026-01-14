@@ -1197,11 +1197,11 @@
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2025-03-20",
+    "Last modified": "2026-01-12",
     "content_summary": "Historia adversus paganos",
     "charakter": [
       {
@@ -1225,7 +1225,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Orosius"
   },
   "7": {
     "id": 7,
@@ -1319,7 +1319,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2025-04-29",
+    "Last modified": "2026-01-12",
     "content_summary": "Orosius",
     "charakter": [
       {
@@ -1343,7 +1343,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Orosius"
   },
   "8": {
     "id": 8,
@@ -1449,7 +1449,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2026-01-09",
+    "Last modified": "2026-01-12",
     "content_summary": "Eusebius, Rufinus",
     "charakter": [
       {
@@ -1473,7 +1473,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Eusebius, Rufinus, Alcuinus"
   },
   "9": {
     "id": 9,
@@ -1589,7 +1589,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-13",
-    "Last modified": "2025-07-22",
+    "Last modified": "2026-01-12",
     "content_summary": "Eusebius, Rufinus",
     "charakter": [
       {
@@ -1613,7 +1613,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": "Eusebius Caesariensis"
+    "title": "Eusebius Caesariensis, Rufinus"
   },
   "10": {
     "id": 10,
@@ -1842,7 +1842,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2025-04-29",
+    "Last modified": "2026-01-12",
     "content_summary": "Eusebius, Rufinus",
     "charakter": [
       {
@@ -1866,7 +1866,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Eusebius, Rufinus"
   },
   "12": {
     "id": 12,
@@ -1965,7 +1965,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2025-09-17",
+    "Last modified": "2026-01-12",
     "content_summary": "Liutprandus Cremonensis, Regino Prumiensis",
     "charakter": [
       {
@@ -1989,7 +1989,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": ""
+    "title": "Antapodosis, Reginonis Chronicon"
   },
   "13": {
     "id": 13,
@@ -2083,7 +2083,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2025-04-29",
+    "Last modified": "2026-01-12",
     "content_summary": "Paulus Diaconus",
     "charakter": [
       {
@@ -2107,7 +2107,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Paulus Diaconus"
   },
   "14": {
     "id": 14,
@@ -2455,8 +2455,8 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2025-06-12",
-    "content_summary": "Cassiodorum",
+    "Last modified": "2026-01-13",
+    "content_summary": "Cassiodorus",
     "charakter": [
       {
         "id": 17451,
@@ -2479,7 +2479,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Historia tripartita"
   },
   "17": {
     "id": 17,
@@ -2585,7 +2585,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2025-06-10",
+    "Last modified": "2026-01-13",
     "content_summary": "Vita Bonifatii, Vita Wunebaldi, Vita Willibaldi",
     "charakter": [
       {
@@ -2609,7 +2609,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Vita s. Bonifatii"
   },
   "18": {
     "id": 18,
@@ -2789,7 +2789,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2025-05-28",
+    "Last modified": "2026-01-12",
     "content_summary": "Adamnanus de Iona, Historiae de s. cruce, Boethius",
     "charakter": [
       {
@@ -2813,7 +2813,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Adamnanus, Boethius"
   },
   "20": {
     "id": 20,
@@ -3037,27 +3037,27 @@
       }
     ],
     "manuscripta_url": "",
-    "handschriftenportal_url": "",
-    "catalog_url": "",
+    "handschriftenportal_url": "https://resolver.staatsbibliothek-berlin.de/HSP0004AA5300000000",
+    "catalog_url": "https://handschriftenportal.de/workspace?type=undefined&id=https%3A%2F%2Fiiif.ub.uni-leipzig.de%2F0000034962%2Fmanifest.json&page=1",
     "digi_url": "https://mdz-nbn-resolving.de/details:bsb00004610",
     "idno": "Clm 6299",
-    "idno_former": "",
-    "quire_structure": "",
+    "idno_former": "Fris. 99",
+    "quire_structure": "I**1** + 10 IV**81** + II**85**; 4IV**117** + III**123** + 5IV**163** + (I- 1) **164**\\\n.",
     "library_full": [
       {
         "id": 4,
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
-    "foliation": "",
+    "extent": "I+164",
+    "foliation": "19 Jh.",
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "210",
+    "width": "130",
     "material_spec": "",
     "orig_place": [
       {
@@ -3067,9 +3067,19 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": "",
-    "material": null,
-    "provenance": [],
+    "quiremarks": "Am Ende der Lagen,",
+    "material": {
+      "id": 14782,
+      "value": "Pergament",
+      "color": "darker-orange"
+    },
+    "provenance": [
+      {
+        "id": 6,
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "manuscripts_dated": [
       {
         "id": 38,
@@ -3077,7 +3087,15 @@
         "order": "35.00000000000000000000"
       }
     ],
-    "orig_dated": [],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 10,
+          "database_table_3516": 38
+        },
+        "value": "vor 784"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -3087,9 +3105,15 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-12-13",
-    "Last modified": "2025-04-29",
+    "Last modified": "2026-01-13",
     "content_summary": "Hieronymus",
-    "charakter": [],
+    "charakter": [
+      {
+        "id": 17451,
+        "value": "Gebrauchshandschrift",
+        "color": "light-orange"
+      }
+    ],
     "case_study": [
       {
         "id": 17441,
@@ -3105,7 +3129,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Hieronymi Epistolae"
   },
   "29": {
     "id": 29,

@@ -1921,13 +1921,6 @@
       },
       {
         "ids": {
-          "database_table_3489": 25,
-          "database_table_3491": 29
-        },
-        "value": "De orthographia"
-      },
-      {
-        "ids": {
           "database_table_3489": 26,
           "database_table_3491": 27
         },
@@ -1953,10 +1946,6 @@
       {
         "id": 28,
         "value": "2v-227r"
-      },
-      {
-        "id": 29,
-        "value": "227v"
       }
     ],
     "note": "Hauptstratum von einer Hand, abgeschrieben von einem voraussichtlich Merowingischen Protograph.",
@@ -3255,6 +3244,11 @@
         "id": 14761,
         "value": "base OUTDATED",
         "color": "yellow"
+      },
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
       }
     ],
     "manuscript": [
@@ -3314,7 +3308,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-28",
+    "Last modified": "2026-01-12",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [
@@ -3348,6 +3342,11 @@
         "id": 14761,
         "value": "base OUTDATED",
         "color": "yellow"
+      },
+      {
+        "id": 15900,
+        "value": "Anlage",
+        "color": "gray"
       }
     ],
     "manuscript": [
@@ -3413,7 +3412,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-05-28",
+    "Last modified": "2026-01-12",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [
@@ -5212,6 +5211,11 @@
     "hit_id": "hit_strata__91",
     "hand_role": [
       {
+        "id": 180,
+        "value": "hit_hands_role__180",
+        "order": "166.00000000000000000000"
+      },
+      {
         "id": 267,
         "value": "hit_hands_role__267",
         "order": "221.00000000000000000000"
@@ -5224,15 +5228,26 @@
           "database_table_3491": 29
         },
         "value": "De orthographia"
+      },
+      {
+        "ids": {
+          "database_table_3489": 25,
+          "database_table_3491": 29
+        },
+        "value": "De orthographia"
       }
     ],
     "locus": [
       {
         "id": 29,
         "value": "227v"
+      },
+      {
+        "id": 29,
+        "value": "227v"
       }
     ],
-    "note": "",
+    "note": "Nachtrag des zehnten Jahrhunderts zur Alcuins \"De orthographia\" anstatt des verlorenen Teils.",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -5242,7 +5257,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2026-01-09",
+    "Last modified": "2026-01-12",
     "strata_filiation": [],
     "note_filiation": "",
     "cod_units": [],
