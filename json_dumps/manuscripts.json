@@ -2455,7 +2455,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-06-14",
-    "Last modified": "2026-01-13",
+    "Last modified": "2026-01-14",
     "content_summary": "Cassiodorus",
     "charakter": [
       {
@@ -2479,7 +2479,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": "Historia tripartita"
+    "title": "Cassiodorus"
   },
   "17": {
     "id": 17,
@@ -3053,7 +3053,13 @@
     "foliation": "19 Jh.",
     "acc_mat": "",
     "binding": "",
-    "binding_date": [],
+    "binding_date": [
+      {
+        "id": 20,
+        "value": "14-15 Jh.",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "history": "",
     "bibliography": [],
     "height": "210",
@@ -3105,7 +3111,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-12-13",
-    "Last modified": "2026-01-13",
+    "Last modified": "2026-01-14",
     "content_summary": "Hieronymus",
     "charakter": [
       {
@@ -3149,27 +3155,33 @@
       }
     ],
     "manuscripta_url": "",
-    "handschriftenportal_url": "",
+    "handschriftenportal_url": "https://handschriftenportal.de/search?hspobjectid=HSP-6e94b2c6-72a4-37f2-8506-5e726f4850fc",
     "catalog_url": "",
     "digi_url": "https://mdz-nbn-resolving.de/details:bsb00047242",
     "idno": "Clm 6279",
     "idno_former": "",
-    "quire_structure": "",
+    "quire_structure": "(IV - l)**7** + 21 IV**175** + (IV - l)**182** + (IV - 2)**188**.",
     "library_full": [
       {
         "id": 4,
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
-    "foliation": "",
+    "extent": "188",
+    "foliation": "19 Jh.",
     "acc_mat": "",
     "binding": "",
-    "binding_date": [],
+    "binding_date": [
+      {
+        "id": 20,
+        "value": "14-15 Jh.",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "285",
+    "width": "200",
     "material_spec": "",
     "orig_place": [
       {
@@ -3179,9 +3191,19 @@
       }
     ],
     "catchwords": "",
-    "quiremarks": "",
-    "material": null,
-    "provenance": [],
+    "quiremarks": "Am Ende der Lagen I**7**-XXIII**182,** ausser II, unter Wickeln.",
+    "material": {
+      "id": 14782,
+      "value": "Pergament",
+      "color": "darker-orange"
+    },
+    "provenance": [
+      {
+        "id": 6,
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "manuscripts_dated": [
       {
         "id": 39,
@@ -3189,7 +3211,22 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "orig_dated": [],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 10,
+          "database_table_3516": 39
+        },
+        "value": "vor 784"
+      },
+      {
+        "ids": {
+          "database_table_3512": 27,
+          "database_table_3516": 39
+        },
+        "value": "10. Jh."
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -3199,7 +3236,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-12-13",
-    "Last modified": "2025-04-29",
+    "Last modified": "2026-01-14",
     "content_summary": "Gregorius Magnus",
     "charakter": [],
     "case_study": [
@@ -3217,7 +3254,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Gregorius Magnus"
   },
   "31": {
     "id": 31,

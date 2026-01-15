@@ -1412,9 +1412,26 @@
         "order": "22.00000000000000000000"
       }
     ],
-    "date": [],
-    "authority": [],
-    "page": "",
+    "date": [
+      {
+        "id": 10,
+        "value": "vor 784",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 27,
+        "value": "10. Jh.",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 307,
+        "value": "Glauche, Günter",
+        "order": "275.00000000000000000000"
+      }
+    ],
+    "page": "136",
     "preferred_date": false,
     "Created by": {
       "id": 87,
@@ -1425,7 +1442,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-04-30T11:44:12.121905Z",
+    "Last modified": "2026-01-14T11:00:30.376171Z",
     "note": ""
   },
   "40": {
