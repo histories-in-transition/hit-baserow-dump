@@ -1165,5 +1165,53 @@
     "Last modified": "2025-09-04",
     "lat": "49.11911",
     "long": "6.17269"
+  },
+  "79": {
+    "id": 79,
+    "order": "45.00000000000000000000",
+    "name": "Augsburg",
+    "geonames_url": "https://www.geonames.org/2954172/augsburg.html",
+    "hit_id": "hit_place__79",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q2749",
+    "country": [
+      {
+        "id": 2,
+        "value": "Deutschland",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-01-16",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2026-01-17",
+    "lat": "48.37154",
+    "long": "10.89851"
+  },
+  "80": {
+    "id": 80,
+    "order": "46.00000000000000000000",
+    "name": "Admont",
+    "geonames_url": "",
+    "hit_id": "hit_place__80",
+    "wikidata_url": "",
+    "country": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-01-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-01-16",
+    "lat": null,
+    "long": null
   }
 }

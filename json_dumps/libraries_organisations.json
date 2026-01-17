@@ -511,5 +511,86 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-09-03"
+  },
+  "53": {
+    "id": 53,
+    "order": "20.00000000000000000000",
+    "label": "Augsburg Universitätsbibliothek",
+    "hit_id": "hit_org__53",
+    "gnd_url": "",
+    "library_full": "",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 79,
+        "value": "Augsburg",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q2496283",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-01-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-01-16"
+  },
+  "54": {
+    "id": 54,
+    "order": "21.00000000000000000000",
+    "label": "Bayerisches Hauptstaatsarchiv",
+    "hit_id": "hit_org__54",
+    "gnd_url": "",
+    "library_full": "",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 8,
+        "value": "München",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-01-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-01-16"
+  },
+  "55": {
+    "id": 55,
+    "order": "22.00000000000000000000",
+    "label": "Admont Bibliothek",
+    "hit_id": "hit_org__55",
+    "gnd_url": "",
+    "library_full": "",
+    "library_website": "",
+    "settlement": [
+      {
+        "id": 80,
+        "value": "Admont",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "wikidata": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-01-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-01-16"
   }
 }
