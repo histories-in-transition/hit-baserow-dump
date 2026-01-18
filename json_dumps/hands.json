@@ -10398,7 +10398,7 @@
     "scribe": [
       {
         "id": 16,
-        "value": "Saint-Bertin_Skriptorium Odbert_1",
+        "value": "Saint-Bertin Skriptorium Odbert 1",
         "order": "15.00000000000000000000"
       }
     ],
@@ -10522,7 +10522,7 @@
     "scribe": [
       {
         "id": 18,
-        "value": "Saint-Bertin_Skriptorium Odbert_2",
+        "value": "Saint-Bertin Skriptorium Odbert 2",
         "order": "17.00000000000000000000"
       }
     ],
@@ -11016,7 +11016,7 @@
     "scribe": [
       {
         "id": 18,
-        "value": "Saint-Bertin_Skriptorium Odbert_2",
+        "value": "Saint-Bertin Skriptorium Odbert 2",
         "order": "17.00000000000000000000"
       }
     ],
@@ -11264,7 +11264,7 @@
     "scribe": [
       {
         "id": 16,
-        "value": "Saint-Bertin_Skriptorium Odbert_1",
+        "value": "Saint-Bertin Skriptorium Odbert 1",
         "order": "15.00000000000000000000"
       }
     ],
@@ -14666,13 +14666,27 @@
   "210": {
     "id": 210,
     "order": "169.00000000000000000000",
-    "label": [],
-    "description": "",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 94,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 289_H. 1"
+      }
+    ],
+    "description": "Gotische Übergangsschrift um 1200/frühes 13. Jahrhundert (Brechung, Bogenverbindungen)",
     "hit_id": "hit_hands__210",
     "similar_hands": [],
     "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "number": "1",
     "note": "",
     "Created by": {
       "id": 87,
@@ -14680,10 +14694,176 @@
     },
     "Created on": "2026-01-09",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2026-01-09",
+    "Last modified": "2026-01-17",
+    "hands_role": [
+      {
+        "id": 268,
+        "value": "hit_hands_role__268",
+        "order": "222.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 268,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 222,
+          "database_table_3491": 312
+        },
+        "value": "De beneficiis"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 178,
+        "value": "hit_hands_dated__178",
+        "order": "143.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 109,
+          "database_table_3520": 178
+        },
+        "value": "13. Jh."
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 114,
+        "value": "hit_hands_placed__114",
+        "order": "82.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "211": {
+    "id": 211,
+    "order": "170.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 94,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 289_H. 2"
+      }
+    ],
+    "description": "Fügt einen Minitext am unteren Rand in einem niedrigeren Schriftgrad ein. Gotische Übergangsschrift um 1200/frühes 13. Jahrhundert (charakteristisch: Schaft des a schwingt nach links herunter, stark gegabelte Oberlängen)",
+    "hit_id": "hit_hands__211",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-17",
+    "hands_role": [
+      {
+        "id": 269,
+        "value": "hit_hands_role__269",
+        "order": "223.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 269,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 133,
+          "database_table_3491": 313
+        },
+        "value": "Etymologiae"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 179,
+        "value": "hit_hands_dated__179",
+        "order": "144.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 110,
+          "database_table_3520": 179
+        },
+        "value": "13. Jh, erstes Viertel"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 115,
+        "value": "hit_hands_placed__115",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "212": {
+    "id": 212,
+    "order": "171.00000000000000000000",
+    "label": [],
+    "description": "",
+    "hit_id": "hit_hands__212",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-17",
     "hands_role": [],
     "role": [],
     "texts": [],

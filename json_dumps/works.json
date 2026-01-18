@@ -4670,5 +4670,40 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2025-09-02"
+  },
+  "222": {
+    "id": 222,
+    "order": "156.00000000000000000000",
+    "title": "De beneficiis",
+    "gnd_url": "https://d-nb.info/gnd/4387070-3",
+    "note": "",
+    "hit_id": "hit_works__222",
+    "author": [
+      {
+        "id": 55,
+        "value": "Seneca, Lucius Annaeus, Philosophus",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 19,
+        "value": " > Traktat",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-17"
   }
 }

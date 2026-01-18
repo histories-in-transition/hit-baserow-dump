@@ -3593,5 +3593,60 @@
     "material_spec": "Pergament von solider Qualität. Regelmäßig sind kleinere Löcher und (genähte) Risse zu finden.",
     "catchwords": "",
     "quiremarks": "Kustoden (römische Zahlen) zumeist auf der Versoseite des letzten Blattes eines Lage. Teils auch auf der Versoseite des ersten Blattes. Gelegentlich in roter Tinte und mit Korrekturen/Rasuren"
+  },
+  "85": {
+    "id": 85,
+    "order": "49.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 94,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 289, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__85",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-17",
+    "orig_date": [],
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": [],
+    "ruling": "",
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
+    "material_spec": "",
+    "catchwords": "",
+    "quiremarks": ""
   }
 }

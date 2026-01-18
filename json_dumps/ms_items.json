@@ -18072,5 +18072,185 @@
       }
     ],
     "version": []
+  },
+  "312": {
+    "id": 312,
+    "order": "202.00000000000000000000",
+    "label": [
+      {
+        "id": 94,
+        "value": "cod_289__312"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 222,
+        "value": "De beneficiis",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "title_note": "Liber VII",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__312",
+    "filiation": "",
+    "locus_grp": "1r-17v",
+    "hands_role": [
+      {
+        "id": 268,
+        "value": "hit_hands_role__268",
+        "order": "222.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 85,
+        "value": "ÖNB, Cod. 289, cod. unit 1",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-01-17",
+    "Created on": "2026-01-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 94,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 289_H. 1"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "313": {
+    "id": 313,
+    "order": "203.00000000000000000000",
+    "label": [
+      {
+        "id": 94,
+        "value": "cod_289__313"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 133,
+        "value": "Etymologiae",
+        "order": "131.00000000000000000000"
+      }
+    ],
+    "title_note": "Liber IX, Kapitel 23-26",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__313",
+    "filiation": "",
+    "locus_grp": "15v-16r",
+    "hands_role": [
+      {
+        "id": 269,
+        "value": "hit_hands_role__269",
+        "order": "223.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 85,
+        "value": "ÖNB, Cod. 289, cod. unit 1",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-01-17",
+    "Created on": "2026-01-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 94,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 289_H. 2"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
   }
 }

@@ -2311,5 +2311,55 @@
       "id": 87,
       "name": "Ksenia Borisova"
     }
+  },
+  "114": {
+    "id": 114,
+    "order": "82.00000000000000000000",
+    "hit_id": "hit_hands_placed__114",
+    "hand": [
+      {
+        "id": 210,
+        "value": "ÖNB, Cod. 289_H. 1",
+        "order": "169.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "115": {
+    "id": 115,
+    "order": "83.00000000000000000000",
+    "hit_id": "hit_hands_placed__115",
+    "hand": [
+      {
+        "id": 211,
+        "value": "ÖNB, Cod. 289_H. 2",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   }
 }

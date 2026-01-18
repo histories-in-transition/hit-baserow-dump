@@ -4711,5 +4711,77 @@
     "Last modified": "2025-10-22",
     "Created on": "2025-10-22",
     "note": ""
+  },
+  "178": {
+    "id": 178,
+    "order": "143.00000000000000000000",
+    "hit_id": "hit_hands_dated__178",
+    "authority": [
+      {
+        "id": 2,
+        "value": "Bischoff",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "page": "165",
+    "dated": [
+      {
+        "id": 109,
+        "value": "13. Jh.",
+        "order": "77.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 210,
+        "value": "ÖNB, Cod. 289_H. 1",
+        "order": "169.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-17",
+    "Created on": "2026-01-17",
+    "note": "Keine genaue Datierung -> hier wohl eher frühes 13. Jahrhundert."
+  },
+  "179": {
+    "id": 179,
+    "order": "144.00000000000000000000",
+    "hit_id": "hit_hands_dated__179",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 110,
+        "value": "13. Jh, erstes Viertel",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 211,
+        "value": "ÖNB, Cod. 289_H. 2",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-17",
+    "Created on": "2026-01-17",
+    "note": ""
   }
 }

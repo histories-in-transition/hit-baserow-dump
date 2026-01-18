@@ -2061,5 +2061,42 @@
         "value": "Brief Königs Konrad III. an den Patriarchen von Aquilea (1149)"
       }
     ]
+  },
+  "55": {
+    "id": 55,
+    "order": "53.00000000000000000000",
+    "name": "Seneca, Lucius Annaeus, Philosophus",
+    "gnd_url": "https://d-nb.info/gnd/118613200",
+    "hit_id": "hit_people__55",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-17",
+    "works": [
+      {
+        "id": 222,
+        "value": "De beneficiis",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 222,
+        "value": "De beneficiis"
+      }
+    ]
   }
 }

@@ -14662,5 +14662,141 @@
         "order": "55.00000000000000000000"
       }
     ]
+  },
+  "268": {
+    "id": 268,
+    "order": "222.00000000000000000000",
+    "hit_id": "hit_hands_role__268",
+    "hand": [
+      {
+        "id": 210,
+        "value": "ÖNB, Cod. 289_H. 1",
+        "order": "169.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 312,
+        "value": "cod_289__312",
+        "order": "202.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 222,
+          "database_table_3491": 312
+        },
+        "value": "De beneficiis"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 312,
+        "value": "1r-17v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-17",
+    "Last modified": "2026-01-17",
+    "locus_layout": [],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [],
+    "strata": []
+  },
+  "269": {
+    "id": 269,
+    "order": "223.00000000000000000000",
+    "hit_id": "hit_hands_role__269",
+    "hand": [
+      {
+        "id": 211,
+        "value": "ÖNB, Cod. 289_H. 2",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 313,
+        "value": "cod_289__313",
+        "order": "203.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 133,
+          "database_table_3491": 313
+        },
+        "value": "Etymologiae"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 313,
+        "value": "15v-16r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-17",
+    "Last modified": "2026-01-17",
+    "locus_layout": [
+      {
+        "id": 15382,
+        "value": "marginal unten",
+        "color": "cyan"
+      }
+    ],
+    "function": [
+      {
+        "id": 15837,
+        "value": "unabhängig",
+        "color": "dark-purple"
+      }
+    ],
+    "scribe_type": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ],
+    "strata": []
   }
 }

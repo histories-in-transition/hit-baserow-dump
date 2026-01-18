@@ -182,9 +182,9 @@
   "16": {
     "id": 16,
     "order": "15.00000000000000000000",
-    "name": "Saint-Bertin_Skriptorium Odbert_1",
+    "name": "Saint-Bertin Skriptorium Odbert 1",
     "hit_id": "hit_scribes__16",
-    "description": "Ein im Skriptorium des Abtes Odbert von Saint-Bertin wirkender Kopist, der in zumindest einer weiteren Handschrift um das Jahr 1000 aufscheint (Bibliothèque d'agglomération de Saint-Omer ms. 97)",
+    "description": "Ein im Skriptorium des Abtes Odbert von Saint-Bertin wirkender Kopist, der in zumindest einer weiteren Handschrift um ca. 1000 aufscheint (Bibliothèque d'agglomération de Saint-Omer ms. 97)",
     "group": false,
     "hands": [
       {
@@ -214,10 +214,10 @@
         "value": "Bruxelles KBR, ms. 15835_H. 2"
       }
     ],
-    "Last modified": "2025-05-05",
+    "Last modified": "2026-01-17",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "author_entry": [
       {
@@ -230,9 +230,9 @@
   "18": {
     "id": 18,
     "order": "17.00000000000000000000",
-    "name": "Saint-Bertin_Skriptorium Odbert_2",
+    "name": "Saint-Bertin Skriptorium Odbert 2",
     "hit_id": "hit_scribes__18",
-    "description": "",
+    "description": "Ein im Skriptorium des Abtes Odbert von Saint-Bertin wirkender Kopist.",
     "group": false,
     "hands": [
       {
@@ -262,10 +262,10 @@
         "value": "Saint-Omer, ms. 706_H. 4"
       }
     ],
-    "Last modified": "2025-05-05",
+    "Last modified": "2026-01-17",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "author_entry": [
       {
