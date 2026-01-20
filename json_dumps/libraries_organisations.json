@@ -592,5 +592,32 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2026-01-16"
+  },
+  "56": {
+    "id": 56,
+    "order": "23.00000000000000000000",
+    "label": "Stiftsbibliothek Sankt Peter (Salzburg)",
+    "hit_id": "hit_org__56",
+    "gnd_url": "https://d-nb.info/gnd/1701672-1",
+    "library_full": "Erzabtei, Sankt Peter, Stiftsbibliothek",
+    "library_website": "https://www.stift-stpeter.at/de/kultur/index.asp?dat=Bibliothek",
+    "settlement": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "wikidata": "https://www.wikidata.org/wiki/Q129689069",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-19"
   }
 }

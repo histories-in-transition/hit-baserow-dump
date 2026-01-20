@@ -3262,5 +3262,17 @@
     "year": "2000",
     "citation": "Günter Glauche, Katalog der lateinischen Handschriften der Bayerischen Staatsbibliothek München. Die Pergamenthandschriften aus dem Domkapitel Freising, Bd. 1: Clm 6201-6316 (Catalogus codicum manu scriptorum Bibliothecae Monacensis III,2,1), Wiesbaden 2000",
     "link": "https://handschriftenportal.de/workspace?type=undefined&id=https%3A%2F%2Fiiif.ub.uni-leipzig.de%2F0000034962%2Fmanifest.json&page=1"
+  },
+  "308": {
+    "id": 308,
+    "order": "276.00000000000000000000",
+    "author": "Krah A.",
+    "short_title": "Cozroh-Codex (Hochstift Freising Archiv 1)",
+    "zotero_id": "",
+    "hit_id": "hit_bibl__308",
+    "title": "Die Handschrift des Cozroh. Einblicke in die kopiale Überlieferung der verlorenen ältesten Archivbestände des Hochstifts Freising, in: Archivalische Zeitschrift, B. 89. Böhlau Verlag Köln Weimar Wien, 2007, S.407.",
+    "year": "2007",
+    "citation": "Die Handschrift des Cozroh. Einblicke in die kopiale Überlieferung der verlorenen ältesten Archivbestände des Hochstifts Freising, in: Archivalische Zeitschrift, B. 89, Böhlau Verlag Köln Weimar Wien, 2007, S.407.",
+    "link": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.bsb-muenchen.de/fileadmin/pdf/handschriften/fragmente_lat_konkordanz_2008.pdf"
   }
 }

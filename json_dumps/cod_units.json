@@ -3534,9 +3534,9 @@
       {
         "ids": {
           "database_table_3487": 86,
-          "database_table_3488": 7
+          "database_table_3488": 56
         },
-        "value": "Erzabtei St. Peter (Salzburg), a IX 9, cod. unit 1"
+        "value": "Stiftsbibliothek Sankt Peter (Salzburg), a IX 9, cod. unit 1"
       }
     ],
     "notes": "",
@@ -3545,7 +3545,7 @@
     "manuscript": [
       {
         "id": 86,
-        "value": "Erzabtei St. Peter (Salzburg), a IX 9",
+        "value": "Stiftsbibliothek Sankt Peter (Salzburg), a IX 9",
         "order": "47.00000000000000000000"
       }
     ],
