@@ -1369,7 +1369,7 @@
     "manuscript": [
       {
         "id": 28,
-        "value": "BSB, Clm 6299",
+        "value": "BSB, Clm 6282",
         "order": "21.00000000000000000000"
       }
     ],
@@ -1387,7 +1387,7 @@
         "order": "275.00000000000000000000"
       }
     ],
-    "page": "174",
+    "page": "140",
     "preferred_date": false,
     "Created by": {
       "id": 87,
@@ -1398,7 +1398,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2026-01-13T10:03:41.944265Z",
+    "Last modified": "2026-01-20T13:20:15.826090Z",
     "note": ""
   },
   "39": {

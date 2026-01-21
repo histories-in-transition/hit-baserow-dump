@@ -2652,7 +2652,7 @@
           "database_table_3487": 28,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm 6299, cod. unit "
+        "value": "BSB, Clm 6282, cod. unit "
       }
     ],
     "notes": "",
@@ -2661,7 +2661,7 @@
     "manuscript": [
       {
         "id": 28,
-        "value": "BSB, Clm 6299",
+        "value": "BSB, Clm 6282",
         "order": "21.00000000000000000000"
       }
     ],
