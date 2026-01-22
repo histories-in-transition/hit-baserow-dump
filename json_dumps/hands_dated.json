@@ -4783,5 +4783,104 @@
     "Last modified": "2026-01-17",
     "Created on": "2026-01-17",
     "note": ""
+  },
+  "180": {
+    "id": 180,
+    "order": "145.00000000000000000000",
+    "hit_id": "hit_hands_dated__180",
+    "authority": [
+      {
+        "id": 309,
+        "value": "Menhardt",
+        "order": "277.00000000000000000000"
+      }
+    ],
+    "page": "38",
+    "dated": [
+      {
+        "id": 43,
+        "value": "12. Jh., erstes Viertel",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 212,
+        "value": "ÖNB, Cod. 289_H. 3",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-21",
+    "Created on": "2026-01-21",
+    "note": ""
+  },
+  "181": {
+    "id": 181,
+    "order": "146.00000000000000000000",
+    "hit_id": "hit_hands_dated__181",
+    "authority": [
+      {
+        "id": 309,
+        "value": "Menhardt",
+        "order": "277.00000000000000000000"
+      }
+    ],
+    "page": "38",
+    "dated": [
+      {
+        "id": 43,
+        "value": "12. Jh., erstes Viertel",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 213,
+        "value": "ÖNB, Cod. 289_H. 4",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-21",
+    "Created on": "2026-01-21",
+    "note": ""
+  },
+  "182": {
+    "id": 182,
+    "order": "147.00000000000000000000",
+    "hit_id": "hit_hands_dated__182",
+    "authority": [],
+    "page": "",
+    "dated": [],
+    "hand": [],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-21",
+    "Created on": "2026-01-21",
+    "note": ""
   }
 }

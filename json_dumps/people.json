@@ -2098,5 +2098,42 @@
         "value": "De beneficiis"
       }
     ]
+  },
+  "56": {
+    "id": 56,
+    "order": "54.00000000000000000000",
+    "name": "Hildegard, Bingen, Äbtissin, Heilige",
+    "gnd_url": "https://d-nb.info/gnd/118550993",
+    "hit_id": "hit_people__56",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-21",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-21",
+    "works": [
+      {
+        "id": 226,
+        "value": "Visio",
+        "order": "160.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 226,
+        "value": "Visio"
+      }
+    ]
   }
 }

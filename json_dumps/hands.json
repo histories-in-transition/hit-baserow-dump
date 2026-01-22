@@ -14846,13 +14846,27 @@
   "212": {
     "id": 212,
     "order": "171.00000000000000000000",
-    "label": [],
-    "description": "",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 94,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 289_H. 3"
+      }
+    ],
+    "description": "Gotische Minuskel",
     "hit_id": "hit_hands__212",
     "similar_hands": [],
     "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "number": "3",
     "note": "",
     "Created by": {
       "id": 86,
@@ -14863,7 +14877,215 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2026-01-17",
+    "Last modified": "2026-01-21",
+    "hands_role": [
+      {
+        "id": 270,
+        "value": "hit_hands_role__270",
+        "order": "224.00000000000000000000"
+      },
+      {
+        "id": 272,
+        "value": "hit_hands_role__272",
+        "order": "226.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 270,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      },
+      {
+        "id": 272,
+        "value": [
+          {
+            "id": 18189,
+            "value": "Undefinierter Annotator/Bearbeiter",
+            "color": "light-yellow"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 227,
+          "database_table_3491": 320
+        },
+        "value": "Waltharius"
+      },
+      {
+        "ids": {
+          "database_table_3489": 228,
+          "database_table_3491": 322
+        },
+        "value": "Federprobe"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 180,
+        "value": "hit_hands_dated__180",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 43,
+          "database_table_3520": 180
+        },
+        "value": "12. Jh., erstes Viertel"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 116,
+        "value": "hit_hands_placed__116",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "213": {
+    "id": 213,
+    "order": "172.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 94,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 289_H. 4"
+      }
+    ],
+    "description": "Ähnlich wie H. 3, nur zierlicher. Wohl mit gespitzer Feder geschrieben (vgl. Hermann Menhardt,** Verzeichnis der altdeutschen literarischen Handschriften der Österreichischen Nationalbibliothek (1960), S. 38",
+    "hit_id": "hit_hands__213",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "number": "4",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-21",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-21",
+    "hands_role": [
+      {
+        "id": 271,
+        "value": "hit_hands_role__271",
+        "order": "225.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 271,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 227,
+          "database_table_3491": 320
+        },
+        "value": "Waltharius"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 181,
+        "value": "hit_hands_dated__181",
+        "order": "146.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 43,
+          "database_table_3520": 181
+        },
+        "value": "12. Jh., erstes Viertel"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 117,
+        "value": "hit_hands_placed__117",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "214": {
+    "id": 214,
+    "order": "173.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 94,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 289_H. 5"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__214",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "number": "5",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-21",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-21",
     "hands_role": [],
     "role": [],
     "texts": [],

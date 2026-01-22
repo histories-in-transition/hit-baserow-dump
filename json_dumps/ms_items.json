@@ -18120,7 +18120,7 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "Last modified": "2026-01-17",
+    "Last modified": "2026-01-21",
     "Created on": "2026-01-17",
     "Created by": {
       "id": 86,
@@ -18150,7 +18150,13 @@
       }
     ],
     "form_note": "",
-    "columns": [],
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -18210,7 +18216,7 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "Last modified": "2026-01-17",
+    "Last modified": "2026-01-21",
     "Created on": "2026-01-17",
     "Created by": {
       "id": 86,
@@ -18239,8 +18245,686 @@
         "color": "darker-cyan"
       }
     ],
+    "form_note": "Unterer Rand der Seite",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "314": {
+    "id": 314,
+    "order": "204.00000000000000000000",
+    "label": [
+      {
+        "id": 94,
+        "value": "cod_289__314"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "incipit": "Sanctorum virorum praeconia quamquam sint gloriosa",
+    "explicit": "nomen eius iugiter ab omnibus veneratur christianis cui est honor et gloria in secula seculorum sanctorum AMEN",
+    "rubric": "qualiter pignora sancti Hermetis Salisburgum translata sunt",
+    "title_work": [
+      {
+        "id": 223,
+        "value": "Translatio s. Hermetis Salisburgum",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__314",
+    "filiation": "",
+    "locus_grp": "97v-98v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 86,
+        "value": "ÖNB, Cod. 289, cod. unit 3",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-01-21",
+    "Created on": "2026-01-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [
+      {
+        "id": 18625,
+        "value": "Minuskelschrift_Rot",
+        "color": "dark-green"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "315": {
+    "id": 315,
+    "order": "205.00000000000000000000",
+    "label": [
+      {
+        "id": 94,
+        "value": "cod_289__315"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "incipit": "In gallia turonis civitate natale sancto martini episcopi et confessoris",
+    "explicit": "non omittenda convenientius omitteret qui vis archiepiscopus",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 224,
+        "value": "Translatio S. Martini Turonensis Salisburgum",
+        "order": "158.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__315",
+    "filiation": "",
+    "locus_grp": "98v-100r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 86,
+        "value": "ÖNB, Cod. 289, cod. unit 3",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-01-21",
+    "Created on": "2026-01-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "316": {
+    "id": 316,
+    "order": "206.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__316",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-01-21",
+    "Created on": "2026-01-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
     "form_note": "",
     "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "317": {
+    "id": 317,
+    "order": "207.00000000000000000000",
+    "label": [
+      {
+        "id": 94,
+        "value": "cod_289__317"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "incipit": "De tempore beati Ruodberti et de translatione eius de ecclesia sancti petri",
+    "explicit": "a transitu eius usque in praesentem annum quingenti octoginta quinque anni",
+    "rubric": "Collectio de tempore et de translatione beati roudberti",
+    "title_work": [
+      {
+        "id": 225,
+        "value": "Collectio de tempore et de translacione beati Rudberti",
+        "order": "159.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__317",
+    "filiation": "",
+    "locus_grp": "100r-102r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 86,
+        "value": "ÖNB, Cod. 289, cod. unit 3",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-01-21",
+    "Created on": "2026-01-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [
+      {
+        "id": 18625,
+        "value": "Minuskelschrift_Rot",
+        "color": "dark-green"
+      },
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "318": {
+    "id": 318,
+    "order": "208.00000000000000000000",
+    "label": [
+      {
+        "id": 94,
+        "value": "cod_289__318"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "incipit": "Visio hildegardis de ping. Vidi ab aquilone bestias V",
+    "explicit": "dominus iesus interficiet spiritu oris sui",
+    "rubric": "Visio dominę hiltegardis de ping",
+    "title_work": [
+      {
+        "id": 226,
+        "value": "Visio",
+        "order": "160.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__318",
+    "filiation": "",
+    "locus_grp": "102v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 86,
+        "value": "ÖNB, Cod. 289, cod. unit 3",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-01-21",
+    "Created on": "2026-01-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "Wurde auf leere Versoseite eingefügt,",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "319": {
+    "id": 319,
+    "order": "209.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__319",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-01-21",
+    "Created on": "2026-01-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "320": {
+    "id": 320,
+    "order": "210.00000000000000000000",
+    "label": [
+      {
+        "id": 94,
+        "value": "cod_289__320"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "incipit": "Tertia pars orbis fratris europa",
+    "explicit": "Hec est waltharii poesis nos saluet iesus",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 227,
+        "value": "Waltharius",
+        "order": "161.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__320",
+    "filiation": "",
+    "locus_grp": "103v-130v",
+    "hands_role": [
+      {
+        "id": 270,
+        "value": "hit_hands_role__270",
+        "order": "224.00000000000000000000"
+      },
+      {
+        "id": 271,
+        "value": "hit_hands_role__271",
+        "order": "225.00000000000000000000"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2026-01-21",
+    "Created on": "2026-01-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 94,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 289_H. 3"
+      },
+      {
+        "ids": {
+          "database_table_3487": 94,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 289_H. 4"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "321": {
+    "id": 321,
+    "order": "211.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__321",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-01-21",
+    "Created on": "2026-01-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "322": {
+    "id": 322,
+    "order": "212.00000000000000000000",
+    "label": [
+      {
+        "id": 94,
+        "value": "cod_289__322"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 228,
+        "value": "Federprobe",
+        "order": "162.00000000000000000000"
+      }
+    ],
+    "title_note": "probatio / asia affrica europa",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__322",
+    "filiation": "",
+    "locus_grp": "103r",
+    "hands_role": [
+      {
+        "id": 272,
+        "value": "hit_hands_role__272",
+        "order": "226.00000000000000000000"
+      }
+    ],
+    "cod_unit": [],
+    "Last modified": "2026-01-21",
+    "Created on": "2026-01-21",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 94,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 289_H. 3"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "Federproben auf leerer Rectoseite einer neuen Lagen",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],

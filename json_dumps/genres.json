@@ -743,5 +743,31 @@
     "Last modified": "2025-06-27",
     "sub_genre": "Passio",
     "main_genre": "Hagiographie"
+  },
+  "37": {
+    "id": 37,
+    "order": "36.00000000000000000000",
+    "label": "Dichtung > Heldendichtung",
+    "genre": "Heldendichtung",
+    "hit_id": "hit_genres__37",
+    "m_genre": [
+      {
+        "id": 24,
+        "value": "Dichtung > ",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-21",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-21",
+    "sub_genre": "Heldendichtung",
+    "main_genre": "Dichtung"
   }
 }

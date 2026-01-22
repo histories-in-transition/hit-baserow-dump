@@ -14798,5 +14798,209 @@
       }
     ],
     "strata": []
+  },
+  "270": {
+    "id": 270,
+    "order": "224.00000000000000000000",
+    "hit_id": "hit_hands_role__270",
+    "hand": [
+      {
+        "id": 212,
+        "value": "ÖNB, Cod. 289_H. 3",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 320,
+        "value": "cod_289__320",
+        "order": "210.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "103v-117v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 227,
+          "database_table_3491": 320
+        },
+        "value": "Waltharius"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 320,
+        "value": "103v-130v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-21",
+    "Last modified": "2026-01-21",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [],
+    "strata": []
+  },
+  "271": {
+    "id": 271,
+    "order": "225.00000000000000000000",
+    "hit_id": "hit_hands_role__271",
+    "hand": [
+      {
+        "id": 213,
+        "value": "ÖNB, Cod. 289_H. 4",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 320,
+        "value": "cod_289__320",
+        "order": "210.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "118r-130v",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 227,
+          "database_table_3491": 320
+        },
+        "value": "Waltharius"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 320,
+        "value": "103v-130v"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-21",
+    "Last modified": "2026-01-21",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [],
+    "strata": []
+  },
+  "272": {
+    "id": 272,
+    "order": "226.00000000000000000000",
+    "hit_id": "hit_hands_role__272",
+    "hand": [
+      {
+        "id": 212,
+        "value": "ÖNB, Cod. 289_H. 3",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 322,
+        "value": "cod_289__322",
+        "order": "212.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 18189,
+        "value": "Undefinierter Annotator/Bearbeiter",
+        "color": "light-yellow"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 228,
+          "database_table_3491": 322
+        },
+        "value": "Federprobe"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 322,
+        "value": "103r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-21",
+    "Last modified": "2026-01-21",
+    "locus_layout": [
+      {
+        "id": 18158,
+        "value": "graphisch divers",
+        "color": "darker-green"
+      }
+    ],
+    "function": [
+      {
+        "id": 15836,
+        "value": "inhaltsbezogen",
+        "color": "darker-orange"
+      }
+    ],
+    "scribe_type": [],
+    "strata": []
   }
 }

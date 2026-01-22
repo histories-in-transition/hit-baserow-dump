@@ -2361,5 +2361,55 @@
       "id": 86,
       "name": "Leon Pürstinger"
     }
+  },
+  "116": {
+    "id": 116,
+    "order": "84.00000000000000000000",
+    "hit_id": "hit_hands_placed__116",
+    "hand": [
+      {
+        "id": 212,
+        "value": "ÖNB, Cod. 289_H. 3",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
+  },
+  "117": {
+    "id": 117,
+    "order": "85.00000000000000000000",
+    "hit_id": "hit_hands_placed__117",
+    "hand": [
+      {
+        "id": 213,
+        "value": "ÖNB, Cod. 289_H. 4",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    }
   }
 }

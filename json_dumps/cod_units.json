@@ -3636,8 +3636,115 @@
     "written_height": "",
     "width": "",
     "columns": [],
-    "cod_unit_placed": [],
-    "prov_place": [],
+    "cod_unit_placed": [
+      {
+        "id": 40,
+        "value": "hit_codunit_place__40",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "hit_codunit_place__42",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 40
+        },
+        "value": "Salzburg"
+      },
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 42
+        },
+        "value": "Salzburg"
+      }
+    ],
+    "strata": [],
+    "ruling": "",
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
+    "material_spec": "",
+    "catchwords": "",
+    "quiremarks": ""
+  },
+  "86": {
+    "id": 86,
+    "order": "50.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 94,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 289, cod. unit 3"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__86",
+    "locus": "86r-146v",
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "ÖNB, Cod. 289",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "number": "3",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-01-21",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-01-21",
+    "orig_date": [],
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [
+      {
+        "id": 41,
+        "value": "hit_codunit_place__41",
+        "order": "41.00000000000000000000"
+      },
+      {
+        "id": 43,
+        "value": "hit_codunit_place__43",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 41
+        },
+        "value": "Salzburg"
+      },
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 43
+        },
+        "value": "Salzburg"
+      }
+    ],
     "strata": [],
     "ruling": "",
     "material": {
