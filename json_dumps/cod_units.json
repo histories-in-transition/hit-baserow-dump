@@ -244,7 +244,7 @@
         "value": "ÖNB, Cod. 366, cod. unit 1"
       }
     ],
-    "notes": "TBD",
+    "notes": null,
     "hit_id": "hit_cod_unit__13",
     "locus": "1r-208v",
     "manuscript": [
@@ -264,18 +264,54 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-06-11",
+    "Last modified": "2026-03-19",
     "orig_date": [],
-    "heigth": "340 TBD",
-    "lines_number": null,
-    "decorations": "",
-    "basic_structure": [],
-    "written_width": null,
-    "written_height": null,
+    "heigth": "340",
+    "lines_number": "26",
+    "decorations": "Mehrere farbige und mehrzeile Initialen zu Beginn der jeweiligen Bücher - z.B. auf 24r eine rot umrandet N-Initilae über 5 Zeilen.",
+    "basic_structure": [
+      {
+        "id": 18147,
+        "value": "FHFH",
+        "color": "darker-blue"
+      },
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      },
+      {
+        "id": 22740,
+        "value": "FFHH",
+        "color": "dark-pink"
+      }
+    ],
+    "written_width": "180",
+    "written_height": "265-275",
     "width": "240",
-    "columns": [],
-    "cod_unit_placed": [],
-    "prov_place": [],
+    "columns": [
+      {
+        "id": 18124,
+        "value": "2",
+        "color": "dark-blue"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 44,
+        "value": "hit_codunit_place__44",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 44
+        },
+        "value": "Salzburg"
+      }
+    ],
     "strata": [],
     "ruling": null,
     "material": {
@@ -285,7 +321,7 @@
     },
     "material_spec": "Mehrere Blätter aus Kalbpergament. Haarseiten sind teils sehr dunkel.",
     "catchwords": null,
-    "quiremarks": "Lagenzählung zunächst mit Majuskeln, später mit Zahlen."
+    "quiremarks": "Lagenzählung zunächst mit Majuskeln, später mit Zahlen. Auf 144v fehlt die Kustode \"T\", da der untere Rand des Blattes abgeschnitten wurde."
   },
   "4": {
     "id": 4,

@@ -2432,7 +2432,7 @@
         "value": "ÖNB, Cod. 366_H. 5"
       }
     ],
-    "description": "",
+    "description": "Stellvertretende Hand für mehrere Annotationszeichen, die in der gesamten Handschrift vorkommen -&gt; Kreuz, Manicula usw.",
     "hit_id": "hit_hands__30",
     "similar_hands": [],
     "nr_daniel": "",
@@ -2444,17 +2444,17 @@
       }
     ],
     "number": "5",
-    "note": "Fragmenthand TBD",
+    "note": "",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-18",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-05",
+    "Last modified": "2026-03-19",
     "hands_role": [
       {
         "id": 44,
@@ -2467,17 +2467,45 @@
         "id": 44,
         "value": [
           {
-            "id": 15378,
-            "value": "\"Erweiterer\" OUTDATED",
-            "color": "darker-cyan"
+            "id": 18189,
+            "value": "Undefinierter Annotator/Bearbeiter",
+            "color": "light-yellow"
           }
         ]
       }
     ],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 183,
+        "value": "hit_hands_dated__183",
+        "order": "148.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 112,
+          "database_table_3520": 183
+        },
+        "value": "nach 800"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 118,
+        "value": "hit_hands_placed__118",
+        "order": "86.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": [

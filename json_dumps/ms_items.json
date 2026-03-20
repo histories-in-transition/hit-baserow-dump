@@ -6321,7 +6321,7 @@
         "order": "1.66666666666666674068"
       }
     ],
-    "incipit": "",
+    "incipit": "morbis aut fame trista aut terrarum motibus",
     "explicit": "",
     "rubric": "",
     "title_work": [
@@ -6358,6 +6358,11 @@
         "id": 43,
         "value": "hit_hands_role__43",
         "order": "35.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "hit_hands_role__44",
+        "order": "36.00000000000000000000"
       }
     ],
     "cod_unit": [
@@ -6367,15 +6372,15 @@
         "order": "3.75000000000000000000"
       }
     ],
-    "Last modified": "2025-05-13",
+    "Last modified": "2026-03-19",
     "Created on": "2024-07-12",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "note": null,
     "hand": [
@@ -6406,13 +6411,38 @@
           "database_table_3488": 1
         },
         "value": "ÖNB, Cod. 366_H. 4"
+      },
+      {
+        "ids": {
+          "database_table_3487": 22,
+          "database_table_3488": 1
+        },
+        "value": "ÖNB, Cod. 366_H. 5"
       }
     ],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15104,
+        "value": "Unziale_Rot",
+        "color": "darker-pink"
+      }
+    ],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 17437,
+        "value": "Mehrspaltig",
+        "color": "darker-pink"
+      }
+    ],
     "form_note": null,
-    "columns": [],
+    "columns": [
+      {
+        "id": 17458,
+        "value": "2",
+        "color": "dark-yellow"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],

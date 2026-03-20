@@ -2124,15 +2124,15 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-16",
-    "Last modified": "2025-01-30",
+    "Last modified": "2026-03-19",
     "locus_layout": [
       {
         "id": 15841,
@@ -2140,7 +2140,13 @@
         "color": "green"
       }
     ],
-    "function": [],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
     "strata": [
       {
@@ -2266,17 +2272,29 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-16",
-    "Last modified": "2025-01-30",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2026-03-19",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
     "strata": [
       {
@@ -2328,17 +2346,29 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-16",
-    "Last modified": "2025-01-30",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2026-03-19",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
     "strata": [
       {
@@ -2390,17 +2420,29 @@
       }
     ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-16",
-    "Last modified": "2025-01-30",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2026-03-19",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
     "strata": [
       {
@@ -2421,29 +2463,70 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "ms_item": [],
-    "role": [
+    "ms_item": [
       {
-        "id": 15378,
-        "value": "\"Erweiterer\" OUTDATED",
-        "color": "darker-cyan"
+        "id": 80,
+        "value": "cod_366__80",
+        "order": "70.00000000000000000000"
       }
     ],
-    "locus": "",
-    "text": [],
-    "locus_text": [],
+    "role": [
+      {
+        "id": 18189,
+        "value": "Undefinierter Annotator/Bearbeiter",
+        "color": "light-yellow"
+      }
+    ],
+    "locus": "u.a. 160r, 176v, 50r",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 3,
+          "database_table_3491": 80
+        },
+        "value": "Historiae adversus paganos"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 80,
+        "value": "1-207"
+      }
+    ],
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-18",
-    "Last modified": "2025-01-01",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2026-03-19",
+    "locus_layout": [
+      {
+        "id": 19687,
+        "value": "marginal innen",
+        "color": "darker-red"
+      },
+      {
+        "id": 19688,
+        "value": "marginal außen",
+        "color": "light-pink"
+      },
+      {
+        "id": 18157,
+        "value": "mittig (zweispaltig)",
+        "color": "light-red"
+      }
+    ],
+    "function": [
+      {
+        "id": 15836,
+        "value": "inhaltsbezogen",
+        "color": "darker-orange"
+      }
+    ],
     "scribe_type": [],
     "strata": []
   },

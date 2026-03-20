@@ -1316,17 +1316,17 @@
         "value": "1-207"
       }
     ],
-    "note": "Hauptstratum",
+    "note": "Hauptstratum: Abschrift der Orosius-Chronik von mehreren Schreibern um 780-800.",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2024-07-16",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 86,
+      "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-05-02",
+    "Last modified": "2026-03-19",
     "strata_filiation": [],
     "note_filiation": null,
     "cod_units": [],
