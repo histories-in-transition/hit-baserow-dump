@@ -3791,5 +3791,170 @@
     "material_spec": "",
     "catchwords": "",
     "quiremarks": ""
+  },
+  "87": {
+    "id": 87,
+    "order": "51.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 92,
+          "database_table_3488": 54
+        },
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__87",
+    "locus": "1r-186v",
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-03-24",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-03-24",
+    "orig_date": [],
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": [],
+    "ruling": "",
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
+    "material_spec": "",
+    "catchwords": "",
+    "quiremarks": ""
+  },
+  "88": {
+    "id": 88,
+    "order": "52.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 92,
+          "database_table_3488": 54
+        },
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1, cod. unit 2"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__88",
+    "locus": "187r-369v",
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-03-24",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-03-24",
+    "orig_date": [],
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": [],
+    "ruling": "",
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
+    "material_spec": "",
+    "catchwords": "",
+    "quiremarks": ""
+  },
+  "89": {
+    "id": 89,
+    "order": "53.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 92,
+          "database_table_3488": 54
+        },
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1, cod. unit 3"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__89",
+    "locus": "370r-402v",
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "number": "3",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-03-24",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-03-24",
+    "orig_date": [],
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": [],
+    "ruling": "",
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
+    "material_spec": "",
+    "catchwords": "",
+    "quiremarks": ""
   }
 }
