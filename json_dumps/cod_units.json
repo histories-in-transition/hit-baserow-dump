@@ -3824,16 +3824,22 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2026-03-24",
+    "Last modified": "2026-03-25",
     "orig_date": [],
-    "heigth": "",
-    "lines_number": "",
+    "heigth": "165",
+    "lines_number": "23-31",
     "decorations": "",
     "basic_structure": [],
-    "written_width": "",
-    "written_height": "",
-    "width": "",
-    "columns": [],
+    "written_width": "213",
+    "written_height": "117",
+    "width": "275",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
     "cod_unit_placed": [],
     "prov_place": [],
     "strata": [],
@@ -3845,7 +3851,7 @@
     },
     "material_spec": "",
     "catchwords": "",
-    "quiremarks": ""
+    "quiremarks": "Nicht vorhanden"
   },
   "88": {
     "id": 88,
@@ -3879,16 +3885,22 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2026-03-24",
+    "Last modified": "2026-03-25",
     "orig_date": [],
-    "heigth": "",
-    "lines_number": "",
+    "heigth": "165",
+    "lines_number": "23-26",
     "decorations": "",
     "basic_structure": [],
-    "written_width": "",
-    "written_height": "",
-    "width": "",
-    "columns": [],
+    "written_width": "213",
+    "written_height": "117",
+    "width": "275",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
     "cod_unit_placed": [],
     "prov_place": [],
     "strata": [],
@@ -3900,7 +3912,7 @@
     },
     "material_spec": "",
     "catchwords": "",
-    "quiremarks": ""
+    "quiremarks": "Nicht vorhanden"
   },
   "89": {
     "id": 89,
@@ -3934,16 +3946,22 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2026-03-24",
+    "Last modified": "2026-03-25",
     "orig_date": [],
-    "heigth": "",
-    "lines_number": "",
+    "heigth": "165",
+    "lines_number": "21-26",
     "decorations": "",
     "basic_structure": [],
-    "written_width": "",
-    "written_height": "",
-    "width": "",
-    "columns": [],
+    "written_width": "213",
+    "written_height": "117",
+    "width": "275",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
     "cod_unit_placed": [],
     "prov_place": [],
     "strata": [],
@@ -3955,6 +3973,6 @@
     },
     "material_spec": "",
     "catchwords": "",
-    "quiremarks": ""
+    "quiremarks": "Nicht vorhanden"
   }
 }
