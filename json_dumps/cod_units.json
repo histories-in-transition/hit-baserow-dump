@@ -3840,8 +3840,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": [],
+    "cod_unit_placed": [
+      {
+        "id": 45,
+        "value": "hit_codunit_place__45",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 45
+        },
+        "value": "Freising"
+      }
+    ],
     "strata": [],
     "ruling": "",
     "material": {
@@ -3901,8 +3915,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": [],
+    "cod_unit_placed": [
+      {
+        "id": 45,
+        "value": "hit_codunit_place__45",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 45
+        },
+        "value": "Freising"
+      }
+    ],
     "strata": [],
     "ruling": "",
     "material": {
@@ -3962,8 +3990,22 @@
         "color": "darker-gray"
       }
     ],
-    "cod_unit_placed": [],
-    "prov_place": [],
+    "cod_unit_placed": [
+      {
+        "id": 45,
+        "value": "hit_codunit_place__45",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 4,
+          "database_table_3840": 45
+        },
+        "value": "Freising"
+      }
+    ],
     "strata": [],
     "ruling": "",
     "material": {

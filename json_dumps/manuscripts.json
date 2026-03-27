@@ -5693,10 +5693,16 @@
       }
     ],
     "extent": "400",
-    "foliation": "",
-    "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
+    "foliation": "moderne Paginierung",
+    "acc_mat": "Als eine Umschlage zugebundene fünf Doppelblätter mit der Chronologischen Übersicht der Enträge, 1870 von Carl Roth erstellt. Dazu eine Beschreibung Hs. von Pius Wittmann aus dem 1876. Zwei Blätter halber Breite (ff. 1,2) mit dem Verzeichis wurden bei der Einbindung  im 14. Jh. hinzugefügt.",
+    "binding": "Brauner Ledereinband",
+    "binding_date": [
+      {
+        "id": 55,
+        "value": "14 Jh.",
+        "order": "55.00000000000000000000"
+      }
+    ],
     "history": "",
     "bibliography": [],
     "height": "165",
@@ -5704,7 +5710,7 @@
     "material_spec": "",
     "orig_place": [],
     "catchwords": "",
-    "quiremarks": "",
+    "quiremarks": "Keine",
     "material": {
       "id": 14782,
       "value": "Pergament",
@@ -5736,8 +5742,8 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-01-16",
-    "Last modified": "2026-01-19",
-    "content_summary": "Cozroh-Codex",
+    "Last modified": "2026-03-26",
+    "content_summary": "Cozroh-Codex, Freisinger Traditionsbuch",
     "charakter": [],
     "case_study": [],
     "status": [],
