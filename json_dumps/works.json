@@ -4894,5 +4894,40 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2026-01-21"
+  },
+  "229": {
+    "id": 229,
+    "order": "163.00000000000000000000",
+    "title": "Beneficium Rihhonis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__229",
+    "author": [
+      {
+        "id": 57,
+        "value": "Hitto, Bischof von Freising",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "bibliography": [
+      {
+        "id": 310,
+        "value": "Bitterauf, Th.",
+        "order": "278.00000000000000000000"
+      }
+    ],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-14",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-14"
   }
 }

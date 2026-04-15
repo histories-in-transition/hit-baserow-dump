@@ -3286,5 +3286,17 @@
     "year": "1960",
     "citation": "",
     "link": ""
+  },
+  "310": {
+    "id": 310,
+    "order": "278.00000000000000000000",
+    "author": "Bitterauf, Th.",
+    "short_title": "Die Traditionen des Hochstiftes Freising",
+    "zotero_id": "",
+    "hit_id": "hit_bibl__310",
+    "title": "Die Traditionen des Hochstifts Freising, I, 744-926",
+    "year": "1905",
+    "citation": "",
+    "link": "https://opacplus.bsb-muenchen.de/discovery/search?query=any,contains,BV006737476&tab=LibraryCatalog&search_scope=MyInstitution&vid=49BVB_BSB:VU1"
   }
 }

@@ -2135,5 +2135,42 @@
         "value": "Visio"
       }
     ]
+  },
+  "57": {
+    "id": 57,
+    "order": "55.00000000000000000000",
+    "name": "Hitto, Bischof von Freising",
+    "gnd_url": "https://explore.gnd.network/gnd/102500142",
+    "hit_id": "hit_people__57",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-14",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-14",
+    "works": [
+      {
+        "id": 229,
+        "value": "Beneficium Rihhonis",
+        "order": "163.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 229,
+        "value": "Beneficium Rihhonis"
+      }
+    ]
   }
 }

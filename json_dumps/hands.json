@@ -15123,5 +15123,50 @@
     "scribe": [],
     "gruppe": false,
     "author_entry": []
+  },
+  "215": {
+    "id": 215,
+    "order": "174.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 92,
+          "database_table_3488": 54
+        },
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1_H. 1"
+      }
+    ],
+    "description": "",
+    "hit_id": "hit_hands__215",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-14",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-14",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
   }
 }

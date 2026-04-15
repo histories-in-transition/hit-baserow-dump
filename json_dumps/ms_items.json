@@ -18966,5 +18966,87 @@
       }
     ],
     "version": []
+  },
+  "323": {
+    "id": 323,
+    "order": "213.00000000000000000000",
+    "label": [
+      {
+        "id": 92,
+        "value": "hochstift freising archiv 1__323"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "incipit": "Notum sit cunctis fidelibus...",
+    "explicit": "...Hittonis episcopi scripsi",
+    "rubric": "Rihhonis",
+    "title_work": [
+      {
+        "id": 229,
+        "value": "Beneficium Rihhonis",
+        "order": "163.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__323",
+    "filiation": "",
+    "locus_grp": "b 1",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 87,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1, cod. unit 1",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-14",
+    "Created on": "2026-04-14",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
   }
 }

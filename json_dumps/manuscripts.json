@@ -5692,7 +5692,7 @@
         "value": ""
       }
     ],
-    "extent": "400",
+    "extent": "Insgesamt 404 Bl. Die ersten 8 Blätter haben Doppelpaginierung b-j/1-8, von f. 8 startet die Zahlung erneut mit der Zahl 3 und geht durchaus die Handschrift bis zur Zahl 400.",
     "foliation": "moderne Paginierung",
     "acc_mat": "Als eine Umschlage zugebundene fünf Doppelblätter mit der Chronologischen Übersicht der Enträge, 1870 von Carl Roth erstellt. Dazu eine Beschreibung Hs. von Pius Wittmann aus dem 1876. Zwei Blätter halber Breite (ff. 1,2) mit dem Verzeichis wurden bei der Einbindung  im 14. Jh. hinzugefügt.",
     "binding": "Brauner Ledereinband",
@@ -5742,10 +5742,16 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-01-16",
-    "Last modified": "2026-03-26",
+    "Last modified": "2026-04-14",
     "content_summary": "Cozroh-Codex, Freisinger Traditionsbuch",
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17441,
+        "value": "Freising",
+        "color": "deep-dark-orange"
+      }
+    ],
     "status": [],
     "author_entry": [],
     "title": "Cozroh-Codex"
