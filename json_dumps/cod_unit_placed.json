@@ -2137,5 +2137,54 @@
     "uncertain_from": false,
     "uncertain_till": false,
     "uncertain_place": false
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "hit_id": "hit_codunit_place__46",
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 81,
+        "value": "Lambach",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "from": [
+      {
+        "id": 67,
+        "value": "12. Jh., viertes Viertel",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "type": {
+      "id": 18150,
+      "value": "orig",
+      "color": "deep-dark-orange"
+    },
+    "till": [
+      {
+        "id": 113,
+        "value": "20. Jh., erste Hälfte",
+        "order": "81.00000000000000000000"
+      }
+    ],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 28547"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "uncertain_from": true,
+    "uncertain_till": true,
+    "uncertain_place": true
   }
 }

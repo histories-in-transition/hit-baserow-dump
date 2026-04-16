@@ -15168,5 +15168,298 @@
     "scribe": [],
     "gruppe": false,
     "author_entry": []
+  },
+  "216": {
+    "id": 216,
+    "order": "175.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 1"
+      }
+    ],
+    "description": "Romanische und frühgotische Minuskel. Gruppe aus mehreren Händen, die Ende des 12. Jahrhunderts bzw. Anfang des 13. Jahrhunderts die Texte anfertigten.",
+    "hit_id": "hit_hands__216",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-15",
+    "hands_role": [
+      {
+        "id": 273,
+        "value": "hit_hands_role__273",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 273,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 231,
+          "database_table_3491": 326
+        },
+        "value": "Rhetorica ecclesiastica"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 184,
+        "value": "hit_hands_dated__184",
+        "order": "149.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 67,
+          "database_table_3520": 184
+        },
+        "value": "12. Jh., viertes Viertel"
+      },
+      {
+        "ids": {
+          "database_table_3512": 110,
+          "database_table_3520": 184
+        },
+        "value": "13. Jh, erstes Viertel"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 119,
+        "value": "hit_hands_placed__119",
+        "order": "87.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": true,
+    "author_entry": []
+  },
+  "217": {
+    "id": 217,
+    "order": "176.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 2"
+      }
+    ],
+    "description": "Schreibt die Historia Calamitatum in einer späten romanischen Minuskel ab.",
+    "hit_id": "hit_hands__217",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "number": "2",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-15",
+    "hands_role": [
+      {
+        "id": 274,
+        "value": "hit_hands_role__274",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 274,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 230,
+          "database_table_3491": 325
+        },
+        "value": "Historia calamitatum ecclesiae Salisburgensis"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "218": {
+    "id": 218,
+    "order": "177.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 3"
+      }
+    ],
+    "description": "Historiographischer Annotator gegen Ende des 12. Jahrhunderts.",
+    "hit_id": "hit_hands__218",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "number": "3",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-15",
+    "hands_role": [
+      {
+        "id": 275,
+        "value": "hit_hands_role__275",
+        "order": "229.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 275,
+        "value": []
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 117,
+          "database_table_3491": 324
+        },
+        "value": "Historiographische Annotationen"
+      }
+    ],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "219": {
+    "id": 219,
+    "order": "178.00000000000000000000",
+    "label": [],
+    "description": "",
+    "hit_id": "hit_hands__219",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-15",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "220": {
+    "id": 220,
+    "order": "179.00000000000000000000",
+    "label": [],
+    "description": "",
+    "hit_id": "hit_hands__220",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [],
+    "number": null,
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-15",
+    "hands_role": [],
+    "role": [],
+    "texts": [],
+    "hands_dated": [],
+    "dating": [],
+    "hands_placed": [],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
   }
 }

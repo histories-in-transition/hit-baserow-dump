@@ -4929,5 +4929,69 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2026-04-14"
+  },
+  "230": {
+    "id": 230,
+    "order": "164.00000000000000000000",
+    "title": "Historia calamitatum ecclesiae Salisburgensis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__230",
+    "author": [
+      {
+        "id": 58,
+        "value": "Heinrich von Salzburg",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 5,
+        "value": "Historiographie > ",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-15"
+  },
+  "231": {
+    "id": 231,
+    "order": "165.00000000000000000000",
+    "title": "Rhetorica ecclesiastica",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__231",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 12,
+        "value": "Normative Texte > Rechtstexte",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-15"
   }
 }

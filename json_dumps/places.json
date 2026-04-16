@@ -1213,5 +1213,26 @@
     "Last modified": "2026-01-16",
     "lat": null,
     "long": null
+  },
+  "81": {
+    "id": 81,
+    "order": "47.00000000000000000000",
+    "name": "Lambach",
+    "geonames_url": "",
+    "hit_id": "hit_place__81",
+    "wikidata_url": "",
+    "country": [],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-15",
+    "lat": null,
+    "long": null
   }
 }

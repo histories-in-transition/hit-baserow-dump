@@ -4016,5 +4016,86 @@
     "material_spec": "",
     "catchwords": "",
     "quiremarks": "Nicht vorhanden"
+  },
+  "90": {
+    "id": 90,
+    "order": "54.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__90",
+    "locus": "1r-188v",
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-15",
+    "orig_date": [],
+    "heigth": "",
+    "lines_number": "22-29",
+    "decorations": "Bis auf rote Initialen auf zwei Zeilen oder rote Kapitälchen keine weiteren Dekorationen.",
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
+    "written_width": "85-110",
+    "written_height": "140-150",
+    "width": "",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 46,
+        "value": "hit_codunit_place__46",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 81,
+          "database_table_3840": 46
+        },
+        "value": "Lambach"
+      }
+    ],
+    "strata": [],
+    "ruling": "Linierung kaum erkennbar",
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
+    "material_spec": "Kleinformatig. Pergament von guter Qualität ohne grobe Beschädigungen (gelegentlich Löcher ung genähte Risse). Zumeist sehr helles Pergament. Einzelne Blätter am unteren Rand abgeschnitten. Gelegentlich Einschub von kleinen \"Zetteln\".",
+    "catchwords": "Nicht vorhanden",
+    "quiremarks": "Nicht vorhanden"
   }
 }

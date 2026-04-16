@@ -4915,5 +4915,43 @@
     "Last modified": "2026-03-19",
     "Created on": "2026-03-19",
     "note": ""
+  },
+  "184": {
+    "id": 184,
+    "order": "149.00000000000000000000",
+    "hit_id": "hit_hands_dated__184",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 67,
+        "value": "12. Jh., viertes Viertel",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 110,
+        "value": "13. Jh, erstes Viertel",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 216,
+        "value": "BSB, Clm 28547_H. 1",
+        "order": "175.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-15",
+    "Created on": "2026-04-15",
+    "note": ""
   }
 }

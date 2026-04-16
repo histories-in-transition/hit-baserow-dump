@@ -2014,5 +2014,43 @@
     },
     "Last modified": "2026-01-19T11:00:57.861048Z",
     "note": ""
+  },
+  "90": {
+    "id": 90,
+    "order": "55.00000000000000000000",
+    "hit_id": "hit_dated__90",
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 67,
+        "value": "12. Jh., viertes Viertel",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 110,
+        "value": "13. Jh, erstes Viertel",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-15T10:02:15.044927Z",
+    "note": ""
   }
 }

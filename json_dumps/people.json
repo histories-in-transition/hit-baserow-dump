@@ -2172,5 +2172,42 @@
         "value": "Beneficium Rihhonis"
       }
     ]
+  },
+  "58": {
+    "id": 58,
+    "order": "56.00000000000000000000",
+    "name": "Heinrich von Salzburg",
+    "gnd_url": "https://d-nb.info/gnd/102848297",
+    "hit_id": "hit_people__58",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-15",
+    "works": [
+      {
+        "id": 230,
+        "value": "Historia calamitatum ecclesiae Salisburgensis",
+        "order": "164.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 230,
+        "value": "Historia calamitatum ecclesiae Salisburgensis"
+      }
+    ]
   }
 }
