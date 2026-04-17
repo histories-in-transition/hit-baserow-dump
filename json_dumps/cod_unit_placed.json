@@ -2186,5 +2186,96 @@
     "uncertain_from": true,
     "uncertain_till": true,
     "uncertain_place": true
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "hit_id": "hit_codunit_place__47",
+    "cod_unit": [
+      {
+        "id": 92,
+        "value": "BSB, Clm 15817, cod. unit 1",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "from": [
+      {
+        "id": 114,
+        "value": "821-836",
+        "order": "82.00000000000000000000"
+      }
+    ],
+    "type": {
+      "id": 18150,
+      "value": "orig",
+      "color": "deep-dark-orange"
+    },
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 15817"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "uncertain_from": false,
+    "uncertain_till": false,
+    "uncertain_place": false
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "hit_id": "hit_codunit_place__48",
+    "cod_unit": [
+      {
+        "id": 91,
+        "value": "BSB, Clm 15821, cod. unit 1",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "place": [
+      {
+        "id": 3,
+        "value": "Salzburg",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "from": [
+      {
+        "id": 115,
+        "value": "9. Jh., viertes Viertel",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 116,
+        "value": "10. Jh., erste Hälfte",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "type": {
+      "id": 18150,
+      "value": "orig",
+      "color": "deep-dark-orange"
+    },
+    "till": [],
+    "ms": [
+      {
+        "id": 4,
+        "value": "BSB, Clm 15821"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "uncertain_from": false,
+    "uncertain_till": false,
+    "uncertain_place": false
   }
 }

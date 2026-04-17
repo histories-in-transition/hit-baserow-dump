@@ -15403,13 +15403,27 @@
   "219": {
     "id": 219,
     "order": "178.00000000000000000000",
-    "label": [],
-    "description": "",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 99,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15821_H. 1"
+      }
+    ],
+    "description": "Klar identifizierbare Haupthand in einer karolingischen Minuskel, die allmählich Züge des 10. Jahrhunderts annimmt. Sie ist wohl ins späte 9. Jahrhundert oder in die 1. Hälfte des 10. Jahrhunderts zu datieren.",
     "hit_id": "hit_hands__219",
     "similar_hands": [],
     "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
+    "manuscript": [
+      {
+        "id": 99,
+        "value": "BSB, Clm 15821",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "number": "1",
     "note": "",
     "Created by": {
       "id": 86,
@@ -15420,7 +15434,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2026-04-15",
+    "Last modified": "2026-04-16",
     "hands_role": [],
     "role": [],
     "texts": [],

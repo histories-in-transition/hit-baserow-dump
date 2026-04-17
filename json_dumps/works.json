@@ -4993,5 +4993,108 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2026-04-15"
+  },
+  "232": {
+    "id": 232,
+    "order": "166.00000000000000000000",
+    "title": "Urkunden Freisinger Bischöfe Joseph, Arbeo, Atto",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__232",
+    "author": [
+      {
+        "id": 59,
+        "value": "Joseph von Freising",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 60,
+        "value": "Arbeo von Freising",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "Atto von Freising",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-16"
+  },
+  "233": {
+    "id": 233,
+    "order": "167.00000000000000000000",
+    "title": "Traditio Haholti et filii eius Arnonis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__233",
+    "author": [
+      {
+        "id": 62,
+        "value": "Arn, Erzbischof von Salzburg",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-16"
+  },
+  "234": {
+    "id": 234,
+    "order": "168.00000000000000000000",
+    "title": "Prolog Cozrohs",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__234",
+    "author": [
+      {
+        "id": 63,
+        "value": "Cozrohus",
+        "order": "61.00000000000000000000"
+      }
+    ],
+    "bibliography": [
+      {
+        "id": 308,
+        "value": "Krah A.",
+        "order": "276.00000000000000000000"
+      }
+    ],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-16"
   }
 }

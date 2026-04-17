@@ -4049,11 +4049,11 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2026-04-15",
+    "Last modified": "2026-04-16",
     "orig_date": [],
     "heigth": "",
     "lines_number": "22-29",
-    "decorations": "Bis auf rote Initialen auf zwei Zeilen oder rote Kapitälchen keine weiteren Dekorationen.",
+    "decorations": "Rote Initialen (zwei- bis fünfzeilig) und rote Kapitälchen. Ansonsten keine weiteren Dekorationen.",
     "basic_structure": [
       {
         "id": 18145,
@@ -4097,5 +4097,167 @@
     "material_spec": "Kleinformatig. Pergament von guter Qualität ohne grobe Beschädigungen (gelegentlich Löcher ung genähte Risse). Zumeist sehr helles Pergament. Einzelne Blätter am unteren Rand abgeschnitten. Gelegentlich Einschub von kleinen \"Zetteln\".",
     "catchwords": "Nicht vorhanden",
     "quiremarks": "Nicht vorhanden"
+  },
+  "91": {
+    "id": 91,
+    "order": "55.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 99,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15821, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__91",
+    "locus": "1r-147v",
+    "manuscript": [
+      {
+        "id": 99,
+        "value": "BSB, Clm 15821",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-16",
+    "orig_date": [],
+    "heigth": "200",
+    "lines_number": "16",
+    "decorations": "Rote Initialen (zumeist über 2 Zeilen) samt roter Auszeichnungsschrift.",
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
+    "written_width": "80-84",
+    "written_height": "145",
+    "width": "120",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 48,
+        "value": "hit_codunit_place__48",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 48
+        },
+        "value": "Salzburg"
+      }
+    ],
+    "strata": [],
+    "ruling": "Kaum sichtbare Blindlinierung",
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
+    "material_spec": "Kleinformatig. Pergament ohen grobe Schäden. Gelegentlich Löcher und Risse. Haarseiten des Pergaments teils sehr dunkel.",
+    "catchwords": "Nicht vorhanden",
+    "quiremarks": "Kustoden sind ab Lage 5 in römischen Zahlen vorhanden, aber teils am unteren Rand abgeschnitten."
+  },
+  "92": {
+    "id": 92,
+    "order": "56.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 100,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15817, cod. unit 1"
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__92",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 100,
+        "value": "BSB, Clm 15817",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-16",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-16",
+    "orig_date": [],
+    "heigth": "250",
+    "lines_number": "20",
+    "decorations": "Verzierte farblose Initialen zu Beginn der drei großen Abschnitte. Auf 1v eine fünfzeilige Q-Initiale bestehend aus floralen Element und einem Fisch; auf 100v eine neunzeilige P-Initiale mit floralen Elementen und einem Blatt am Fußende des Stammes; auf 121r ein fünfzeilige verzierte A-Initiale.\nAnsonsten rote Überschriften in Auszeichnungsschrift.",
+    "basic_structure": [
+      {
+        "id": 18145,
+        "value": "HFFH",
+        "color": "brown"
+      }
+    ],
+    "written_width": "100",
+    "written_height": "180",
+    "width": "160",
+    "columns": [
+      {
+        "id": 18123,
+        "value": "1",
+        "color": "darker-gray"
+      }
+    ],
+    "cod_unit_placed": [
+      {
+        "id": 47,
+        "value": "hit_codunit_place__47",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "prov_place": [
+      {
+        "ids": {
+          "database_table_3492": 3,
+          "database_table_3840": 47
+        },
+        "value": "Salzburg"
+      }
+    ],
+    "strata": [],
+    "ruling": "Blindlinierung",
+    "material": {
+      "id": 19338,
+      "value": "Pergament",
+      "color": "red"
+    },
+    "material_spec": "Zumeist robustes, höherwertiges Pergament. Gelegentlich findet sich ein sehr dünnes Blatt. Haarseite erweist sich als sehr dunkel!",
+    "catchwords": "Nicht vorhanden",
+    "quiremarks": "Wohl vorhanden gewesen, aber nunmehr zumeist abgeschnitten."
   }
 }

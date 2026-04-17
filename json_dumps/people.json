@@ -2209,5 +2209,189 @@
         "value": "Historia calamitatum ecclesiae Salisburgensis"
       }
     ]
+  },
+  "59": {
+    "id": 59,
+    "order": "57.00000000000000000000",
+    "name": "Joseph von Freising",
+    "gnd_url": "https://www.deutsche-biographie.de/gnd134291433.html",
+    "hit_id": "hit_people__59",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-16",
+    "works": [
+      {
+        "id": 232,
+        "value": "Urkunden Freisinger Bischöfe Joseph, Arbeo, Atto",
+        "order": "166.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 232,
+        "value": "Urkunden Freisinger Bischöfe Joseph, Arbeo, Atto"
+      }
+    ]
+  },
+  "60": {
+    "id": 60,
+    "order": "58.00000000000000000000",
+    "name": "Arbeo von Freising",
+    "gnd_url": "https://explore.gnd.network/gnd/118665782",
+    "hit_id": "hit_people__60",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-16",
+    "works": [
+      {
+        "id": 232,
+        "value": "Urkunden Freisinger Bischöfe Joseph, Arbeo, Atto",
+        "order": "166.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 232,
+        "value": "Urkunden Freisinger Bischöfe Joseph, Arbeo, Atto"
+      }
+    ]
+  },
+  "61": {
+    "id": 61,
+    "order": "59.00000000000000000000",
+    "name": "Atto von Freising",
+    "gnd_url": "https://explore.gnd.network/gnd/1114678406",
+    "hit_id": "hit_people__61",
+    "role": [
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-16",
+    "works": [
+      {
+        "id": 232,
+        "value": "Urkunden Freisinger Bischöfe Joseph, Arbeo, Atto",
+        "order": "166.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 232,
+        "value": "Urkunden Freisinger Bischöfe Joseph, Arbeo, Atto"
+      }
+    ]
+  },
+  "62": {
+    "id": 62,
+    "order": "60.00000000000000000000",
+    "name": "Arn, Erzbischof von Salzburg",
+    "gnd_url": "https://explore.gnd.network/gnd/100936768?term=arn%20von%20salzburg&rows=25&pos=1",
+    "hit_id": "hit_people__62",
+    "role": [],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-16",
+    "works": [
+      {
+        "id": 233,
+        "value": "Traditio Haholti et filii eius Arnonis",
+        "order": "167.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 233,
+        "value": "Traditio Haholti et filii eius Arnonis"
+      }
+    ]
+  },
+  "63": {
+    "id": 63,
+    "order": "61.00000000000000000000",
+    "name": "Cozrohus",
+    "gnd_url": "https://explore.gnd.network/gnd/102426864",
+    "hit_id": "hit_people__63",
+    "role": [
+      {
+        "id": 14752,
+        "value": "scribe",
+        "color": "light-pink"
+      },
+      {
+        "id": 14753,
+        "value": "author",
+        "color": "dark-green"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-16",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-16",
+    "works": [
+      {
+        "id": 234,
+        "value": "Prolog Cozrohs",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 234,
+        "value": "Prolog Cozrohs"
+      }
+    ]
   }
 }

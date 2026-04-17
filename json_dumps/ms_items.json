@@ -19008,7 +19008,7 @@
         "order": "51.00000000000000000000"
       }
     ],
-    "Last modified": "2026-04-14",
+    "Last modified": "2026-04-16",
     "Created on": "2026-04-14",
     "Created by": {
       "id": 87,
@@ -19020,7 +19020,13 @@
     },
     "note": "",
     "hand": [],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      }
+    ],
     "facs_url": "",
     "form": [
       {
@@ -19343,6 +19349,380 @@
         "color": "light-red"
       }
     ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "327": {
+    "id": 327,
+    "order": "217.00000000000000000000",
+    "label": [
+      {
+        "id": 92,
+        "value": "hochstift freising archiv 1__327"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 232,
+        "value": "Urkunden Freisinger Bischöfe Joseph, Arbeo, Atto",
+        "order": "166.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__327",
+    "filiation": "",
+    "locus_grp": "b2, c1-d2, 5r-8v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 87,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1, cod. unit 1",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-16",
+    "Created on": "2026-04-16",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [
+      {
+        "id": 15104,
+        "value": "Unziale_Rot",
+        "color": "darker-pink"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "328": {
+    "id": 328,
+    "order": "218.00000000000000000000",
+    "label": [
+      {
+        "id": 92,
+        "value": "hochstift freising archiv 1__328"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "incipit": "In Christi nomine ego Haholt...",
+    "explicit": "...rogatione Haholti et filii eius Arnonis traditorim",
+    "rubric": "Traditio Haholti et filii eius Arnonis",
+    "title_work": [
+      {
+        "id": 233,
+        "value": "Traditio Haholti et filii eius Arnonis",
+        "order": "167.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__328",
+    "filiation": "",
+    "locus_grp": "e2-j1 (7v-8r)",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 87,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1, cod. unit 1",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-16",
+    "Created on": "2026-04-16",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [
+      {
+        "id": 15104,
+        "value": "Unziale_Rot",
+        "color": "darker-pink"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "329": {
+    "id": 329,
+    "order": "219.00000000000000000000",
+    "label": [
+      {
+        "id": 92,
+        "value": "hochstift freising archiv 1__329"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 234,
+        "value": "Prolog Cozrohs",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__329",
+    "filiation": "",
+    "locus_grp": "2v-4r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 87,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1, cod. unit 1",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-16",
+    "Created on": "2026-04-16",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "330": {
+    "id": 330,
+    "order": "220.00000000000000000000",
+    "label": [
+      {
+        "id": 92,
+        "value": "hochstift freising archiv 1__330"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__330",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 87,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1, cod. unit 1",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-16",
+    "Created on": "2026-04-16",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "331": {
+    "id": 331,
+    "order": "221.00000000000000000000",
+    "label": [
+      {
+        "id": 92,
+        "value": "hochstift freising archiv 1__331"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__331",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 87,
+        "value": "Bayerisches Hauptstaatsarchiv, Hochstift Freising Archiv 1, cod. unit 1",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-16",
+    "Created on": "2026-04-16",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
