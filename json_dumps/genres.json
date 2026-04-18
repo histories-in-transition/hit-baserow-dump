@@ -769,5 +769,31 @@
     "Last modified": "2026-01-21",
     "sub_genre": "Heldendichtung",
     "main_genre": "Dichtung"
+  },
+  "38": {
+    "id": 38,
+    "order": "37.00000000000000000000",
+    "label": "Theologische und liturgische Literatur > Sermones",
+    "genre": "Sermones",
+    "hit_id": "hit_genres__38",
+    "m_genre": [
+      {
+        "id": 9,
+        "value": "Theologische und liturgische Literatur > ",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-17",
+    "sub_genre": "Sermones",
+    "main_genre": "Theologische und liturgische Literatur"
   }
 }

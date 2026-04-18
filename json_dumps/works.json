@@ -5096,5 +5096,162 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2026-04-16"
+  },
+  "235": {
+    "id": 235,
+    "order": "169.00000000000000000000",
+    "title": "De pastoribus",
+    "gnd_url": "",
+    "note": "Sermo 46",
+    "hit_id": "hit_works__235",
+    "author": [
+      {
+        "id": 35,
+        "value": "Augustinus, Aurelius",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 38,
+        "value": "Theologische und liturgische Literatur > Sermones",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-17"
+  },
+  "236": {
+    "id": 236,
+    "order": "170.00000000000000000000",
+    "title": "De ovibus",
+    "gnd_url": "",
+    "note": "Sermo 47",
+    "hit_id": "hit_works__236",
+    "author": [
+      {
+        "id": 35,
+        "value": "Augustinus, Aurelius",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 38,
+        "value": "Theologische und liturgische Literatur > Sermones",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-17"
+  },
+  "237": {
+    "id": 237,
+    "order": "171.00000000000000000000",
+    "title": "Vita Cuthberti",
+    "gnd_url": "https://d-nb.info/gnd/4644196-7",
+    "note": "",
+    "hit_id": "hit_works__237",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 1,
+        "value": "Hagiographie > Vita",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-17"
+  },
+  "238": {
+    "id": 238,
+    "order": "172.00000000000000000000",
+    "title": "Passio Sancti Alexandri papae et Hermetis martiris",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__238",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 36,
+        "value": "Hagiographie > Passio",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-17"
+  },
+  "239": {
+    "id": 239,
+    "order": "173.00000000000000000000",
+    "title": "Excerpta de diversis canonibus et conciliis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__239",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 18,
+        "value": "Normative Texte > Canones / Kirchenrecht",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-17"
   }
 }

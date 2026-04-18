@@ -19734,5 +19734,802 @@
       }
     ],
     "version": []
+  },
+  "332": {
+    "id": 332,
+    "order": "222.00000000000000000000",
+    "label": [
+      {
+        "id": 100,
+        "value": "clm 15817__332"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 100,
+        "value": "BSB, Clm 15817",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "incipit": "Qui pastorum nomina audire volunt pastorum officium implere nolunt.",
+    "explicit": "recte ergo faciunt imperatores catholici qui vos cogunt ad unitatem.",
+    "rubric": "In nomine domini incipit liber aureli augustini de pastoribus",
+    "title_work": [
+      {
+        "id": 235,
+        "value": "De pastoribus",
+        "order": "169.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Explicit liber sancti augustini de pastoribus",
+    "siglum": "",
+    "hit_id": "hit_ms_items__332",
+    "filiation": "",
+    "locus_grp": "1v-53r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 92,
+        "value": "BSB, Clm 15817, cod. unit 1",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-17",
+    "Created on": "2026-04-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      },
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      },
+      {
+        "id": 22821,
+        "value": "Unziale Braun/Schwarz",
+        "color": "blue"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "333": {
+    "id": 333,
+    "order": "223.00000000000000000000",
+    "label": [
+      {
+        "id": 100,
+        "value": "clm 15817__333"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 100,
+        "value": "BSB, Clm 15817",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "incipit": "Verba quae cantavimus continent professionem nostram",
+    "explicit": "quia distinctione vos homines estis ego dominus deus vester dicit dominus deus noster.",
+    "rubric": "Item incipit eius de malis liber de ovibus",
+    "title_work": [
+      {
+        "id": 236,
+        "value": "De ovibus",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "Explicit",
+    "siglum": "",
+    "hit_id": "hit_ms_items__333",
+    "filiation": "",
+    "locus_grp": "53v-99v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 92,
+        "value": "BSB, Clm 15817, cod. unit 1",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-17",
+    "Created on": "2026-04-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [
+      {
+        "id": 15104,
+        "value": "Unziale_Rot",
+        "color": "darker-pink"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "334": {
+    "id": 334,
+    "order": "224.00000000000000000000",
+    "label": [
+      {
+        "id": 100,
+        "value": "clm 15817__334"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 100,
+        "value": "BSB, Clm 15817",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "incipit": "Primum quidem ponimus quod in prima aetate accidis",
+    "explicit": "a reliquis supradicti confessoris dei per duos vices de infirmitate sanatus sit.",
+    "rubric": "In nomine domini incipit actus vel vita sancti cudbercti. I. De eo quod infans de illo profetavit.",
+    "title_work": [
+      {
+        "id": 237,
+        "value": "Vita Cuthberti",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "title_note": "Älteste Überlieferung",
+    "bibl": [],
+    "final_rubric": "Explicit actus vel vita sancti cudberchti episcopi",
+    "siglum": "",
+    "hit_id": "hit_ms_items__334",
+    "filiation": "",
+    "locus_grp": "100v-119v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 92,
+        "value": "BSB, Clm 15817, cod. unit 1",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-17",
+    "Created on": "2026-04-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [
+      {
+        "id": 15104,
+        "value": "Unziale_Rot",
+        "color": "darker-pink"
+      },
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      },
+      {
+        "id": 15105,
+        "value": "Capitalis_Braun/Schwarz",
+        "color": "dark-brown"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "335": {
+    "id": 335,
+    "order": "225.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__335",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-04-17",
+    "Created on": "2026-04-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "336": {
+    "id": 336,
+    "order": "226.00000000000000000000",
+    "label": [
+      {
+        "id": 100,
+        "value": "clm 15817__336"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 100,
+        "value": "BSB, Clm 15817",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "incipit": "In subsequenti hoc libro quo nuncupatur synomina",
+    "explicit": "Nihil mihi te carius. Nihil mihi te dulcius. Tu mihi",
+    "rubric": "In nomine domini incipit prologus",
+    "title_work": [
+      {
+        "id": 42,
+        "value": "Synonyma",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__336",
+    "filiation": "",
+    "locus_grp": "120r-177v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 92,
+        "value": "BSB, Clm 15817, cod. unit 1",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-17",
+    "Created on": "2026-04-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "Spätmittelalterliche Zusätze auf 177v und 178r.",
+    "hand": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      },
+      {
+        "id": 15104,
+        "value": "Unziale_Rot",
+        "color": "darker-pink"
+      },
+      {
+        "id": 22821,
+        "value": "Unziale Braun/Schwarz",
+        "color": "blue"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "337": {
+    "id": 337,
+    "order": "227.00000000000000000000",
+    "label": [
+      {
+        "id": 99,
+        "value": "clm 15821__337"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 99,
+        "value": "BSB, Clm 15821",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "incipit": "Quinto loco a beato petro apostolo romane urbis ecclesiae",
+    "explicit": "Benedictus deus in secula saeculorum amen",
+    "rubric": "Incipit passio sancti alexandri papae et hermetis martyris et aliorum sanctorum",
+    "title_work": [
+      {
+        "id": 238,
+        "value": "Passio Sancti Alexandri papae et Hermetis martiris",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__337",
+    "filiation": "",
+    "locus_grp": "1v-31r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 91,
+        "value": "BSB, Clm 15821, cod. unit 1",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-17",
+    "Created on": "2026-04-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [
+      {
+        "id": 15104,
+        "value": "Unziale_Rot",
+        "color": "darker-pink"
+      },
+      {
+        "id": 22821,
+        "value": "Unziale Braun/Schwarz",
+        "color": "blue"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "338": {
+    "id": 338,
+    "order": "228.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__338",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-04-17",
+    "Created on": "2026-04-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "339": {
+    "id": 339,
+    "order": "229.00000000000000000000",
+    "label": [
+      {
+        "id": 99,
+        "value": "clm 15821__339"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 99,
+        "value": "BSB, Clm 15821",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "incipit": "Sanctorum virorum pręconia quamquam sint gloriosa",
+    "explicit": "Cui est honor et gloria in sęcula saeculorum amen",
+    "rubric": "Qualiter pignora sancti hermetis martiris huc venerunt.",
+    "title_work": [
+      {
+        "id": 223,
+        "value": "Translatio s. Hermetis Salisburgum",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__339",
+    "filiation": "",
+    "locus_grp": "31r-35v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 91,
+        "value": "BSB, Clm 15821, cod. unit 1",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-17",
+    "Created on": "2026-04-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      },
+      {
+        "id": 22821,
+        "value": "Unziale Braun/Schwarz",
+        "color": "blue"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "340": {
+    "id": 340,
+    "order": "230.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__340",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-04-17",
+    "Created on": "2026-04-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "341": {
+    "id": 341,
+    "order": "231.00000000000000000000",
+    "label": [
+      {
+        "id": 99,
+        "value": "clm 15821__341"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 99,
+        "value": "BSB, Clm 15821",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "incipit": "De ordinatione vel elctione episcopi vel quot episcopi",
+    "explicit": "",
+    "rubric": "De canone apostolorum",
+    "title_work": [
+      {
+        "id": 239,
+        "value": "Excerpta de diversis canonibus et conciliis",
+        "order": "173.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__341",
+    "filiation": "",
+    "locus_grp": "36r-122v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 91,
+        "value": "BSB, Clm 15821, cod. unit 1",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-17",
+    "Created on": "2026-04-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [
+      {
+        "id": 15104,
+        "value": "Unziale_Rot",
+        "color": "darker-pink"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
   }
 }

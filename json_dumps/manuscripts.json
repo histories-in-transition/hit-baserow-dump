@@ -5890,7 +5890,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2026-01-16",
-    "Last modified": "2026-04-16",
+    "Last modified": "2026-04-17",
     "content_summary": "",
     "charakter": [],
     "case_study": [
@@ -5907,7 +5907,13 @@
         "color": "light-brown"
       }
     ],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "title": ""
   },
   "95": {
@@ -6003,7 +6009,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2026-04-15",
-    "Last modified": "2026-04-16",
+    "Last modified": "2026-04-17",
     "content_summary": "",
     "charakter": [],
     "case_study": [
@@ -6020,7 +6026,13 @@
         "color": "light-brown"
       }
     ],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "title": ""
   },
   "99": {
@@ -6055,7 +6067,7 @@
     ],
     "extent": "147",
     "foliation": "19. Jahrhundert",
-    "acc_mat": "",
+    "acc_mat": "Spätmittelalterliches Spiegelblatt",
     "binding": "Spätmittelalterlicher Einband. Holzdeckel mit Lederüberzug. Fehlende Schließen und Ketten. Vorhandene Streicheisenlinien. Spätmittelalterliches Titelschild auf Pergament unter Glasscheibe (?). Schilder mit alter und neuer Signatur auf dem Rücken. Spiegelblätter mit spätmittelalterlichem Inhalt. Bibliotheksstempel u.a. auf 1r.",
     "binding_date": [],
     "history": "",
@@ -6078,8 +6090,29 @@
       "color": "darker-orange"
     },
     "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 91,
+        "value": "hit_dated__91",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 115,
+          "database_table_3516": 91
+        },
+        "value": "9. Jh., viertes Viertel"
+      },
+      {
+        "ids": {
+          "database_table_3512": 116,
+          "database_table_3516": 91
+        },
+        "value": "10. Jh., erste Hälfte"
+      }
+    ],
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -6089,7 +6122,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2026-04-16",
-    "Last modified": "2026-04-16",
+    "Last modified": "2026-04-17",
     "content_summary": "",
     "charakter": [],
     "case_study": [
@@ -6106,7 +6139,13 @@
         "color": "light-brown"
       }
     ],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "title": ""
   },
   "100": {
@@ -6132,7 +6171,7 @@
     "digi_url": "",
     "idno": "Clm 15817",
     "idno_former": "Sal. Capit. 17",
-    "quire_structure": "",
+    "quire_structure": "5 IV40 + (IV-1)47 + 6 IV95 + (III-2)99 + 2 IV113b + (IV-2)119 + 7 IV172 + (IV-2)177",
     "library_full": [
       {
         "id": 4,
@@ -6170,8 +6209,22 @@
       "color": "darker-orange"
     },
     "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 92,
+        "value": "hit_dated__92",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 114,
+          "database_table_3516": 92
+        },
+        "value": "821-836"
+      }
+    ],
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -6181,8 +6234,8 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2026-04-16",
-    "Last modified": "2026-04-16",
-    "content_summary": "",
+    "Last modified": "2026-04-17",
+    "content_summary": "Auf 177v und 178r finden sich spätmittelalterliche Zusätze, die auf den Inhalt der Handschrift (Isidor) Bezug nehmen. Der letzte Satz auf 177v wurde durchgestrichen und um einen Zusatz ergänzt.",
     "charakter": [],
     "case_study": [
       {
@@ -6198,7 +6251,13 @@
         "color": "light-brown"
       }
     ],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 1,
+        "value": "Leon Pürstinger",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "title": ""
   }
 }

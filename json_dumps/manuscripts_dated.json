@@ -2052,5 +2052,76 @@
     },
     "Last modified": "2026-04-15T10:02:15.044927Z",
     "note": ""
+  },
+  "91": {
+    "id": 91,
+    "order": "56.00000000000000000000",
+    "hit_id": "hit_dated__91",
+    "manuscript": [
+      {
+        "id": 99,
+        "value": "BSB, Clm 15821",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 115,
+        "value": "9. Jh., viertes Viertel",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 116,
+        "value": "10. Jh., erste Hälfte",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-17T11:38:00.929309Z",
+    "note": ""
+  },
+  "92": {
+    "id": 92,
+    "order": "57.00000000000000000000",
+    "hit_id": "hit_dated__92",
+    "manuscript": [
+      {
+        "id": 100,
+        "value": "BSB, Clm 15817",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 114,
+        "value": "821-836",
+        "order": "82.00000000000000000000"
+      }
+    ],
+    "authority": [],
+    "page": "",
+    "preferred_date": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-17",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-17T11:55:09.844303Z",
+    "note": ""
   }
 }

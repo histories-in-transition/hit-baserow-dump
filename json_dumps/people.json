@@ -1397,12 +1397,30 @@
         "id": 59,
         "value": "Tractatus in evangelium Johannis",
         "order": "58.00000000000000000000"
+      },
+      {
+        "id": 235,
+        "value": "De pastoribus",
+        "order": "169.00000000000000000000"
+      },
+      {
+        "id": 236,
+        "value": "De ovibus",
+        "order": "170.00000000000000000000"
       }
     ],
     "work": [
       {
         "id": 59,
         "value": "Tractatus in evangelium Johannis"
+      },
+      {
+        "id": 235,
+        "value": "De pastoribus"
+      },
+      {
+        "id": 236,
+        "value": "De ovibus"
       }
     ]
   },
