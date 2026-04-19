@@ -3298,5 +3298,17 @@
     "year": "1905",
     "citation": "",
     "link": "https://opacplus.bsb-muenchen.de/discovery/search?query=any,contains,BV006737476&tab=LibraryCatalog&search_scope=MyInstitution&vid=49BVB_BSB:VU1"
+  },
+  "311": {
+    "id": 311,
+    "order": "279.00000000000000000000",
+    "author": "LEVISON",
+    "short_title": "Die älteste Lebensbeschreibung Ruperts von Salzburg",
+    "zotero_id": "",
+    "hit_id": "hit_bibl__311",
+    "title": "Die älteste Lebensbeschreibung Ruperts von Salzburg, in: Neues Archiv der Gesellschaft für ältere deutsche Geschichtskunde 28",
+    "year": "1903",
+    "citation": "",
+    "link": ""
   }
 }

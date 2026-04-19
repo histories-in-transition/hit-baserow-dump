@@ -6095,6 +6095,11 @@
         "id": 91,
         "value": "hit_dated__91",
         "order": "56.00000000000000000000"
+      },
+      {
+        "id": 93,
+        "value": "hit_dated__93",
+        "order": "58.00000000000000000000"
       }
     ],
     "orig_dated": [
@@ -6111,6 +6116,13 @@
           "database_table_3516": 91
         },
         "value": "10. Jh., erste Hälfte"
+      },
+      {
+        "ids": {
+          "database_table_3512": 117,
+          "database_table_3516": 93
+        },
+        "value": "850-860"
       }
     ],
     "Created by": {

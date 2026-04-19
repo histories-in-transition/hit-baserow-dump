@@ -20019,53 +20019,6 @@
     ],
     "version": []
   },
-  "335": {
-    "id": 335,
-    "order": "225.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__335",
-    "filiation": "",
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2026-04-17",
-    "Created on": "2026-04-17",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": "",
-    "columns": [],
-    "commented_msitem": [],
-    "interpolations": [],
-    "text_modification": [],
-    "language": [
-      {
-        "id": 19677,
-        "value": "Latein",
-        "color": "light-cyan"
-      }
-    ],
-    "version": []
-  },
   "336": {
     "id": 336,
     "order": "226.00000000000000000000",
@@ -20257,53 +20210,6 @@
     ],
     "version": []
   },
-  "338": {
-    "id": 338,
-    "order": "228.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__338",
-    "filiation": "",
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2026-04-17",
-    "Created on": "2026-04-17",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": "",
-    "columns": [],
-    "commented_msitem": [],
-    "interpolations": [],
-    "text_modification": [],
-    "language": [
-      {
-        "id": 19677,
-        "value": "Latein",
-        "color": "light-cyan"
-      }
-    ],
-    "version": []
-  },
   "339": {
     "id": 339,
     "order": "229.00000000000000000000",
@@ -20397,56 +20303,9 @@
     ],
     "version": []
   },
-  "340": {
-    "id": 340,
-    "order": "230.00000000000000000000",
-    "label": [],
-    "manuscript": [],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__340",
-    "filiation": "",
-    "locus_grp": "",
-    "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2026-04-17",
-    "Created on": "2026-04-17",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [],
-    "decoration": [],
-    "facs_url": "",
-    "form": [],
-    "form_note": "",
-    "columns": [],
-    "commented_msitem": [],
-    "interpolations": [],
-    "text_modification": [],
-    "language": [
-      {
-        "id": 19677,
-        "value": "Latein",
-        "color": "light-cyan"
-      }
-    ],
-    "version": []
-  },
   "341": {
     "id": 341,
-    "order": "231.00000000000000000000",
+    "order": "229.50000000000000000000",
     "label": [
       {
         "id": 99,
@@ -20466,7 +20325,7 @@
     "title_work": [
       {
         "id": 239,
-        "value": "Excerpta de diversis canonibus et conciliis",
+        "value": "Konkordanz zur Dionysio-Hadriana",
         "order": "173.00000000000000000000"
       }
     ],
@@ -20476,7 +20335,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__341",
     "filiation": "",
-    "locus_grp": "36r-122v",
+    "locus_grp": "36r-119v",
     "hands_role": [],
     "cod_unit": [
       {
@@ -20485,7 +20344,7 @@
         "order": "55.00000000000000000000"
       }
     ],
-    "Last modified": "2026-04-17",
+    "Last modified": "2026-04-18",
     "Created on": "2026-04-17",
     "Created by": {
       "id": 86,
@@ -20520,6 +20379,327 @@
         "color": "light-red"
       }
     ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "340": {
+    "id": 340,
+    "order": "230.00000000000000000000",
+    "label": [
+      {
+        "id": 99,
+        "value": "clm 15821__340"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 99,
+        "value": "BSB, Clm 15821",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__340",
+    "filiation": "",
+    "locus_grp": "120r-122v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 91,
+        "value": "BSB, Clm 15821, cod. unit 1",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-18",
+    "Created on": "2026-04-17",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "343": {
+    "id": 343,
+    "order": "230.50000000000000000000",
+    "label": [
+      {
+        "id": 99,
+        "value": "clm 15821__343"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 99,
+        "value": "BSB, Clm 15821",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 242,
+        "value": "Liber scintillarum",
+        "order": "176.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__343",
+    "filiation": "",
+    "locus_grp": "122v-124r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 91,
+        "value": "BSB, Clm 15821, cod. unit 1",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-18",
+    "Created on": "2026-04-18",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "342": {
+    "id": 342,
+    "order": "231.00000000000000000000",
+    "label": [
+      {
+        "id": 99,
+        "value": "clm 15821__342"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 99,
+        "value": "BSB, Clm 15821",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 240,
+        "value": "Lehrdialog über den Glauben",
+        "order": "174.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__342",
+    "filiation": "",
+    "locus_grp": "124r-131v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 91,
+        "value": "BSB, Clm 15821, cod. unit 1",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-18",
+    "Created on": "2026-04-18",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "344": {
+    "id": 344,
+    "order": "233.00000000000000000000",
+    "label": [
+      {
+        "id": 99,
+        "value": "clm 15821__344"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 99,
+        "value": "BSB, Clm 15821",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 241,
+        "value": "De beatitudine animae",
+        "order": "175.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__344",
+    "filiation": "",
+    "locus_grp": "132v-147r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 91,
+        "value": "BSB, Clm 15821, cod. unit 1",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-18",
+    "Created on": "2026-04-18",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "345": {
+    "id": 345,
+    "order": "234.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__345",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-04-18",
+    "Created on": "2026-04-18",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],

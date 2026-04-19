@@ -2123,5 +2123,44 @@
     },
     "Last modified": "2026-04-17T11:55:09.844303Z",
     "note": ""
+  },
+  "93": {
+    "id": 93,
+    "order": "58.00000000000000000000",
+    "hit_id": "hit_dated__93",
+    "manuscript": [
+      {
+        "id": 99,
+        "value": "BSB, Clm 15821",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "date": [
+      {
+        "id": 117,
+        "value": "850-860",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 311,
+        "value": "LEVISON",
+        "order": "279.00000000000000000000"
+      }
+    ],
+    "page": "294",
+    "preferred_date": true,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-18",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-18T11:37:35.597663Z",
+    "note": "Anfang der 850er-Jahre"
   }
 }
