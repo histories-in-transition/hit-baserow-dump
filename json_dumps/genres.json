@@ -795,5 +795,31 @@
     "Last modified": "2026-04-17",
     "sub_genre": "Sermones",
     "main_genre": "Theologische und liturgische Literatur"
+  },
+  "39": {
+    "id": 39,
+    "order": "38.00000000000000000000",
+    "label": "Theologische und liturgische Literatur > Homiliae",
+    "genre": "",
+    "hit_id": "hit_genres__39",
+    "m_genre": [
+      {
+        "id": 9,
+        "value": "Theologische und liturgische Literatur > ",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19",
+    "sub_genre": "Homiliae",
+    "main_genre": "Theologische und liturgische Literatur"
   }
 }

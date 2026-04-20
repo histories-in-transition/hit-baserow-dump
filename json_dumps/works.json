@@ -4576,7 +4576,7 @@
   "155": {
     "id": 155,
     "order": "153.00000000000000000000",
-    "title": "\"Greek Philanthropic Nomenclature\"",
+    "title": "Greek Philanthropic Nomenclature",
     "gnd_url": "",
     "note": "",
     "hit_id": "hit_works__155",
@@ -4600,7 +4600,7 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2025-08-06"
+    "Last modified": "2026-04-19"
   },
   "188": {
     "id": 188,
@@ -5352,5 +5352,375 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2026-04-18"
+  },
+  "243": {
+    "id": 243,
+    "order": "177.00000000000000000000",
+    "title": "Exzerpte aus den Akten des Konzils von Clermont 535, Augustinus, De civitate Dei und der apokryphen zweiten Synode unter Papst Silvester",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__243",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische und liturgische Literatur > ",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 21,
+        "value": " > Excerpta",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19"
+  },
+  "244": {
+    "id": 244,
+    "order": "178.00000000000000000000",
+    "title": "Homiliae et sermones",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__244",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 38,
+        "value": "Theologische und liturgische Literatur > Sermones",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 39,
+        "value": "Theologische und liturgische Literatur > Homiliae",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19"
+  },
+  "245": {
+    "id": 245,
+    "order": "179.00000000000000000000",
+    "title": "Annotationen",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__245",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19"
+  },
+  "246": {
+    "id": 246,
+    "order": "180.00000000000000000000",
+    "title": "Über die drei Marien",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__246",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische und liturgische Literatur > ",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19"
+  },
+  "247": {
+    "id": 247,
+    "order": "181.00000000000000000000",
+    "title": "Exzerpte Pastoraltheologie",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__247",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische und liturgische Literatur > ",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19"
+  },
+  "248": {
+    "id": 248,
+    "order": "182.00000000000000000000",
+    "title": "Sermones",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__248",
+    "author": [
+      {
+        "id": 66,
+        "value": "Bernard, Clairvaux, Abt, Heiliger",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 38,
+        "value": "Theologische und liturgische Literatur > Sermones",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19"
+  },
+  "249": {
+    "id": 249,
+    "order": "183.00000000000000000000",
+    "title": "Symbolisch-katechetische Traktate",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__249",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische und liturgische Literatur > ",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19"
+  },
+  "250": {
+    "id": 250,
+    "order": "184.00000000000000000000",
+    "title": "Formula vitae honestae",
+    "gnd_url": "https://d-nb.info/gnd/4762739-6",
+    "note": "",
+    "hit_id": "hit_works__250",
+    "author": [
+      {
+        "id": 67,
+        "value": "Martin, von Braga, Bischof",
+        "order": "65.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische und liturgische Literatur > ",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19"
+  },
+  "251": {
+    "id": 251,
+    "order": "185.00000000000000000000",
+    "title": "Sermones de epistolis apostolicis",
+    "gnd_url": "",
+    "note": "25 Predigten",
+    "hit_id": "hit_works__251",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 38,
+        "value": "Theologische und liturgische Literatur > Sermones",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19"
+  },
+  "252": {
+    "id": 252,
+    "order": "186.00000000000000000000",
+    "title": "Sermo 172 + Abschnitte aus 173",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__252",
+    "author": [
+      {
+        "id": 35,
+        "value": "Augustinus, Aurelius",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 38,
+        "value": "Theologische und liturgische Literatur > Sermones",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19"
+  },
+  "253": {
+    "id": 253,
+    "order": "187.00000000000000000000",
+    "title": "Quid suum virtutis",
+    "gnd_url": "https://d-nb.info/gnd/1088018025",
+    "note": "",
+    "hit_id": "hit_works__253",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 24,
+        "value": "Dichtung > ",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19"
+  },
+  "254": {
+    "id": 254,
+    "order": "188.00000000000000000000",
+    "title": "Carmina",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__254",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 24,
+        "value": "Dichtung > ",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-19",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-19"
   }
 }

@@ -16673,7 +16673,7 @@
     "title_work": [
       {
         "id": 155,
-        "value": "\"Greek Philanthropic Nomenclature\"",
+        "value": "Greek Philanthropic Nomenclature",
         "order": "153.00000000000000000000"
       }
     ],
@@ -19306,7 +19306,7 @@
         "order": "54.00000000000000000000"
       }
     ],
-    "Last modified": "2026-04-15",
+    "Last modified": "2026-04-19",
     "Created on": "2026-04-15",
     "Created by": {
       "id": 86,
@@ -19351,7 +19351,13 @@
     ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": [],
+    "text_modification": [
+      {
+        "id": 19670,
+        "value": "Umgestaltung",
+        "color": "darker-red"
+      }
+    ],
     "language": [
       {
         "id": 19677,
@@ -20407,10 +20413,16 @@
         "order": "57.00000000000000000000"
       }
     ],
-    "incipit": "",
-    "explicit": "",
+    "incipit": "Haec sunt capituli de diversis canonibus excerpta ad ecclesiasticum statum",
+    "explicit": "et subscripersunt omnes episcopi",
     "rubric": "",
-    "title_work": [],
+    "title_work": [
+      {
+        "id": 243,
+        "value": "Exzerpte aus den Akten des Konzils von Clermont 535, Augustinus, De civitate Dei und der apokryphen zweiten Synode unter Papst Silvester",
+        "order": "177.00000000000000000000"
+      }
+    ],
     "title_note": "",
     "bibl": [],
     "final_rubric": "",
@@ -20426,7 +20438,7 @@
         "order": "55.00000000000000000000"
       }
     ],
-    "Last modified": "2026-04-18",
+    "Last modified": "2026-04-19",
     "Created on": "2026-04-17",
     "Created by": {
       "id": 86,
@@ -20438,11 +20450,29 @@
     },
     "note": "",
     "hand": [],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      }
+    ],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
     "form_note": "",
-    "columns": [],
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -20471,9 +20501,9 @@
         "order": "57.00000000000000000000"
       }
     ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
+    "incipit": "Nutri animam tuam lectionibus divinis",
+    "explicit": "et caelestia premia percipere mereamur.",
+    "rubric": "Er erudtitione animę",
     "title_work": [
       {
         "id": 242,
@@ -20496,7 +20526,7 @@
         "order": "55.00000000000000000000"
       }
     ],
-    "Last modified": "2026-04-18",
+    "Last modified": "2026-04-19",
     "Created on": "2026-04-18",
     "Created by": {
       "id": 86,
@@ -20508,14 +20538,38 @@
     },
     "note": "",
     "hand": [],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      }
+    ],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
     "form_note": "",
-    "columns": [],
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
-    "text_modification": [],
+    "text_modification": [
+      {
+        "id": 19670,
+        "value": "Umgestaltung",
+        "color": "darker-red"
+      }
+    ],
     "language": [
       {
         "id": 19677,
@@ -20541,9 +20595,9 @@
         "order": "57.00000000000000000000"
       }
     ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
+    "incipit": "Quid est fides? Fides est enim sperandarum substantia",
+    "explicit": "et est in coprore color vel qualitas illius",
+    "rubric": "Questiones sanctorum patrum de fide",
     "title_work": [
       {
         "id": 240,
@@ -20566,7 +20620,7 @@
         "order": "55.00000000000000000000"
       }
     ],
-    "Last modified": "2026-04-18",
+    "Last modified": "2026-04-19",
     "Created on": "2026-04-18",
     "Created by": {
       "id": 86,
@@ -20578,11 +20632,29 @@
     },
     "note": "",
     "hand": [],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15104,
+        "value": "Unziale_Rot",
+        "color": "darker-pink"
+      }
+    ],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
     "form_note": "",
-    "columns": [],
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -20611,9 +20683,9 @@
         "order": "57.00000000000000000000"
       }
     ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
+    "incipit": "Beatus qui odio habuerit hunc mundum",
+    "explicit": "ad patrem luminum pervenire amen",
+    "rubric": "De beatitudine animae augustini",
     "title_work": [
       {
         "id": 241,
@@ -20636,7 +20708,7 @@
         "order": "55.00000000000000000000"
       }
     ],
-    "Last modified": "2026-04-18",
+    "Last modified": "2026-04-19",
     "Created on": "2026-04-18",
     "Created by": {
       "id": 86,
@@ -20648,11 +20720,29 @@
     },
     "note": "",
     "hand": [],
-    "decoration": [],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      }
+    ],
     "facs_url": "",
-    "form": [],
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
     "form_note": "",
-    "columns": [],
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
@@ -20685,6 +20775,870 @@
     "cod_unit": [],
     "Last modified": "2026-04-18",
     "Created on": "2026-04-18",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "346": {
+    "id": 346,
+    "order": "235.00000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__346"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 244,
+        "value": "Homiliae et sermones",
+        "order": "178.00000000000000000000"
+      }
+    ],
+    "title_note": "Sammlung an neun Predigten und Homilien, wie etwa zur Passionszeit oder zum Karfreitag.",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__346",
+    "filiation": "",
+    "locus_grp": "1r-24v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "347": {
+    "id": 347,
+    "order": "236.00000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__347"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 245,
+        "value": "Annotationen",
+        "order": "179.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__347",
+    "filiation": "",
+    "locus_grp": "2r, 2v, 13v, 15v, 16r, 18v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "348": {
+    "id": 348,
+    "order": "237.00000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__348"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "Ex sententia Hieronimi contra Eluidium",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 246,
+        "value": "Über die drei Marien",
+        "order": "180.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__348",
+    "filiation": "",
+    "locus_grp": "24v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "349": {
+    "id": 349,
+    "order": "238.00000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__349"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 247,
+        "value": "Exzerpte Pastoraltheologie",
+        "order": "181.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__349",
+    "filiation": "",
+    "locus_grp": "25r-37v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "350": {
+    "id": 350,
+    "order": "239.00000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__350"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 248,
+        "value": "Sermones",
+        "order": "182.00000000000000000000"
+      }
+    ],
+    "title_note": "Auf 110r-111v Einschübe zum Aaronstab, über die Taufe usw.",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__350",
+    "filiation": "",
+    "locus_grp": "98r-115v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "351": {
+    "id": 351,
+    "order": "240.00000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__351"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 249,
+        "value": "Symbolisch-katechetische Traktate",
+        "order": "183.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__351",
+    "filiation": "",
+    "locus_grp": "116r-121v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "352": {
+    "id": 352,
+    "order": "241.00000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__352"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "De quatuor uirtutibus principalibus",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 250,
+        "value": "Formula vitae honestae",
+        "order": "184.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__352",
+    "filiation": "",
+    "locus_grp": "121v-126v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "353": {
+    "id": 353,
+    "order": "242.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__353",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "354": {
+    "id": 354,
+    "order": "243.00000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__354"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 251,
+        "value": "Sermones de epistolis apostolicis",
+        "order": "185.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__354",
+    "filiation": "",
+    "locus_grp": "126v-169v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "355": {
+    "id": 355,
+    "order": "244.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__355",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "356": {
+    "id": 356,
+    "order": "245.00000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__356"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 252,
+        "value": "Sermo 172 + Abschnitte aus 173",
+        "order": "186.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__356",
+    "filiation": "",
+    "locus_grp": "156r-157v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "357": {
+    "id": 357,
+    "order": "246.00000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__357"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 253,
+        "value": "Quid suum virtutis",
+        "order": "187.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__357",
+    "filiation": "",
+    "locus_grp": "170r-177r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "358": {
+    "id": 358,
+    "order": "247.00000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__358"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 254,
+        "value": "Carmina",
+        "order": "188.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__358",
+    "filiation": "",
+    "locus_grp": "187v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-19",
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
