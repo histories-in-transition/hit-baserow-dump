@@ -15101,7 +15101,7 @@
       {
         "id": 326,
         "value": "clm 28547__326",
-        "order": "216.00000000000000000000"
+        "order": "238.33333333333334280724"
       }
     ],
     "role": [
@@ -15169,7 +15169,7 @@
       {
         "id": 325,
         "value": "clm 28547__325",
-        "order": "215.00000000000000000000"
+        "order": "246.50000000000000000000"
       }
     ],
     "role": [
@@ -15237,10 +15237,16 @@
       {
         "id": 324,
         "value": "clm 28547__324",
-        "order": "214.00000000000000000000"
+        "order": "238.50000000000000000000"
       }
     ],
-    "role": [],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
     "locus": "",
     "text": [
       {
@@ -15266,22 +15272,119 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2026-04-15",
-    "Last modified": "2026-04-15",
-    "locus_layout": [],
-    "function": [],
-    "scribe_type": [],
+    "Last modified": "2026-04-20",
+    "locus_layout": [
+      {
+        "id": 19688,
+        "value": "marginal außen",
+        "color": "light-pink"
+      }
+    ],
+    "function": [
+      {
+        "id": 15837,
+        "value": "unabhängig",
+        "color": "dark-purple"
+      }
+    ],
+    "scribe_type": [
+      {
+        "id": 18165,
+        "value": "Erweiterung",
+        "color": "darker-blue"
+      }
+    ],
     "strata": []
   },
   "276": {
     "id": 276,
     "order": "230.00000000000000000000",
     "hit_id": "hit_hands_role__276",
-    "hand": [],
-    "ms_item": [],
-    "role": [],
+    "hand": [
+      {
+        "id": 220,
+        "value": "BSB, Clm 15817_H. 1",
+        "order": "179.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 332,
+        "value": "clm 15817__332",
+        "order": "222.00000000000000000000"
+      },
+      {
+        "id": 333,
+        "value": "clm 15817__333",
+        "order": "223.00000000000000000000"
+      },
+      {
+        "id": 334,
+        "value": "clm 15817__334",
+        "order": "224.00000000000000000000"
+      },
+      {
+        "id": 336,
+        "value": "clm 15817__336",
+        "order": "226.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
     "locus": "",
-    "text": [],
-    "locus_text": [],
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 42,
+          "database_table_3491": 336
+        },
+        "value": "Synonyma"
+      },
+      {
+        "ids": {
+          "database_table_3489": 235,
+          "database_table_3491": 332
+        },
+        "value": "De pastoribus"
+      },
+      {
+        "ids": {
+          "database_table_3489": 236,
+          "database_table_3491": 333
+        },
+        "value": "De ovibus"
+      },
+      {
+        "ids": {
+          "database_table_3489": 237,
+          "database_table_3491": 334
+        },
+        "value": "Vita Cuthberti"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 332,
+        "value": "1v-53r"
+      },
+      {
+        "id": 333,
+        "value": "53v-99v"
+      },
+      {
+        "id": 334,
+        "value": "100v-119v"
+      },
+      {
+        "id": 336,
+        "value": "120r-177v"
+      }
+    ],
     "Last modified by": {
       "id": 86,
       "name": "Leon Pürstinger"
@@ -15291,9 +15394,185 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2026-04-15",
-    "Last modified": "2026-04-15",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2026-04-20",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
+    "scribe_type": [],
+    "strata": []
+  },
+  "277": {
+    "id": 277,
+    "order": "231.00000000000000000000",
+    "hit_id": "hit_hands_role__277",
+    "hand": [
+      {
+        "id": 219,
+        "value": "BSB, Clm 15821_H. 1",
+        "order": "178.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 337,
+        "value": "clm 15821__337",
+        "order": "227.00000000000000000000"
+      },
+      {
+        "id": 339,
+        "value": "clm 15821__339",
+        "order": "229.00000000000000000000"
+      },
+      {
+        "id": 341,
+        "value": "clm 15821__341",
+        "order": "229.50000000000000000000"
+      },
+      {
+        "id": 340,
+        "value": "clm 15821__340",
+        "order": "230.00000000000000000000"
+      },
+      {
+        "id": 343,
+        "value": "clm 15821__343",
+        "order": "230.50000000000000000000"
+      },
+      {
+        "id": 342,
+        "value": "clm 15821__342",
+        "order": "231.00000000000000000000"
+      },
+      {
+        "id": 344,
+        "value": "clm 15821__344",
+        "order": "233.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 223,
+          "database_table_3491": 339
+        },
+        "value": "Translatio s. Hermetis Salisburgum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 238,
+          "database_table_3491": 337
+        },
+        "value": "Passio Sancti Alexandri papae et Hermetis martiris"
+      },
+      {
+        "ids": {
+          "database_table_3489": 239,
+          "database_table_3491": 341
+        },
+        "value": "Konkordanz zur Dionysio-Hadriana"
+      },
+      {
+        "ids": {
+          "database_table_3489": 240,
+          "database_table_3491": 342
+        },
+        "value": "Lehrdialog über den Glauben"
+      },
+      {
+        "ids": {
+          "database_table_3489": 241,
+          "database_table_3491": 344
+        },
+        "value": "De beatitudine animae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 242,
+          "database_table_3491": 343
+        },
+        "value": "Liber scintillarum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 243,
+          "database_table_3491": 340
+        },
+        "value": "Exzerpte aus den Akten des Konzils von Clermont 535, Augustinus, De civitate Dei und der apokryphen zweiten Synode unter Papst Silvester"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 337,
+        "value": "1v-31r"
+      },
+      {
+        "id": 339,
+        "value": "31r-35v"
+      },
+      {
+        "id": 341,
+        "value": "36r-119v"
+      },
+      {
+        "id": 340,
+        "value": "120r-122v"
+      },
+      {
+        "id": 343,
+        "value": "122v-124r"
+      },
+      {
+        "id": 342,
+        "value": "124r-131v"
+      },
+      {
+        "id": 344,
+        "value": "132v-147r"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-20",
+    "Last modified": "2026-04-20",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
     "strata": []
   }

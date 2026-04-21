@@ -4953,5 +4953,77 @@
     "Last modified": "2026-04-15",
     "Created on": "2026-04-15",
     "note": ""
+  },
+  "185": {
+    "id": 185,
+    "order": "150.00000000000000000000",
+    "hit_id": "hit_hands_dated__185",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 23,
+        "value": "821-828",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 220,
+        "value": "BSB, Clm 15817_H. 1",
+        "order": "179.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-20",
+    "Created on": "2026-04-20",
+    "note": ""
+  },
+  "186": {
+    "id": 186,
+    "order": "151.00000000000000000000",
+    "hit_id": "hit_hands_dated__186",
+    "authority": [
+      {
+        "id": 311,
+        "value": "LEVISON",
+        "order": "279.00000000000000000000"
+      }
+    ],
+    "page": "",
+    "dated": [
+      {
+        "id": 117,
+        "value": "850-860",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 219,
+        "value": "BSB, Clm 15821_H. 1",
+        "order": "178.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-20",
+    "Created on": "2026-04-20",
+    "note": ""
   }
 }

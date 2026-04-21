@@ -15381,7 +15381,13 @@
     "role": [
       {
         "id": 275,
-        "value": []
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
       }
     ],
     "texts": [
@@ -15412,7 +15418,7 @@
         "value": "BSB, Clm 15821_H. 1"
       }
     ],
-    "description": "Klar identifizierbare Haupthand in einer karolingischen Minuskel, die allmählich Züge des 10. Jahrhunderts annimmt. Sie ist wohl ins späte 9. Jahrhundert oder in die 1. Hälfte des 10. Jahrhunderts zu datieren.",
+    "description": "Klar identifizierbare Haupthand in einer karolingischen Minuskel, die bereits Züge eines Wandels zeigt und Eigenschaften aufweist, die in die zweite Hälfte des 9. Jahrhunderts deuten.",
     "hit_id": "hit_hands__219",
     "similar_hands": [],
     "nr_daniel": "",
@@ -15421,6 +15427,138 @@
         "id": 99,
         "value": "BSB, Clm 15821",
         "order": "57.00000000000000000000"
+      }
+    ],
+    "number": "1",
+    "note": "Klar identifizierbare Haupthand in einer karolingischen Minuskel, die allmählich Züge des 10. Jahrhunderts annimmt. Sie ist wohl ins späte 9. Jahrhundert oder in die 1. Hälfte des 10. Jahrhunderts zu datieren.",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-15",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-20",
+    "hands_role": [
+      {
+        "id": 277,
+        "value": "hit_hands_role__277",
+        "order": "231.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 277,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 223,
+          "database_table_3491": 339
+        },
+        "value": "Translatio s. Hermetis Salisburgum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 238,
+          "database_table_3491": 337
+        },
+        "value": "Passio Sancti Alexandri papae et Hermetis martiris"
+      },
+      {
+        "ids": {
+          "database_table_3489": 239,
+          "database_table_3491": 341
+        },
+        "value": "Konkordanz zur Dionysio-Hadriana"
+      },
+      {
+        "ids": {
+          "database_table_3489": 240,
+          "database_table_3491": 342
+        },
+        "value": "Lehrdialog über den Glauben"
+      },
+      {
+        "ids": {
+          "database_table_3489": 241,
+          "database_table_3491": 344
+        },
+        "value": "De beatitudine animae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 242,
+          "database_table_3491": 343
+        },
+        "value": "Liber scintillarum"
+      },
+      {
+        "ids": {
+          "database_table_3489": 243,
+          "database_table_3491": 340
+        },
+        "value": "Exzerpte aus den Akten des Konzils von Clermont 535, Augustinus, De civitate Dei und der apokryphen zweiten Synode unter Papst Silvester"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 186,
+        "value": "hit_hands_dated__186",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 117,
+          "database_table_3520": 186
+        },
+        "value": "850-860"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 121,
+        "value": "hit_hands_placed__121",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "220": {
+    "id": 220,
+    "order": "179.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 100,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15817_H. 1"
+      }
+    ],
+    "description": "Schreibergruppe: Karolingische Minuskel der Adalram-Zeit bestehend aus mehreren Händen.",
+    "hit_id": "hit_hands__220",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 100,
+        "value": "BSB, Clm 15817",
+        "order": "58.00000000000000000000"
       }
     ],
     "number": "1",
@@ -15434,44 +15572,79 @@
       "id": 86,
       "name": "Leon Pürstinger"
     },
-    "Last modified": "2026-04-16",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
-    "scribe": [],
-    "gruppe": false,
-    "author_entry": []
-  },
-  "220": {
-    "id": 220,
-    "order": "179.00000000000000000000",
-    "label": [],
-    "description": "",
-    "hit_id": "hit_hands__220",
-    "similar_hands": [],
-    "nr_daniel": "",
-    "manuscript": [],
-    "number": null,
-    "note": "",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Created on": "2026-04-15",
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified": "2026-04-15",
-    "hands_role": [],
-    "role": [],
-    "texts": [],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "Last modified": "2026-04-20",
+    "hands_role": [
+      {
+        "id": 276,
+        "value": "hit_hands_role__276",
+        "order": "230.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 276,
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 42,
+          "database_table_3491": 336
+        },
+        "value": "Synonyma"
+      },
+      {
+        "ids": {
+          "database_table_3489": 235,
+          "database_table_3491": 332
+        },
+        "value": "De pastoribus"
+      },
+      {
+        "ids": {
+          "database_table_3489": 236,
+          "database_table_3491": 333
+        },
+        "value": "De ovibus"
+      },
+      {
+        "ids": {
+          "database_table_3489": 237,
+          "database_table_3491": 334
+        },
+        "value": "Vita Cuthberti"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 185,
+        "value": "hit_hands_dated__185",
+        "order": "150.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 23,
+          "database_table_3520": 185
+        },
+        "value": "821-828"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 120,
+        "value": "hit_hands_placed__120",
+        "order": "88.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": []

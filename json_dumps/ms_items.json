@@ -19055,318 +19055,6 @@
     ],
     "version": []
   },
-  "324": {
-    "id": 324,
-    "order": "214.00000000000000000000",
-    "label": [
-      {
-        "id": 95,
-        "value": "clm 28547__324"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 95,
-        "value": "BSB, Clm 28547",
-        "order": "56.00000000000000000000"
-      }
-    ],
-    "incipit": "",
-    "explicit": "",
-    "rubric": "",
-    "title_work": [
-      {
-        "id": 117,
-        "value": "Historiographische Annotationen",
-        "order": "115.00000000000000000000"
-      }
-    ],
-    "title_note": "1 Randnotiz historischen Inhalts. Angeblich Teil der Teil der Continuatio Cremifanensis: Cum salvatoris venientius transit ab horis annus millenus centenus et octuagenus. Septimus in sine iulii vincus Salatine, et servit fano hierosolyma capta pagano",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__324",
-    "filiation": "",
-    "locus_grp": "77r",
-    "hands_role": [
-      {
-        "id": 275,
-        "value": "hit_hands_role__275",
-        "order": "229.00000000000000000000"
-      }
-    ],
-    "cod_unit": [
-      {
-        "id": 90,
-        "value": "BSB, Clm 28547, cod. unit 1",
-        "order": "54.00000000000000000000"
-      }
-    ],
-    "Last modified": "2026-04-15",
-    "Created on": "2026-04-15",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 95,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm 28547_H. 3"
-      }
-    ],
-    "decoration": [],
-    "facs_url": "",
-    "form": [
-      {
-        "id": 17436,
-        "value": "graphisch divers zu...",
-        "color": "darker-cyan"
-      }
-    ],
-    "form_note": "Am äußeren Rand eingefügt.",
-    "columns": [
-      {
-        "id": 17457,
-        "value": "1",
-        "color": "light-red"
-      }
-    ],
-    "commented_msitem": [],
-    "interpolations": [],
-    "text_modification": [
-      {
-        "id": 19670,
-        "value": "Umgestaltung",
-        "color": "darker-red"
-      }
-    ],
-    "language": [
-      {
-        "id": 19677,
-        "value": "Latein",
-        "color": "light-cyan"
-      }
-    ],
-    "version": []
-  },
-  "325": {
-    "id": 325,
-    "order": "215.00000000000000000000",
-    "label": [
-      {
-        "id": 95,
-        "value": "clm 28547__325"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 95,
-        "value": "BSB, Clm 28547",
-        "order": "56.00000000000000000000"
-      }
-    ],
-    "incipit": "Domino suo Adelberto Salzpurgensi archiepiscopo Heinricus devotus et fidelis clericus eius",
-    "explicit": "et malis omnibus liberet vos domini amen.",
-    "rubric": "",
-    "title_work": [
-      {
-        "id": 230,
-        "value": "Historia calamitatum ecclesiae Salisburgensis",
-        "order": "164.00000000000000000000"
-      }
-    ],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__325",
-    "filiation": "",
-    "locus_grp": "178r-187r",
-    "hands_role": [
-      {
-        "id": 274,
-        "value": "hit_hands_role__274",
-        "order": "228.00000000000000000000"
-      }
-    ],
-    "cod_unit": [
-      {
-        "id": 90,
-        "value": "BSB, Clm 28547, cod. unit 1",
-        "order": "54.00000000000000000000"
-      }
-    ],
-    "Last modified": "2026-04-15",
-    "Created on": "2026-04-15",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 95,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm 28547_H. 2"
-      }
-    ],
-    "decoration": [
-      {
-        "id": 15104,
-        "value": "Unziale_Rot",
-        "color": "darker-pink"
-      }
-    ],
-    "facs_url": "",
-    "form": [
-      {
-        "id": 18627,
-        "value": "Einspaltig (Standard)",
-        "color": "light-cyan"
-      }
-    ],
-    "form_note": "",
-    "columns": [
-      {
-        "id": 17457,
-        "value": "1",
-        "color": "light-red"
-      }
-    ],
-    "commented_msitem": [],
-    "interpolations": [],
-    "text_modification": [],
-    "language": [
-      {
-        "id": 19677,
-        "value": "Latein",
-        "color": "light-cyan"
-      }
-    ],
-    "version": []
-  },
-  "326": {
-    "id": 326,
-    "order": "216.00000000000000000000",
-    "label": [
-      {
-        "id": 95,
-        "value": "clm 28547__326"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 95,
-        "value": "BSB, Clm 28547",
-        "order": "56.00000000000000000000"
-      }
-    ],
-    "incipit": "Tam novi quam veteris testamenti auctoritatibus edocti sumus",
-    "explicit": "Ad iudicium alterius fidei catholyco appellare non licet",
-    "rubric": "",
-    "title_work": [
-      {
-        "id": 231,
-        "value": "Rhetorica ecclesiastica",
-        "order": "165.00000000000000000000"
-      }
-    ],
-    "title_note": "",
-    "bibl": [],
-    "final_rubric": "",
-    "siglum": "",
-    "hit_id": "hit_ms_items__326",
-    "filiation": "",
-    "locus_grp": "38r-97r",
-    "hands_role": [
-      {
-        "id": 273,
-        "value": "hit_hands_role__273",
-        "order": "227.00000000000000000000"
-      }
-    ],
-    "cod_unit": [
-      {
-        "id": 90,
-        "value": "BSB, Clm 28547, cod. unit 1",
-        "order": "54.00000000000000000000"
-      }
-    ],
-    "Last modified": "2026-04-19",
-    "Created on": "2026-04-15",
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "note": "",
-    "hand": [
-      {
-        "ids": {
-          "database_table_3487": 95,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm 28547_H. 1"
-      }
-    ],
-    "decoration": [
-      {
-        "id": 15102,
-        "value": "Capitalis_Rot",
-        "color": "darker-red"
-      }
-    ],
-    "facs_url": "",
-    "form": [
-      {
-        "id": 18627,
-        "value": "Einspaltig (Standard)",
-        "color": "light-cyan"
-      }
-    ],
-    "form_note": "",
-    "columns": [
-      {
-        "id": 17457,
-        "value": "1",
-        "color": "light-red"
-      }
-    ],
-    "commented_msitem": [],
-    "interpolations": [],
-    "text_modification": [
-      {
-        "id": 19670,
-        "value": "Umgestaltung",
-        "color": "darker-red"
-      }
-    ],
-    "language": [
-      {
-        "id": 19677,
-        "value": "Latein",
-        "color": "light-cyan"
-      }
-    ],
-    "version": []
-  },
   "327": {
     "id": 327,
     "order": "217.00000000000000000000",
@@ -19774,7 +19462,13 @@
     "hit_id": "hit_ms_items__332",
     "filiation": "",
     "locus_grp": "1v-53r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 276,
+        "value": "hit_hands_role__276",
+        "order": "230.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 92,
@@ -19793,7 +19487,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 100,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15817_H. 1"
+      }
+    ],
     "decoration": [
       {
         "id": 15102,
@@ -19872,7 +19574,13 @@
     "hit_id": "hit_ms_items__333",
     "filiation": "",
     "locus_grp": "53v-99v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 276,
+        "value": "hit_hands_role__276",
+        "order": "230.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 92,
@@ -19891,7 +19599,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 100,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15817_H. 1"
+      }
+    ],
     "decoration": [
       {
         "id": 15104,
@@ -19960,7 +19676,13 @@
     "hit_id": "hit_ms_items__334",
     "filiation": "",
     "locus_grp": "100v-119v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 276,
+        "value": "hit_hands_role__276",
+        "order": "230.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 92,
@@ -19979,7 +19701,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 100,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15817_H. 1"
+      }
+    ],
     "decoration": [
       {
         "id": 15104,
@@ -20058,7 +19788,13 @@
     "hit_id": "hit_ms_items__336",
     "filiation": "",
     "locus_grp": "120r-177v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 276,
+        "value": "hit_hands_role__276",
+        "order": "230.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 92,
@@ -20077,7 +19813,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "Spätmittelalterliche Zusätze auf 177v und 178r.",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 100,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15817_H. 1"
+      }
+    ],
     "decoration": [
       {
         "id": 15102,
@@ -20156,7 +19900,13 @@
     "hit_id": "hit_ms_items__337",
     "filiation": "",
     "locus_grp": "1v-31r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 277,
+        "value": "hit_hands_role__277",
+        "order": "231.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 91,
@@ -20175,7 +19925,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 99,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15821_H. 1"
+      }
+    ],
     "decoration": [
       {
         "id": 15104,
@@ -20249,7 +20007,13 @@
     "hit_id": "hit_ms_items__339",
     "filiation": "",
     "locus_grp": "31r-35v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 277,
+        "value": "hit_hands_role__277",
+        "order": "231.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 91,
@@ -20268,7 +20032,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 99,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15821_H. 1"
+      }
+    ],
     "decoration": [
       {
         "id": 15102,
@@ -20342,7 +20114,13 @@
     "hit_id": "hit_ms_items__341",
     "filiation": "",
     "locus_grp": "36r-119v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 277,
+        "value": "hit_hands_role__277",
+        "order": "231.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 91,
@@ -20361,7 +20139,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 99,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15821_H. 1"
+      }
+    ],
     "decoration": [
       {
         "id": 15104,
@@ -20430,7 +20216,13 @@
     "hit_id": "hit_ms_items__340",
     "filiation": "",
     "locus_grp": "120r-122v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 277,
+        "value": "hit_hands_role__277",
+        "order": "231.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 91,
@@ -20449,7 +20241,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 99,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15821_H. 1"
+      }
+    ],
     "decoration": [
       {
         "id": 15102,
@@ -20518,7 +20318,13 @@
     "hit_id": "hit_ms_items__343",
     "filiation": "",
     "locus_grp": "122v-124r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 277,
+        "value": "hit_hands_role__277",
+        "order": "231.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 91,
@@ -20537,7 +20343,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 99,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15821_H. 1"
+      }
+    ],
     "decoration": [
       {
         "id": 15102,
@@ -20612,7 +20426,13 @@
     "hit_id": "hit_ms_items__342",
     "filiation": "",
     "locus_grp": "124r-131v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 277,
+        "value": "hit_hands_role__277",
+        "order": "231.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 91,
@@ -20631,7 +20451,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 99,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15821_H. 1"
+      }
+    ],
     "decoration": [
       {
         "id": 15104,
@@ -20700,7 +20528,13 @@
     "hit_id": "hit_ms_items__344",
     "filiation": "",
     "locus_grp": "132v-147r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 277,
+        "value": "hit_hands_role__277",
+        "order": "231.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 91,
@@ -20719,7 +20553,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 99,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 15821_H. 1"
+      }
+    ],
     "decoration": [
       {
         "id": 15102,
@@ -21073,6 +20915,216 @@
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "326": {
+    "id": 326,
+    "order": "238.33333333333334280724",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__326"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "Tam novi quam veteris testamenti auctoritatibus edocti sumus",
+    "explicit": "Ad iudicium alterius fidei catholyco appellare non licet",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 231,
+        "value": "Rhetorica ecclesiastica",
+        "order": "165.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__326",
+    "filiation": "",
+    "locus_grp": "38r-97r",
+    "hands_role": [
+      {
+        "id": 273,
+        "value": "hit_hands_role__273",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-19",
+    "Created on": "2026-04-15",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 1"
+      }
+    ],
+    "decoration": [
+      {
+        "id": 15102,
+        "value": "Capitalis_Rot",
+        "color": "darker-red"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [
+      {
+        "id": 19670,
+        "value": "Umgestaltung",
+        "color": "darker-red"
+      }
+    ],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "324": {
+    "id": 324,
+    "order": "238.50000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__324"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 117,
+        "value": "Historiographische Annotationen",
+        "order": "115.00000000000000000000"
+      }
+    ],
+    "title_note": "1 Randnotiz historischen Inhalts. Angeblich Teil der Teil der Continuatio Cremifanensis: Cum salvatoris venientius transit ab horis annus millenus centenus et octuagenus. Septimus in sine iulii vincus Salatine, et servit fano hierosolyma capta pagano",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__324",
+    "filiation": "",
+    "locus_grp": "77r",
+    "hands_role": [
+      {
+        "id": 275,
+        "value": "hit_hands_role__275",
+        "order": "229.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-15",
+    "Created on": "2026-04-15",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 3"
+      }
+    ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 17436,
+        "value": "graphisch divers zu...",
+        "color": "darker-cyan"
+      }
+    ],
+    "form_note": "Am äußeren Rand eingefügt.",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [
+      {
+        "id": 19670,
+        "value": "Umgestaltung",
+        "color": "darker-red"
+      }
+    ],
     "language": [
       {
         "id": 19677,
@@ -21584,6 +21636,108 @@
     "form": [],
     "form_note": "",
     "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "325": {
+    "id": 325,
+    "order": "246.50000000000000000000",
+    "label": [
+      {
+        "id": 95,
+        "value": "clm 28547__325"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "incipit": "Domino suo Adelberto Salzpurgensi archiepiscopo Heinricus devotus et fidelis clericus eius",
+    "explicit": "et malis omnibus liberet vos domini amen.",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 230,
+        "value": "Historia calamitatum ecclesiae Salisburgensis",
+        "order": "164.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__325",
+    "filiation": "",
+    "locus_grp": "178r-187r",
+    "hands_role": [
+      {
+        "id": 274,
+        "value": "hit_hands_role__274",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "cod_unit": [
+      {
+        "id": 90,
+        "value": "BSB, Clm 28547, cod. unit 1",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-04-15",
+    "Created on": "2026-04-15",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "note": "",
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 2"
+      }
+    ],
+    "decoration": [
+      {
+        "id": 15104,
+        "value": "Unziale_Rot",
+        "color": "darker-pink"
+      }
+    ],
+    "facs_url": "",
+    "form": [
+      {
+        "id": 18627,
+        "value": "Einspaltig (Standard)",
+        "color": "light-cyan"
+      }
+    ],
+    "form_note": "",
+    "columns": [
+      {
+        "id": 17457,
+        "value": "1",
+        "color": "light-red"
+      }
+    ],
     "commented_msitem": [],
     "interpolations": [],
     "text_modification": [],
