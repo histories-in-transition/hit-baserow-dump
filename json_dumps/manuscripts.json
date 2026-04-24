@@ -3609,8 +3609,8 @@
     ],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "catalog_url": "https://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0587_b210_jpg.htm",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00036117?q=%22folletage%22&page=524,525",
     "idno": "Clm 14226",
     "idno_former": "",
     "quire_structure": "",
@@ -3652,7 +3652,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-11",
-    "Last modified": "2025-04-29",
+    "Last modified": "2026-04-23",
     "content_summary": "Epitomae von Livius, Sallustius, Cicero, Curtius, Vitus Berlerus: Disticha",
     "charakter": [],
     "case_study": [
@@ -3670,7 +3670,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Nacherzählungen von Livius, Sallustius, Cicero, Curtius"
   },
   "35": {
     "id": 35,
@@ -3691,8 +3691,8 @@
     ],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "catalog_url": "https://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0587_b202_jpg.htm",
+    "digi_url": "https://www.digitale-sammlungen.de/en/details/bsb00035463",
     "idno": "Clm 14221",
     "idno_former": "",
     "quire_structure": "(IV - 1) **7** + 5 IV **54** + III **60**",
@@ -3744,7 +3744,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-11",
-    "Last modified": "2025-04-29",
+    "Last modified": "2026-04-23",
     "content_summary": "Hrabanus Maurus, Wichrammus Sangallensis, Historia fundationis monasterii Wessofontanae",
     "charakter": [],
     "case_study": [
@@ -3762,7 +3762,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Hrabanus Maurus, Wichrammus Sangallensis, Historia fundationis monasterii Wessofontanae"
   },
   "36": {
     "id": 36,
@@ -3783,8 +3783,8 @@
     ],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "catalog_url": "https://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0587_b167_jpg.htm",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00036060?q=%22stup%22&page=106,107",
     "idno": "Clm 14210",
     "idno_former": "",
     "quire_structure": "15 IV **120** + (IV - 1) **127**",
@@ -3836,7 +3836,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-11",
-    "Last modified": "2025-04-29",
+    "Last modified": "2026-04-23",
     "content_summary": "Hrabanus Maurus",
     "charakter": [],
     "case_study": [
@@ -3854,7 +3854,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Hrabanus Maurus"
   },
   "37": {
     "id": 37,
@@ -3875,8 +3875,8 @@
     ],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "catalog_url": "https://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0493_b227_JPG.htm",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00035189?q=%22pr%C3%A9fec%22&page=122,123",
     "idno": "Clm 14095",
     "idno_former": "",
     "quire_structure": "",
@@ -3933,7 +3933,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-11",
-    "Last modified": "2025-04-30",
+    "Last modified": "2026-04-23",
     "content_summary": "Vita Henrici IV. Imperatoris, Vitae sanctorum",
     "charakter": [],
     "case_study": [
@@ -3951,7 +3951,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Vita Henrici IV., Vitae sanctorum"
   },
   "38": {
     "id": 38,
@@ -3959,7 +3959,7 @@
     "shelfmark": [
       {
         "id": 4,
-        "value": "BSB, Clm 14070b-c"
+        "value": "BSB, Clm 14070c"
       }
     ],
     "hit_id": "hit_manuscript__38",
@@ -3972,9 +3972,9 @@
     ],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
-    "catalog_url": "",
-    "digi_url": "",
-    "idno": "Clm 14070b-c",
+    "catalog_url": "https://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0493_b164_JPG.htm",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00034411?q=%22milico%22&page=62,63",
+    "idno": "Clm 14070c",
     "idno_former": "",
     "quire_structure": "",
     "library_full": [
@@ -4026,7 +4026,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-11",
-    "Last modified": "2025-04-30",
+    "Last modified": "2026-04-23",
     "content_summary": "Ps.-Dionysius Areopagita, Helperich: Liber de computo",
     "charakter": [],
     "case_study": [
@@ -4044,7 +4044,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Helpericus, Computus"
   },
   "39": {
     "id": 39,
@@ -4065,8 +4065,8 @@
     ],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "catalog_url": "https://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0493_b091_JPG.htm",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00034257?page=,1",
     "idno": "Clm 14040",
     "idno_former": "",
     "quire_structure": "",
@@ -4114,7 +4114,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-11",
-    "Last modified": "2025-04-30",
+    "Last modified": "2026-04-23",
     "content_summary": "Eusebius Caesariensis",
     "charakter": [],
     "case_study": [
@@ -4132,7 +4132,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Eusebius Caesariensis"
   },
   "40": {
     "id": 40,
@@ -4153,8 +4153,8 @@
     ],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "catalog_url": "https://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0493_b073_JPG.htm",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00034101?q=%22organe%22&page=72,73",
     "idno": "Clm 14031",
     "idno_former": "",
     "quire_structure": "",
@@ -4202,7 +4202,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-11",
-    "Last modified": "2025-04-30",
+    "Last modified": "2026-04-23",
     "content_summary": "Legendar",
     "charakter": [],
     "case_study": [
@@ -4220,7 +4220,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Passionale"
   },
   "41": {
     "id": 41,
@@ -4241,8 +4241,8 @@
     ],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "catalog_url": "https://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0493_b071_JPG.htm",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00034102?q=%22sc%C3%B4ne%22&page=172,173",
     "idno": "Clm 14030",
     "idno_former": "",
     "quire_structure": "",
@@ -4284,7 +4284,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-02-11",
-    "Last modified": "2025-04-29",
+    "Last modified": "2026-04-23",
     "content_summary": "Paschasius Radpertus (?), Ps.-Beda, Haimo Altissiodorensis",
     "charakter": [],
     "case_study": [
@@ -4302,7 +4302,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "title": null
+    "title": "Paschasius Radpertus, Ps. Beda, Haimo Altissiodorensis"
   },
   "42": {
     "id": 42,

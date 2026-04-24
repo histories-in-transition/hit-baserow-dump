@@ -3018,7 +3018,7 @@
           "database_table_3487": 38,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm 14070b-c, cod. unit "
+        "value": "BSB, Clm 14070c, cod. unit "
       }
     ],
     "notes": "",
@@ -3027,7 +3027,7 @@
     "manuscript": [
       {
         "id": 38,
-        "value": "BSB, Clm 14070b-c",
+        "value": "BSB, Clm 14070c",
         "order": "31.00000000000000000000"
       }
     ],
