@@ -20677,7 +20677,13 @@
     "hit_id": "hit_ms_items__346",
     "filiation": "",
     "locus_grp": "1r-24v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 273,
+        "value": "hit_hands_role__273",
+        "order": "227.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 90,
@@ -20696,7 +20702,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -20746,8 +20760,14 @@
     "siglum": "",
     "hit_id": "hit_ms_items__347",
     "filiation": "",
-    "locus_grp": "2r, 2v, 13v, 15v, 16r, 18v",
-    "hands_role": [],
+    "locus_grp": "2r, 2v, 13v, 15v, 16r, 18v, 103v-104, 106r, 137v, 151v, 159v, 152r, 163r,",
+    "hands_role": [
+      {
+        "id": 279,
+        "value": "hit_hands_role__279",
+        "order": "233.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 90,
@@ -20755,7 +20775,7 @@
         "order": "54.00000000000000000000"
       }
     ],
-    "Last modified": "2026-04-19",
+    "Last modified": "2026-04-24",
     "Created on": "2026-04-19",
     "Created by": {
       "id": 86,
@@ -20766,7 +20786,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 4"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -20817,7 +20845,13 @@
     "hit_id": "hit_ms_items__348",
     "filiation": "",
     "locus_grp": "24v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 273,
+        "value": "hit_hands_role__273",
+        "order": "227.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 90,
@@ -20836,7 +20870,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -20887,7 +20929,13 @@
     "hit_id": "hit_ms_items__349",
     "filiation": "",
     "locus_grp": "25r-37v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 273,
+        "value": "hit_hands_role__273",
+        "order": "227.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 90,
@@ -20906,7 +20954,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -21167,7 +21223,13 @@
     "hit_id": "hit_ms_items__350",
     "filiation": "",
     "locus_grp": "98r-115v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 273,
+        "value": "hit_hands_role__273",
+        "order": "227.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 90,
@@ -21186,7 +21248,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -21237,7 +21307,13 @@
     "hit_id": "hit_ms_items__351",
     "filiation": "",
     "locus_grp": "116r-121v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 273,
+        "value": "hit_hands_role__273",
+        "order": "227.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 90,
@@ -21256,7 +21332,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -21307,7 +21391,13 @@
     "hit_id": "hit_ms_items__352",
     "filiation": "",
     "locus_grp": "121v-126v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 273,
+        "value": "hit_hands_role__273",
+        "order": "227.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 90,
@@ -21326,7 +21416,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -21424,7 +21522,13 @@
     "hit_id": "hit_ms_items__354",
     "filiation": "",
     "locus_grp": "126v-169v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 273,
+        "value": "hit_hands_role__273",
+        "order": "227.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 90,
@@ -21443,7 +21547,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -21541,7 +21653,13 @@
     "hit_id": "hit_ms_items__356",
     "filiation": "",
     "locus_grp": "156r-157v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 273,
+        "value": "hit_hands_role__273",
+        "order": "227.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 90,
@@ -21560,7 +21678,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -21611,7 +21737,13 @@
     "hit_id": "hit_ms_items__357",
     "filiation": "",
     "locus_grp": "170r-177r",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 273,
+        "value": "hit_hands_role__273",
+        "order": "227.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 90,
@@ -21630,7 +21762,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],
@@ -21783,7 +21923,13 @@
     "hit_id": "hit_ms_items__358",
     "filiation": "",
     "locus_grp": "187v",
-    "hands_role": [],
+    "hands_role": [
+      {
+        "id": 273,
+        "value": "hit_hands_role__273",
+        "order": "227.00000000000000000000"
+      }
+    ],
     "cod_unit": [
       {
         "id": 90,
@@ -21802,7 +21948,15 @@
       "name": "Leon Pürstinger"
     },
     "note": "",
-    "hand": [],
+    "hand": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 1"
+      }
+    ],
     "decoration": [],
     "facs_url": "",
     "form": [],

@@ -4862,27 +4862,6 @@
     "Created on": "2026-01-21",
     "note": ""
   },
-  "182": {
-    "id": 182,
-    "order": "147.00000000000000000000",
-    "hit_id": "hit_hands_dated__182",
-    "authority": [],
-    "page": "",
-    "dated": [],
-    "hand": [],
-    "new_dating": false,
-    "Created by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
-    },
-    "Last modified": "2026-01-21",
-    "Created on": "2026-01-21",
-    "note": ""
-  },
   "183": {
     "id": 183,
     "order": "148.00000000000000000000",
@@ -5024,6 +5003,131 @@
     },
     "Last modified": "2026-04-20",
     "Created on": "2026-04-20",
+    "note": ""
+  },
+  "187": {
+    "id": 187,
+    "order": "152.00000000000000000000",
+    "hit_id": "hit_hands_dated__187",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 67,
+        "value": "12. Jh., viertes Viertel",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 110,
+        "value": "13. Jh, erstes Viertel",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 221,
+        "value": "BSB, Clm 28547_H. 4",
+        "order": "180.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-24",
+    "Created on": "2026-04-24",
+    "note": ""
+  },
+  "188": {
+    "id": 188,
+    "order": "153.00000000000000000000",
+    "hit_id": "hit_hands_dated__188",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 67,
+        "value": "12. Jh., viertes Viertel",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 217,
+        "value": "BSB, Clm 28547_H. 2",
+        "order": "176.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-24",
+    "Created on": "2026-04-24",
+    "note": ""
+  },
+  "189": {
+    "id": 189,
+    "order": "154.00000000000000000000",
+    "hit_id": "hit_hands_dated__189",
+    "authority": [],
+    "page": "",
+    "dated": [
+      {
+        "id": 67,
+        "value": "12. Jh., viertes Viertel",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "hand": [
+      {
+        "id": 218,
+        "value": "BSB, Clm 28547_H. 3",
+        "order": "177.00000000000000000000"
+      }
+    ],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-24",
+    "Created on": "2026-04-24",
+    "note": ""
+  },
+  "190": {
+    "id": 190,
+    "order": "155.00000000000000000000",
+    "hit_id": "hit_hands_dated__190",
+    "authority": [],
+    "page": "",
+    "dated": [],
+    "hand": [],
+    "new_dating": false,
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-24",
+    "Created on": "2026-04-24",
     "note": ""
   }
 }

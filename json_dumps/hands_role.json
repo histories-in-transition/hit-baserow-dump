@@ -15099,9 +15099,59 @@
     ],
     "ms_item": [
       {
+        "id": 346,
+        "value": "clm 28547__346",
+        "order": "235.00000000000000000000"
+      },
+      {
+        "id": 348,
+        "value": "clm 28547__348",
+        "order": "237.00000000000000000000"
+      },
+      {
+        "id": 349,
+        "value": "clm 28547__349",
+        "order": "238.00000000000000000000"
+      },
+      {
         "id": 326,
         "value": "clm 28547__326",
         "order": "238.33333333333334280724"
+      },
+      {
+        "id": 350,
+        "value": "clm 28547__350",
+        "order": "239.00000000000000000000"
+      },
+      {
+        "id": 351,
+        "value": "clm 28547__351",
+        "order": "240.00000000000000000000"
+      },
+      {
+        "id": 352,
+        "value": "clm 28547__352",
+        "order": "241.00000000000000000000"
+      },
+      {
+        "id": 354,
+        "value": "clm 28547__354",
+        "order": "243.00000000000000000000"
+      },
+      {
+        "id": 356,
+        "value": "clm 28547__356",
+        "order": "245.00000000000000000000"
+      },
+      {
+        "id": 357,
+        "value": "clm 28547__357",
+        "order": "246.00000000000000000000"
+      },
+      {
+        "id": 358,
+        "value": "clm 28547__358",
+        "order": "247.00000000000000000000"
       }
     ],
     "role": [
@@ -15119,12 +15169,122 @@
           "database_table_3491": 326
         },
         "value": "Rhetorica ecclesiastica"
+      },
+      {
+        "ids": {
+          "database_table_3489": 244,
+          "database_table_3491": 346
+        },
+        "value": "Homiliae et sermones"
+      },
+      {
+        "ids": {
+          "database_table_3489": 246,
+          "database_table_3491": 348
+        },
+        "value": "Über die drei Marien"
+      },
+      {
+        "ids": {
+          "database_table_3489": 247,
+          "database_table_3491": 349
+        },
+        "value": "Exzerpte Pastoraltheologie"
+      },
+      {
+        "ids": {
+          "database_table_3489": 248,
+          "database_table_3491": 350
+        },
+        "value": "Sermones"
+      },
+      {
+        "ids": {
+          "database_table_3489": 249,
+          "database_table_3491": 351
+        },
+        "value": "Symbolisch-katechetische Traktate"
+      },
+      {
+        "ids": {
+          "database_table_3489": 250,
+          "database_table_3491": 352
+        },
+        "value": "Formula vitae honestae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 251,
+          "database_table_3491": 354
+        },
+        "value": "Sermones de epistolis apostolicis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 252,
+          "database_table_3491": 356
+        },
+        "value": "Sermo 172 + Abschnitte aus 173"
+      },
+      {
+        "ids": {
+          "database_table_3489": 253,
+          "database_table_3491": 357
+        },
+        "value": "Quid suum virtutis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 254,
+          "database_table_3491": 358
+        },
+        "value": "Carmina"
       }
     ],
     "locus_text": [
       {
+        "id": 346,
+        "value": "1r-24v"
+      },
+      {
+        "id": 348,
+        "value": "24v"
+      },
+      {
+        "id": 349,
+        "value": "25r-37v"
+      },
+      {
         "id": 326,
         "value": "38r-97r"
+      },
+      {
+        "id": 350,
+        "value": "98r-115v"
+      },
+      {
+        "id": 351,
+        "value": "116r-121v"
+      },
+      {
+        "id": 352,
+        "value": "121v-126v"
+      },
+      {
+        "id": 354,
+        "value": "126v-169v"
+      },
+      {
+        "id": 356,
+        "value": "156r-157v"
+      },
+      {
+        "id": 357,
+        "value": "170r-177r"
+      },
+      {
+        "id": 358,
+        "value": "187v"
       }
     ],
     "Last modified by": {
@@ -15136,7 +15296,7 @@
       "name": "Leon Pürstinger"
     },
     "Created on": "2026-04-15",
-    "Last modified": "2026-04-15",
+    "Last modified": "2026-04-24",
     "locus_layout": [
       {
         "id": 15841,
@@ -15574,6 +15734,110 @@
       }
     ],
     "scribe_type": [],
+    "strata": []
+  },
+  "278": {
+    "id": 278,
+    "order": "232.00000000000000000000",
+    "hit_id": "hit_hands_role__278",
+    "hand": [],
+    "ms_item": [],
+    "role": [],
+    "locus": "",
+    "text": [],
+    "locus_text": [],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-24",
+    "Last modified": "2026-04-24",
+    "locus_layout": [],
+    "function": [],
+    "scribe_type": [],
+    "strata": []
+  },
+  "279": {
+    "id": 279,
+    "order": "233.00000000000000000000",
+    "hit_id": "hit_hands_role__279",
+    "hand": [
+      {
+        "id": 221,
+        "value": "BSB, Clm 28547_H. 4",
+        "order": "180.00000000000000000000"
+      }
+    ],
+    "ms_item": [
+      {
+        "id": 347,
+        "value": "clm 28547__347",
+        "order": "236.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 18189,
+        "value": "Undefinierter Annotator/Bearbeiter",
+        "color": "light-yellow"
+      }
+    ],
+    "locus": "",
+    "text": [
+      {
+        "ids": {
+          "database_table_3489": 245,
+          "database_table_3491": 347
+        },
+        "value": "Annotationen"
+      }
+    ],
+    "locus_text": [
+      {
+        "id": 347,
+        "value": "2r, 2v, 13v, 15v, 16r, 18v, 103v-104, 106r, 137v, 151v, 159v, 152r, 163r,"
+      }
+    ],
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-24",
+    "Last modified": "2026-04-24",
+    "locus_layout": [
+      {
+        "id": 19688,
+        "value": "marginal außen",
+        "color": "light-pink"
+      }
+    ],
+    "function": [
+      {
+        "id": 15836,
+        "value": "inhaltsbezogen",
+        "color": "darker-orange"
+      },
+      {
+        "id": 15837,
+        "value": "unabhängig",
+        "color": "dark-purple"
+      }
+    ],
+    "scribe_type": [
+      {
+        "id": 18169,
+        "value": "Kommentar",
+        "color": "green"
+      }
+    ],
     "strata": []
   }
 }

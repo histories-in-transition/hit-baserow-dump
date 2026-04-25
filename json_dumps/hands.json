@@ -15230,6 +15230,76 @@
           "database_table_3491": 326
         },
         "value": "Rhetorica ecclesiastica"
+      },
+      {
+        "ids": {
+          "database_table_3489": 244,
+          "database_table_3491": 346
+        },
+        "value": "Homiliae et sermones"
+      },
+      {
+        "ids": {
+          "database_table_3489": 246,
+          "database_table_3491": 348
+        },
+        "value": "Über die drei Marien"
+      },
+      {
+        "ids": {
+          "database_table_3489": 247,
+          "database_table_3491": 349
+        },
+        "value": "Exzerpte Pastoraltheologie"
+      },
+      {
+        "ids": {
+          "database_table_3489": 248,
+          "database_table_3491": 350
+        },
+        "value": "Sermones"
+      },
+      {
+        "ids": {
+          "database_table_3489": 249,
+          "database_table_3491": 351
+        },
+        "value": "Symbolisch-katechetische Traktate"
+      },
+      {
+        "ids": {
+          "database_table_3489": 250,
+          "database_table_3491": 352
+        },
+        "value": "Formula vitae honestae"
+      },
+      {
+        "ids": {
+          "database_table_3489": 251,
+          "database_table_3491": 354
+        },
+        "value": "Sermones de epistolis apostolicis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 252,
+          "database_table_3491": 356
+        },
+        "value": "Sermo 172 + Abschnitte aus 173"
+      },
+      {
+        "ids": {
+          "database_table_3489": 253,
+          "database_table_3491": 357
+        },
+        "value": "Quid suum virtutis"
+      },
+      {
+        "ids": {
+          "database_table_3489": 254,
+          "database_table_3491": 358
+        },
+        "value": "Carmina"
       }
     ],
     "hands_dated": [
@@ -15329,9 +15399,29 @@
         "value": "Historia calamitatum ecclesiae Salisburgensis"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 188,
+        "value": "hit_hands_dated__188",
+        "order": "153.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 67,
+          "database_table_3520": 188
+        },
+        "value": "12. Jh., viertes Viertel"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 122,
+        "value": "hit_hands_placed__122",
+        "order": "90.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": []
@@ -15399,9 +15489,29 @@
         "value": "Historiographische Annotationen"
       }
     ],
-    "hands_dated": [],
-    "dating": [],
-    "hands_placed": [],
+    "hands_dated": [
+      {
+        "id": 189,
+        "value": "hit_hands_dated__189",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 67,
+          "database_table_3520": 189
+        },
+        "value": "12. Jh., viertes Viertel"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 123,
+        "value": "hit_hands_placed__123",
+        "order": "91.00000000000000000000"
+      }
+    ],
     "scribe": [],
     "gruppe": false,
     "author_entry": []
@@ -15643,6 +15753,103 @@
         "id": 120,
         "value": "hit_hands_placed__120",
         "order": "88.00000000000000000000"
+      }
+    ],
+    "scribe": [],
+    "gruppe": false,
+    "author_entry": []
+  },
+  "221": {
+    "id": 221,
+    "order": "180.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 95,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 28547_H. 4"
+      }
+    ],
+    "description": "Aus pragmatischen Gründen angelegte Gruppe an Händen, die teils unabhängig voneinander an verschiedenen Stellen der Handschrift Randanmerkungen hinterlässt.",
+    "hit_id": "hit_hands__221",
+    "similar_hands": [],
+    "nr_daniel": "",
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "BSB, Clm 28547",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "number": "4",
+    "note": "",
+    "Created by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Created on": "2026-04-24",
+    "Last modified by": {
+      "id": 86,
+      "name": "Leon Pürstinger"
+    },
+    "Last modified": "2026-04-24",
+    "hands_role": [
+      {
+        "id": 279,
+        "value": "hit_hands_role__279",
+        "order": "233.00000000000000000000"
+      }
+    ],
+    "role": [
+      {
+        "id": 279,
+        "value": [
+          {
+            "id": 18189,
+            "value": "Undefinierter Annotator/Bearbeiter",
+            "color": "light-yellow"
+          }
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "ids": {
+          "database_table_3489": 245,
+          "database_table_3491": 347
+        },
+        "value": "Annotationen"
+      }
+    ],
+    "hands_dated": [
+      {
+        "id": 187,
+        "value": "hit_hands_dated__187",
+        "order": "152.00000000000000000000"
+      }
+    ],
+    "dating": [
+      {
+        "ids": {
+          "database_table_3512": 67,
+          "database_table_3520": 187
+        },
+        "value": "12. Jh., viertes Viertel"
+      },
+      {
+        "ids": {
+          "database_table_3512": 110,
+          "database_table_3520": 187
+        },
+        "value": "13. Jh, erstes Viertel"
+      }
+    ],
+    "hands_placed": [
+      {
+        "id": 124,
+        "value": "hit_hands_placed__124",
+        "order": "92.00000000000000000000"
       }
     ],
     "scribe": [],
