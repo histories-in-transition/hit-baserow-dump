@@ -1197,20 +1197,26 @@
     "id": 80,
     "order": "46.00000000000000000000",
     "name": "Admont",
-    "geonames_url": "",
+    "geonames_url": "https://www.geonames.org/2782979/admont.html",
     "hit_id": "hit_place__80",
     "wikidata_url": "",
-    "country": [],
+    "country": [
+      {
+        "id": 1,
+        "value": "Österreich",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-01-16",
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2026-01-16",
+    "Last modified": "2026-04-27",
     "lat": null,
     "long": null
   },
@@ -1218,20 +1224,26 @@
     "id": 81,
     "order": "47.00000000000000000000",
     "name": "Lambach",
-    "geonames_url": "",
+    "geonames_url": "https://www.geonames.org/8410618/stift-lambach.html",
     "hit_id": "hit_place__81",
     "wikidata_url": "",
-    "country": [],
+    "country": [
+      {
+        "id": 1,
+        "value": "Österreich",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "Created by": {
       "id": 86,
       "name": "Leon Pürstinger"
     },
     "Created on": "2026-04-15",
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
-    "Last modified": "2026-04-15",
+    "Last modified": "2026-04-27",
     "lat": null,
     "long": null
   }

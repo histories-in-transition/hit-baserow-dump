@@ -2792,25 +2792,11 @@
   "40": {
     "id": 40,
     "order": "36.00000000000000000000",
-    "label": [
-      {
-        "ids": {
-          "database_table_3487": 34,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm 14226, cod. unit "
-      }
-    ],
+    "label": [],
     "notes": "",
     "hit_id": "hit_cod_unit__40",
     "locus": "",
-    "manuscript": [
-      {
-        "id": 34,
-        "value": "BSB, Clm 14226",
-        "order": "27.00000000000000000000"
-      }
-    ],
+    "manuscript": [],
     "number": null,
     "Created by": {
       "id": 87,
@@ -2853,12 +2839,12 @@
           "database_table_3487": 35,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm 14221, cod. unit "
+        "value": "BSB, Clm 14221, cod. unit 1"
       }
     ],
     "notes": "",
     "hit_id": "hit_cod_unit__41",
-    "locus": "",
+    "locus": "1-60",
     "manuscript": [
       {
         "id": 35,
@@ -2866,17 +2852,17 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "number": null,
+    "number": "1",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2026-04-27",
     "orig_date": [],
     "heigth": "",
     "lines_number": "",
@@ -2908,12 +2894,12 @@
           "database_table_3487": 36,
           "database_table_3488": 4
         },
-        "value": "BSB, Clm 14210, cod. unit "
+        "value": "BSB, Clm 14210, cod. unit 1"
       }
     ],
     "notes": "",
     "hit_id": "hit_cod_unit__42",
-    "locus": "",
+    "locus": "1-127",
     "manuscript": [
       {
         "id": 36,
@@ -2921,17 +2907,17 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "number": null,
+    "number": "1",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Created on": "2025-04-30",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 87,
+      "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-06-09",
+    "Last modified": "2026-04-27",
     "orig_date": [],
     "heigth": "",
     "lines_number": "",
