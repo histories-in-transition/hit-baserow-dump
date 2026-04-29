@@ -1213,12 +1213,12 @@
     },
     "Created on": "2026-01-16",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2026-04-27",
-    "lat": null,
-    "long": null
+    "Last modified": "2026-04-29",
+    "lat": "47.57537",
+    "long": "14.46075"
   },
   "81": {
     "id": 81,
@@ -1240,11 +1240,11 @@
     },
     "Created on": "2026-04-15",
     "Last modified by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 3,
+      "name": "Peter Andorfer"
     },
-    "Last modified": "2026-04-27",
-    "lat": null,
-    "long": null
+    "Last modified": "2026-04-29",
+    "lat": "48.09101",
+    "long": "13.87702"
   }
 }
