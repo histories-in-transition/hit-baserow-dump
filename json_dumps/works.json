@@ -5722,5 +5722,149 @@
       "name": "Leon Pürstinger"
     },
     "Last modified": "2026-04-19"
+  },
+  "255": {
+    "id": 255,
+    "order": "189.00000000000000000000",
+    "title": "Komputistische Texte",
+    "gnd_url": "",
+    "note": "De septem numeralibus litteris; Über die Abstände zwischen den Planeten; Computus graecorum; Regel für die Concurrentes; Regulares ad feries; Termini quartae decimae lunae regulares.",
+    "hit_id": "hit_works__255",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-30"
+  },
+  "256": {
+    "id": 256,
+    "order": "190.00000000000000000000",
+    "title": "Lektionsordo für die Matutin",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__256",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-30"
+  },
+  "257": {
+    "id": 257,
+    "order": "191.00000000000000000000",
+    "title": "Ordo lectionis brevis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__257",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [
+      {
+        "id": 9,
+        "value": "Theologische und liturgische Literatur > ",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-30"
+  },
+  "258": {
+    "id": 258,
+    "order": "192.00000000000000000000",
+    "title": "Preces",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__258",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-30"
+  },
+  "259": {
+    "id": 259,
+    "order": "193.00000000000000000000",
+    "title": "Allerheiligenlitanei, Sammlung zu Horae",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__259",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-30"
+  },
+  "260": {
+    "id": 260,
+    "order": "194.00000000000000000000",
+    "title": "De tempore et de communi sanctorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__260",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-04-30",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-04-30"
   }
 }

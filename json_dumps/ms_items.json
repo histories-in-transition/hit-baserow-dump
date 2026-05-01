@@ -6956,17 +6956,23 @@
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "title_work": [],
+    "title_work": [
+      {
+        "id": 255,
+        "value": "Komputistische Texte",
+        "order": "189.00000000000000000000"
+      }
+    ],
     "title_note": "",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__88",
     "filiation": null,
-    "locus_grp": "29r-33v",
+    "locus_grp": "29r-32v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-26",
+    "Last modified": "2026-04-30",
     "Created on": "2024-07-18",
     "Created by": {
       "id": 87,
@@ -7014,17 +7020,23 @@
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "title_work": [],
+    "title_work": [
+      {
+        "id": 256,
+        "value": "Lektionsordo für die Matutin",
+        "order": "190.00000000000000000000"
+      }
+    ],
     "title_note": "",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__89",
     "filiation": null,
-    "locus_grp": "",
+    "locus_grp": "33r-v",
     "hands_role": [],
     "cod_unit": [],
-    "Last modified": "2024-07-26",
+    "Last modified": "2026-04-30",
     "Created on": "2024-07-18",
     "Created by": {
       "id": 87,
@@ -21957,6 +21969,309 @@
         "value": "BSB, Clm 28547_H. 1"
       }
     ],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "359": {
+    "id": 359,
+    "order": "248.00000000000000000000",
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__359"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 257,
+        "value": "Ordo lectionis brevis",
+        "order": "191.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__359",
+    "filiation": "",
+    "locus_grp": "34r-97v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-04-30",
+    "Created on": "2026-04-30",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "360": {
+    "id": 360,
+    "order": "249.00000000000000000000",
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__360"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 258,
+        "value": "Preces",
+        "order": "192.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__360",
+    "filiation": "",
+    "locus_grp": "97v-103v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-04-30",
+    "Created on": "2026-04-30",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "361": {
+    "id": 361,
+    "order": "250.00000000000000000000",
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__361"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 259,
+        "value": "Allerheiligenlitanei, Sammlung zu Horae",
+        "order": "193.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__361",
+    "filiation": "",
+    "locus_grp": "104r-114v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-04-30",
+    "Created on": "2026-04-30",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "362": {
+    "id": 362,
+    "order": "251.00000000000000000000",
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__362"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 260,
+        "value": "De tempore et de communi sanctorum",
+        "order": "194.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__362",
+    "filiation": "",
+    "locus_grp": "115r-215v",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-04-30",
+    "Created on": "2026-04-30",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "363": {
+    "id": 363,
+    "order": "252.00000000000000000000",
+    "label": [],
+    "manuscript": [],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__363",
+    "filiation": "",
+    "locus_grp": "",
+    "hands_role": [],
+    "cod_unit": [],
+    "Last modified": "2026-04-30",
+    "Created on": "2026-04-30",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
     "decoration": [],
     "facs_url": "",
     "form": [],
