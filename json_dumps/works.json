@@ -5866,5 +5866,166 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2026-04-30"
+  },
+  "292": {
+    "id": 292,
+    "order": "195.00000000000000000000",
+    "title": "Hymnar",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__292",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-05-06",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-05-06"
+  },
+  "293": {
+    "id": 293,
+    "order": "196.00000000000000000000",
+    "title": "Cantica des Offiziums",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__293",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-05-06",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-05-06"
+  },
+  "294": {
+    "id": 294,
+    "order": "197.00000000000000000000",
+    "title": "Liturgische Herrscherakklamationen",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__294",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-05-06",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-05-06"
+  },
+  "295": {
+    "id": 295,
+    "order": "198.00000000000000000000",
+    "title": "Totengebete",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__295",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-05-06",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-05-06"
+  },
+  "296": {
+    "id": 296,
+    "order": "199.00000000000000000000",
+    "title": "IX lectiones de vigilia defunctorum",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__296",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-05-06",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-05-06"
+  },
+  "297": {
+    "id": 297,
+    "order": "200.00000000000000000000",
+    "title": "Orationes aus der Totenliturgie",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__297",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-05-06",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-05-06"
+  },
+  "298": {
+    "id": 298,
+    "order": "201.00000000000000000000",
+    "title": "Consuetudo Bononiensis",
+    "gnd_url": "",
+    "note": "",
+    "hit_id": "hit_works__298",
+    "author": [],
+    "bibliography": [],
+    "source_text": [],
+    "genre": [],
+    "note_source": "",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-05-06",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-05-06"
   }
 }

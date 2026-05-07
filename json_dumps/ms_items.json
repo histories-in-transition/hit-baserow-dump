@@ -6907,8 +6907,14 @@
     "filiation": null,
     "locus_grp": "1r-28v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2024-07-18",
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
     "Created on": "2024-07-18",
     "Created by": {
       "id": 87,
@@ -6971,8 +6977,14 @@
     "filiation": null,
     "locus_grp": "29r-32v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2026-04-30",
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
     "Created on": "2024-07-18",
     "Created by": {
       "id": 87,
@@ -7035,8 +7047,14 @@
     "filiation": null,
     "locus_grp": "33r-v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2026-04-30",
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
     "Created on": "2024-07-18",
     "Created by": {
       "id": 87,
@@ -22002,8 +22020,8 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "incipit": "",
-    "explicit": "",
+    "incipit": "..sanctus Gregorius in libro dialogorum cuius corpus translatum de Rauenna...",
+    "explicit": "...Aureliano imperatore quae superato igne caesa est. Amen",
     "rubric": "",
     "title_work": [
       {
@@ -22014,14 +22032,20 @@
     ],
     "title_note": "",
     "bibl": [],
-    "final_rubric": "",
+    "final_rubric": "Explicit martyrologium",
     "siglum": "",
     "hit_id": "hit_ms_items__359",
     "filiation": "",
     "locus_grp": "34r-97v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2026-04-30",
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
     "Created on": "2026-04-30",
     "Created by": {
       "id": 87,
@@ -22084,8 +22108,14 @@
     "filiation": "",
     "locus_grp": "97v-103v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2026-04-30",
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
     "Created on": "2026-04-30",
     "Created by": {
       "id": 87,
@@ -22148,8 +22178,14 @@
     "filiation": "",
     "locus_grp": "104r-114v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2026-04-30",
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
     "Created on": "2026-04-30",
     "Created by": {
       "id": 87,
@@ -22212,8 +22248,14 @@
     "filiation": "",
     "locus_grp": "115r-215v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2026-04-30",
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
     "Created on": "2026-04-30",
     "Created by": {
       "id": 87,
@@ -22245,23 +22287,466 @@
   "363": {
     "id": 363,
     "order": "252.00000000000000000000",
-    "label": [],
-    "manuscript": [],
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__363"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
     "incipit": "",
     "explicit": "",
     "rubric": "",
-    "title_work": [],
+    "title_work": [
+      {
+        "id": 292,
+        "value": "Hymnar",
+        "order": "195.00000000000000000000"
+      }
+    ],
     "title_note": "",
     "bibl": [],
     "final_rubric": "",
     "siglum": "",
     "hit_id": "hit_ms_items__363",
     "filiation": "",
-    "locus_grp": "",
+    "locus_grp": "215v-235v",
     "hands_role": [],
-    "cod_unit": [],
-    "Last modified": "2026-04-30",
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
     "Created on": "2026-04-30",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "395": {
+    "id": 395,
+    "order": "253.00000000000000000000",
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__395"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 293,
+        "value": "Cantica des Offiziums",
+        "order": "196.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__395",
+    "filiation": "",
+    "locus_grp": "235v-240v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
+    "Created on": "2026-05-06",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "396": {
+    "id": 396,
+    "order": "254.00000000000000000000",
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__396"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 294,
+        "value": "Liturgische Herrscherakklamationen",
+        "order": "197.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__396",
+    "filiation": "",
+    "locus_grp": "241r-245v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
+    "Created on": "2026-05-06",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "397": {
+    "id": 397,
+    "order": "255.00000000000000000000",
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__397"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 295,
+        "value": "Totengebete",
+        "order": "198.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__397",
+    "filiation": "",
+    "locus_grp": "246r-251v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
+    "Created on": "2026-05-06",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "398": {
+    "id": 398,
+    "order": "256.00000000000000000000",
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__398"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 296,
+        "value": "IX lectiones de vigilia defunctorum",
+        "order": "199.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__398",
+    "filiation": "",
+    "locus_grp": "251v-256v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
+    "Created on": "2026-05-06",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "399": {
+    "id": 399,
+    "order": "257.00000000000000000000",
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__399"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 297,
+        "value": "Orationes aus der Totenliturgie",
+        "order": "200.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__399",
+    "filiation": "",
+    "locus_grp": "257r-261r",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
+    "Created on": "2026-05-06",
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "note": "",
+    "hand": [],
+    "decoration": [],
+    "facs_url": "",
+    "form": [],
+    "form_note": "",
+    "columns": [],
+    "commented_msitem": [],
+    "interpolations": [],
+    "text_modification": [],
+    "language": [
+      {
+        "id": 19677,
+        "value": "Latein",
+        "color": "light-cyan"
+      }
+    ],
+    "version": []
+  },
+  "400": {
+    "id": 400,
+    "order": "258.00000000000000000000",
+    "label": [
+      {
+        "id": 20,
+        "value": "clm 27305__400"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BSB, Clm 27305",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "incipit": "",
+    "explicit": "",
+    "rubric": "",
+    "title_work": [
+      {
+        "id": 298,
+        "value": "Consuetudo Bononiensis",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "title_note": "",
+    "bibl": [],
+    "final_rubric": "",
+    "siglum": "",
+    "hit_id": "hit_ms_items__400",
+    "filiation": "",
+    "locus_grp": "261v",
+    "hands_role": [],
+    "cod_unit": [
+      {
+        "id": 36,
+        "value": "BSB, Clm 27305, cod. unit ",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "Last modified": "2026-05-06",
+    "Created on": "2026-05-06",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
