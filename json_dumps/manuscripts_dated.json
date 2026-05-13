@@ -1346,9 +1346,21 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "date": [],
-    "authority": [],
-    "page": "",
+    "date": [
+      {
+        "id": 33,
+        "value": "10/11 Jh.",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 315,
+        "value": "Hauke, H.",
+        "order": "283.00000000000000000000"
+      }
+    ],
+    "page": "23",
     "preferred_date": false,
     "Created by": {
       "id": 86,
@@ -1359,7 +1371,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-04-30T11:43:43.795332Z",
+    "Last modified": "2026-05-12T11:52:06.395673Z",
     "note": ""
   },
   "38": {
@@ -1560,9 +1572,31 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "date": [],
-    "authority": [],
-    "page": "",
+    "date": [
+      {
+        "id": 43,
+        "value": "12. Jh., erstes Viertel",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 47,
+        "value": "12. Jh., zweites Viertel",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 109,
+        "value": "13. Jh.",
+        "order": "77.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 314,
+        "value": "Wunderle, E.",
+        "order": "282.00000000000000000000"
+      }
+    ],
+    "page": "227",
     "preferred_date": false,
     "Created by": {
       "id": 87,
@@ -1573,7 +1607,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-04-30T11:45:38.464460Z",
+    "Last modified": "2026-05-12T11:49:22.997175Z",
     "note": ""
   },
   "44": {
@@ -1587,9 +1621,21 @@
         "order": "31.00000000000000000000"
       }
     ],
-    "date": [],
-    "authority": [],
-    "page": "",
+    "date": [
+      {
+        "id": 59,
+        "value": "9 Jh., zweite Hälfte",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 314,
+        "value": "Wunderle, E.",
+        "order": "282.00000000000000000000"
+      }
+    ],
+    "page": "164",
     "preferred_date": false,
     "Created by": {
       "id": 87,
@@ -1600,7 +1646,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-04-30T11:46:08.212418Z",
+    "Last modified": "2026-05-12T11:46:26.911843Z",
     "note": ""
   },
   "45": {
@@ -1614,9 +1660,21 @@
         "order": "32.00000000000000000000"
       }
     ],
-    "date": [],
-    "authority": [],
-    "page": "",
+    "date": [
+      {
+        "id": 48,
+        "value": "12. Jh., drittes Viertel",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 313,
+        "value": "Klemm, E.",
+        "order": "281.00000000000000000000"
+      }
+    ],
+    "page": "38",
     "preferred_date": false,
     "Created by": {
       "id": 87,
@@ -1627,7 +1685,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-04-30T11:46:23.498605Z",
+    "Last modified": "2026-05-12T11:36:07.198459Z",
     "note": ""
   },
   "46": {
@@ -1641,9 +1699,21 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "date": [],
-    "authority": [],
-    "page": "",
+    "date": [
+      {
+        "id": 46,
+        "value": "11. Jh., viertes Viertel",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 314,
+        "value": "Wunderle, E.",
+        "order": "282.00000000000000000000"
+      }
+    ],
+    "page": "73",
     "preferred_date": false,
     "Created by": {
       "id": 87,
@@ -1654,7 +1724,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-04-30T11:46:35.840933Z",
+    "Last modified": "2026-05-12T11:43:30.126895Z",
     "note": ""
   },
   "47": {
@@ -1668,9 +1738,21 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "date": [],
-    "authority": [],
-    "page": "",
+    "date": [
+      {
+        "id": 39,
+        "value": "11. Jh., zweite Hälfte",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "authority": [
+      {
+        "id": 314,
+        "value": "Wunderle, E.",
+        "order": "282.00000000000000000000"
+      }
+    ],
+    "page": "71",
     "preferred_date": false,
     "Created by": {
       "id": 87,
@@ -1681,7 +1763,7 @@
       "id": 87,
       "name": "Ksenia Borisova"
     },
-    "Last modified": "2025-04-30T11:46:47.861328Z",
+    "Last modified": "2026-05-12T11:44:28.212874Z",
     "note": ""
   },
   "48": {

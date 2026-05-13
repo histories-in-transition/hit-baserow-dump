@@ -2918,6 +2918,13 @@
           "database_table_3516": 26
         },
         "value": "10/11 Jh."
+      },
+      {
+        "ids": {
+          "database_table_3512": 33,
+          "database_table_3516": 37
+        },
+        "value": "10/11 Jh."
       }
     ],
     "Created by": {
@@ -3888,7 +3895,29 @@
         "order": "40.00000000000000000000"
       }
     ],
-    "orig_dated": [],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 43,
+          "database_table_3516": 43
+        },
+        "value": "12. Jh., erstes Viertel"
+      },
+      {
+        "ids": {
+          "database_table_3512": 47,
+          "database_table_3516": 43
+        },
+        "value": "12. Jh., zweites Viertel"
+      },
+      {
+        "ids": {
+          "database_table_3512": 109,
+          "database_table_3516": 43
+        },
+        "value": "13. Jh."
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -3981,7 +4010,15 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "orig_dated": [],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 59,
+          "database_table_3516": 44
+        },
+        "value": "9 Jh., zweite Hälfte"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4069,7 +4106,15 @@
         "order": "42.00000000000000000000"
       }
     ],
-    "orig_dated": [],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 48,
+          "database_table_3516": 45
+        },
+        "value": "12. Jh., drittes Viertel"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4157,7 +4202,15 @@
         "order": "43.00000000000000000000"
       }
     ],
-    "orig_dated": [],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 46,
+          "database_table_3516": 46
+        },
+        "value": "11. Jh., viertes Viertel"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -4239,7 +4292,15 @@
         "order": "44.00000000000000000000"
       }
     ],
-    "orig_dated": [],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 39,
+          "database_table_3516": 47
+        },
+        "value": "11. Jh., zweite Hälfte"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"

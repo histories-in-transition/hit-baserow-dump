@@ -3322,5 +3322,41 @@
     "year": "2005",
     "citation": "",
     "link": "https://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0587_b202_jpg.htm"
+  },
+  "313": {
+    "id": 313,
+    "order": "281.00000000000000000000",
+    "author": "Klemm, E.",
+    "short_title": "Die romanischen Handschriften der Bayerischen Staatsbibliothek",
+    "zotero_id": "",
+    "hit_id": "hit_bibl__313",
+    "title": "Die romanischen Handschriften der Bayerischen Staatsbibliothek: Teil 1. Die Bistümer Regensburg, Passau und Salzburg. Textband",
+    "year": "1980",
+    "citation": "",
+    "link": ""
+  },
+  "314": {
+    "id": 314,
+    "order": "282.00000000000000000000",
+    "author": "Wunderle, E.",
+    "short_title": "Katalog der lateinischen Handschriften der Bayerischen Staatsbibliothek München",
+    "zotero_id": "",
+    "hit_id": "hit_bibl__314",
+    "title": "Katalog der lateinischen Handschriften der Bayerischen Staatsbibliothek München: Die Handschriften aus St. Emmeran in Regensburg: Bd. 1. Clm 14000-14130.",
+    "year": "1995",
+    "citation": "",
+    "link": "https://bilder.manuscripta-mediaevalia.de/hs/kataloge/hsk0493.htm"
+  },
+  "315": {
+    "id": 315,
+    "order": "283.00000000000000000000",
+    "author": "Hauke, H.",
+    "short_title": "Katalog der lateinischen Handschriften der Bayerischen Staatsbibliothek München",
+    "zotero_id": "",
+    "hit_id": "hit_bibl__315",
+    "title": "Katalog der lateinischen Handschriften der Bayerischen Staatsbibliothek München: Clm 27270-27499",
+    "year": "1975",
+    "citation": "",
+    "link": "https://bilder.manuscripta-mediaevalia.de/hs/kataloge/hsk0048.htm"
   }
 }
