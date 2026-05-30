@@ -6347,8 +6347,22 @@
       "color": "darker-orange"
     },
     "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 126,
+        "value": "hit_dated__126",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 5,
+          "database_table_3516": 126
+        },
+        "value": "10 Jh., zweite Hälfte"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -6415,7 +6429,13 @@
       "color": "darker-orange"
     },
     "provenance": [],
-    "manuscripts_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 127,
+        "value": "hit_dated__127",
+        "order": "60.00000000000000000000"
+      }
+    ],
     "orig_dated": [],
     "Created by": {
       "id": 87,
@@ -6483,8 +6503,22 @@
       "color": "darker-orange"
     },
     "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 128,
+        "value": "hit_dated__128",
+        "order": "61.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 5,
+          "database_table_3516": 128
+        },
+        "value": "10 Jh., zweite Hälfte"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -6551,8 +6585,22 @@
       "color": "darker-orange"
     },
     "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 129,
+        "value": "hit_dated__129",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 69,
+          "database_table_3516": 129
+        },
+        "value": "gegen 1000"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -6613,10 +6661,28 @@
     "orig_place": [],
     "catchwords": "",
     "quiremarks": "",
-    "material": null,
+    "material": {
+      "id": 14782,
+      "value": "Pergament",
+      "color": "darker-orange"
+    },
     "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 130,
+        "value": "hit_dated__130",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 151,
+          "database_table_3516": 130
+        },
+        "value": "Zwischen 984 und 994"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -6626,7 +6692,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-26",
-    "Last modified": "2026-05-26",
+    "Last modified": "2026-05-29",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
@@ -6677,10 +6743,28 @@
     "orig_place": [],
     "catchwords": "",
     "quiremarks": "",
-    "material": null,
+    "material": {
+      "id": 14782,
+      "value": "Pergament",
+      "color": "darker-orange"
+    },
     "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 131,
+        "value": "hit_dated__131",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 2,
+          "database_table_3516": 131
+        },
+        "value": "9 Jh., erstes Drittel"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -6690,7 +6774,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-28",
-    "Last modified": "2026-05-28",
+    "Last modified": "2026-05-29",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
@@ -6741,10 +6825,28 @@
     "orig_place": [],
     "catchwords": "",
     "quiremarks": "",
-    "material": null,
+    "material": {
+      "id": 14782,
+      "value": "Pergament",
+      "color": "darker-orange"
+    },
     "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 132,
+        "value": "hit_dated__132",
+        "order": "65.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 6,
+          "database_table_3516": 132
+        },
+        "value": "9 Jh., erste Hälfte"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -6754,7 +6856,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-28",
-    "Last modified": "2026-05-28",
+    "Last modified": "2026-05-29",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
@@ -6805,10 +6907,28 @@
     "orig_place": [],
     "catchwords": "",
     "quiremarks": "",
-    "material": null,
+    "material": {
+      "id": 14782,
+      "value": "Pergament",
+      "color": "darker-orange"
+    },
     "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 133,
+        "value": "hit_dated__133",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 71,
+          "database_table_3516": 133
+        },
+        "value": "um 800"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -6818,7 +6938,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-28",
-    "Last modified": "2026-05-28",
+    "Last modified": "2026-05-29",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
@@ -6869,10 +6989,28 @@
     "orig_place": [],
     "catchwords": "",
     "quiremarks": "",
-    "material": null,
+    "material": {
+      "id": 14782,
+      "value": "Pergament",
+      "color": "darker-orange"
+    },
     "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 134,
+        "value": "hit_dated__134",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 6,
+          "database_table_3516": 134
+        },
+        "value": "9 Jh., erste Hälfte"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -6882,7 +7020,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-28",
-    "Last modified": "2026-05-28",
+    "Last modified": "2026-05-29",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
@@ -6933,10 +7071,28 @@
     "orig_place": [],
     "catchwords": "",
     "quiremarks": "",
-    "material": null,
+    "material": {
+      "id": 14782,
+      "value": "Pergament",
+      "color": "darker-orange"
+    },
     "provenance": [],
-    "manuscripts_dated": [],
-    "orig_dated": [],
+    "manuscripts_dated": [
+      {
+        "id": 135,
+        "value": "hit_dated__135",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "orig_dated": [
+      {
+        "ids": {
+          "database_table_3512": 75,
+          "database_table_3516": 135
+        },
+        "value": "um 900"
+      }
+    ],
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
@@ -6946,7 +7102,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-28",
-    "Last modified": "2026-05-28",
+    "Last modified": "2026-05-29",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
