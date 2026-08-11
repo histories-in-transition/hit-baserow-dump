@@ -1,0 +1,5532 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 1r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "7",
+    "fol-page": "1r",
+    "page-url": "https://viewer.onb.ac.at/10018525/7",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 1v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "8",
+    "fol-page": "1v",
+    "page-url": "https://viewer.onb.ac.at/10018525/8",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 2r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "9",
+    "fol-page": "2r",
+    "page-url": "https://viewer.onb.ac.at/10018525/9",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 2v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "10",
+    "fol-page": "2v",
+    "page-url": "https://viewer.onb.ac.at/10018525/10",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 3r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "11",
+    "fol-page": "3r",
+    "page-url": "https://viewer.onb.ac.at/10018525/11",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 3v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "12",
+    "fol-page": "3v",
+    "page-url": "https://viewer.onb.ac.at/10018525/12",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "201": {
+    "id": 201,
+    "order": "7.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 4r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "13",
+    "fol-page": "4r",
+    "page-url": "https://viewer.onb.ac.at/10018525/13",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "202": {
+    "id": 202,
+    "order": "8.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 4v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "14",
+    "fol-page": "4v",
+    "page-url": "https://viewer.onb.ac.at/10018525/14",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "203": {
+    "id": 203,
+    "order": "9.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 5r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "15",
+    "fol-page": "5r",
+    "page-url": "https://viewer.onb.ac.at/10018525/15",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "204": {
+    "id": 204,
+    "order": "10.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 5v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "16",
+    "fol-page": "5v",
+    "page-url": "https://viewer.onb.ac.at/10018525/16",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "205": {
+    "id": 205,
+    "order": "11.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 6r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "17",
+    "fol-page": "6r",
+    "page-url": "https://viewer.onb.ac.at/10018525/17",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "206": {
+    "id": 206,
+    "order": "12.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 6v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "18",
+    "fol-page": "6v",
+    "page-url": "https://viewer.onb.ac.at/10018525/18",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "207": {
+    "id": 207,
+    "order": "13.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 7r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "19",
+    "fol-page": "7r",
+    "page-url": "https://viewer.onb.ac.at/10018525/19",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "208": {
+    "id": 208,
+    "order": "14.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 7v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "20",
+    "fol-page": "7v",
+    "page-url": "https://viewer.onb.ac.at/10018525/20",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "209": {
+    "id": 209,
+    "order": "15.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 8r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "21",
+    "fol-page": "8r",
+    "page-url": "https://viewer.onb.ac.at/10018525/21",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "210": {
+    "id": 210,
+    "order": "16.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 8v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "22",
+    "fol-page": "8v",
+    "page-url": "https://viewer.onb.ac.at/10018525/22",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "211": {
+    "id": 211,
+    "order": "17.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 9r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "23",
+    "fol-page": "9r",
+    "page-url": "https://viewer.onb.ac.at/10018525/23",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "212": {
+    "id": 212,
+    "order": "18.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 9v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "24",
+    "fol-page": "9v",
+    "page-url": "https://viewer.onb.ac.at/10018525/24",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "213": {
+    "id": 213,
+    "order": "19.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 10r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "25",
+    "fol-page": "10r",
+    "page-url": "https://viewer.onb.ac.at/10018525/25",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "214": {
+    "id": 214,
+    "order": "20.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 10v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "26",
+    "fol-page": "10v",
+    "page-url": "https://viewer.onb.ac.at/10018525/26",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "215": {
+    "id": 215,
+    "order": "21.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 11r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "27",
+    "fol-page": "11r",
+    "page-url": "https://viewer.onb.ac.at/10018525/27",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "216": {
+    "id": 216,
+    "order": "22.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 11v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "28",
+    "fol-page": "11v",
+    "page-url": "https://viewer.onb.ac.at/10018525/28",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "217": {
+    "id": 217,
+    "order": "23.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 12r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "29",
+    "fol-page": "12r",
+    "page-url": "https://viewer.onb.ac.at/10018525/29",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "218": {
+    "id": 218,
+    "order": "24.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 12v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "30",
+    "fol-page": "12v",
+    "page-url": "https://viewer.onb.ac.at/10018525/30",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "219": {
+    "id": 219,
+    "order": "25.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 13r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "31",
+    "fol-page": "13r",
+    "page-url": "https://viewer.onb.ac.at/10018525/31",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "220": {
+    "id": 220,
+    "order": "26.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 13v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "32",
+    "fol-page": "13v",
+    "page-url": "https://viewer.onb.ac.at/10018525/32",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "221": {
+    "id": 221,
+    "order": "27.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 14r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "33",
+    "fol-page": "14r",
+    "page-url": "https://viewer.onb.ac.at/10018525/33",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "222": {
+    "id": 222,
+    "order": "28.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 14v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "34",
+    "fol-page": "14v",
+    "page-url": "https://viewer.onb.ac.at/10018525/34",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "223": {
+    "id": 223,
+    "order": "29.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 15r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "35",
+    "fol-page": "15r",
+    "page-url": "https://viewer.onb.ac.at/10018525/35",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "224": {
+    "id": 224,
+    "order": "30.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 15v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "36",
+    "fol-page": "15v",
+    "page-url": "https://viewer.onb.ac.at/10018525/36",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "225": {
+    "id": 225,
+    "order": "31.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 16r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "37",
+    "fol-page": "16r",
+    "page-url": "https://viewer.onb.ac.at/10018525/37",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "226": {
+    "id": 226,
+    "order": "32.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 16v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "38",
+    "fol-page": "16v",
+    "page-url": "https://viewer.onb.ac.at/10018525/38",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "227": {
+    "id": 227,
+    "order": "33.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 17r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "39",
+    "fol-page": "17r",
+    "page-url": "https://viewer.onb.ac.at/10018525/39",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "228": {
+    "id": 228,
+    "order": "34.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 17v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "40",
+    "fol-page": "17v",
+    "page-url": "https://viewer.onb.ac.at/10018525/40",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "229": {
+    "id": 229,
+    "order": "35.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 18r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "41",
+    "fol-page": "18r",
+    "page-url": "https://viewer.onb.ac.at/10018525/41",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "230": {
+    "id": 230,
+    "order": "36.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 18v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "42",
+    "fol-page": "18v",
+    "page-url": "https://viewer.onb.ac.at/10018525/42",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "231": {
+    "id": 231,
+    "order": "37.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 19r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "43",
+    "fol-page": "19r",
+    "page-url": "https://viewer.onb.ac.at/10018525/43",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "232": {
+    "id": 232,
+    "order": "38.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 19v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "44",
+    "fol-page": "19v",
+    "page-url": "https://viewer.onb.ac.at/10018525/44",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "233": {
+    "id": 233,
+    "order": "39.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 20r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "45",
+    "fol-page": "20r",
+    "page-url": "https://viewer.onb.ac.at/10018525/45",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "234": {
+    "id": 234,
+    "order": "40.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 20v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "46",
+    "fol-page": "20v",
+    "page-url": "https://viewer.onb.ac.at/10018525/46",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "235": {
+    "id": 235,
+    "order": "41.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 21r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "47",
+    "fol-page": "21r",
+    "page-url": "https://viewer.onb.ac.at/10018525/47",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "236": {
+    "id": 236,
+    "order": "42.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 21v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "48",
+    "fol-page": "21v",
+    "page-url": "https://viewer.onb.ac.at/10018525/48",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "237": {
+    "id": 237,
+    "order": "43.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 22r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "49",
+    "fol-page": "22r",
+    "page-url": "https://viewer.onb.ac.at/10018525/49",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "238": {
+    "id": 238,
+    "order": "44.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 22v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "50",
+    "fol-page": "22v",
+    "page-url": "https://viewer.onb.ac.at/10018525/50",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "239": {
+    "id": 239,
+    "order": "45.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 23r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "51",
+    "fol-page": "23r",
+    "page-url": "https://viewer.onb.ac.at/10018525/51",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "240": {
+    "id": 240,
+    "order": "46.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 23v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "52",
+    "fol-page": "23v",
+    "page-url": "https://viewer.onb.ac.at/10018525/52",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "241": {
+    "id": 241,
+    "order": "47.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 24r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "53",
+    "fol-page": "24r",
+    "page-url": "https://viewer.onb.ac.at/10018525/53",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "242": {
+    "id": 242,
+    "order": "48.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 24v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "54",
+    "fol-page": "24v",
+    "page-url": "https://viewer.onb.ac.at/10018525/54",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "243": {
+    "id": 243,
+    "order": "49.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 25r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "55",
+    "fol-page": "25r",
+    "page-url": "https://viewer.onb.ac.at/10018525/55",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "244": {
+    "id": 244,
+    "order": "50.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 25v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "56",
+    "fol-page": "25v",
+    "page-url": "https://viewer.onb.ac.at/10018525/56",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "245": {
+    "id": 245,
+    "order": "51.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 26r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "57",
+    "fol-page": "26r",
+    "page-url": "https://viewer.onb.ac.at/10018525/57",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "246": {
+    "id": 246,
+    "order": "52.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 26v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "58",
+    "fol-page": "26v",
+    "page-url": "https://viewer.onb.ac.at/10018525/58",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "247": {
+    "id": 247,
+    "order": "53.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 27r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "59",
+    "fol-page": "27r",
+    "page-url": "https://viewer.onb.ac.at/10018525/59",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "248": {
+    "id": 248,
+    "order": "54.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 27v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "60",
+    "fol-page": "27v",
+    "page-url": "https://viewer.onb.ac.at/10018525/60",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "249": {
+    "id": 249,
+    "order": "55.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 28r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "61",
+    "fol-page": "28r",
+    "page-url": "https://viewer.onb.ac.at/10018525/61",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "250": {
+    "id": 250,
+    "order": "56.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 28v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "62",
+    "fol-page": "28v",
+    "page-url": "https://viewer.onb.ac.at/10018525/62",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "251": {
+    "id": 251,
+    "order": "57.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 29r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "63",
+    "fol-page": "29r",
+    "page-url": "https://viewer.onb.ac.at/10018525/63",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "252": {
+    "id": 252,
+    "order": "58.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 29v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "64",
+    "fol-page": "29v",
+    "page-url": "https://viewer.onb.ac.at/10018525/64",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "253": {
+    "id": 253,
+    "order": "59.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 30r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "65",
+    "fol-page": "30r",
+    "page-url": "https://viewer.onb.ac.at/10018525/65",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "254": {
+    "id": 254,
+    "order": "60.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 30v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "66",
+    "fol-page": "30v",
+    "page-url": "https://viewer.onb.ac.at/10018525/66",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "255": {
+    "id": 255,
+    "order": "61.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 31r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "67",
+    "fol-page": "31r",
+    "page-url": "https://viewer.onb.ac.at/10018525/67",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "256": {
+    "id": 256,
+    "order": "62.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 31v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "68",
+    "fol-page": "31v",
+    "page-url": "https://viewer.onb.ac.at/10018525/68",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "257": {
+    "id": 257,
+    "order": "63.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 32r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "69",
+    "fol-page": "32r",
+    "page-url": "https://viewer.onb.ac.at/10018525/69",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "258": {
+    "id": 258,
+    "order": "64.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 32v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "70",
+    "fol-page": "32v",
+    "page-url": "https://viewer.onb.ac.at/10018525/70",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "259": {
+    "id": 259,
+    "order": "65.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 33r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "71",
+    "fol-page": "33r",
+    "page-url": "https://viewer.onb.ac.at/10018525/71",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "260": {
+    "id": 260,
+    "order": "66.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 33v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "72",
+    "fol-page": "33v",
+    "page-url": "https://viewer.onb.ac.at/10018525/72",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "261": {
+    "id": 261,
+    "order": "67.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 34r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "73",
+    "fol-page": "34r",
+    "page-url": "https://viewer.onb.ac.at/10018525/73",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "262": {
+    "id": 262,
+    "order": "68.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 34v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "74",
+    "fol-page": "34v",
+    "page-url": "https://viewer.onb.ac.at/10018525/74",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "263": {
+    "id": 263,
+    "order": "69.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 35r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "75",
+    "fol-page": "35r",
+    "page-url": "https://viewer.onb.ac.at/10018525/75",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "264": {
+    "id": 264,
+    "order": "70.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 35v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "76",
+    "fol-page": "35v",
+    "page-url": "https://viewer.onb.ac.at/10018525/76",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "265": {
+    "id": 265,
+    "order": "71.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 36r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "77",
+    "fol-page": "36r",
+    "page-url": "https://viewer.onb.ac.at/10018525/77",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "266": {
+    "id": 266,
+    "order": "72.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 36v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "78",
+    "fol-page": "36v",
+    "page-url": "https://viewer.onb.ac.at/10018525/78",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "267": {
+    "id": 267,
+    "order": "73.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 37r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "79",
+    "fol-page": "37r",
+    "page-url": "https://viewer.onb.ac.at/10018525/79",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "268": {
+    "id": 268,
+    "order": "74.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 37v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "80",
+    "fol-page": "37v",
+    "page-url": "https://viewer.onb.ac.at/10018525/80",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "269": {
+    "id": 269,
+    "order": "75.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 38r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "81",
+    "fol-page": "38r",
+    "page-url": "https://viewer.onb.ac.at/10018525/81",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "270": {
+    "id": 270,
+    "order": "76.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 38v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "82",
+    "fol-page": "38v",
+    "page-url": "https://viewer.onb.ac.at/10018525/82",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "271": {
+    "id": 271,
+    "order": "77.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 39r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "83",
+    "fol-page": "39r",
+    "page-url": "https://viewer.onb.ac.at/10018525/83",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "272": {
+    "id": 272,
+    "order": "78.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 39v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "84",
+    "fol-page": "39v",
+    "page-url": "https://viewer.onb.ac.at/10018525/84",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "273": {
+    "id": 273,
+    "order": "79.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 40r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "85",
+    "fol-page": "40r",
+    "page-url": "https://viewer.onb.ac.at/10018525/85",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "274": {
+    "id": 274,
+    "order": "80.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 40v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "86",
+    "fol-page": "40v",
+    "page-url": "https://viewer.onb.ac.at/10018525/86",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "275": {
+    "id": 275,
+    "order": "81.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 41r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "87",
+    "fol-page": "41r",
+    "page-url": "https://viewer.onb.ac.at/10018525/87",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "276": {
+    "id": 276,
+    "order": "82.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 41v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "88",
+    "fol-page": "41v",
+    "page-url": "https://viewer.onb.ac.at/10018525/88",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "277": {
+    "id": 277,
+    "order": "83.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 41ar",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "89",
+    "fol-page": "41ar",
+    "page-url": "https://viewer.onb.ac.at/10018525/89",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "278": {
+    "id": 278,
+    "order": "84.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 41av",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "90",
+    "fol-page": "41av",
+    "page-url": "https://viewer.onb.ac.at/10018525/90",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "279": {
+    "id": 279,
+    "order": "85.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 42r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "91",
+    "fol-page": "42r",
+    "page-url": "https://viewer.onb.ac.at/10018525/91",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "280": {
+    "id": 280,
+    "order": "86.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 42v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "92",
+    "fol-page": "42v",
+    "page-url": "https://viewer.onb.ac.at/10018525/92",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "281": {
+    "id": 281,
+    "order": "87.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 43r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "93",
+    "fol-page": "43r",
+    "page-url": "https://viewer.onb.ac.at/10018525/93",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "282": {
+    "id": 282,
+    "order": "88.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 43v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "94",
+    "fol-page": "43v",
+    "page-url": "https://viewer.onb.ac.at/10018525/94",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "283": {
+    "id": 283,
+    "order": "89.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 44r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "95",
+    "fol-page": "44r",
+    "page-url": "https://viewer.onb.ac.at/10018525/95",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "284": {
+    "id": 284,
+    "order": "90.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 44v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "96",
+    "fol-page": "44v",
+    "page-url": "https://viewer.onb.ac.at/10018525/96",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "285": {
+    "id": 285,
+    "order": "91.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 45r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "97",
+    "fol-page": "45r",
+    "page-url": "https://viewer.onb.ac.at/10018525/97",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "286": {
+    "id": 286,
+    "order": "92.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 45v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "98",
+    "fol-page": "45v",
+    "page-url": "https://viewer.onb.ac.at/10018525/98",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "287": {
+    "id": 287,
+    "order": "93.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 46r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "99",
+    "fol-page": "46r",
+    "page-url": "https://viewer.onb.ac.at/10018525/99",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "288": {
+    "id": 288,
+    "order": "94.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 46v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "100",
+    "fol-page": "46v",
+    "page-url": "https://viewer.onb.ac.at/10018525/100",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "289": {
+    "id": 289,
+    "order": "95.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 47r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "101",
+    "fol-page": "47r",
+    "page-url": "https://viewer.onb.ac.at/10018525/101",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "290": {
+    "id": 290,
+    "order": "96.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 47v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "102",
+    "fol-page": "47v",
+    "page-url": "https://viewer.onb.ac.at/10018525/102",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "291": {
+    "id": 291,
+    "order": "97.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 48r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "103",
+    "fol-page": "48r",
+    "page-url": "https://viewer.onb.ac.at/10018525/103",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "292": {
+    "id": 292,
+    "order": "98.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 48v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "104",
+    "fol-page": "48v",
+    "page-url": "https://viewer.onb.ac.at/10018525/104",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "293": {
+    "id": 293,
+    "order": "99.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 49r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "105",
+    "fol-page": "49r",
+    "page-url": "https://viewer.onb.ac.at/10018525/105",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "294": {
+    "id": 294,
+    "order": "100.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 49v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "106",
+    "fol-page": "49v",
+    "page-url": "https://viewer.onb.ac.at/10018525/106",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "295": {
+    "id": 295,
+    "order": "101.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 50r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "107",
+    "fol-page": "50r",
+    "page-url": "https://viewer.onb.ac.at/10018525/107",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "296": {
+    "id": 296,
+    "order": "102.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 50v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "108",
+    "fol-page": "50v",
+    "page-url": "https://viewer.onb.ac.at/10018525/108",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "297": {
+    "id": 297,
+    "order": "103.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 51r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "109",
+    "fol-page": "51r",
+    "page-url": "https://viewer.onb.ac.at/10018525/109",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "298": {
+    "id": 298,
+    "order": "104.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 51v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "110",
+    "fol-page": "51v",
+    "page-url": "https://viewer.onb.ac.at/10018525/110",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "299": {
+    "id": 299,
+    "order": "105.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 52r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "111",
+    "fol-page": "52r",
+    "page-url": "https://viewer.onb.ac.at/10018525/111",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "300": {
+    "id": 300,
+    "order": "106.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 52v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "112",
+    "fol-page": "52v",
+    "page-url": "https://viewer.onb.ac.at/10018525/112",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "301": {
+    "id": 301,
+    "order": "107.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 53r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "113",
+    "fol-page": "53r",
+    "page-url": "https://viewer.onb.ac.at/10018525/113",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "302": {
+    "id": 302,
+    "order": "108.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 53v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "114",
+    "fol-page": "53v",
+    "page-url": "https://viewer.onb.ac.at/10018525/114",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "303": {
+    "id": 303,
+    "order": "109.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 54r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "115",
+    "fol-page": "54r",
+    "page-url": "https://viewer.onb.ac.at/10018525/115",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "304": {
+    "id": 304,
+    "order": "110.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 54v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "116",
+    "fol-page": "54v",
+    "page-url": "https://viewer.onb.ac.at/10018525/116",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "305": {
+    "id": 305,
+    "order": "111.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 55r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "117",
+    "fol-page": "55r",
+    "page-url": "https://viewer.onb.ac.at/10018525/117",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "306": {
+    "id": 306,
+    "order": "112.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 55v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "118",
+    "fol-page": "55v",
+    "page-url": "https://viewer.onb.ac.at/10018525/118",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "307": {
+    "id": 307,
+    "order": "113.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 56r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "119",
+    "fol-page": "56r",
+    "page-url": "https://viewer.onb.ac.at/10018525/119",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "308": {
+    "id": 308,
+    "order": "114.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 56v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "120",
+    "fol-page": "56v",
+    "page-url": "https://viewer.onb.ac.at/10018525/120",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "309": {
+    "id": 309,
+    "order": "115.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 57r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "121",
+    "fol-page": "57r",
+    "page-url": "https://viewer.onb.ac.at/10018525/121",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "310": {
+    "id": 310,
+    "order": "116.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 57v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "122",
+    "fol-page": "57v",
+    "page-url": "https://viewer.onb.ac.at/10018525/122",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "311": {
+    "id": 311,
+    "order": "117.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 58r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "123",
+    "fol-page": "58r",
+    "page-url": "https://viewer.onb.ac.at/10018525/123",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "312": {
+    "id": 312,
+    "order": "118.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 58v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "124",
+    "fol-page": "58v",
+    "page-url": "https://viewer.onb.ac.at/10018525/124",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "313": {
+    "id": 313,
+    "order": "119.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 59r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "125",
+    "fol-page": "59r",
+    "page-url": "https://viewer.onb.ac.at/10018525/125",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "314": {
+    "id": 314,
+    "order": "120.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 59v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "126",
+    "fol-page": "59v",
+    "page-url": "https://viewer.onb.ac.at/10018525/126",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "315": {
+    "id": 315,
+    "order": "121.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 60r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "127",
+    "fol-page": "60r",
+    "page-url": "https://viewer.onb.ac.at/10018525/127",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "316": {
+    "id": 316,
+    "order": "122.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 60ar",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "128",
+    "fol-page": "60ar",
+    "page-url": "https://viewer.onb.ac.at/10018525/128",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "317": {
+    "id": 317,
+    "order": "123.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 60v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "129",
+    "fol-page": "60v",
+    "page-url": "https://viewer.onb.ac.at/10018525/129",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "318": {
+    "id": 318,
+    "order": "124.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 60av",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "130",
+    "fol-page": "60av",
+    "page-url": "https://viewer.onb.ac.at/10018525/130",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "319": {
+    "id": 319,
+    "order": "125.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 61r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "131",
+    "fol-page": "61r",
+    "page-url": "https://viewer.onb.ac.at/10018525/131",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "320": {
+    "id": 320,
+    "order": "126.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 61v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "132",
+    "fol-page": "61v",
+    "page-url": "https://viewer.onb.ac.at/10018525/132",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "321": {
+    "id": 321,
+    "order": "127.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 62r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "133",
+    "fol-page": "62r",
+    "page-url": "https://viewer.onb.ac.at/10018525/133",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "322": {
+    "id": 322,
+    "order": "128.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 62v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "134",
+    "fol-page": "62v",
+    "page-url": "https://viewer.onb.ac.at/10018525/134",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "323": {
+    "id": 323,
+    "order": "129.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 63r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "135",
+    "fol-page": "63r",
+    "page-url": "https://viewer.onb.ac.at/10018525/135",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "324": {
+    "id": 324,
+    "order": "130.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 63v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "136",
+    "fol-page": "63v",
+    "page-url": "https://viewer.onb.ac.at/10018525/136",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "325": {
+    "id": 325,
+    "order": "131.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 64r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "137",
+    "fol-page": "64r",
+    "page-url": "https://viewer.onb.ac.at/10018525/137",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "326": {
+    "id": 326,
+    "order": "132.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 64v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "138",
+    "fol-page": "64v",
+    "page-url": "https://viewer.onb.ac.at/10018525/138",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "327": {
+    "id": 327,
+    "order": "133.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 65r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "139",
+    "fol-page": "65r",
+    "page-url": "https://viewer.onb.ac.at/10018525/139",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "328": {
+    "id": 328,
+    "order": "134.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 65v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "140",
+    "fol-page": "65v",
+    "page-url": "https://viewer.onb.ac.at/10018525/140",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "329": {
+    "id": 329,
+    "order": "135.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 66r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "141",
+    "fol-page": "66r",
+    "page-url": "https://viewer.onb.ac.at/10018525/141",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "330": {
+    "id": 330,
+    "order": "136.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 66v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "142",
+    "fol-page": "66v",
+    "page-url": "https://viewer.onb.ac.at/10018525/142",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "331": {
+    "id": 331,
+    "order": "137.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 67r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "143",
+    "fol-page": "67r",
+    "page-url": "https://viewer.onb.ac.at/10018525/143",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "332": {
+    "id": 332,
+    "order": "138.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 67v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "144",
+    "fol-page": "67v",
+    "page-url": "https://viewer.onb.ac.at/10018525/144",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "333": {
+    "id": 333,
+    "order": "139.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 68r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "145",
+    "fol-page": "68r",
+    "page-url": "https://viewer.onb.ac.at/10018525/145",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "334": {
+    "id": 334,
+    "order": "140.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 68v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "146",
+    "fol-page": "68v",
+    "page-url": "https://viewer.onb.ac.at/10018525/146",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "335": {
+    "id": 335,
+    "order": "141.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 69r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "147",
+    "fol-page": "69r",
+    "page-url": "https://viewer.onb.ac.at/10018525/147",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "336": {
+    "id": 336,
+    "order": "142.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 69v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "148",
+    "fol-page": "69v",
+    "page-url": "https://viewer.onb.ac.at/10018525/148",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "337": {
+    "id": 337,
+    "order": "143.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 70r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "149",
+    "fol-page": "70r",
+    "page-url": "https://viewer.onb.ac.at/10018525/149",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "338": {
+    "id": 338,
+    "order": "144.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 70v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "150",
+    "fol-page": "70v",
+    "page-url": "https://viewer.onb.ac.at/10018525/150",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "339": {
+    "id": 339,
+    "order": "145.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 71r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "151",
+    "fol-page": "71r",
+    "page-url": "https://viewer.onb.ac.at/10018525/151",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "340": {
+    "id": 340,
+    "order": "146.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 71v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "152",
+    "fol-page": "71v",
+    "page-url": "https://viewer.onb.ac.at/10018525/152",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "341": {
+    "id": 341,
+    "order": "147.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 72r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "153",
+    "fol-page": "72r",
+    "page-url": "https://viewer.onb.ac.at/10018525/153",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "342": {
+    "id": 342,
+    "order": "148.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 72v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "154",
+    "fol-page": "72v",
+    "page-url": "https://viewer.onb.ac.at/10018525/154",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "343": {
+    "id": 343,
+    "order": "149.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 73r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "155",
+    "fol-page": "73r",
+    "page-url": "https://viewer.onb.ac.at/10018525/155",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "344": {
+    "id": 344,
+    "order": "150.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 73v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "156",
+    "fol-page": "73v",
+    "page-url": "https://viewer.onb.ac.at/10018525/156",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "345": {
+    "id": 345,
+    "order": "151.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 73ar",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "157",
+    "fol-page": "73ar",
+    "page-url": "https://viewer.onb.ac.at/10018525/157",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "346": {
+    "id": 346,
+    "order": "152.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 73av",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "158",
+    "fol-page": "73av",
+    "page-url": "https://viewer.onb.ac.at/10018525/158",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "347": {
+    "id": 347,
+    "order": "153.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 74r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "159",
+    "fol-page": "74r",
+    "page-url": "https://viewer.onb.ac.at/10018525/159",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "348": {
+    "id": 348,
+    "order": "154.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 74v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "160",
+    "fol-page": "74v",
+    "page-url": "https://viewer.onb.ac.at/10018525/160",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "349": {
+    "id": 349,
+    "order": "155.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 75r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "161",
+    "fol-page": "75r",
+    "page-url": "https://viewer.onb.ac.at/10018525/161",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "350": {
+    "id": 350,
+    "order": "156.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 75v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "162",
+    "fol-page": "75v",
+    "page-url": "https://viewer.onb.ac.at/10018525/162",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "351": {
+    "id": 351,
+    "order": "157.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 76r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "163",
+    "fol-page": "76r",
+    "page-url": "https://viewer.onb.ac.at/10018525/163",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "352": {
+    "id": 352,
+    "order": "158.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 76v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "164",
+    "fol-page": "76v",
+    "page-url": "https://viewer.onb.ac.at/10018525/164",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "353": {
+    "id": 353,
+    "order": "159.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 77r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "165",
+    "fol-page": "77r",
+    "page-url": "https://viewer.onb.ac.at/10018525/165",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "354": {
+    "id": 354,
+    "order": "160.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 77v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "166",
+    "fol-page": "77v",
+    "page-url": "https://viewer.onb.ac.at/10018525/166",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "355": {
+    "id": 355,
+    "order": "161.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 78r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "167",
+    "fol-page": "78r",
+    "page-url": "https://viewer.onb.ac.at/10018525/167",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "356": {
+    "id": 356,
+    "order": "162.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 78v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "168",
+    "fol-page": "78v",
+    "page-url": "https://viewer.onb.ac.at/10018525/168",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "357": {
+    "id": 357,
+    "order": "163.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 79r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "169",
+    "fol-page": "79r",
+    "page-url": "https://viewer.onb.ac.at/10018525/169",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "358": {
+    "id": 358,
+    "order": "164.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 79v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "170",
+    "fol-page": "79v",
+    "page-url": "https://viewer.onb.ac.at/10018525/170",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "359": {
+    "id": 359,
+    "order": "165.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 80r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "171",
+    "fol-page": "80r",
+    "page-url": "https://viewer.onb.ac.at/10018525/171",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "360": {
+    "id": 360,
+    "order": "166.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 80v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "172",
+    "fol-page": "80v",
+    "page-url": "https://viewer.onb.ac.at/10018525/172",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "361": {
+    "id": 361,
+    "order": "167.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 81r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "173",
+    "fol-page": "81r",
+    "page-url": "https://viewer.onb.ac.at/10018525/173",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "362": {
+    "id": 362,
+    "order": "168.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 81v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "174",
+    "fol-page": "81v",
+    "page-url": "https://viewer.onb.ac.at/10018525/174",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "363": {
+    "id": 363,
+    "order": "169.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 82r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "175",
+    "fol-page": "82r",
+    "page-url": "https://viewer.onb.ac.at/10018525/175",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "364": {
+    "id": 364,
+    "order": "170.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 82v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "176",
+    "fol-page": "82v",
+    "page-url": "https://viewer.onb.ac.at/10018525/176",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "365": {
+    "id": 365,
+    "order": "171.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 83r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "177",
+    "fol-page": "83r",
+    "page-url": "https://viewer.onb.ac.at/10018525/177",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "366": {
+    "id": 366,
+    "order": "172.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 83v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "178",
+    "fol-page": "83v",
+    "page-url": "https://viewer.onb.ac.at/10018525/178",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "367": {
+    "id": 367,
+    "order": "173.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 84r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "179",
+    "fol-page": "84r",
+    "page-url": "https://viewer.onb.ac.at/10018525/179",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "368": {
+    "id": 368,
+    "order": "174.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 84v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "180",
+    "fol-page": "84v",
+    "page-url": "https://viewer.onb.ac.at/10018525/180",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "369": {
+    "id": 369,
+    "order": "175.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 85r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "181",
+    "fol-page": "85r",
+    "page-url": "https://viewer.onb.ac.at/10018525/181",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "370": {
+    "id": 370,
+    "order": "176.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 85v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "182",
+    "fol-page": "85v",
+    "page-url": "https://viewer.onb.ac.at/10018525/182",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "371": {
+    "id": 371,
+    "order": "177.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 86r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "183",
+    "fol-page": "86r",
+    "page-url": "https://viewer.onb.ac.at/10018525/183",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "372": {
+    "id": 372,
+    "order": "178.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 86v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "184",
+    "fol-page": "86v",
+    "page-url": "https://viewer.onb.ac.at/10018525/184",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "373": {
+    "id": 373,
+    "order": "179.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 87r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "185",
+    "fol-page": "87r",
+    "page-url": "https://viewer.onb.ac.at/10018525/185",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "374": {
+    "id": 374,
+    "order": "180.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 87v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "186",
+    "fol-page": "87v",
+    "page-url": "https://viewer.onb.ac.at/10018525/186",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "375": {
+    "id": 375,
+    "order": "181.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 88r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "187",
+    "fol-page": "88r",
+    "page-url": "https://viewer.onb.ac.at/10018525/187",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "376": {
+    "id": 376,
+    "order": "182.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 88v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "188",
+    "fol-page": "88v",
+    "page-url": "https://viewer.onb.ac.at/10018525/188",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "377": {
+    "id": 377,
+    "order": "183.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 89r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "189",
+    "fol-page": "89r",
+    "page-url": "https://viewer.onb.ac.at/10018525/189",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "378": {
+    "id": 378,
+    "order": "184.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 89v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "190",
+    "fol-page": "89v",
+    "page-url": "https://viewer.onb.ac.at/10018525/190",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "379": {
+    "id": 379,
+    "order": "185.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 90r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "191",
+    "fol-page": "90r",
+    "page-url": "https://viewer.onb.ac.at/10018525/191",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "380": {
+    "id": 380,
+    "order": "186.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 90v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "192",
+    "fol-page": "90v",
+    "page-url": "https://viewer.onb.ac.at/10018525/192",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "381": {
+    "id": 381,
+    "order": "187.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 91r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "193",
+    "fol-page": "91r",
+    "page-url": "https://viewer.onb.ac.at/10018525/193",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "382": {
+    "id": 382,
+    "order": "188.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 91v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "194",
+    "fol-page": "91v",
+    "page-url": "https://viewer.onb.ac.at/10018525/194",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "383": {
+    "id": 383,
+    "order": "189.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 92r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "195",
+    "fol-page": "92r",
+    "page-url": "https://viewer.onb.ac.at/10018525/195",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "384": {
+    "id": 384,
+    "order": "190.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 92v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "196",
+    "fol-page": "92v",
+    "page-url": "https://viewer.onb.ac.at/10018525/196",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "385": {
+    "id": 385,
+    "order": "191.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 93r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "197",
+    "fol-page": "93r",
+    "page-url": "https://viewer.onb.ac.at/10018525/197",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "386": {
+    "id": 386,
+    "order": "192.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 93v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "198",
+    "fol-page": "93v",
+    "page-url": "https://viewer.onb.ac.at/10018525/198",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "387": {
+    "id": 387,
+    "order": "193.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 94r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "199",
+    "fol-page": "94r",
+    "page-url": "https://viewer.onb.ac.at/10018525/199",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "388": {
+    "id": 388,
+    "order": "194.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 94v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "200",
+    "fol-page": "94v",
+    "page-url": "https://viewer.onb.ac.at/10018525/200",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "389": {
+    "id": 389,
+    "order": "195.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 95r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "201",
+    "fol-page": "95r",
+    "page-url": "https://viewer.onb.ac.at/10018525/201",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "390": {
+    "id": 390,
+    "order": "196.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 95v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "202",
+    "fol-page": "95v",
+    "page-url": "https://viewer.onb.ac.at/10018525/202",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "391": {
+    "id": 391,
+    "order": "197.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 96r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "203",
+    "fol-page": "96r",
+    "page-url": "https://viewer.onb.ac.at/10018525/203",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "392": {
+    "id": 392,
+    "order": "198.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 96v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "204",
+    "fol-page": "96v",
+    "page-url": "https://viewer.onb.ac.at/10018525/204",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "393": {
+    "id": 393,
+    "order": "199.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 97r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "205",
+    "fol-page": "97r",
+    "page-url": "https://viewer.onb.ac.at/10018525/205",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "394": {
+    "id": 394,
+    "order": "200.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 97v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "206",
+    "fol-page": "97v",
+    "page-url": "https://viewer.onb.ac.at/10018525/206",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "395": {
+    "id": 395,
+    "order": "201.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 98r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "207",
+    "fol-page": "98r",
+    "page-url": "https://viewer.onb.ac.at/10018525/207",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "396": {
+    "id": 396,
+    "order": "202.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 98v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "208",
+    "fol-page": "98v",
+    "page-url": "https://viewer.onb.ac.at/10018525/208",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "397": {
+    "id": 397,
+    "order": "203.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 99r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "209",
+    "fol-page": "99r",
+    "page-url": "https://viewer.onb.ac.at/10018525/209",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "398": {
+    "id": 398,
+    "order": "204.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 99v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "210",
+    "fol-page": "99v",
+    "page-url": "https://viewer.onb.ac.at/10018525/210",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "399": {
+    "id": 399,
+    "order": "205.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 100r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "211",
+    "fol-page": "100r",
+    "page-url": "https://viewer.onb.ac.at/10018525/211",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "400": {
+    "id": 400,
+    "order": "206.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 100v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "212",
+    "fol-page": "100v",
+    "page-url": "https://viewer.onb.ac.at/10018525/212",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "401": {
+    "id": 401,
+    "order": "207.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 101r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "213",
+    "fol-page": "101r",
+    "page-url": "https://viewer.onb.ac.at/10018525/213",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "402": {
+    "id": 402,
+    "order": "208.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 101v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "214",
+    "fol-page": "101v",
+    "page-url": "https://viewer.onb.ac.at/10018525/214",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "403": {
+    "id": 403,
+    "order": "209.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 102r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "215",
+    "fol-page": "102r",
+    "page-url": "https://viewer.onb.ac.at/10018525/215",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "404": {
+    "id": 404,
+    "order": "210.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 102v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "216",
+    "fol-page": "102v",
+    "page-url": "https://viewer.onb.ac.at/10018525/216",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "405": {
+    "id": 405,
+    "order": "211.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 103r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "217",
+    "fol-page": "103r",
+    "page-url": "https://viewer.onb.ac.at/10018525/217",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "406": {
+    "id": 406,
+    "order": "212.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 103v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "218",
+    "fol-page": "103v",
+    "page-url": "https://viewer.onb.ac.at/10018525/218",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "407": {
+    "id": 407,
+    "order": "213.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 104r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "219",
+    "fol-page": "104r",
+    "page-url": "https://viewer.onb.ac.at/10018525/219",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "408": {
+    "id": 408,
+    "order": "214.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 104v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "220",
+    "fol-page": "104v",
+    "page-url": "https://viewer.onb.ac.at/10018525/220",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "409": {
+    "id": 409,
+    "order": "215.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 105r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "221",
+    "fol-page": "105r",
+    "page-url": "https://viewer.onb.ac.at/10018525/221",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "410": {
+    "id": 410,
+    "order": "216.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 105v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "222",
+    "fol-page": "105v",
+    "page-url": "https://viewer.onb.ac.at/10018525/222",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "411": {
+    "id": 411,
+    "order": "217.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 106r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "223",
+    "fol-page": "106r",
+    "page-url": "https://viewer.onb.ac.at/10018525/223",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "412": {
+    "id": 412,
+    "order": "218.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 106v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "224",
+    "fol-page": "106v",
+    "page-url": "https://viewer.onb.ac.at/10018525/224",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "413": {
+    "id": 413,
+    "order": "219.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 107r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "225",
+    "fol-page": "107r",
+    "page-url": "https://viewer.onb.ac.at/10018525/225",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "414": {
+    "id": 414,
+    "order": "220.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 107v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "226",
+    "fol-page": "107v",
+    "page-url": "https://viewer.onb.ac.at/10018525/226",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "415": {
+    "id": 415,
+    "order": "221.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 108r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "227",
+    "fol-page": "108r",
+    "page-url": "https://viewer.onb.ac.at/10018525/227",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "416": {
+    "id": 416,
+    "order": "222.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 108v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "228",
+    "fol-page": "108v",
+    "page-url": "https://viewer.onb.ac.at/10018525/228",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "417": {
+    "id": 417,
+    "order": "223.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 109r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "229",
+    "fol-page": "109r",
+    "page-url": "https://viewer.onb.ac.at/10018525/229",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "418": {
+    "id": 418,
+    "order": "224.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 109v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "230",
+    "fol-page": "109v",
+    "page-url": "https://viewer.onb.ac.at/10018525/230",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "419": {
+    "id": 419,
+    "order": "225.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 110r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "231",
+    "fol-page": "110r",
+    "page-url": "https://viewer.onb.ac.at/10018525/231",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "420": {
+    "id": 420,
+    "order": "226.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 110v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "232",
+    "fol-page": "110v",
+    "page-url": "https://viewer.onb.ac.at/10018525/232",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "421": {
+    "id": 421,
+    "order": "227.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 111r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "233",
+    "fol-page": "111r",
+    "page-url": "https://viewer.onb.ac.at/10018525/233",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "422": {
+    "id": 422,
+    "order": "228.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 111v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "234",
+    "fol-page": "111v",
+    "page-url": "https://viewer.onb.ac.at/10018525/234",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "423": {
+    "id": 423,
+    "order": "229.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 112r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "235",
+    "fol-page": "112r",
+    "page-url": "https://viewer.onb.ac.at/10018525/235",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "424": {
+    "id": 424,
+    "order": "230.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 112v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "236",
+    "fol-page": "112v",
+    "page-url": "https://viewer.onb.ac.at/10018525/236",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "425": {
+    "id": 425,
+    "order": "231.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 113r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "237",
+    "fol-page": "113r",
+    "page-url": "https://viewer.onb.ac.at/10018525/237",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "426": {
+    "id": 426,
+    "order": "232.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 113v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "238",
+    "fol-page": "113v",
+    "page-url": "https://viewer.onb.ac.at/10018525/238",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "427": {
+    "id": 427,
+    "order": "233.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 114r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "239",
+    "fol-page": "114r",
+    "page-url": "https://viewer.onb.ac.at/10018525/239",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "428": {
+    "id": 428,
+    "order": "234.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 114v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "240",
+    "fol-page": "114v",
+    "page-url": "https://viewer.onb.ac.at/10018525/240",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "429": {
+    "id": 429,
+    "order": "235.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 115r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "241",
+    "fol-page": "115r",
+    "page-url": "https://viewer.onb.ac.at/10018525/241",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "430": {
+    "id": 430,
+    "order": "236.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 115v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "242",
+    "fol-page": "115v",
+    "page-url": "https://viewer.onb.ac.at/10018525/242",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "431": {
+    "id": 431,
+    "order": "237.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 116r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "243",
+    "fol-page": "116r",
+    "page-url": "https://viewer.onb.ac.at/10018525/243",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "432": {
+    "id": 432,
+    "order": "238.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 116v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "244",
+    "fol-page": "116v",
+    "page-url": "https://viewer.onb.ac.at/10018525/244",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "433": {
+    "id": 433,
+    "order": "239.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 117r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "245",
+    "fol-page": "117r",
+    "page-url": "https://viewer.onb.ac.at/10018525/245",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "434": {
+    "id": 434,
+    "order": "240.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 117v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "246",
+    "fol-page": "117v",
+    "page-url": "https://viewer.onb.ac.at/10018525/246",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "435": {
+    "id": 435,
+    "order": "241.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 118r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "247",
+    "fol-page": "118r",
+    "page-url": "https://viewer.onb.ac.at/10018525/247",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "436": {
+    "id": 436,
+    "order": "242.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 118v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "248",
+    "fol-page": "118v",
+    "page-url": "https://viewer.onb.ac.at/10018525/248",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "437": {
+    "id": 437,
+    "order": "243.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 119r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "249",
+    "fol-page": "119r",
+    "page-url": "https://viewer.onb.ac.at/10018525/249",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "438": {
+    "id": 438,
+    "order": "244.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 119v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "250",
+    "fol-page": "119v",
+    "page-url": "https://viewer.onb.ac.at/10018525/250",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "439": {
+    "id": 439,
+    "order": "245.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 120r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "251",
+    "fol-page": "120r",
+    "page-url": "https://viewer.onb.ac.at/10018525/251",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "440": {
+    "id": 440,
+    "order": "246.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 120v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "252",
+    "fol-page": "120v",
+    "page-url": "https://viewer.onb.ac.at/10018525/252",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "441": {
+    "id": 441,
+    "order": "247.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 121r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "253",
+    "fol-page": "121r",
+    "page-url": "https://viewer.onb.ac.at/10018525/253",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "442": {
+    "id": 442,
+    "order": "248.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 121v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "254",
+    "fol-page": "121v",
+    "page-url": "https://viewer.onb.ac.at/10018525/254",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "443": {
+    "id": 443,
+    "order": "249.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 122r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "255",
+    "fol-page": "122r",
+    "page-url": "https://viewer.onb.ac.at/10018525/255",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "444": {
+    "id": 444,
+    "order": "250.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 122v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "256",
+    "fol-page": "122v",
+    "page-url": "https://viewer.onb.ac.at/10018525/256",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "445": {
+    "id": 445,
+    "order": "251.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 123r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "257",
+    "fol-page": "123r",
+    "page-url": "https://viewer.onb.ac.at/10018525/257",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "446": {
+    "id": 446,
+    "order": "252.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 123v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "258",
+    "fol-page": "123v",
+    "page-url": "https://viewer.onb.ac.at/10018525/258",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "447": {
+    "id": 447,
+    "order": "253.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 124r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "259",
+    "fol-page": "124r",
+    "page-url": "https://viewer.onb.ac.at/10018525/259",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "448": {
+    "id": 448,
+    "order": "254.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 124v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "260",
+    "fol-page": "124v",
+    "page-url": "https://viewer.onb.ac.at/10018525/260",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "449": {
+    "id": 449,
+    "order": "255.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 125r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "261",
+    "fol-page": "125r",
+    "page-url": "https://viewer.onb.ac.at/10018525/261",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "450": {
+    "id": 450,
+    "order": "256.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 125v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "262",
+    "fol-page": "125v",
+    "page-url": "https://viewer.onb.ac.at/10018525/262",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "451": {
+    "id": 451,
+    "order": "257.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 126r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "263",
+    "fol-page": "126r",
+    "page-url": "https://viewer.onb.ac.at/10018525/263",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "452": {
+    "id": 452,
+    "order": "258.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 126v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "264",
+    "fol-page": "126v",
+    "page-url": "https://viewer.onb.ac.at/10018525/264",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "453": {
+    "id": 453,
+    "order": "259.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 127r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "265",
+    "fol-page": "127r",
+    "page-url": "https://viewer.onb.ac.at/10018525/265",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "454": {
+    "id": 454,
+    "order": "260.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 127v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "266",
+    "fol-page": "127v",
+    "page-url": "https://viewer.onb.ac.at/10018525/266",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "455": {
+    "id": 455,
+    "order": "261.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 128r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "267",
+    "fol-page": "128r",
+    "page-url": "https://viewer.onb.ac.at/10018525/267",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "456": {
+    "id": 456,
+    "order": "262.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 128v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "268",
+    "fol-page": "128v",
+    "page-url": "https://viewer.onb.ac.at/10018525/268",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "457": {
+    "id": 457,
+    "order": "263.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 129r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "269",
+    "fol-page": "129r",
+    "page-url": "https://viewer.onb.ac.at/10018525/269",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "458": {
+    "id": 458,
+    "order": "264.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 129v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "270",
+    "fol-page": "129v",
+    "page-url": "https://viewer.onb.ac.at/10018525/270",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "459": {
+    "id": 459,
+    "order": "265.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 130r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "271",
+    "fol-page": "130r",
+    "page-url": "https://viewer.onb.ac.at/10018525/271",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "460": {
+    "id": 460,
+    "order": "266.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 130v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "272",
+    "fol-page": "130v",
+    "page-url": "https://viewer.onb.ac.at/10018525/272",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "461": {
+    "id": 461,
+    "order": "267.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 131r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "273",
+    "fol-page": "131r",
+    "page-url": "https://viewer.onb.ac.at/10018525/273",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "462": {
+    "id": 462,
+    "order": "268.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 131v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "274",
+    "fol-page": "131v",
+    "page-url": "https://viewer.onb.ac.at/10018525/274",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "463": {
+    "id": 463,
+    "order": "269.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 132r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "275",
+    "fol-page": "132r",
+    "page-url": "https://viewer.onb.ac.at/10018525/275",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "464": {
+    "id": 464,
+    "order": "270.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 132v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "276",
+    "fol-page": "132v",
+    "page-url": "https://viewer.onb.ac.at/10018525/276",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "465": {
+    "id": 465,
+    "order": "271.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 133r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "277",
+    "fol-page": "133r",
+    "page-url": "https://viewer.onb.ac.at/10018525/277",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "466": {
+    "id": 466,
+    "order": "272.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 133v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "278",
+    "fol-page": "133v",
+    "page-url": "https://viewer.onb.ac.at/10018525/278",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "467": {
+    "id": 467,
+    "order": "273.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 134r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "279",
+    "fol-page": "134r",
+    "page-url": "https://viewer.onb.ac.at/10018525/279",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "468": {
+    "id": 468,
+    "order": "274.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 134v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "280",
+    "fol-page": "134v",
+    "page-url": "https://viewer.onb.ac.at/10018525/280",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "469": {
+    "id": 469,
+    "order": "275.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 135r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "281",
+    "fol-page": "135r",
+    "page-url": "https://viewer.onb.ac.at/10018525/281",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "470": {
+    "id": 470,
+    "order": "276.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 135v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "282",
+    "fol-page": "135v",
+    "page-url": "https://viewer.onb.ac.at/10018525/282",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "471": {
+    "id": 471,
+    "order": "277.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 136r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "283",
+    "fol-page": "136r",
+    "page-url": "https://viewer.onb.ac.at/10018525/283",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "472": {
+    "id": 472,
+    "order": "278.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 136v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "284",
+    "fol-page": "136v",
+    "page-url": "https://viewer.onb.ac.at/10018525/284",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "473": {
+    "id": 473,
+    "order": "279.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 137r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "285",
+    "fol-page": "137r",
+    "page-url": "https://viewer.onb.ac.at/10018525/285",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "474": {
+    "id": 474,
+    "order": "280.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 137v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "286",
+    "fol-page": "137v",
+    "page-url": "https://viewer.onb.ac.at/10018525/286",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "475": {
+    "id": 475,
+    "order": "281.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 138r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "287",
+    "fol-page": "138r",
+    "page-url": "https://viewer.onb.ac.at/10018525/287",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "476": {
+    "id": 476,
+    "order": "282.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 138v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "288",
+    "fol-page": "138v",
+    "page-url": "https://viewer.onb.ac.at/10018525/288",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "477": {
+    "id": 477,
+    "order": "283.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 139r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "289",
+    "fol-page": "139r",
+    "page-url": "https://viewer.onb.ac.at/10018525/289",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "478": {
+    "id": 478,
+    "order": "284.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 139v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "290",
+    "fol-page": "139v",
+    "page-url": "https://viewer.onb.ac.at/10018525/290",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "479": {
+    "id": 479,
+    "order": "285.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 140r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "291",
+    "fol-page": "140r",
+    "page-url": "https://viewer.onb.ac.at/10018525/291",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "480": {
+    "id": 480,
+    "order": "286.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 140v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "292",
+    "fol-page": "140v",
+    "page-url": "https://viewer.onb.ac.at/10018525/292",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "481": {
+    "id": 481,
+    "order": "287.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 141r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "293",
+    "fol-page": "141r",
+    "page-url": "https://viewer.onb.ac.at/10018525/293",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "482": {
+    "id": 482,
+    "order": "288.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 141v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "294",
+    "fol-page": "141v",
+    "page-url": "https://viewer.onb.ac.at/10018525/294",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "483": {
+    "id": 483,
+    "order": "289.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 142r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "295",
+    "fol-page": "142r",
+    "page-url": "https://viewer.onb.ac.at/10018525/295",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "484": {
+    "id": 484,
+    "order": "290.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 142v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "296",
+    "fol-page": "142v",
+    "page-url": "https://viewer.onb.ac.at/10018525/296",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "485": {
+    "id": 485,
+    "order": "291.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 143r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "297",
+    "fol-page": "143r",
+    "page-url": "https://viewer.onb.ac.at/10018525/297",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "486": {
+    "id": 486,
+    "order": "292.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 143v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "298",
+    "fol-page": "143v",
+    "page-url": "https://viewer.onb.ac.at/10018525/298",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "487": {
+    "id": 487,
+    "order": "293.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 144r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "299",
+    "fol-page": "144r",
+    "page-url": "https://viewer.onb.ac.at/10018525/299",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "488": {
+    "id": 488,
+    "order": "294.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 144v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "300",
+    "fol-page": "144v",
+    "page-url": "https://viewer.onb.ac.at/10018525/300",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "489": {
+    "id": 489,
+    "order": "295.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 145r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "301",
+    "fol-page": "145r",
+    "page-url": "https://viewer.onb.ac.at/10018525/301",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "490": {
+    "id": 490,
+    "order": "296.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 145v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "302",
+    "fol-page": "145v",
+    "page-url": "https://viewer.onb.ac.at/10018525/302",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "491": {
+    "id": 491,
+    "order": "297.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 146r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "303",
+    "fol-page": "146r",
+    "page-url": "https://viewer.onb.ac.at/10018525/303",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "492": {
+    "id": 492,
+    "order": "298.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 146v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "304",
+    "fol-page": "146v",
+    "page-url": "https://viewer.onb.ac.at/10018525/304",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "493": {
+    "id": 493,
+    "order": "299.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 147r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "305",
+    "fol-page": "147r",
+    "page-url": "https://viewer.onb.ac.at/10018525/305",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "494": {
+    "id": 494,
+    "order": "300.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 147v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "306",
+    "fol-page": "147v",
+    "page-url": "https://viewer.onb.ac.at/10018525/306",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "495": {
+    "id": 495,
+    "order": "301.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 148r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "307",
+    "fol-page": "148r",
+    "page-url": "https://viewer.onb.ac.at/10018525/307",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "496": {
+    "id": 496,
+    "order": "302.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 148v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "308",
+    "fol-page": "148v",
+    "page-url": "https://viewer.onb.ac.at/10018525/308",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "497": {
+    "id": 497,
+    "order": "303.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 149r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "309",
+    "fol-page": "149r",
+    "page-url": "https://viewer.onb.ac.at/10018525/309",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "498": {
+    "id": 498,
+    "order": "304.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 149v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "310",
+    "fol-page": "149v",
+    "page-url": "https://viewer.onb.ac.at/10018525/310",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "499": {
+    "id": 499,
+    "order": "305.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 150r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "311",
+    "fol-page": "150r",
+    "page-url": "https://viewer.onb.ac.at/10018525/311",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "500": {
+    "id": 500,
+    "order": "306.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 150v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "312",
+    "fol-page": "150v",
+    "page-url": "https://viewer.onb.ac.at/10018525/312",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "501": {
+    "id": 501,
+    "order": "307.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 151r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "313",
+    "fol-page": "151r",
+    "page-url": "https://viewer.onb.ac.at/10018525/313",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "502": {
+    "id": 502,
+    "order": "308.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 151v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "314",
+    "fol-page": "151v",
+    "page-url": "https://viewer.onb.ac.at/10018525/314",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "503": {
+    "id": 503,
+    "order": "309.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 152r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "315",
+    "fol-page": "152r",
+    "page-url": "https://viewer.onb.ac.at/10018525/315",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "504": {
+    "id": 504,
+    "order": "310.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 152v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "316",
+    "fol-page": "152v",
+    "page-url": "https://viewer.onb.ac.at/10018525/316",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "505": {
+    "id": 505,
+    "order": "311.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 153r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "317",
+    "fol-page": "153r",
+    "page-url": "https://viewer.onb.ac.at/10018525/317",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "506": {
+    "id": 506,
+    "order": "312.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 153v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "318",
+    "fol-page": "153v",
+    "page-url": "https://viewer.onb.ac.at/10018525/318",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "507": {
+    "id": 507,
+    "order": "313.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 154r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "319",
+    "fol-page": "154r",
+    "page-url": "https://viewer.onb.ac.at/10018525/319",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "508": {
+    "id": 508,
+    "order": "314.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 154v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "320",
+    "fol-page": "154v",
+    "page-url": "https://viewer.onb.ac.at/10018525/320",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "509": {
+    "id": 509,
+    "order": "315.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 155r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "321",
+    "fol-page": "155r",
+    "page-url": "https://viewer.onb.ac.at/10018525/321",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "510": {
+    "id": 510,
+    "order": "316.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 155v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "322",
+    "fol-page": "155v",
+    "page-url": "https://viewer.onb.ac.at/10018525/322",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "511": {
+    "id": 511,
+    "order": "317.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 156r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "323",
+    "fol-page": "156r",
+    "page-url": "https://viewer.onb.ac.at/10018525/323",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "512": {
+    "id": 512,
+    "order": "318.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 156v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "324",
+    "fol-page": "156v",
+    "page-url": "https://viewer.onb.ac.at/10018525/324",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "513": {
+    "id": 513,
+    "order": "319.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 157r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "325",
+    "fol-page": "157r",
+    "page-url": "https://viewer.onb.ac.at/10018525/325",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "514": {
+    "id": 514,
+    "order": "320.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 157v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "326",
+    "fol-page": "157v",
+    "page-url": "https://viewer.onb.ac.at/10018525/326",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "515": {
+    "id": 515,
+    "order": "321.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 158r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "327",
+    "fol-page": "158r",
+    "page-url": "https://viewer.onb.ac.at/10018525/327",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "516": {
+    "id": 516,
+    "order": "322.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 158v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "328",
+    "fol-page": "158v",
+    "page-url": "https://viewer.onb.ac.at/10018525/328",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "517": {
+    "id": 517,
+    "order": "323.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 159r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "329",
+    "fol-page": "159r",
+    "page-url": "https://viewer.onb.ac.at/10018525/329",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "518": {
+    "id": 518,
+    "order": "324.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 159v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "330",
+    "fol-page": "159v",
+    "page-url": "https://viewer.onb.ac.at/10018525/330",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "519": {
+    "id": 519,
+    "order": "325.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 160r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "331",
+    "fol-page": "160r",
+    "page-url": "https://viewer.onb.ac.at/10018525/331",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "520": {
+    "id": 520,
+    "order": "326.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 160v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "332",
+    "fol-page": "160v",
+    "page-url": "https://viewer.onb.ac.at/10018525/332",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "521": {
+    "id": 521,
+    "order": "327.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 161r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "333",
+    "fol-page": "161r",
+    "page-url": "https://viewer.onb.ac.at/10018525/333",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "522": {
+    "id": 522,
+    "order": "328.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 161v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "334",
+    "fol-page": "161v",
+    "page-url": "https://viewer.onb.ac.at/10018525/334",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "523": {
+    "id": 523,
+    "order": "329.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 162r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "335",
+    "fol-page": "162r",
+    "page-url": "https://viewer.onb.ac.at/10018525/335",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "524": {
+    "id": 524,
+    "order": "330.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 162v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "336",
+    "fol-page": "162v",
+    "page-url": "https://viewer.onb.ac.at/10018525/336",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "525": {
+    "id": 525,
+    "order": "331.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 163r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "337",
+    "fol-page": "163r",
+    "page-url": "https://viewer.onb.ac.at/10018525/337",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "526": {
+    "id": 526,
+    "order": "332.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 163v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "338",
+    "fol-page": "163v",
+    "page-url": "https://viewer.onb.ac.at/10018525/338",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "527": {
+    "id": 527,
+    "order": "333.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 164r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "339",
+    "fol-page": "164r",
+    "page-url": "https://viewer.onb.ac.at/10018525/339",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "528": {
+    "id": 528,
+    "order": "334.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 164v",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "340",
+    "fol-page": "164v",
+    "page-url": "https://viewer.onb.ac.at/10018525/340",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "529": {
+    "id": 529,
+    "order": "335.00000000000000000000",
+    "fol": "ÖNB, Cod. 387, 165r",
+    "shelfmark": "ÖNB, Cod. 387",
+    "facs-number": "341",
+    "fol-page": "165r",
+    "page-url": "https://viewer.onb.ac.at/10018525/341",
+    "ms-link": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 387",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  "530": {
+    "id": 530,
+    "order": "336.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "531": {
+    "id": 531,
+    "order": "337.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "532": {
+    "id": 532,
+    "order": "338.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "533": {
+    "id": 533,
+    "order": "339.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "534": {
+    "id": 534,
+    "order": "340.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "535": {
+    "id": 535,
+    "order": "341.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "536": {
+    "id": 536,
+    "order": "342.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "537": {
+    "id": 537,
+    "order": "343.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "538": {
+    "id": 538,
+    "order": "344.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "539": {
+    "id": 539,
+    "order": "345.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "540": {
+    "id": 540,
+    "order": "346.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "541": {
+    "id": 541,
+    "order": "347.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "542": {
+    "id": 542,
+    "order": "348.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "543": {
+    "id": 543,
+    "order": "349.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "544": {
+    "id": 544,
+    "order": "350.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "545": {
+    "id": 545,
+    "order": "351.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  },
+  "546": {
+    "id": 546,
+    "order": "352.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs-number": null,
+    "fol-page": "",
+    "page-url": "",
+    "ms-link": []
+  }
+}
