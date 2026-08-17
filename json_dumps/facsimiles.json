@@ -5362,171 +5362,4769 @@
   "530": {
     "id": 530,
     "order": "336.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 1r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "1",
+    "fol_page": "1r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-1",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "531": {
     "id": 531,
     "order": "337.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 1v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "2",
+    "fol_page": "1v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-2",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "532": {
     "id": 532,
     "order": "338.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 2r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "3",
+    "fol_page": "2r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-3",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "533": {
     "id": 533,
     "order": "339.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 2v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "4",
+    "fol_page": "2v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-4",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "534": {
     "id": 534,
     "order": "340.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 3r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "5",
+    "fol_page": "3r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-5",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "535": {
     "id": 535,
     "order": "341.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 3v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "6",
+    "fol_page": "3v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-6",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "536": {
     "id": 536,
     "order": "342.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 4r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "7",
+    "fol_page": "4r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-7",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "537": {
     "id": 537,
     "order": "343.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 4v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "8",
+    "fol_page": "4v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-8",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "538": {
     "id": 538,
     "order": "344.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 5r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "9",
+    "fol_page": "5r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-9",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "539": {
     "id": 539,
     "order": "345.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 5v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "10",
+    "fol_page": "5v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-10",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "540": {
     "id": 540,
     "order": "346.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 6r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "11",
+    "fol_page": "6r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-11",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "541": {
     "id": 541,
     "order": "347.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 6v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "12",
+    "fol_page": "6v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-12",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "542": {
     "id": 542,
     "order": "348.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 7r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "13",
+    "fol_page": "7r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-13",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "543": {
     "id": 543,
     "order": "349.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 7v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "14",
+    "fol_page": "7v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-14",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "544": {
     "id": 544,
     "order": "350.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 8r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "15",
+    "fol_page": "8r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-15",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "545": {
     "id": 545,
     "order": "351.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 8v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "16",
+    "fol_page": "8v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-16",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   },
   "546": {
     "id": 546,
     "order": "352.00000000000000000000",
-    "fol": ", ",
-    "shelfmark": "",
-    "facs_number": null,
-    "fol_page": "",
-    "page_url": "",
-    "ms_link": []
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 9r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "17",
+    "fol_page": "9r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-17",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "547": {
+    "id": 547,
+    "order": "353.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 9v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "18",
+    "fol_page": "9v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-18",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "548": {
+    "id": 548,
+    "order": "354.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 10r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "19",
+    "fol_page": "10r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-19",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "549": {
+    "id": 549,
+    "order": "355.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 10v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "20",
+    "fol_page": "10v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-20",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "550": {
+    "id": 550,
+    "order": "356.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 11r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "21",
+    "fol_page": "11r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-21",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "551": {
+    "id": 551,
+    "order": "357.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 11v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "22",
+    "fol_page": "11v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-22",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "552": {
+    "id": 552,
+    "order": "358.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 12r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "23",
+    "fol_page": "12r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-23",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "553": {
+    "id": 553,
+    "order": "359.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 12v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "24",
+    "fol_page": "12v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-24",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "554": {
+    "id": 554,
+    "order": "360.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 13r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "25",
+    "fol_page": "13r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-25",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "555": {
+    "id": 555,
+    "order": "361.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 13v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "26",
+    "fol_page": "13v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-26",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "556": {
+    "id": 556,
+    "order": "362.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 14r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "27",
+    "fol_page": "14r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-27",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "557": {
+    "id": 557,
+    "order": "363.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 14v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "28",
+    "fol_page": "14v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-28",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "558": {
+    "id": 558,
+    "order": "364.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 15r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "29",
+    "fol_page": "15r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-29",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "559": {
+    "id": 559,
+    "order": "365.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 15v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "30",
+    "fol_page": "15v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-30",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "560": {
+    "id": 560,
+    "order": "366.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 16r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "31",
+    "fol_page": "16r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-31",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "561": {
+    "id": 561,
+    "order": "367.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 16v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "32",
+    "fol_page": "16v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-32",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "562": {
+    "id": 562,
+    "order": "368.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 17r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "33",
+    "fol_page": "17r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-33",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "563": {
+    "id": 563,
+    "order": "369.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 17v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "34",
+    "fol_page": "17v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-34",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "564": {
+    "id": 564,
+    "order": "370.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 18r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "35",
+    "fol_page": "18r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-35",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "565": {
+    "id": 565,
+    "order": "371.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 18v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "36",
+    "fol_page": "18v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-36",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "566": {
+    "id": 566,
+    "order": "372.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 19r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "37",
+    "fol_page": "19r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-37",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "567": {
+    "id": 567,
+    "order": "373.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 19v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "38",
+    "fol_page": "19v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-38",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "568": {
+    "id": 568,
+    "order": "374.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 20r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "39",
+    "fol_page": "20r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-39",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "569": {
+    "id": 569,
+    "order": "375.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 20v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "40",
+    "fol_page": "20v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-40",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "570": {
+    "id": 570,
+    "order": "376.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 21r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "41",
+    "fol_page": "21r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-41",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "571": {
+    "id": 571,
+    "order": "377.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 21v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "42",
+    "fol_page": "21v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-42",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "572": {
+    "id": 572,
+    "order": "378.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 22r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "43",
+    "fol_page": "22r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-43",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "573": {
+    "id": 573,
+    "order": "379.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 22v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "44",
+    "fol_page": "22v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-44",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "574": {
+    "id": 574,
+    "order": "380.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 23r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "45",
+    "fol_page": "23r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-45",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "575": {
+    "id": 575,
+    "order": "381.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 23v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "46",
+    "fol_page": "23v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-46",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "576": {
+    "id": 576,
+    "order": "382.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 24r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "47",
+    "fol_page": "24r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-47",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "577": {
+    "id": 577,
+    "order": "383.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 24v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "48",
+    "fol_page": "24v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-48",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "578": {
+    "id": 578,
+    "order": "384.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 25r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "49",
+    "fol_page": "25r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-49",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "579": {
+    "id": 579,
+    "order": "385.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 25v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "50",
+    "fol_page": "25v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-50",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "580": {
+    "id": 580,
+    "order": "386.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 26r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "51",
+    "fol_page": "26r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-51",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "581": {
+    "id": 581,
+    "order": "387.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 26v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "52",
+    "fol_page": "26v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-52",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "582": {
+    "id": 582,
+    "order": "388.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 27r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "53",
+    "fol_page": "27r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-53",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "583": {
+    "id": 583,
+    "order": "389.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 27v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "54",
+    "fol_page": "27v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-54",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "584": {
+    "id": 584,
+    "order": "390.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 28r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "55",
+    "fol_page": "28r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-55",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "585": {
+    "id": 585,
+    "order": "391.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 28v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "56",
+    "fol_page": "28v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-56",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "586": {
+    "id": 586,
+    "order": "392.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 29r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "57",
+    "fol_page": "29r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-57",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "587": {
+    "id": 587,
+    "order": "393.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 29v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "58",
+    "fol_page": "29v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-58",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "588": {
+    "id": 588,
+    "order": "394.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 30r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "59",
+    "fol_page": "30r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-59",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "589": {
+    "id": 589,
+    "order": "395.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 30v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "60",
+    "fol_page": "30v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-60",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "590": {
+    "id": 590,
+    "order": "396.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 31r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "61",
+    "fol_page": "31r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-61",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "591": {
+    "id": 591,
+    "order": "397.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 31v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "62",
+    "fol_page": "31v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-62",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "592": {
+    "id": 592,
+    "order": "398.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 32r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "63",
+    "fol_page": "32r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-63",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "593": {
+    "id": 593,
+    "order": "399.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 32v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "64",
+    "fol_page": "32v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-64",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "594": {
+    "id": 594,
+    "order": "400.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 33r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "65",
+    "fol_page": "33r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-65",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "595": {
+    "id": 595,
+    "order": "401.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 33v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "66",
+    "fol_page": "33v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-66",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "596": {
+    "id": 596,
+    "order": "402.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 34r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "67",
+    "fol_page": "34r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-67",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "597": {
+    "id": 597,
+    "order": "403.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 34v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "68",
+    "fol_page": "34v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-68",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "598": {
+    "id": 598,
+    "order": "404.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 35r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "69",
+    "fol_page": "35r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-69",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "599": {
+    "id": 599,
+    "order": "405.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 35v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "70",
+    "fol_page": "35v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-70",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "600": {
+    "id": 600,
+    "order": "406.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 36r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "71",
+    "fol_page": "36r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-71",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "601": {
+    "id": 601,
+    "order": "407.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 36v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "72",
+    "fol_page": "36v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-72",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "602": {
+    "id": 602,
+    "order": "408.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 37r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "73",
+    "fol_page": "37r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-73",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "603": {
+    "id": 603,
+    "order": "409.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 37v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "74",
+    "fol_page": "37v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-74",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "604": {
+    "id": 604,
+    "order": "410.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 38r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "75",
+    "fol_page": "38r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-75",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "605": {
+    "id": 605,
+    "order": "411.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 38v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "76",
+    "fol_page": "38v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-76",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "606": {
+    "id": 606,
+    "order": "412.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 39r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "77",
+    "fol_page": "39r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-77",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "607": {
+    "id": 607,
+    "order": "413.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 39v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "78",
+    "fol_page": "39v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-78",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "608": {
+    "id": 608,
+    "order": "414.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 40r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "79",
+    "fol_page": "40r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-79",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "609": {
+    "id": 609,
+    "order": "415.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 40v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "80",
+    "fol_page": "40v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-80",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "610": {
+    "id": 610,
+    "order": "416.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 41r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "81",
+    "fol_page": "41r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-81",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "611": {
+    "id": 611,
+    "order": "417.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 41v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "82",
+    "fol_page": "41v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-82",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "612": {
+    "id": 612,
+    "order": "418.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 42r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "83",
+    "fol_page": "42r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-83",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "613": {
+    "id": 613,
+    "order": "419.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 42v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "84",
+    "fol_page": "42v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-84",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "614": {
+    "id": 614,
+    "order": "420.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 43r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "85",
+    "fol_page": "43r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-85",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "615": {
+    "id": 615,
+    "order": "421.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 43v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "86",
+    "fol_page": "43v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-86",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "616": {
+    "id": 616,
+    "order": "422.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 44r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "87",
+    "fol_page": "44r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-87",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "617": {
+    "id": 617,
+    "order": "423.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 44v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "88",
+    "fol_page": "44v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-88",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "618": {
+    "id": 618,
+    "order": "424.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 45r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "89",
+    "fol_page": "45r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-89",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "619": {
+    "id": 619,
+    "order": "425.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 45v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "90",
+    "fol_page": "45v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-90",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "620": {
+    "id": 620,
+    "order": "426.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 46r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "91",
+    "fol_page": "46r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-91",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "621": {
+    "id": 621,
+    "order": "427.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 46v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "92",
+    "fol_page": "46v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-92",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "622": {
+    "id": 622,
+    "order": "428.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 47r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "93",
+    "fol_page": "47r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-93",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "623": {
+    "id": 623,
+    "order": "429.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 47v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "94",
+    "fol_page": "47v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-94",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "624": {
+    "id": 624,
+    "order": "430.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 48r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "95",
+    "fol_page": "48r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-95",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "625": {
+    "id": 625,
+    "order": "431.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 48v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "96",
+    "fol_page": "48v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-96",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "626": {
+    "id": 626,
+    "order": "432.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 49r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "97",
+    "fol_page": "49r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-97",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "627": {
+    "id": 627,
+    "order": "433.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 49v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "98",
+    "fol_page": "49v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-98",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "628": {
+    "id": 628,
+    "order": "434.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 50r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "99",
+    "fol_page": "50r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-99",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "629": {
+    "id": 629,
+    "order": "435.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 50v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "100",
+    "fol_page": "50v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-100",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "630": {
+    "id": 630,
+    "order": "436.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 51r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "101",
+    "fol_page": "51r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-101",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "631": {
+    "id": 631,
+    "order": "437.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 51v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "102",
+    "fol_page": "51v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-102",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "632": {
+    "id": 632,
+    "order": "438.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 52r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "103",
+    "fol_page": "52r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-103",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "633": {
+    "id": 633,
+    "order": "439.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 52v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "104",
+    "fol_page": "52v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-104",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "634": {
+    "id": 634,
+    "order": "440.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 53r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "105",
+    "fol_page": "53r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-105",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "635": {
+    "id": 635,
+    "order": "441.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 53v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "106",
+    "fol_page": "53v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-106",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "636": {
+    "id": 636,
+    "order": "442.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 54r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "107",
+    "fol_page": "54r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-107",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "637": {
+    "id": 637,
+    "order": "443.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 54v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "108",
+    "fol_page": "54v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-108",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "638": {
+    "id": 638,
+    "order": "444.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 55r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "109",
+    "fol_page": "55r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-109",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "639": {
+    "id": 639,
+    "order": "445.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 55v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "110",
+    "fol_page": "55v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-110",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "640": {
+    "id": 640,
+    "order": "446.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 56r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "111",
+    "fol_page": "56r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-111",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "641": {
+    "id": 641,
+    "order": "447.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 56v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "112",
+    "fol_page": "56v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-112",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "642": {
+    "id": 642,
+    "order": "448.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 57r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "113",
+    "fol_page": "57r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-113",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "643": {
+    "id": 643,
+    "order": "449.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 57v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "114",
+    "fol_page": "57v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-114",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "644": {
+    "id": 644,
+    "order": "450.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 58r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "115",
+    "fol_page": "58r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-115",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "645": {
+    "id": 645,
+    "order": "451.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 58v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "116",
+    "fol_page": "58v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-116",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "646": {
+    "id": 646,
+    "order": "452.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 59r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "117",
+    "fol_page": "59r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-117",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "647": {
+    "id": 647,
+    "order": "453.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 59v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "118",
+    "fol_page": "59v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-118",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "648": {
+    "id": 648,
+    "order": "454.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 60r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "119",
+    "fol_page": "60r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-119",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "649": {
+    "id": 649,
+    "order": "455.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 60v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "120",
+    "fol_page": "60v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-120",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "650": {
+    "id": 650,
+    "order": "456.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 61r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "121",
+    "fol_page": "61r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-121",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "651": {
+    "id": 651,
+    "order": "457.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 61v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "122",
+    "fol_page": "61v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-122",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "652": {
+    "id": 652,
+    "order": "458.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 62r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "123",
+    "fol_page": "62r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-123",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "653": {
+    "id": 653,
+    "order": "459.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 62v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "124",
+    "fol_page": "62v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-124",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "654": {
+    "id": 654,
+    "order": "460.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 63r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "125",
+    "fol_page": "63r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-125",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "655": {
+    "id": 655,
+    "order": "461.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 63v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "126",
+    "fol_page": "63v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-126",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "656": {
+    "id": 656,
+    "order": "462.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 64r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "127",
+    "fol_page": "64r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-127",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "657": {
+    "id": 657,
+    "order": "463.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 64v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "128",
+    "fol_page": "64v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-128",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "658": {
+    "id": 658,
+    "order": "464.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 65r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "129",
+    "fol_page": "65r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-129",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "659": {
+    "id": 659,
+    "order": "465.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 65v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "130",
+    "fol_page": "65v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-130",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "660": {
+    "id": 660,
+    "order": "466.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 66r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "131",
+    "fol_page": "66r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-131",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "661": {
+    "id": 661,
+    "order": "467.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 66v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "132",
+    "fol_page": "66v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-132",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "662": {
+    "id": 662,
+    "order": "468.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 67r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "133",
+    "fol_page": "67r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-133",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "663": {
+    "id": 663,
+    "order": "469.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 67v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "134",
+    "fol_page": "67v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-134",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "664": {
+    "id": 664,
+    "order": "470.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 68r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "135",
+    "fol_page": "68r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-135",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "665": {
+    "id": 665,
+    "order": "471.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 68v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "136",
+    "fol_page": "68v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-136",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "666": {
+    "id": 666,
+    "order": "472.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 69r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "137",
+    "fol_page": "69r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-137",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "667": {
+    "id": 667,
+    "order": "473.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 69v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "138",
+    "fol_page": "69v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-138",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "668": {
+    "id": 668,
+    "order": "474.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 70r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "139",
+    "fol_page": "70r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-139",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "669": {
+    "id": 669,
+    "order": "475.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 70v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "140",
+    "fol_page": "70v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-140",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "670": {
+    "id": 670,
+    "order": "476.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 71r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "141",
+    "fol_page": "71r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-141",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "671": {
+    "id": 671,
+    "order": "477.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 71v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "142",
+    "fol_page": "71v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-142",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "672": {
+    "id": 672,
+    "order": "478.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 72r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "143",
+    "fol_page": "72r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-143",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "673": {
+    "id": 673,
+    "order": "479.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 72v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "144",
+    "fol_page": "72v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-144",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "674": {
+    "id": 674,
+    "order": "480.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 73r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "145",
+    "fol_page": "73r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-145",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "675": {
+    "id": 675,
+    "order": "481.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 73v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "146",
+    "fol_page": "73v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-146",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "676": {
+    "id": 676,
+    "order": "482.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 74r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "147",
+    "fol_page": "74r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-147",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "677": {
+    "id": 677,
+    "order": "483.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 74v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "148",
+    "fol_page": "74v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-148",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "678": {
+    "id": 678,
+    "order": "484.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 75r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "149",
+    "fol_page": "75r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-149",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "679": {
+    "id": 679,
+    "order": "485.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 75v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "150",
+    "fol_page": "75v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-150",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "680": {
+    "id": 680,
+    "order": "486.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 76r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "151",
+    "fol_page": "76r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-151",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "681": {
+    "id": 681,
+    "order": "487.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 76v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "152",
+    "fol_page": "76v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-152",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "682": {
+    "id": 682,
+    "order": "488.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 77r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "153",
+    "fol_page": "77r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-153",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "683": {
+    "id": 683,
+    "order": "489.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 77v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "154",
+    "fol_page": "77v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-154",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "684": {
+    "id": 684,
+    "order": "490.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 78r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "155",
+    "fol_page": "78r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-155",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "685": {
+    "id": 685,
+    "order": "491.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 78v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "156",
+    "fol_page": "78v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-156",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "686": {
+    "id": 686,
+    "order": "492.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 79r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "157",
+    "fol_page": "79r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-157",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "687": {
+    "id": 687,
+    "order": "493.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 79v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "158",
+    "fol_page": "79v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-158",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "688": {
+    "id": 688,
+    "order": "494.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 80r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "159",
+    "fol_page": "80r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-159",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "689": {
+    "id": 689,
+    "order": "495.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 80v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "160",
+    "fol_page": "80v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-160",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "690": {
+    "id": 690,
+    "order": "496.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 81r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "161",
+    "fol_page": "81r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-161",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "691": {
+    "id": 691,
+    "order": "497.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 81v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "162",
+    "fol_page": "81v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-162",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "692": {
+    "id": 692,
+    "order": "498.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 82r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "163",
+    "fol_page": "82r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-163",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "693": {
+    "id": 693,
+    "order": "499.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 82v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "164",
+    "fol_page": "82v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-164",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "694": {
+    "id": 694,
+    "order": "500.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 83r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "165",
+    "fol_page": "83r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-165",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "695": {
+    "id": 695,
+    "order": "501.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 83v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "166",
+    "fol_page": "83v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-166",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "696": {
+    "id": 696,
+    "order": "502.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 84r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "167",
+    "fol_page": "84r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-167",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "697": {
+    "id": 697,
+    "order": "503.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 84v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "168",
+    "fol_page": "84v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-168",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "698": {
+    "id": 698,
+    "order": "504.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 85r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "169",
+    "fol_page": "85r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-169",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "699": {
+    "id": 699,
+    "order": "505.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 85v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "170",
+    "fol_page": "85v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-170",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "700": {
+    "id": 700,
+    "order": "506.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 86r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "171",
+    "fol_page": "86r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-171",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "701": {
+    "id": 701,
+    "order": "507.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 86v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "172",
+    "fol_page": "86v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-172",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "702": {
+    "id": 702,
+    "order": "508.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 87r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "173",
+    "fol_page": "87r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-173",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "703": {
+    "id": 703,
+    "order": "509.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 87v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "174",
+    "fol_page": "87v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-174",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "704": {
+    "id": 704,
+    "order": "510.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 88r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "175",
+    "fol_page": "88r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-175",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "705": {
+    "id": 705,
+    "order": "511.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 88v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "176",
+    "fol_page": "88v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-176",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "706": {
+    "id": 706,
+    "order": "512.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 89r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "177",
+    "fol_page": "89r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-177",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "707": {
+    "id": 707,
+    "order": "513.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 89v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "178",
+    "fol_page": "89v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-178",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "708": {
+    "id": 708,
+    "order": "514.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 90r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "179",
+    "fol_page": "90r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-179",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "709": {
+    "id": 709,
+    "order": "515.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 90v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "180",
+    "fol_page": "90v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-180",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "710": {
+    "id": 710,
+    "order": "516.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 91r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "181",
+    "fol_page": "91r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-181",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "711": {
+    "id": 711,
+    "order": "517.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 91v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "182",
+    "fol_page": "91v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-182",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "712": {
+    "id": 712,
+    "order": "518.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 92r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "183",
+    "fol_page": "92r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-183",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "713": {
+    "id": 713,
+    "order": "519.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 92v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "184",
+    "fol_page": "92v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-184",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "714": {
+    "id": 714,
+    "order": "520.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 93r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "185",
+    "fol_page": "93r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-185",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "715": {
+    "id": 715,
+    "order": "521.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 93v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "186",
+    "fol_page": "93v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-186",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "716": {
+    "id": 716,
+    "order": "522.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 94r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "187",
+    "fol_page": "94r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-187",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "717": {
+    "id": 717,
+    "order": "523.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 94v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "188",
+    "fol_page": "94v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-188",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "718": {
+    "id": 718,
+    "order": "524.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 95r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "189",
+    "fol_page": "95r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-189",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "719": {
+    "id": 719,
+    "order": "525.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 95v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "190",
+    "fol_page": "95v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-190",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "720": {
+    "id": 720,
+    "order": "526.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 96r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "191",
+    "fol_page": "96r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-191",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "721": {
+    "id": 721,
+    "order": "527.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 96v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "192",
+    "fol_page": "96v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-192",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "722": {
+    "id": 722,
+    "order": "528.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 97r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "193",
+    "fol_page": "97r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-193",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "723": {
+    "id": 723,
+    "order": "529.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 97v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "194",
+    "fol_page": "97v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-194",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "724": {
+    "id": 724,
+    "order": "530.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 98r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "195",
+    "fol_page": "98r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-195",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "725": {
+    "id": 725,
+    "order": "531.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 98v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "196",
+    "fol_page": "98v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-196",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "726": {
+    "id": 726,
+    "order": "532.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 99r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "197",
+    "fol_page": "99r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-197",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "727": {
+    "id": 727,
+    "order": "533.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 99v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "198",
+    "fol_page": "99v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-198",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "728": {
+    "id": 728,
+    "order": "534.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 100r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "199",
+    "fol_page": "100r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-199",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "729": {
+    "id": 729,
+    "order": "535.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 100v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "200",
+    "fol_page": "100v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-200",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "730": {
+    "id": 730,
+    "order": "536.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 101r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "201",
+    "fol_page": "101r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-201",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "731": {
+    "id": 731,
+    "order": "537.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 101v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "202",
+    "fol_page": "101v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-202",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "732": {
+    "id": 732,
+    "order": "538.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 102r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "203",
+    "fol_page": "102r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-203",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "733": {
+    "id": 733,
+    "order": "539.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 102v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "204",
+    "fol_page": "102v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-204",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "734": {
+    "id": 734,
+    "order": "540.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 103r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "205",
+    "fol_page": "103r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-205",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "735": {
+    "id": 735,
+    "order": "541.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 103v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "206",
+    "fol_page": "103v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-206",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "736": {
+    "id": 736,
+    "order": "542.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 104r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "207",
+    "fol_page": "104r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-207",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "737": {
+    "id": 737,
+    "order": "543.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 104v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "208",
+    "fol_page": "104v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-208",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "738": {
+    "id": 738,
+    "order": "544.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 105r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "209",
+    "fol_page": "105r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-209",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "739": {
+    "id": 739,
+    "order": "545.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 105v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "210",
+    "fol_page": "105v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-210",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "740": {
+    "id": 740,
+    "order": "546.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 106r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "211",
+    "fol_page": "106r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-211",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "741": {
+    "id": 741,
+    "order": "547.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 106v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "212",
+    "fol_page": "106v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-212",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "742": {
+    "id": 742,
+    "order": "548.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 107r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "213",
+    "fol_page": "107r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-213",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "743": {
+    "id": 743,
+    "order": "549.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 107v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "214",
+    "fol_page": "107v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-214",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "744": {
+    "id": 744,
+    "order": "550.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 108r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "215",
+    "fol_page": "108r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-215",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "745": {
+    "id": 745,
+    "order": "551.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 108v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "216",
+    "fol_page": "108v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-216",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "746": {
+    "id": 746,
+    "order": "552.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 109r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "217",
+    "fol_page": "109r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-217",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "747": {
+    "id": 747,
+    "order": "553.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 109v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "218",
+    "fol_page": "109v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-218",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "748": {
+    "id": 748,
+    "order": "554.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 110r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "219",
+    "fol_page": "110r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-219",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "749": {
+    "id": 749,
+    "order": "555.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 110v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "220",
+    "fol_page": "110v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-220",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "750": {
+    "id": 750,
+    "order": "556.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 111r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "221",
+    "fol_page": "111r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-221",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "751": {
+    "id": 751,
+    "order": "557.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 111v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "222",
+    "fol_page": "111v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-222",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "752": {
+    "id": 752,
+    "order": "558.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 112r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "223",
+    "fol_page": "112r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-223",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "753": {
+    "id": 753,
+    "order": "559.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 112v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "224",
+    "fol_page": "112v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-224",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "754": {
+    "id": 754,
+    "order": "560.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 113r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "225",
+    "fol_page": "113r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-225",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "755": {
+    "id": 755,
+    "order": "561.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 113v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "226",
+    "fol_page": "113v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-226",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "756": {
+    "id": 756,
+    "order": "562.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 114r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "227",
+    "fol_page": "114r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-227",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "757": {
+    "id": 757,
+    "order": "563.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 114v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "228",
+    "fol_page": "114v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-228",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "758": {
+    "id": 758,
+    "order": "564.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 115r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "229",
+    "fol_page": "115r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-229",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "759": {
+    "id": 759,
+    "order": "565.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 115v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "230",
+    "fol_page": "115v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-230",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "760": {
+    "id": 760,
+    "order": "566.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 116r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "231",
+    "fol_page": "116r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-231",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "761": {
+    "id": 761,
+    "order": "567.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 116v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "232",
+    "fol_page": "116v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-232",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "762": {
+    "id": 762,
+    "order": "568.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 117r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "233",
+    "fol_page": "117r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-233",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "763": {
+    "id": 763,
+    "order": "569.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 117v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "234",
+    "fol_page": "117v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-234",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "764": {
+    "id": 764,
+    "order": "570.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 118r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "235",
+    "fol_page": "118r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-235",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "765": {
+    "id": 765,
+    "order": "571.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 118v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "236",
+    "fol_page": "118v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-236",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "766": {
+    "id": 766,
+    "order": "572.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 119r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "237",
+    "fol_page": "119r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-237",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "767": {
+    "id": 767,
+    "order": "573.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 119v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "238",
+    "fol_page": "119v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-238",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "768": {
+    "id": 768,
+    "order": "574.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 120r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "239",
+    "fol_page": "120r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-239",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "769": {
+    "id": 769,
+    "order": "575.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 120v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "240",
+    "fol_page": "120v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-240",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "770": {
+    "id": 770,
+    "order": "576.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 121r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "241",
+    "fol_page": "121r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-241",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "771": {
+    "id": 771,
+    "order": "577.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 121v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "242",
+    "fol_page": "121v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-242",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "772": {
+    "id": 772,
+    "order": "578.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 122r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "243",
+    "fol_page": "122r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-243",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "773": {
+    "id": 773,
+    "order": "579.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 122v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "244",
+    "fol_page": "122v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-244",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "774": {
+    "id": 774,
+    "order": "580.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 123r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "245",
+    "fol_page": "123r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-245",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "775": {
+    "id": 775,
+    "order": "581.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 123v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "246",
+    "fol_page": "123v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-246",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "776": {
+    "id": 776,
+    "order": "582.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 124r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "247",
+    "fol_page": "124r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-247",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "777": {
+    "id": 777,
+    "order": "583.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 124v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "248",
+    "fol_page": "124v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-248",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "778": {
+    "id": 778,
+    "order": "584.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 125r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "249",
+    "fol_page": "125r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-249",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "779": {
+    "id": 779,
+    "order": "585.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 125v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "250",
+    "fol_page": "125v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-250",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "780": {
+    "id": 780,
+    "order": "586.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 126r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "251",
+    "fol_page": "126r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-251",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "781": {
+    "id": 781,
+    "order": "587.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 126v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "252",
+    "fol_page": "126v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-252",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "782": {
+    "id": 782,
+    "order": "588.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 127r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "253",
+    "fol_page": "127r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-253",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "783": {
+    "id": 783,
+    "order": "589.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 127v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "254",
+    "fol_page": "127v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-254",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "784": {
+    "id": 784,
+    "order": "590.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 128r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "255",
+    "fol_page": "128r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-255",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "785": {
+    "id": 785,
+    "order": "591.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 128v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "256",
+    "fol_page": "128v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-256",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "786": {
+    "id": 786,
+    "order": "592.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 129r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "257",
+    "fol_page": "129r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-257",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "787": {
+    "id": 787,
+    "order": "593.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 129v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "258",
+    "fol_page": "129v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-258",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "788": {
+    "id": 788,
+    "order": "594.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 130r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "259",
+    "fol_page": "130r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-259",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "789": {
+    "id": 789,
+    "order": "595.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 130v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "260",
+    "fol_page": "130v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-260",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "790": {
+    "id": 790,
+    "order": "596.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 131r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "261",
+    "fol_page": "131r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-261",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "791": {
+    "id": 791,
+    "order": "597.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 131v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "262",
+    "fol_page": "131v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-262",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "792": {
+    "id": 792,
+    "order": "598.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 132r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "263",
+    "fol_page": "132r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-263",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "793": {
+    "id": 793,
+    "order": "599.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 132v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "264",
+    "fol_page": "132v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-264",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "794": {
+    "id": 794,
+    "order": "600.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 133r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "265",
+    "fol_page": "133r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-265",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "795": {
+    "id": 795,
+    "order": "601.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 133v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "266",
+    "fol_page": "133v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-266",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "796": {
+    "id": 796,
+    "order": "602.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 134r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "267",
+    "fol_page": "134r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-267",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "797": {
+    "id": 797,
+    "order": "603.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 134v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "268",
+    "fol_page": "134v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-268",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "798": {
+    "id": 798,
+    "order": "604.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 135r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "269",
+    "fol_page": "135r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-269",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "799": {
+    "id": 799,
+    "order": "605.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 135v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "270",
+    "fol_page": "135v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-270",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "800": {
+    "id": 800,
+    "order": "606.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 136r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "271",
+    "fol_page": "136r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-271",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "801": {
+    "id": 801,
+    "order": "607.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 136v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "272",
+    "fol_page": "136v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-272",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "802": {
+    "id": 802,
+    "order": "608.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 137r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "273",
+    "fol_page": "137r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-273",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "803": {
+    "id": 803,
+    "order": "609.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 137v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "274",
+    "fol_page": "137v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-274",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "804": {
+    "id": 804,
+    "order": "610.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 138r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "275",
+    "fol_page": "138r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-275",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "805": {
+    "id": 805,
+    "order": "611.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 138v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "276",
+    "fol_page": "138v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-276",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "806": {
+    "id": 806,
+    "order": "612.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 139r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "277",
+    "fol_page": "139r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-277",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "807": {
+    "id": 807,
+    "order": "613.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 139v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "278",
+    "fol_page": "139v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-278",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "808": {
+    "id": 808,
+    "order": "614.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 140r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "279",
+    "fol_page": "140r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-279",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "809": {
+    "id": 809,
+    "order": "615.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 140v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "280",
+    "fol_page": "140v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-280",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "810": {
+    "id": 810,
+    "order": "616.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 141r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "281",
+    "fol_page": "141r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-281",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "811": {
+    "id": 811,
+    "order": "617.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 141v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "282",
+    "fol_page": "141v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-282",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "812": {
+    "id": 812,
+    "order": "618.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 142r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "283",
+    "fol_page": "142r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-283",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "813": {
+    "id": 813,
+    "order": "619.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 142v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "284",
+    "fol_page": "142v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-284",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "814": {
+    "id": 814,
+    "order": "620.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 143r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "285",
+    "fol_page": "143r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-285",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "815": {
+    "id": 815,
+    "order": "621.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 143v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "286",
+    "fol_page": "143v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-286",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "816": {
+    "id": 816,
+    "order": "622.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 144r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "287",
+    "fol_page": "144r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-287",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "817": {
+    "id": 817,
+    "order": "623.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 144v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "288",
+    "fol_page": "144v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-288",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "818": {
+    "id": 818,
+    "order": "624.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 145r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "289",
+    "fol_page": "145r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-289",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "819": {
+    "id": 819,
+    "order": "625.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 145v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "290",
+    "fol_page": "145v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-290",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "820": {
+    "id": 820,
+    "order": "626.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 146r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "291",
+    "fol_page": "146r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-291",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "821": {
+    "id": 821,
+    "order": "627.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 146v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "292",
+    "fol_page": "146v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-292",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "822": {
+    "id": 822,
+    "order": "628.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 147r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "293",
+    "fol_page": "147r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-293",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "823": {
+    "id": 823,
+    "order": "629.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 147v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "294",
+    "fol_page": "147v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-294",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "824": {
+    "id": 824,
+    "order": "630.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 148r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "295",
+    "fol_page": "148r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-295",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "825": {
+    "id": 825,
+    "order": "631.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 148v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "296",
+    "fol_page": "148v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-296",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "826": {
+    "id": 826,
+    "order": "632.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 149r",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "297",
+    "fol_page": "149r",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-297",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  "827": {
+    "id": 827,
+    "order": "633.00000000000000000000",
+    "fol": "UBWÜ, Cod. M. p. th. f. 46, 149v",
+    "shelfmark": "UBWÜ, Cod. M. p. th. f. 46",
+    "facs_number": "298",
+    "fol_page": "149v",
+    "page_url": "http://vb.uni-wuerzburg.de/ub/permalink/mpthf46-298",
+    "ms_link": [
+      {
+        "id": 2,
+        "value": "UBWÜ, Cod. M. p. th. f. 46",
+        "order": "2.00000000000000000000"
+      }
+    ]
   }
 }
