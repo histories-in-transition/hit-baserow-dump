@@ -6321,22 +6321,22 @@
     "digi_url": "",
     "idno": "Clm 6364",
     "idno_former": "",
-    "quire_structure": "",
+    "quire_structure": "2 IV16 + III22 + I24",
     "library_full": [
       {
         "id": 4,
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
-    "foliation": "",
+    "extent": "24",
+    "foliation": "19. Jahrhundert",
     "acc_mat": "",
     "binding": "",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "275",
+    "width": "195",
     "material_spec": "",
     "orig_place": [],
     "catchwords": "",
@@ -6372,12 +6372,24 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-24",
-    "Last modified": "2026-05-26",
+    "Last modified": "2026-09-29",
     "content_summary": "",
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17441,
+        "value": "Freising",
+        "color": "deep-dark-orange"
+      }
+    ],
     "status": [],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "title": "Macrobius, Plinius"
   },
   "134": {
