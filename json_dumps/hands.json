@@ -8450,7 +8450,13 @@
     "role": [
       {
         "id": 126,
-        "value": []
+        "value": [
+          {
+            "id": 14758,
+            "value": "Schreiber",
+            "color": "darker-red"
+          }
+        ]
       },
       {
         "id": 127,
@@ -9144,14 +9150,14 @@
         "id": 162,
         "value": [
           {
-            "id": 18174,
-            "value": "Interpolator",
-            "color": "green"
-          },
-          {
             "id": 18175,
             "value": "Überarbeiter",
             "color": "dark-gray"
+          },
+          {
+            "id": 18174,
+            "value": "Interpolator",
+            "color": "green"
           }
         ]
       }
@@ -9487,28 +9493,9 @@
       "name": "Ksenia Borisova"
     },
     "Last modified": "2025-07-22",
-    "hands_role": [
-      {
-        "id": 154,
-        "value": "hit_hands_role__154",
-        "order": "140.00000000000000000000"
-      }
-    ],
-    "role": [
-      {
-        "id": 154,
-        "value": []
-      }
-    ],
-    "texts": [
-      {
-        "ids": {
-          "database_table_3489": 31,
-          "database_table_3491": 49
-        },
-        "value": "Antapodosis"
-      }
-    ],
+    "hands_role": [],
+    "role": [],
+    "texts": [],
     "hands_dated": [
       {
         "id": 89,

@@ -7679,7 +7679,13 @@
         "order": "40.00000000000000000000"
       }
     ],
-    "role": [],
+    "role": [
+      {
+        "id": 14758,
+        "value": "Schreiber",
+        "color": "darker-red"
+      }
+    ],
     "locus": "1r-151r",
     "text": [
       {
@@ -7705,11 +7711,29 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-02",
-    "Last modified": "2024-11-13",
-    "locus_layout": [],
-    "function": [],
+    "Last modified": "2026-09-30",
+    "locus_layout": [
+      {
+        "id": 15841,
+        "value": "Schriftraum (einspaltig/mehrspaltig)",
+        "color": "green"
+      }
+    ],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
-    "strata": []
+    "strata": [
+      {
+        "id": 22,
+        "value": "Clm. 6383, Stratum 1",
+        "order": "19.00000000000000000000"
+      }
+    ]
   },
   "127": {
     "id": 127,
@@ -7736,7 +7760,7 @@
         "color": "darker-red"
       }
     ],
-    "locus": "",
+    "locus": "1r-8r",
     "text": [
       {
         "ids": {
@@ -7761,7 +7785,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-09-02",
-    "Last modified": "2025-02-11",
+    "Last modified": "2026-09-30",
     "locus_layout": [
       {
         "id": 15841,
@@ -8971,56 +8995,6 @@
       }
     ]
   },
-  "154": {
-    "id": 154,
-    "order": "140.00000000000000000000",
-    "hit_id": "hit_hands_role__154",
-    "hand": [
-      {
-        "id": 118,
-        "value": "BSB, Clm. 6383_H. 2",
-        "order": "110.00000000000000000000"
-      }
-    ],
-    "ms_item": [
-      {
-        "id": 49,
-        "value": "clm_6388__49",
-        "order": "42.00000000000000000000"
-      }
-    ],
-    "role": [],
-    "locus": "151v",
-    "text": [
-      {
-        "ids": {
-          "database_table_3489": 31,
-          "database_table_3491": 49
-        },
-        "value": "Antapodosis"
-      }
-    ],
-    "locus_text": [
-      {
-        "id": 49,
-        "value": "8v-85v"
-      }
-    ],
-    "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
-    },
-    "Created on": "2024-11-13",
-    "Last modified": "2025-02-11",
-    "locus_layout": [],
-    "function": [],
-    "scribe_type": [],
-    "strata": []
-  },
   "155": {
     "id": 155,
     "order": "141.00000000000000000000",
@@ -9071,7 +9045,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-12-05",
-    "Last modified": "2025-03-13",
+    "Last modified": "2026-09-30",
     "locus_layout": [
       {
         "id": 15841,
@@ -9079,7 +9053,13 @@
         "color": "green"
       }
     ],
-    "function": [],
+    "function": [
+      {
+        "id": 18168,
+        "value": "anlegend / Anlage",
+        "color": "light-blue"
+      }
+    ],
     "scribe_type": [],
     "strata": [
       {

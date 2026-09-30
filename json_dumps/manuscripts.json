@@ -3062,7 +3062,7 @@
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "I+134",
+    "extent": "I + 134",
     "foliation": "19 Jh.",
     "acc_mat": "Am Rücken findet man \nSpur einer alten Aufschrift, querständig, nach Loslösung je eines Papierzettels\n(17. Jh.) mit Inhaltsangabe.(Glauche)",
     "binding": "Heller spätgothischer  Lederband mit Einzelstempeln, in Freising produziert.",
@@ -3124,7 +3124,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2024-12-13",
-    "Last modified": "2026-01-20",
+    "Last modified": "2026-09-29",
     "content_summary": "Opus imperfectum in Matthaeum",
     "charakter": [
       {
@@ -6318,10 +6318,10 @@
     "manuscripta_url": "",
     "handschriftenportal_url": "",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00115086?page=,1",
     "idno": "Clm 6364",
     "idno_former": "",
-    "quire_structure": "2 IV16 + III22 + I24",
+    "quire_structure": "2 IV **16** + III **22** + I **24**",
     "library_full": [
       {
         "id": 4,
@@ -6331,14 +6331,20 @@
     "extent": "24",
     "foliation": "19. Jahrhundert",
     "acc_mat": "",
-    "binding": "",
+    "binding": "Heller spätotton. Ledereinband mit Einzelstempeln aus Freisinger Werkstatt",
     "binding_date": [],
     "history": "",
     "bibliography": [],
     "height": "275",
     "width": "195",
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": {
@@ -6373,7 +6379,7 @@
     },
     "Created on": "2026-05-24",
     "Last modified": "2026-09-29",
-    "content_summary": "",
+    "content_summary": "Macrobius Plinius",
     "charakter": [],
     "case_study": [
       {
@@ -6411,28 +6417,40 @@
     ],
     "manuscripta_url": "",
     "handschriftenportal_url": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "catalog_url": "https://bilder.manuscripta-mediaevalia.de/hs/kataloge/pdf/HSK0628a.pdf",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00116255?page=,1",
     "idno": "Clm 17027",
     "idno_former": "",
-    "quire_structure": "",
+    "quire_structure": "6 **6** + 9 IV **77** + (IV-1) **184** + (II+1) **89** + 8 IV **153**",
     "library_full": [
       {
         "id": 4,
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
+    "extent": "I + 153",
     "foliation": "",
     "acc_mat": "",
-    "binding": "",
-    "binding_date": [],
+    "binding": "Einfacher Pappeinband mit Leinenrücken",
+    "binding_date": [
+      {
+        "id": 152,
+        "value": "1919-1920",
+        "order": "89.00000000000000000000"
+      }
+    ],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "180",
+    "width": "140",
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": {
@@ -6458,12 +6476,24 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-24",
-    "Last modified": "2026-05-26",
+    "Last modified": "2026-09-29",
     "content_summary": "",
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17441,
+        "value": "Freising",
+        "color": "deep-dark-orange"
+      }
+    ],
     "status": [],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "title": "Kollektar, Collecta per curiculum anni"
   },
   "135": {
@@ -6486,29 +6516,35 @@
     "manuscripta_url": "",
     "handschriftenportal_url": "",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054510?page=1",
     "idno": "Clm 6385",
     "idno_former": "",
-    "quire_structure": "",
+    "quire_structure": "(IV+1) **8** + 2 IV **23** + (IV+1) **32**",
     "library_full": [
       {
         "id": 4,
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
-    "foliation": "",
+    "extent": "I + 32",
+    "foliation": "19. Jahrhundert",
     "acc_mat": "",
-    "binding": "",
+    "binding": "Heller spätotton. Ledereinband mit Streicheisenlinien und Einzelstempeln aus Freisinger\nWerkstatt",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "265",
+    "width": "195",
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "catchwords": "",
-    "quiremarks": "",
+    "quiremarks": "F. 12 irrtümlich doppelt bezeichnet, das\\\nzweite später in 12a umbenannt (7&\\[omas\\])",
     "material": {
       "id": 14782,
       "value": "Pergament",
@@ -6540,12 +6576,24 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-24",
-    "Last modified": "2026-05-24",
+    "Last modified": "2026-09-30",
     "content_summary": "",
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17441,
+        "value": "Freising",
+        "color": "deep-dark-orange"
+      }
+    ],
     "status": [],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "title": "Isidorus, Alcuinus, Liber Pontificalis"
   },
   "136": {
@@ -6568,27 +6616,33 @@
     "manuscripta_url": "",
     "handschriftenportal_url": "",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00089452?page=1",
     "idno": "Clm 6257",
     "idno_former": "",
-    "quire_structure": "",
+    "quire_structure": "(IV-1) **6** + (1 + \\[I-1\\] **8** + IV) **16** + V **26** + 3 IV **50** + (IV-1) **57** + 6 IV **105** + (\\[I-1\\] **106** + IV) **114**",
     "library_full": [
       {
         "id": 4,
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
-    "foliation": "",
+    "extent": "I + 114",
+    "foliation": "19. Jahrhundert",
     "acc_mat": "",
-    "binding": "",
+    "binding": "Heller spätgot. Ledereinband mit Streicheisenlinien und vier für das Domkapitel auf Inkunabeln der gleichen Provenienz belegbaren typ. Einzelstempeln.",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "320",
+    "width": "250",
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": {
@@ -6622,12 +6676,24 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-24",
-    "Last modified": "2026-05-24",
+    "Last modified": "2026-09-30",
     "content_summary": "",
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17441,
+        "value": "Freising",
+        "color": "deep-dark-orange"
+      }
+    ],
     "status": [],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "title": "Ps. Clemens Romanus"
   },
   "138": {
@@ -6650,27 +6716,33 @@
     "manuscripta_url": "",
     "handschriftenportal_url": "",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00065163?page=1",
     "idno": "Clm 6421",
     "idno_former": "",
-    "quire_structure": "",
+    "quire_structure": "2 IV **16** + (IV-2?) **22** + 2 IV **38** + V **48** + 29 IV **280** + (II-1) **283**",
     "library_full": [
       {
         "id": 4,
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
-    "foliation": "",
+    "extent": "283",
+    "foliation": "19. Jahrhundert",
     "acc_mat": "",
-    "binding": "",
+    "binding": "Moderner weißer Ledereinband von\n1969, auch Schließen erneuert.",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "335",
+    "width": "255",
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": {
@@ -6704,12 +6776,24 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-26",
-    "Last modified": "2026-05-29",
+    "Last modified": "2026-09-29",
     "content_summary": "",
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17441,
+        "value": "Freising",
+        "color": "deep-dark-orange"
+      }
+    ],
     "status": [],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "title": "Martyrolog, Sakramentar B. Abrahams"
   },
   "171": {

@@ -2162,9 +2162,28 @@
     ],
     "number": "1",
     "hit_id": "hit_strata__22",
-    "hand_role": [],
-    "ms_items": [],
-    "locus": [],
+    "hand_role": [
+      {
+        "id": 126,
+        "value": "hit_hands_role__126",
+        "order": "112.00000000000000000000"
+      }
+    ],
+    "ms_items": [
+      {
+        "ids": {
+          "database_table_3489": 29,
+          "database_table_3491": 47
+        },
+        "value": "Historia ecclesiastica cum Rufini continuatione"
+      }
+    ],
+    "locus": [
+      {
+        "id": 47,
+        "value": "1r-151r"
+      }
+    ],
     "note": "Das Hauptstratum, die von mehreren Händen geschafft wurde. Diese haben",
     "Created by": {
       "id": 87,

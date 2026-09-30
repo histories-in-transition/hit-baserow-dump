@@ -4621,11 +4621,6 @@
     "locus_grp": "8v-85v",
     "hands_role": [
       {
-        "id": 154,
-        "value": "hit_hands_role__154",
-        "order": "140.00000000000000000000"
-      },
-      {
         "id": 160,
         "value": "hit_hands_role__160",
         "order": "146.00000000000000000000"
@@ -4655,13 +4650,6 @@
     },
     "note": null,
     "hand": [
-      {
-        "ids": {
-          "database_table_3487": 11,
-          "database_table_3488": 4
-        },
-        "value": "BSB, Clm. 6383_H. 2"
-      },
       {
         "ids": {
           "database_table_3487": 12,
