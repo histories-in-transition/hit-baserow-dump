@@ -1246,5 +1246,32 @@
     "Last modified": "2026-04-29",
     "lat": "48.09101",
     "long": "13.87702"
+  },
+  "114": {
+    "id": 114,
+    "order": "48.00000000000000000000",
+    "name": "Lyon",
+    "geonames_url": "https://www.geonames.org/2996944/lyon.html",
+    "hit_id": "hit_place__114",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q456",
+    "country": [
+      {
+        "id": 14,
+        "value": "Frankreich",
+        "order": "2.50000000000000000000"
+      }
+    ],
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-09-30",
+    "Last modified by": {
+      "id": 3,
+      "name": "Peter Andorfer"
+    },
+    "Last modified": "2026-10-01",
+    "lat": "45.74906",
+    "long": "4.84789"
   }
 }

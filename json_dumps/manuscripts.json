@@ -6320,7 +6320,7 @@
     "catalog_url": "",
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00115086?page=,1",
     "idno": "Clm 6364",
-    "idno_former": "",
+    "idno_former": "Fris. 164",
     "quire_structure": "2 IV **16** + III **22** + I **24**",
     "library_full": [
       {
@@ -6329,7 +6329,7 @@
       }
     ],
     "extent": "24",
-    "foliation": "19. Jahrhundert",
+    "foliation": "19 Jh.",
     "acc_mat": "",
     "binding": "Heller spätotton. Ledereinband mit Einzelstempeln aus Freisinger Werkstatt",
     "binding_date": [],
@@ -6378,7 +6378,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-24",
-    "Last modified": "2026-09-29",
+    "Last modified": "2026-09-30",
     "content_summary": "Macrobius Plinius",
     "charakter": [],
     "case_study": [
@@ -6518,7 +6518,7 @@
     "catalog_url": "",
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054510?page=1",
     "idno": "Clm 6385",
-    "idno_former": "",
+    "idno_former": "Fris. 185",
     "quire_structure": "(IV+1) **8** + 2 IV **23** + (IV+1) **32**",
     "library_full": [
       {
@@ -6527,7 +6527,7 @@
       }
     ],
     "extent": "I + 32",
-    "foliation": "19. Jahrhundert",
+    "foliation": "19 Jh.",
     "acc_mat": "",
     "binding": "Heller spätotton. Ledereinband mit Streicheisenlinien und Einzelstempeln aus Freisinger\nWerkstatt",
     "binding_date": [],
@@ -6618,7 +6618,7 @@
     "catalog_url": "",
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00089452?page=1",
     "idno": "Clm 6257",
-    "idno_former": "",
+    "idno_former": "Fris. 57",
     "quire_structure": "(IV-1) **6** + (1 + \\[I-1\\] **8** + IV) **16** + V **26** + 3 IV **50** + (IV-1) **57** + 6 IV **105** + (\\[I-1\\] **106** + IV) **114**",
     "library_full": [
       {
@@ -6627,9 +6627,9 @@
       }
     ],
     "extent": "I + 114",
-    "foliation": "19. Jahrhundert",
+    "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "Heller spätgot. Ledereinband mit Streicheisenlinien und vier für das Domkapitel auf Inkunabeln der gleichen Provenienz belegbaren typ. Einzelstempeln.",
+    "binding": "Heller spätgot. Ledereinband mit Streicheisenlinien und vier für das Domkapitel auf Inkunabeln der gleichen Provenienz belegbaren typ. Einzelstempeln",
     "binding_date": [],
     "history": "",
     "bibliography": [],
@@ -6718,7 +6718,7 @@
     "catalog_url": "",
     "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00065163?page=1",
     "idno": "Clm 6421",
-    "idno_former": "",
+    "idno_former": "Fris. 221",
     "quire_structure": "2 IV **16** + (IV-2?) **22** + 2 IV **38** + V **48** + 29 IV **280** + (II-1) **283**",
     "library_full": [
       {
@@ -6727,9 +6727,9 @@
       }
     ],
     "extent": "283",
-    "foliation": "19. Jahrhundert",
+    "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "Moderner weißer Ledereinband von\n1969, auch Schließen erneuert.",
+    "binding": "Moderner weißer Ledereinband von\n1969, auch Schließen erneuert",
     "binding_date": [],
     "history": "",
     "bibliography": [],
@@ -6776,7 +6776,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-26",
-    "Last modified": "2026-09-29",
+    "Last modified": "2026-09-30",
     "content_summary": "",
     "charakter": [],
     "case_study": [
@@ -6816,27 +6816,33 @@
     "manuscripta_url": "",
     "handschriftenportal_url": "",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00039815?page=,1",
     "idno": "Clm 6267",
-    "idno_former": "",
-    "quire_structure": "",
+    "idno_former": "Fris. 67",
+    "quire_structure": "7 IV **56** + II **60** + 6 IV **108** + (V-1) **117** + (IV-1) **124** + 6 IV **172** + (III-2) **176**; III **182** + V **192** + 14 IV **304** + (IV-1) **311** + 9 IV **383** + II **387**; 4 IV **419** + (II-1) **422**",
     "library_full": [
       {
         "id": 4,
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
-    "foliation": "",
+    "extent": "422",
+    "foliation": "7. Jan. 1862",
     "acc_mat": "",
-    "binding": "",
+    "binding": "Nachgedunkelter karoling. Ledereinband mit Streicheisenlinien und runden Punzen\naus Freisinger Werkstatt",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "310",
+    "width": "235",
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 4,
+        "value": "Freising",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": {
@@ -6870,12 +6876,24 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-28",
-    "Last modified": "2026-05-29",
+    "Last modified": "2026-09-30",
     "content_summary": "",
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17441,
+        "value": "Freising",
+        "color": "deep-dark-orange"
+      }
+    ],
     "status": [],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "title": "De civitate Dei I-XVIII"
   },
   "172": {
@@ -6898,27 +6916,33 @@
     "manuscripta_url": "",
     "handschriftenportal_url": "",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00054489?page=1",
     "idno": "Clm 6259",
-    "idno_former": "",
-    "quire_structure": "",
+    "idno_former": "Fris. 59",
+    "quire_structure": "6 IV **48** + III **54** + IV **62** + II **66** + 12  IV **162** + II **166** + V **176** + IV **184** + II **188**",
     "library_full": [
       {
         "id": 4,
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
-    "foliation": "",
+    "extent": "188",
+    "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "",
+    "binding": "Hellerspätgot. Ledereinband mit Streicheisenlinien. Schließe defekt, Kettenöse abgerissen",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "325",
+    "width": "255",
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 114,
+        "value": "Lyon",
+        "order": "48.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": {
@@ -6926,7 +6950,13 @@
       "value": "Pergament",
       "color": "darker-orange"
     },
-    "provenance": [],
+    "provenance": [
+      {
+        "id": 6,
+        "value": "Dombibliothek Freising",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "manuscripts_dated": [
       {
         "id": 132,
@@ -6952,12 +6982,24 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-28",
-    "Last modified": "2026-05-29",
+    "Last modified": "2026-09-30",
     "content_summary": "",
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17441,
+        "value": "Freising",
+        "color": "deep-dark-orange"
+      }
+    ],
     "status": [],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "title": "De civitate Dei"
   },
   "173": {
@@ -6980,27 +7022,33 @@
     "manuscripta_url": "",
     "handschriftenportal_url": "",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00064013?page=1",
     "idno": "Clm 6333",
-    "idno_former": "",
-    "quire_structure": "",
+    "idno_former": "Fris. 133",
+    "quire_structure": "(II+1) **4** + I **6** + 2 IV **22** + (IV-1) **29** + 3 IV **52** + (III + 2 \\[I-1\\] **54**, **59**) **60** + 8 IV **124** + (IV+1) **133**",
     "library_full": [
       {
         "id": 4,
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
-    "foliation": "",
+    "extent": "I + 134",
+    "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "",
+    "binding": "Heller spätgot. Ledereinband mit Streicheisenlinien und einem für das Domkapitel\nFreising typ. Einzelstempel",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "175",
+    "width": "120",
     "material_spec": "",
-    "orig_place": [],
+    "orig_place": [
+      {
+        "id": 11,
+        "value": "Benediktbeuern",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "catchwords": "",
     "quiremarks": "",
     "material": {
@@ -7034,12 +7082,24 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-28",
-    "Last modified": "2026-05-29",
+    "Last modified": "2026-09-30",
     "content_summary": "",
     "charakter": [],
-    "case_study": [],
+    "case_study": [
+      {
+        "id": 17441,
+        "value": "Freising",
+        "color": "deep-dark-orange"
+      }
+    ],
     "status": [],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "title": "Liber virorum illustrium"
   },
   "174": {
@@ -7062,25 +7122,25 @@
     "manuscripta_url": "",
     "handschriftenportal_url": "",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://www.digitale-sammlungen.de/en/view/bsb00065390?page=1",
     "idno": "Clm 6384",
-    "idno_former": "",
-    "quire_structure": "",
+    "idno_former": "Fris. 184",
+    "quire_structure": "4 IV **32** + (IV-1) **39** + (IV + \\[I-1\\] **41** + l) **49**; 3 IV **73** + 4 VI **121**",
     "library_full": [
       {
         "id": 4,
         "value": "Bayerische Staatsbibliothek"
       }
     ],
-    "extent": "",
-    "foliation": "",
+    "extent": "121",
+    "foliation": "19 Jh.",
     "acc_mat": "",
-    "binding": "",
+    "binding": "Roter spätgot. Halblederband. Langriemenschließen und Kettenöse abgerissen",
     "binding_date": [],
     "history": "",
     "bibliography": [],
-    "height": null,
-    "width": null,
+    "height": "260",
+    "width": "170",
     "material_spec": "",
     "orig_place": [],
     "catchwords": "",
@@ -7116,12 +7176,18 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-28",
-    "Last modified": "2026-05-29",
+    "Last modified": "2026-09-30",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
     "status": [],
-    "author_entry": [],
+    "author_entry": [
+      {
+        "id": 2,
+        "value": "Ksenia Borisova",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "title": "Collectanea rerum memorabilium"
   },
   "175": {
@@ -7144,9 +7210,9 @@
     "manuscripta_url": "",
     "handschriftenportal_url": "",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://digitale-sammlungen.de/de/view/bsb00064061?page=,1",
     "idno": "Clm 6437",
-    "idno_former": "",
+    "idno_former": "Fris. 237",
     "quire_structure": "",
     "library_full": [
       {
@@ -7198,7 +7264,7 @@
       "name": "Ksenia Borisova"
     },
     "Created on": "2026-05-28",
-    "Last modified": "2026-05-29",
+    "Last modified": "2026-09-30",
     "content_summary": "",
     "charakter": [],
     "case_study": [],
