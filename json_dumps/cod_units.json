@@ -4245,5 +4245,56 @@
     "material_spec": "Zumeist robustes, höherwertiges Pergament. Gelegentlich findet sich ein sehr dünnes Blatt. Haarseite erweist sich als sehr dunkel!",
     "catchwords": "Nicht vorhanden",
     "quiremarks": "Wohl vorhanden gewesen, aber nunmehr zumeist abgeschnitten."
+  },
+  "125": {
+    "id": 125,
+    "order": "57.00000000000000000000",
+    "label": [
+      {
+        "ids": {
+          "database_table_3487": 133,
+          "database_table_3488": 4
+        },
+        "value": "BSB, Clm 6364, cod. unit "
+      }
+    ],
+    "notes": "",
+    "hit_id": "hit_cod_unit__125",
+    "locus": "",
+    "manuscript": [
+      {
+        "id": 133,
+        "value": "BSB, Clm 6364",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "number": null,
+    "Created by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Created on": "2026-10-01",
+    "Last modified by": {
+      "id": 87,
+      "name": "Ksenia Borisova"
+    },
+    "Last modified": "2026-10-01",
+    "orig_date": [],
+    "heigth": "",
+    "lines_number": "",
+    "decorations": "",
+    "basic_structure": [],
+    "written_width": "",
+    "written_height": "",
+    "width": "",
+    "columns": [],
+    "cod_unit_placed": [],
+    "prov_place": [],
+    "strata": [],
+    "ruling": "",
+    "material": null,
+    "material_spec": "",
+    "catchwords": "",
+    "quiremarks": ""
   }
 }
