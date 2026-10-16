@@ -10151,7 +10151,13 @@
     "facs_number": "4",
     "fol_page": "1v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=4",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "830": {
     "id": 830,
@@ -10161,7 +10167,13 @@
     "facs_number": "5",
     "fol_page": "2r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=5",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "831": {
     "id": 831,
@@ -10171,7 +10183,13 @@
     "facs_number": "6",
     "fol_page": "2v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=6",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "832": {
     "id": 832,
@@ -10181,7 +10199,13 @@
     "facs_number": "7",
     "fol_page": "3r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=7",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "833": {
     "id": 833,
@@ -10191,7 +10215,13 @@
     "facs_number": "8",
     "fol_page": "3v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=8",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "834": {
     "id": 834,
@@ -10201,7 +10231,13 @@
     "facs_number": "9",
     "fol_page": "4r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=9",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "835": {
     "id": 835,
@@ -10211,7 +10247,13 @@
     "facs_number": "10",
     "fol_page": "4v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=10",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "836": {
     "id": 836,
@@ -10221,7 +10263,13 @@
     "facs_number": "11",
     "fol_page": "5r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=11",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "837": {
     "id": 837,
@@ -10231,7 +10279,13 @@
     "facs_number": "12",
     "fol_page": "5v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=12",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "838": {
     "id": 838,
@@ -10241,7 +10295,13 @@
     "facs_number": "13",
     "fol_page": "6r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=13",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "839": {
     "id": 839,
@@ -10251,7 +10311,13 @@
     "facs_number": "14",
     "fol_page": "6v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=14",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "840": {
     "id": 840,
@@ -10261,7 +10327,13 @@
     "facs_number": "15",
     "fol_page": "7r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=15",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "841": {
     "id": 841,
@@ -10271,7 +10343,13 @@
     "facs_number": "16",
     "fol_page": "7v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=16",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "842": {
     "id": 842,
@@ -10281,7 +10359,13 @@
     "facs_number": "17",
     "fol_page": "8r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=17",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "843": {
     "id": 843,
@@ -10291,7 +10375,13 @@
     "facs_number": "18",
     "fol_page": "8v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=18",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "844": {
     "id": 844,
@@ -10301,7 +10391,13 @@
     "facs_number": "19",
     "fol_page": "9r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=19",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "845": {
     "id": 845,
@@ -10311,7 +10407,13 @@
     "facs_number": "20",
     "fol_page": "9v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=20",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "846": {
     "id": 846,
@@ -10321,7 +10423,13 @@
     "facs_number": "21",
     "fol_page": "10r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=21",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "847": {
     "id": 847,
@@ -10331,7 +10439,13 @@
     "facs_number": "22",
     "fol_page": "10v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=22",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "848": {
     "id": 848,
@@ -10341,7 +10455,13 @@
     "facs_number": "23",
     "fol_page": "11r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=23",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "849": {
     "id": 849,
@@ -10351,7 +10471,13 @@
     "facs_number": "24",
     "fol_page": "11v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=24",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "850": {
     "id": 850,
@@ -10361,7 +10487,13 @@
     "facs_number": "25",
     "fol_page": "12r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=25",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "851": {
     "id": 851,
@@ -10371,7 +10503,13 @@
     "facs_number": "26",
     "fol_page": "12v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=26",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "852": {
     "id": 852,
@@ -10381,7 +10519,13 @@
     "facs_number": "27",
     "fol_page": "13r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=27",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "853": {
     "id": 853,
@@ -10391,7 +10535,13 @@
     "facs_number": "28",
     "fol_page": "13v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=28",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "854": {
     "id": 854,
@@ -10401,7 +10551,13 @@
     "facs_number": "29",
     "fol_page": "14r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=29",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "855": {
     "id": 855,
@@ -10411,7 +10567,13 @@
     "facs_number": "30",
     "fol_page": "14v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=30",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "856": {
     "id": 856,
@@ -10421,7 +10583,13 @@
     "facs_number": "31",
     "fol_page": "15r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=31",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "857": {
     "id": 857,
@@ -10431,7 +10599,13 @@
     "facs_number": "32",
     "fol_page": "15v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=32",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "858": {
     "id": 858,
@@ -10441,7 +10615,13 @@
     "facs_number": "33",
     "fol_page": "16r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=33",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "859": {
     "id": 859,
@@ -10451,7 +10631,13 @@
     "facs_number": "34",
     "fol_page": "16v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=34",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "860": {
     "id": 860,
@@ -10461,7 +10647,13 @@
     "facs_number": "35",
     "fol_page": "17r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=35",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "861": {
     "id": 861,
@@ -10471,7 +10663,13 @@
     "facs_number": "36",
     "fol_page": "17v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=36",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "862": {
     "id": 862,
@@ -10481,7 +10679,13 @@
     "facs_number": "37",
     "fol_page": "18r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=37",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "863": {
     "id": 863,
@@ -10491,7 +10695,13 @@
     "facs_number": "38",
     "fol_page": "18v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=38",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "864": {
     "id": 864,
@@ -10501,7 +10711,13 @@
     "facs_number": "39",
     "fol_page": "19r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=39",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "865": {
     "id": 865,
@@ -10511,7 +10727,13 @@
     "facs_number": "40",
     "fol_page": "19v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=40",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "866": {
     "id": 866,
@@ -10521,7 +10743,13 @@
     "facs_number": "41",
     "fol_page": "20r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=41",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "867": {
     "id": 867,
@@ -10531,7 +10759,13 @@
     "facs_number": "42",
     "fol_page": "20v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=42",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "868": {
     "id": 868,
@@ -10541,7 +10775,13 @@
     "facs_number": "43",
     "fol_page": "21r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=43",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "869": {
     "id": 869,
@@ -10551,7 +10791,13 @@
     "facs_number": "44",
     "fol_page": "21v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=44",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "870": {
     "id": 870,
@@ -10561,7 +10807,13 @@
     "facs_number": "45",
     "fol_page": "22r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=45",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "871": {
     "id": 871,
@@ -10571,7 +10823,13 @@
     "facs_number": "46",
     "fol_page": "22v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=46",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "872": {
     "id": 872,
@@ -10581,7 +10839,13 @@
     "facs_number": "47",
     "fol_page": "23r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=47",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "873": {
     "id": 873,
@@ -10591,7 +10855,13 @@
     "facs_number": "48",
     "fol_page": "23v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=48",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "874": {
     "id": 874,
@@ -10601,7 +10871,13 @@
     "facs_number": "49",
     "fol_page": "24r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=49",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "875": {
     "id": 875,
@@ -10611,7 +10887,13 @@
     "facs_number": "50",
     "fol_page": "24v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=50",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "876": {
     "id": 876,
@@ -10621,7 +10903,13 @@
     "facs_number": "51",
     "fol_page": "25r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=51",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "877": {
     "id": 877,
@@ -10631,7 +10919,13 @@
     "facs_number": "52",
     "fol_page": "25v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=52",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "878": {
     "id": 878,
@@ -10641,7 +10935,13 @@
     "facs_number": "53",
     "fol_page": "26r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=53",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "879": {
     "id": 879,
@@ -10651,7 +10951,13 @@
     "facs_number": "54",
     "fol_page": "26v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=54",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "880": {
     "id": 880,
@@ -10661,7 +10967,13 @@
     "facs_number": "55",
     "fol_page": "27r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=55",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "881": {
     "id": 881,
@@ -10671,7 +10983,13 @@
     "facs_number": "56",
     "fol_page": "27v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=56",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "882": {
     "id": 882,
@@ -10681,7 +10999,13 @@
     "facs_number": "57",
     "fol_page": "28r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=57",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "883": {
     "id": 883,
@@ -10691,7 +11015,13 @@
     "facs_number": "58",
     "fol_page": "28v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=58",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "884": {
     "id": 884,
@@ -10701,7 +11031,13 @@
     "facs_number": "59",
     "fol_page": "29r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=59",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "885": {
     "id": 885,
@@ -10711,7 +11047,13 @@
     "facs_number": "60",
     "fol_page": "29v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=60",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "886": {
     "id": 886,
@@ -10721,7 +11063,13 @@
     "facs_number": "61",
     "fol_page": "30r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=61",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "887": {
     "id": 887,
@@ -10731,7 +11079,13 @@
     "facs_number": "62",
     "fol_page": "30v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=62",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "888": {
     "id": 888,
@@ -10741,7 +11095,13 @@
     "facs_number": "63",
     "fol_page": "31r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=63",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "889": {
     "id": 889,
@@ -10751,7 +11111,13 @@
     "facs_number": "64",
     "fol_page": "31v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=64",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "890": {
     "id": 890,
@@ -10761,7 +11127,13 @@
     "facs_number": "65",
     "fol_page": "32r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=65",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "891": {
     "id": 891,
@@ -10771,7 +11143,13 @@
     "facs_number": "66",
     "fol_page": "32v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=66",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "892": {
     "id": 892,
@@ -10781,7 +11159,13 @@
     "facs_number": "67",
     "fol_page": "33r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=67",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "893": {
     "id": 893,
@@ -10791,7 +11175,13 @@
     "facs_number": "68",
     "fol_page": "33v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=68",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "894": {
     "id": 894,
@@ -10801,7 +11191,13 @@
     "facs_number": "69",
     "fol_page": "34r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=69",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "895": {
     "id": 895,
@@ -10811,7 +11207,13 @@
     "facs_number": "70",
     "fol_page": "34v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=70",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "896": {
     "id": 896,
@@ -10821,7 +11223,13 @@
     "facs_number": "71",
     "fol_page": "35r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=71",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "897": {
     "id": 897,
@@ -10831,7 +11239,13 @@
     "facs_number": "72",
     "fol_page": "35v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=72",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "898": {
     "id": 898,
@@ -10841,7 +11255,13 @@
     "facs_number": "73",
     "fol_page": "36r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=73",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "899": {
     "id": 899,
@@ -10851,7 +11271,13 @@
     "facs_number": "74",
     "fol_page": "36v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=74",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "900": {
     "id": 900,
@@ -10861,7 +11287,13 @@
     "facs_number": "75",
     "fol_page": "37r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=75",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "901": {
     "id": 901,
@@ -10871,7 +11303,13 @@
     "facs_number": "76",
     "fol_page": "37v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=76",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "902": {
     "id": 902,
@@ -10881,7 +11319,13 @@
     "facs_number": "77",
     "fol_page": "38r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=77",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "903": {
     "id": 903,
@@ -10891,7 +11335,13 @@
     "facs_number": "78",
     "fol_page": "38v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=78",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "904": {
     "id": 904,
@@ -10901,7 +11351,13 @@
     "facs_number": "79",
     "fol_page": "39r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=79",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "905": {
     "id": 905,
@@ -10911,7 +11367,13 @@
     "facs_number": "80",
     "fol_page": "39v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=80",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "906": {
     "id": 906,
@@ -10921,7 +11383,13 @@
     "facs_number": "81",
     "fol_page": "40r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=81",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "907": {
     "id": 907,
@@ -10931,7 +11399,13 @@
     "facs_number": "82",
     "fol_page": "40v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=82",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "908": {
     "id": 908,
@@ -10941,7 +11415,13 @@
     "facs_number": "83",
     "fol_page": "41r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=83",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "909": {
     "id": 909,
@@ -10951,7 +11431,13 @@
     "facs_number": "84",
     "fol_page": "41v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=84",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "910": {
     "id": 910,
@@ -10961,7 +11447,13 @@
     "facs_number": "85",
     "fol_page": "42r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=85",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "911": {
     "id": 911,
@@ -10971,7 +11463,13 @@
     "facs_number": "86",
     "fol_page": "42v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=86",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "912": {
     "id": 912,
@@ -10981,7 +11479,13 @@
     "facs_number": "87",
     "fol_page": "43r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=87",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "913": {
     "id": 913,
@@ -10991,7 +11495,13 @@
     "facs_number": "88",
     "fol_page": "43v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=88",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "914": {
     "id": 914,
@@ -11001,7 +11511,13 @@
     "facs_number": "89",
     "fol_page": "44r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=89",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "915": {
     "id": 915,
@@ -11011,7 +11527,13 @@
     "facs_number": "90",
     "fol_page": "44v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=90",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "916": {
     "id": 916,
@@ -11021,7 +11543,13 @@
     "facs_number": "91",
     "fol_page": "45r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=91",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "917": {
     "id": 917,
@@ -11031,7 +11559,13 @@
     "facs_number": "92",
     "fol_page": "45v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=92",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "918": {
     "id": 918,
@@ -11041,7 +11575,13 @@
     "facs_number": "93",
     "fol_page": "46r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=93",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "919": {
     "id": 919,
@@ -11051,7 +11591,13 @@
     "facs_number": "94",
     "fol_page": "46v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=94",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "920": {
     "id": 920,
@@ -11061,7 +11607,13 @@
     "facs_number": "95",
     "fol_page": "47r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=95",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "921": {
     "id": 921,
@@ -11071,7 +11623,13 @@
     "facs_number": "96",
     "fol_page": "47v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=96",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "922": {
     "id": 922,
@@ -11081,7 +11639,13 @@
     "facs_number": "97",
     "fol_page": "48r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=97",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "923": {
     "id": 923,
@@ -11091,7 +11655,13 @@
     "facs_number": "98",
     "fol_page": "48v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=98",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "924": {
     "id": 924,
@@ -11101,7 +11671,13 @@
     "facs_number": "99",
     "fol_page": "49r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=99",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "925": {
     "id": 925,
@@ -11111,7 +11687,13 @@
     "facs_number": "100",
     "fol_page": "49v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=100",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "926": {
     "id": 926,
@@ -11121,7 +11703,13 @@
     "facs_number": "101",
     "fol_page": "50r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=101",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "927": {
     "id": 927,
@@ -11131,7 +11719,13 @@
     "facs_number": "102",
     "fol_page": "50v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=102",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "928": {
     "id": 928,
@@ -11141,7 +11735,13 @@
     "facs_number": "103",
     "fol_page": "51r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=103",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "929": {
     "id": 929,
@@ -11151,7 +11751,13 @@
     "facs_number": "104",
     "fol_page": "51v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=104",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "930": {
     "id": 930,
@@ -11161,7 +11767,13 @@
     "facs_number": "105",
     "fol_page": "52r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=105",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "931": {
     "id": 931,
@@ -11171,7 +11783,13 @@
     "facs_number": "106",
     "fol_page": "52v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=106",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "932": {
     "id": 932,
@@ -11181,7 +11799,13 @@
     "facs_number": "107",
     "fol_page": "53r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=107",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "933": {
     "id": 933,
@@ -11191,7 +11815,13 @@
     "facs_number": "108",
     "fol_page": "53v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=108",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "934": {
     "id": 934,
@@ -11201,7 +11831,13 @@
     "facs_number": "109",
     "fol_page": "54r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=109",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "935": {
     "id": 935,
@@ -11211,7 +11847,13 @@
     "facs_number": "110",
     "fol_page": "54v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=110",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "936": {
     "id": 936,
@@ -11221,7 +11863,13 @@
     "facs_number": "111",
     "fol_page": "55r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=111",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "937": {
     "id": 937,
@@ -11231,7 +11879,13 @@
     "facs_number": "112",
     "fol_page": "55v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=112",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "938": {
     "id": 938,
@@ -11241,7 +11895,13 @@
     "facs_number": "113",
     "fol_page": "56r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=113",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "939": {
     "id": 939,
@@ -11251,7 +11911,13 @@
     "facs_number": "114",
     "fol_page": "56v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=114",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "940": {
     "id": 940,
@@ -11261,7 +11927,13 @@
     "facs_number": "115",
     "fol_page": "57r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=115",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "941": {
     "id": 941,
@@ -11271,7 +11943,13 @@
     "facs_number": "116",
     "fol_page": "57v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=116",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "942": {
     "id": 942,
@@ -11281,7 +11959,13 @@
     "facs_number": "117",
     "fol_page": "58r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=117",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "943": {
     "id": 943,
@@ -11291,7 +11975,13 @@
     "facs_number": "118",
     "fol_page": "58v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=118",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "944": {
     "id": 944,
@@ -11301,7 +11991,13 @@
     "facs_number": "119",
     "fol_page": "59r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=119",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "945": {
     "id": 945,
@@ -11311,7 +12007,13 @@
     "facs_number": "120",
     "fol_page": "59v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=120",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "946": {
     "id": 946,
@@ -11321,7 +12023,13 @@
     "facs_number": "121",
     "fol_page": "60r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=121",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "947": {
     "id": 947,
@@ -11331,7 +12039,13 @@
     "facs_number": "122",
     "fol_page": "60v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=122",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "948": {
     "id": 948,
@@ -11341,7 +12055,13 @@
     "facs_number": "123",
     "fol_page": "61r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=123",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "949": {
     "id": 949,
@@ -11351,7 +12071,13 @@
     "facs_number": "124",
     "fol_page": "61v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=124",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "950": {
     "id": 950,
@@ -11361,7 +12087,13 @@
     "facs_number": "125",
     "fol_page": "62r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=125",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "951": {
     "id": 951,
@@ -11371,7 +12103,13 @@
     "facs_number": "126",
     "fol_page": "62v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=126",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "952": {
     "id": 952,
@@ -11381,7 +12119,13 @@
     "facs_number": "127",
     "fol_page": "63r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=127",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "953": {
     "id": 953,
@@ -11391,7 +12135,13 @@
     "facs_number": "128",
     "fol_page": "63v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=128",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "954": {
     "id": 954,
@@ -11401,7 +12151,13 @@
     "facs_number": "129",
     "fol_page": "64r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=129",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "955": {
     "id": 955,
@@ -11411,7 +12167,13 @@
     "facs_number": "130",
     "fol_page": "64v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=130",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "956": {
     "id": 956,
@@ -11421,7 +12183,13 @@
     "facs_number": "131",
     "fol_page": "65r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=131",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "957": {
     "id": 957,
@@ -11431,7 +12199,13 @@
     "facs_number": "132",
     "fol_page": "65v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=132",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "958": {
     "id": 958,
@@ -11441,7 +12215,13 @@
     "facs_number": "133",
     "fol_page": "66r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=133",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "959": {
     "id": 959,
@@ -11451,7 +12231,13 @@
     "facs_number": "134",
     "fol_page": "66v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=134",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "960": {
     "id": 960,
@@ -11461,7 +12247,13 @@
     "facs_number": "135",
     "fol_page": "67r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=135",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "961": {
     "id": 961,
@@ -11471,7 +12263,13 @@
     "facs_number": "136",
     "fol_page": "67v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=136",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "962": {
     "id": 962,
@@ -11481,7 +12279,13 @@
     "facs_number": "137",
     "fol_page": "68r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=137",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "963": {
     "id": 963,
@@ -11491,7 +12295,13 @@
     "facs_number": "138",
     "fol_page": "68v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=138",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "964": {
     "id": 964,
@@ -11501,7 +12311,13 @@
     "facs_number": "139",
     "fol_page": "69r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=139",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "965": {
     "id": 965,
@@ -11511,7 +12327,13 @@
     "facs_number": "140",
     "fol_page": "69v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=140",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "966": {
     "id": 966,
@@ -11521,7 +12343,13 @@
     "facs_number": "141",
     "fol_page": "70r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=141",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "967": {
     "id": 967,
@@ -11531,7 +12359,13 @@
     "facs_number": "142",
     "fol_page": "70v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=142",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "968": {
     "id": 968,
@@ -11541,7 +12375,13 @@
     "facs_number": "143",
     "fol_page": "71r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=143",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "969": {
     "id": 969,
@@ -11551,7 +12391,13 @@
     "facs_number": "144",
     "fol_page": "71v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=144",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "970": {
     "id": 970,
@@ -11561,7 +12407,13 @@
     "facs_number": "145",
     "fol_page": "72r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=145",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "971": {
     "id": 971,
@@ -11571,7 +12423,13 @@
     "facs_number": "146",
     "fol_page": "72v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=146",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "972": {
     "id": 972,
@@ -11581,7 +12439,13 @@
     "facs_number": "147",
     "fol_page": "73r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=147",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "973": {
     "id": 973,
@@ -11591,7 +12455,13 @@
     "facs_number": "148",
     "fol_page": "73v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=148",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "974": {
     "id": 974,
@@ -11601,7 +12471,13 @@
     "facs_number": "149",
     "fol_page": "74r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=149",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "975": {
     "id": 975,
@@ -11611,7 +12487,13 @@
     "facs_number": "150",
     "fol_page": "74v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=150",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "976": {
     "id": 976,
@@ -11621,7 +12503,13 @@
     "facs_number": "151",
     "fol_page": "75r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=151",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "977": {
     "id": 977,
@@ -11631,7 +12519,13 @@
     "facs_number": "152",
     "fol_page": "75v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=152",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "978": {
     "id": 978,
@@ -11641,7 +12535,13 @@
     "facs_number": "153",
     "fol_page": "76r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=153",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "979": {
     "id": 979,
@@ -11651,7 +12551,13 @@
     "facs_number": "154",
     "fol_page": "76v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=154",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "980": {
     "id": 980,
@@ -11661,7 +12567,13 @@
     "facs_number": "155",
     "fol_page": "77r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=155",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "981": {
     "id": 981,
@@ -11671,7 +12583,13 @@
     "facs_number": "156",
     "fol_page": "77v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=156",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "982": {
     "id": 982,
@@ -11681,7 +12599,13 @@
     "facs_number": "157",
     "fol_page": "78r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=157",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "983": {
     "id": 983,
@@ -11691,7 +12615,13 @@
     "facs_number": "158",
     "fol_page": "78v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=158",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "984": {
     "id": 984,
@@ -11701,7 +12631,13 @@
     "facs_number": "159",
     "fol_page": "79r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=159",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "985": {
     "id": 985,
@@ -11711,7 +12647,13 @@
     "facs_number": "160",
     "fol_page": "79v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=160",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "986": {
     "id": 986,
@@ -11721,7 +12663,13 @@
     "facs_number": "161",
     "fol_page": "80r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=161",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "987": {
     "id": 987,
@@ -11731,7 +12679,13 @@
     "facs_number": "162",
     "fol_page": "80v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=162",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "988": {
     "id": 988,
@@ -11741,7 +12695,13 @@
     "facs_number": "163",
     "fol_page": "81r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=163",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "989": {
     "id": 989,
@@ -11751,7 +12711,13 @@
     "facs_number": "164",
     "fol_page": "81v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=164",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "990": {
     "id": 990,
@@ -11761,7 +12727,13 @@
     "facs_number": "165",
     "fol_page": "82r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=165",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "991": {
     "id": 991,
@@ -11771,7 +12743,13 @@
     "facs_number": "166",
     "fol_page": "82v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=166",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "992": {
     "id": 992,
@@ -11781,7 +12759,13 @@
     "facs_number": "167",
     "fol_page": "83r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=167",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "993": {
     "id": 993,
@@ -11791,7 +12775,13 @@
     "facs_number": "168",
     "fol_page": "83v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=168",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "994": {
     "id": 994,
@@ -11801,7 +12791,13 @@
     "facs_number": "169",
     "fol_page": "84r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=169",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "995": {
     "id": 995,
@@ -11811,7 +12807,13 @@
     "facs_number": "170",
     "fol_page": "84v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=170",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "996": {
     "id": 996,
@@ -11821,7 +12823,13 @@
     "facs_number": "171",
     "fol_page": "85r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=171",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "997": {
     "id": 997,
@@ -11831,7 +12839,13 @@
     "facs_number": "172",
     "fol_page": "85v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=172",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "998": {
     "id": 998,
@@ -11841,7 +12855,13 @@
     "facs_number": "173",
     "fol_page": "86r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=173",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "999": {
     "id": 999,
@@ -11851,7 +12871,13 @@
     "facs_number": "174",
     "fol_page": "86v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=174",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1000": {
     "id": 1000,
@@ -11861,7 +12887,13 @@
     "facs_number": "175",
     "fol_page": "87r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=175",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1001": {
     "id": 1001,
@@ -11871,7 +12903,13 @@
     "facs_number": "176",
     "fol_page": "87v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=176",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1002": {
     "id": 1002,
@@ -11881,7 +12919,13 @@
     "facs_number": "177",
     "fol_page": "88r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=177",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1003": {
     "id": 1003,
@@ -11891,7 +12935,13 @@
     "facs_number": "178",
     "fol_page": "88v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=178",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1004": {
     "id": 1004,
@@ -11901,7 +12951,13 @@
     "facs_number": "179",
     "fol_page": "89r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=179",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1005": {
     "id": 1005,
@@ -11911,7 +12967,13 @@
     "facs_number": "180",
     "fol_page": "89v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=180",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1006": {
     "id": 1006,
@@ -11921,7 +12983,13 @@
     "facs_number": "181",
     "fol_page": "90r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=181",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1007": {
     "id": 1007,
@@ -11931,7 +12999,13 @@
     "facs_number": "182",
     "fol_page": "90v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=182",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1008": {
     "id": 1008,
@@ -11941,7 +13015,13 @@
     "facs_number": "183",
     "fol_page": "91r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=183",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1009": {
     "id": 1009,
@@ -11951,7 +13031,13 @@
     "facs_number": "184",
     "fol_page": "91v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=184",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1010": {
     "id": 1010,
@@ -11961,7 +13047,13 @@
     "facs_number": "185",
     "fol_page": "92r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=185",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1011": {
     "id": 1011,
@@ -11971,7 +13063,13 @@
     "facs_number": "186",
     "fol_page": "92v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=186",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1012": {
     "id": 1012,
@@ -11981,7 +13079,13 @@
     "facs_number": "187",
     "fol_page": "93r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=187",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1013": {
     "id": 1013,
@@ -11991,7 +13095,13 @@
     "facs_number": "188",
     "fol_page": "93v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=188",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1014": {
     "id": 1014,
@@ -12001,7 +13111,13 @@
     "facs_number": "189",
     "fol_page": "94r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=189",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1015": {
     "id": 1015,
@@ -12011,7 +13127,13 @@
     "facs_number": "190",
     "fol_page": "94v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=190",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1016": {
     "id": 1016,
@@ -12021,7 +13143,13 @@
     "facs_number": "191",
     "fol_page": "95r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=191",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1017": {
     "id": 1017,
@@ -12031,7 +13159,13 @@
     "facs_number": "192",
     "fol_page": "95v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=192",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1018": {
     "id": 1018,
@@ -12041,7 +13175,13 @@
     "facs_number": "193",
     "fol_page": "96r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=193",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1019": {
     "id": 1019,
@@ -12051,7 +13191,13 @@
     "facs_number": "194",
     "fol_page": "96v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=194",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1020": {
     "id": 1020,
@@ -12061,7 +13207,13 @@
     "facs_number": "195",
     "fol_page": "97r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=195",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1021": {
     "id": 1021,
@@ -12071,7 +13223,13 @@
     "facs_number": "196",
     "fol_page": "97v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=196",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1022": {
     "id": 1022,
@@ -12081,7 +13239,13 @@
     "facs_number": "197",
     "fol_page": "98r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=197",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1023": {
     "id": 1023,
@@ -12091,7 +13255,13 @@
     "facs_number": "198",
     "fol_page": "98v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=198",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1024": {
     "id": 1024,
@@ -12101,7 +13271,13 @@
     "facs_number": "199",
     "fol_page": "99r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=199",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1025": {
     "id": 1025,
@@ -12111,7 +13287,13 @@
     "facs_number": "200",
     "fol_page": "99v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=200",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1026": {
     "id": 1026,
@@ -12121,7 +13303,13 @@
     "facs_number": "201",
     "fol_page": "100r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=201",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1027": {
     "id": 1027,
@@ -12131,7 +13319,13 @@
     "facs_number": "202",
     "fol_page": "100v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=202",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1028": {
     "id": 1028,
@@ -12141,7 +13335,13 @@
     "facs_number": "203",
     "fol_page": "101r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=203",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1029": {
     "id": 1029,
@@ -12151,7 +13351,13 @@
     "facs_number": "204",
     "fol_page": "101v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=204",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1030": {
     "id": 1030,
@@ -12161,7 +13367,13 @@
     "facs_number": "205",
     "fol_page": "102r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=205",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1031": {
     "id": 1031,
@@ -12171,7 +13383,13 @@
     "facs_number": "206",
     "fol_page": "102v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=206",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1032": {
     "id": 1032,
@@ -12181,7 +13399,13 @@
     "facs_number": "207",
     "fol_page": "103r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=207",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1033": {
     "id": 1033,
@@ -12191,7 +13415,13 @@
     "facs_number": "208",
     "fol_page": "103v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=208",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1034": {
     "id": 1034,
@@ -12201,7 +13431,13 @@
     "facs_number": "209",
     "fol_page": "104r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=209",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1035": {
     "id": 1035,
@@ -12211,7 +13447,13 @@
     "facs_number": "210",
     "fol_page": "104v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=210",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1036": {
     "id": 1036,
@@ -12221,7 +13463,13 @@
     "facs_number": "211",
     "fol_page": "105r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=211",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1037": {
     "id": 1037,
@@ -12231,7 +13479,13 @@
     "facs_number": "212",
     "fol_page": "105v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=212",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1038": {
     "id": 1038,
@@ -12241,7 +13495,13 @@
     "facs_number": "213",
     "fol_page": "106r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=213",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1039": {
     "id": 1039,
@@ -12251,7 +13511,13 @@
     "facs_number": "214",
     "fol_page": "106v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=214",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1040": {
     "id": 1040,
@@ -12261,7 +13527,13 @@
     "facs_number": "215",
     "fol_page": "107r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=215",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1041": {
     "id": 1041,
@@ -12271,7 +13543,13 @@
     "facs_number": "216",
     "fol_page": "107v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=216",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1042": {
     "id": 1042,
@@ -12281,7 +13559,13 @@
     "facs_number": "217",
     "fol_page": "108r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=217",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1043": {
     "id": 1043,
@@ -12291,7 +13575,13 @@
     "facs_number": "218",
     "fol_page": "108v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=218",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1044": {
     "id": 1044,
@@ -12301,7 +13591,13 @@
     "facs_number": "219",
     "fol_page": "109r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=219",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1045": {
     "id": 1045,
@@ -12311,7 +13607,13 @@
     "facs_number": "220",
     "fol_page": "109v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=220",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1046": {
     "id": 1046,
@@ -12321,7 +13623,13 @@
     "facs_number": "221",
     "fol_page": "110r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=221",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1047": {
     "id": 1047,
@@ -12331,7 +13639,13 @@
     "facs_number": "222",
     "fol_page": "110v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=222",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1048": {
     "id": 1048,
@@ -12341,7 +13655,13 @@
     "facs_number": "223",
     "fol_page": "111r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=223",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1049": {
     "id": 1049,
@@ -12351,7 +13671,13 @@
     "facs_number": "224",
     "fol_page": "111v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=224",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1050": {
     "id": 1050,
@@ -12361,7 +13687,13 @@
     "facs_number": "225",
     "fol_page": "112r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=225",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1051": {
     "id": 1051,
@@ -12371,7 +13703,13 @@
     "facs_number": "226",
     "fol_page": "112v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=226",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1052": {
     "id": 1052,
@@ -12381,7 +13719,13 @@
     "facs_number": "227",
     "fol_page": "113r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=227",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1053": {
     "id": 1053,
@@ -12391,7 +13735,13 @@
     "facs_number": "228",
     "fol_page": "113v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=228",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1054": {
     "id": 1054,
@@ -12401,7 +13751,13 @@
     "facs_number": "229",
     "fol_page": "114r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=229",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1055": {
     "id": 1055,
@@ -12411,7 +13767,13 @@
     "facs_number": "230",
     "fol_page": "114v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=230",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1056": {
     "id": 1056,
@@ -12421,7 +13783,13 @@
     "facs_number": "231",
     "fol_page": "115r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=231",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1057": {
     "id": 1057,
@@ -12431,7 +13799,13 @@
     "facs_number": "232",
     "fol_page": "115v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=232",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1058": {
     "id": 1058,
@@ -12441,7 +13815,13 @@
     "facs_number": "233",
     "fol_page": "116r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=233",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1059": {
     "id": 1059,
@@ -12451,7 +13831,13 @@
     "facs_number": "234",
     "fol_page": "116v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=234",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1060": {
     "id": 1060,
@@ -12461,7 +13847,13 @@
     "facs_number": "235",
     "fol_page": "117r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=235",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1061": {
     "id": 1061,
@@ -12471,7 +13863,13 @@
     "facs_number": "236",
     "fol_page": "117v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=236",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1062": {
     "id": 1062,
@@ -12481,7 +13879,13 @@
     "facs_number": "237",
     "fol_page": "118r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=237",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1063": {
     "id": 1063,
@@ -12491,7 +13895,13 @@
     "facs_number": "238",
     "fol_page": "118v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=238",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1064": {
     "id": 1064,
@@ -12501,7 +13911,13 @@
     "facs_number": "239",
     "fol_page": "119r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=239",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1065": {
     "id": 1065,
@@ -12511,7 +13927,13 @@
     "facs_number": "240",
     "fol_page": "119v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=240",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1066": {
     "id": 1066,
@@ -12521,7 +13943,13 @@
     "facs_number": "241",
     "fol_page": "120r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=241",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1067": {
     "id": 1067,
@@ -12531,7 +13959,13 @@
     "facs_number": "242",
     "fol_page": "120v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=242",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1068": {
     "id": 1068,
@@ -12541,7 +13975,13 @@
     "facs_number": "243",
     "fol_page": "121r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=243",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1069": {
     "id": 1069,
@@ -12551,7 +13991,13 @@
     "facs_number": "244",
     "fol_page": "121v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=244",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1070": {
     "id": 1070,
@@ -12561,7 +14007,13 @@
     "facs_number": "245",
     "fol_page": "122r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=245",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1071": {
     "id": 1071,
@@ -12571,7 +14023,13 @@
     "facs_number": "246",
     "fol_page": "122v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=246",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1072": {
     "id": 1072,
@@ -12581,7 +14039,13 @@
     "facs_number": "247",
     "fol_page": "123r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=247",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1073": {
     "id": 1073,
@@ -12591,7 +14055,13 @@
     "facs_number": "248",
     "fol_page": "123v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=248",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1074": {
     "id": 1074,
@@ -12601,7 +14071,13 @@
     "facs_number": "249",
     "fol_page": "124r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=249",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1075": {
     "id": 1075,
@@ -12611,7 +14087,13 @@
     "facs_number": "250",
     "fol_page": "124v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=250",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1076": {
     "id": 1076,
@@ -12621,7 +14103,13 @@
     "facs_number": "251",
     "fol_page": "125r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=251",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1077": {
     "id": 1077,
@@ -12631,7 +14119,13 @@
     "facs_number": "252",
     "fol_page": "125v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=252",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1078": {
     "id": 1078,
@@ -12641,7 +14135,13 @@
     "facs_number": "253",
     "fol_page": "126r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=253",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1079": {
     "id": 1079,
@@ -12651,7 +14151,13 @@
     "facs_number": "254",
     "fol_page": "126v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=254",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1080": {
     "id": 1080,
@@ -12661,7 +14167,13 @@
     "facs_number": "255",
     "fol_page": "127r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=255",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1081": {
     "id": 1081,
@@ -12671,7 +14183,13 @@
     "facs_number": "256",
     "fol_page": "127v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=256",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1082": {
     "id": 1082,
@@ -12681,7 +14199,13 @@
     "facs_number": "257",
     "fol_page": "128r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=257",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1083": {
     "id": 1083,
@@ -12691,7 +14215,13 @@
     "facs_number": "258",
     "fol_page": "128v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=258",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1084": {
     "id": 1084,
@@ -12701,7 +14231,13 @@
     "facs_number": "259",
     "fol_page": "129r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=259",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1085": {
     "id": 1085,
@@ -12711,7 +14247,13 @@
     "facs_number": "260",
     "fol_page": "129v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=260",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1086": {
     "id": 1086,
@@ -12721,7 +14263,13 @@
     "facs_number": "261",
     "fol_page": "130r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=261",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1087": {
     "id": 1087,
@@ -12731,7 +14279,13 @@
     "facs_number": "262",
     "fol_page": "130v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=262",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1088": {
     "id": 1088,
@@ -12741,7 +14295,13 @@
     "facs_number": "263",
     "fol_page": "131r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=263",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1089": {
     "id": 1089,
@@ -12751,7 +14311,13 @@
     "facs_number": "264",
     "fol_page": "131v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=264",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1090": {
     "id": 1090,
@@ -12761,7 +14327,13 @@
     "facs_number": "265",
     "fol_page": "132r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=265",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1091": {
     "id": 1091,
@@ -12771,7 +14343,13 @@
     "facs_number": "266",
     "fol_page": "132v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=266",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1092": {
     "id": 1092,
@@ -12781,7 +14359,13 @@
     "facs_number": "267",
     "fol_page": "133r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=267",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1093": {
     "id": 1093,
@@ -12791,7 +14375,13 @@
     "facs_number": "268",
     "fol_page": "133v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=268",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1094": {
     "id": 1094,
@@ -12801,7 +14391,13 @@
     "facs_number": "269",
     "fol_page": "134r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=269",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1095": {
     "id": 1095,
@@ -12811,7 +14407,13 @@
     "facs_number": "270",
     "fol_page": "134v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=270",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1096": {
     "id": 1096,
@@ -12821,7 +14423,13 @@
     "facs_number": "271",
     "fol_page": "135r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=271",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1097": {
     "id": 1097,
@@ -12831,7 +14439,13 @@
     "facs_number": "272",
     "fol_page": "135v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=272",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1098": {
     "id": 1098,
@@ -12841,7 +14455,13 @@
     "facs_number": "273",
     "fol_page": "136r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=273",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1099": {
     "id": 1099,
@@ -12851,7 +14471,13 @@
     "facs_number": "274",
     "fol_page": "136v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=274",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1100": {
     "id": 1100,
@@ -12861,7 +14487,13 @@
     "facs_number": "275",
     "fol_page": "137r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=275",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1101": {
     "id": 1101,
@@ -12871,7 +14503,13 @@
     "facs_number": "276",
     "fol_page": "137v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=276",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1102": {
     "id": 1102,
@@ -12881,7 +14519,13 @@
     "facs_number": "277",
     "fol_page": "138r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=277",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1103": {
     "id": 1103,
@@ -12891,7 +14535,13 @@
     "facs_number": "278",
     "fol_page": "138v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=278",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1104": {
     "id": 1104,
@@ -12901,7 +14551,13 @@
     "facs_number": "279",
     "fol_page": "139r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=279",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1105": {
     "id": 1105,
@@ -12911,7 +14567,13 @@
     "facs_number": "280",
     "fol_page": "139v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=280",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1106": {
     "id": 1106,
@@ -12921,7 +14583,13 @@
     "facs_number": "281",
     "fol_page": "140r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=281",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1107": {
     "id": 1107,
@@ -12931,7 +14599,13 @@
     "facs_number": "282",
     "fol_page": "140v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=282",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1108": {
     "id": 1108,
@@ -12941,7 +14615,13 @@
     "facs_number": "283",
     "fol_page": "141r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=283",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1109": {
     "id": 1109,
@@ -12951,7 +14631,13 @@
     "facs_number": "284",
     "fol_page": "141v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=284",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1110": {
     "id": 1110,
@@ -12961,7 +14647,13 @@
     "facs_number": "285",
     "fol_page": "142r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=285",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1111": {
     "id": 1111,
@@ -12971,7 +14663,13 @@
     "facs_number": "286",
     "fol_page": "142v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=286",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1112": {
     "id": 1112,
@@ -12981,7 +14679,13 @@
     "facs_number": "287",
     "fol_page": "143r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=287",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1113": {
     "id": 1113,
@@ -12991,7 +14695,13 @@
     "facs_number": "288",
     "fol_page": "143v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=288",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1114": {
     "id": 1114,
@@ -13001,7 +14711,13 @@
     "facs_number": "289",
     "fol_page": "144r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=289",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1115": {
     "id": 1115,
@@ -13011,7 +14727,13 @@
     "facs_number": "290",
     "fol_page": "144v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=290",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1116": {
     "id": 1116,
@@ -13021,7 +14743,13 @@
     "facs_number": "291",
     "fol_page": "145r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=291",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1117": {
     "id": 1117,
@@ -13031,7 +14759,13 @@
     "facs_number": "292",
     "fol_page": "145v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=292",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1118": {
     "id": 1118,
@@ -13041,7 +14775,13 @@
     "facs_number": "293",
     "fol_page": "146r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=293",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1119": {
     "id": 1119,
@@ -13051,7 +14791,13 @@
     "facs_number": "294",
     "fol_page": "146v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=294",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1120": {
     "id": 1120,
@@ -13061,7 +14807,13 @@
     "facs_number": "295",
     "fol_page": "147r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=295",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1121": {
     "id": 1121,
@@ -13071,7 +14823,13 @@
     "facs_number": "296",
     "fol_page": "147v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=296",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1122": {
     "id": 1122,
@@ -13081,7 +14839,13 @@
     "facs_number": "297",
     "fol_page": "148r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=297",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1123": {
     "id": 1123,
@@ -13091,7 +14855,13 @@
     "facs_number": "298",
     "fol_page": "148v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=298",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1124": {
     "id": 1124,
@@ -13101,7 +14871,13 @@
     "facs_number": "299",
     "fol_page": "149r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=299",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1125": {
     "id": 1125,
@@ -13111,7 +14887,13 @@
     "facs_number": "300",
     "fol_page": "149v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=300",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1126": {
     "id": 1126,
@@ -13121,7 +14903,13 @@
     "facs_number": "301",
     "fol_page": "150r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=301",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1127": {
     "id": 1127,
@@ -13131,7 +14919,13 @@
     "facs_number": "302",
     "fol_page": "150v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=302",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1128": {
     "id": 1128,
@@ -13141,7 +14935,13 @@
     "facs_number": "303",
     "fol_page": "151r",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=303",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "1129": {
     "id": 1129,
@@ -13151,6 +14951,12 @@
     "facs_number": "304",
     "fol_page": "151v",
     "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054508?page=304",
-    "ms_link": []
+    "ms_link": [
+      {
+        "id": 11,
+        "value": "BSB, Clm. 6383",
+        "order": "10.00000000000000000000"
+      }
+    ]
   }
 }
