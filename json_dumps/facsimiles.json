@@ -15502,5 +15502,679 @@
         "order": "9.00000000000000000000"
       }
     ]
+  },
+  "1183": {
+    "id": 1183,
+    "order": "970.00000000000000000000",
+    "fol": "BSB, Clm. 6326, 1r",
+    "shelfmark": "BSB, Clm. 6326",
+    "facs_number": "4",
+    "fol_page": "1r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=4",
+    "ms_link": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "1184": {
+    "id": 1184,
+    "order": "971.00000000000000000000",
+    "fol": "BSB, Clm. 6326, 32r",
+    "shelfmark": "BSB, Clm. 6326",
+    "facs_number": "66",
+    "fol_page": "32r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=66",
+    "ms_link": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "1185": {
+    "id": 1185,
+    "order": "972.00000000000000000000",
+    "fol": "BSB, Clm. 6326, 32v",
+    "shelfmark": "BSB, Clm. 6326",
+    "facs_number": "67",
+    "fol_page": "32v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=67",
+    "ms_link": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "1186": {
+    "id": 1186,
+    "order": "973.00000000000000000000",
+    "fol": "BSB, Clm. 6326, 45r",
+    "shelfmark": "BSB, Clm. 6326",
+    "facs_number": "92",
+    "fol_page": "45r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=92",
+    "ms_link": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "1187": {
+    "id": 1187,
+    "order": "974.00000000000000000000",
+    "fol": "BSB, Clm. 6326, 45v",
+    "shelfmark": "BSB, Clm. 6326",
+    "facs_number": "93",
+    "fol_page": "45v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=93",
+    "ms_link": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "1188": {
+    "id": 1188,
+    "order": "975.00000000000000000000",
+    "fol": "BSB, Clm. 6326, 117v",
+    "shelfmark": "BSB, Clm. 6326",
+    "facs_number": "237",
+    "fol_page": "117v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=237",
+    "ms_link": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "1189": {
+    "id": 1189,
+    "order": "976.00000000000000000000",
+    "fol": "BSB, Clm. 6326, 122r",
+    "shelfmark": "BSB, Clm. 6326",
+    "facs_number": "246",
+    "fol_page": "122r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=246",
+    "ms_link": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "1190": {
+    "id": 1190,
+    "order": "977.00000000000000000000",
+    "fol": "BSB, Clm. 6326, 125r",
+    "shelfmark": "BSB, Clm. 6326",
+    "facs_number": "252",
+    "fol_page": "125r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=252",
+    "ms_link": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "1191": {
+    "id": 1191,
+    "order": "978.00000000000000000000",
+    "fol": "BSB, Clm. 6326, 129r",
+    "shelfmark": "BSB, Clm. 6326",
+    "facs_number": "260",
+    "fol_page": "129r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=260",
+    "ms_link": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "1192": {
+    "id": 1192,
+    "order": "979.00000000000000000000",
+    "fol": "BSB, Clm. 6326, 129v",
+    "shelfmark": "BSB, Clm. 6326",
+    "facs_number": "261",
+    "fol_page": "129v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=261",
+    "ms_link": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "1193": {
+    "id": 1193,
+    "order": "980.00000000000000000000",
+    "fol": "BSB, Clm. 6326, 130v",
+    "shelfmark": "BSB, Clm. 6326",
+    "facs_number": "263",
+    "fol_page": "130v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=263",
+    "ms_link": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "1194": {
+    "id": 1194,
+    "order": "981.00000000000000000000",
+    "fol": "BSB, Clm. 6326, 133r",
+    "shelfmark": "BSB, Clm. 6326",
+    "facs_number": "268",
+    "fol_page": "133r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00006546?page=268",
+    "ms_link": [
+      {
+        "id": 5,
+        "value": "BSB, Clm. 6326",
+        "order": "4.00000000000000000000"
+      }
+    ]
+  },
+  "1195": {
+    "id": 1195,
+    "order": "982.00000000000000000000",
+    "fol": "BSB, Clm. 6308, 1r",
+    "shelfmark": "BSB, Clm. 6308",
+    "facs_number": "5",
+    "fol_page": "1r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00065382?page=5",
+    "ms_link": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
+      }
+    ]
+  },
+  "1196": {
+    "id": 1196,
+    "order": "983.00000000000000000000",
+    "fol": "BSB, Clm. 6308, 149r",
+    "shelfmark": "BSB, Clm. 6308",
+    "facs_number": "301",
+    "fol_page": "149r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00065382?page=301",
+    "ms_link": [
+      {
+        "id": 6,
+        "value": "BSB, Clm. 6308",
+        "order": "5.00000000000000000000"
+      }
+    ]
+  },
+  "1197": {
+    "id": 1197,
+    "order": "984.00000000000000000000",
+    "fol": "BSB, Clm. 6380, 1r",
+    "shelfmark": "BSB, Clm. 6380",
+    "facs_number": "5",
+    "fol_page": "1r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00115092?page=5",
+    "ms_link": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
+      }
+    ]
+  },
+  "1198": {
+    "id": 1198,
+    "order": "985.00000000000000000000",
+    "fol": "BSB, Clm. 6380, 102r",
+    "shelfmark": "BSB, Clm. 6380",
+    "facs_number": "207",
+    "fol_page": "102r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00115092?page=207",
+    "ms_link": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
+      }
+    ]
+  },
+  "1199": {
+    "id": 1199,
+    "order": "986.00000000000000000000",
+    "fol": "BSB, Clm. 6380, 102v",
+    "shelfmark": "BSB, Clm. 6380",
+    "facs_number": "208",
+    "fol_page": "102v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00115092?page=208",
+    "ms_link": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
+      }
+    ]
+  },
+  "1200": {
+    "id": 1200,
+    "order": "987.00000000000000000000",
+    "fol": "BSB, Clm. 6380, 103r",
+    "shelfmark": "BSB, Clm. 6380",
+    "facs_number": "209",
+    "fol_page": "103r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00115092?page=209",
+    "ms_link": [
+      {
+        "id": 7,
+        "value": "BSB, Clm. 6380",
+        "order": "6.00000000000000000000"
+      }
+    ]
+  },
+  "1201": {
+    "id": 1201,
+    "order": "988.00000000000000000000",
+    "fol": "BSB, Clm. 6393, 1v",
+    "shelfmark": "BSB, Clm. 6393",
+    "facs_number": "4",
+    "fol_page": "1v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00047273?page=4",
+    "ms_link": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "1202": {
+    "id": 1202,
+    "order": "989.00000000000000000000",
+    "fol": "BSB, Clm. 6393, 133r",
+    "shelfmark": "BSB, Clm. 6393",
+    "facs_number": "267",
+    "fol_page": "133r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00047273?page=267",
+    "ms_link": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "1203": {
+    "id": 1203,
+    "order": "990.00000000000000000000",
+    "fol": "BSB, Clm. 6393, 134r",
+    "shelfmark": "BSB, Clm. 6393",
+    "facs_number": "269",
+    "fol_page": "134r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00047273?page=269",
+    "ms_link": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "1204": {
+    "id": 1204,
+    "order": "991.00000000000000000000",
+    "fol": "BSB, Clm. 6393, 176r",
+    "shelfmark": "BSB, Clm. 6393",
+    "facs_number": "353",
+    "fol_page": "176r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00047273?page=353",
+    "ms_link": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "1205": {
+    "id": 1205,
+    "order": "992.00000000000000000000",
+    "fol": "BSB, Clm. 6393, 188r",
+    "shelfmark": "BSB, Clm. 6393",
+    "facs_number": "377",
+    "fol_page": "188r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00047273?page=377",
+    "ms_link": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "1206": {
+    "id": 1206,
+    "order": "993.00000000000000000000",
+    "fol": "BSB, Clm. 6393, 203r",
+    "shelfmark": "BSB, Clm. 6393",
+    "facs_number": "407",
+    "fol_page": "203r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00047273?page=407",
+    "ms_link": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "1207": {
+    "id": 1207,
+    "order": "994.00000000000000000000",
+    "fol": "BSB, Clm. 6393, 276v",
+    "shelfmark": "BSB, Clm. 6393",
+    "facs_number": "554",
+    "fol_page": "276v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00047273?page=554",
+    "ms_link": [
+      {
+        "id": 15,
+        "value": "BSB, Clm. 6393",
+        "order": "14.00000000000000000000"
+      }
+    ]
+  },
+  "1208": {
+    "id": 1208,
+    "order": "995.00000000000000000000",
+    "fol": "BSB, Clm. 6376, Iv",
+    "shelfmark": "BSB, Clm. 6376",
+    "facs_number": "3",
+    "fol_page": "Iv",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054505?page=3",
+    "ms_link": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6376",
+        "order": "15.00000000000000000000"
+      }
+    ]
+  },
+  "1209": {
+    "id": 1209,
+    "order": "996.00000000000000000000",
+    "fol": "BSB, Clm. 6376, 213r",
+    "shelfmark": "BSB, Clm. 6376",
+    "facs_number": "427",
+    "fol_page": "213r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054505?page=427",
+    "ms_link": [
+      {
+        "id": 16,
+        "value": "BSB, Clm. 6376",
+        "order": "15.00000000000000000000"
+      }
+    ]
+  },
+  "1210": {
+    "id": 1210,
+    "order": "997.00000000000000000000",
+    "fol": "BSB, Clm. 1086, 1r",
+    "shelfmark": "BSB, Clm. 1086",
+    "facs_number": "3",
+    "fol_page": "1r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00064004?page=3",
+    "ms_link": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
+      }
+    ]
+  },
+  "1211": {
+    "id": 1211,
+    "order": "998.00000000000000000000",
+    "fol": "BSB, Clm. 1086, 44v",
+    "shelfmark": "BSB, Clm. 1086",
+    "facs_number": "92",
+    "fol_page": "44v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00064004?page=92",
+    "ms_link": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
+      }
+    ]
+  },
+  "1212": {
+    "id": 1212,
+    "order": "999.00000000000000000000",
+    "fol": "BSB, Clm. 1086, 71v",
+    "shelfmark": "BSB, Clm. 1086",
+    "facs_number": "146",
+    "fol_page": "71v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00064004?page=146",
+    "ms_link": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
+      }
+    ]
+  },
+  "1213": {
+    "id": 1213,
+    "order": "1000.00000000000000000000",
+    "fol": "BSB, Clm. 1086, 102v",
+    "shelfmark": "BSB, Clm. 1086",
+    "facs_number": "208",
+    "fol_page": "102v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00064004?page=208",
+    "ms_link": [
+      {
+        "id": 17,
+        "value": "BSB, Clm. 1086",
+        "order": "16.00000000000000000000"
+      }
+    ]
+  },
+  "1214": {
+    "id": 1214,
+    "order": "1001.00000000000000000000",
+    "fol": "BSB, Clm. 6341, 1v",
+    "shelfmark": "BSB, Clm. 6341",
+    "facs_number": "4",
+    "fol_page": "1v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=4",
+    "ms_link": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
+      }
+    ]
+  },
+  "1215": {
+    "id": 1215,
+    "order": "1002.00000000000000000000",
+    "fol": "BSB, Clm. 6341, 50v",
+    "shelfmark": "BSB, Clm. 6341",
+    "facs_number": "102",
+    "fol_page": "50v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=102",
+    "ms_link": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
+      }
+    ]
+  },
+  "1216": {
+    "id": 1216,
+    "order": "1003.00000000000000000000",
+    "fol": "BSB, Clm. 6341, 51r",
+    "shelfmark": "BSB, Clm. 6341",
+    "facs_number": "103",
+    "fol_page": "51r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=103",
+    "ms_link": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
+      }
+    ]
+  },
+  "1217": {
+    "id": 1217,
+    "order": "1004.00000000000000000000",
+    "fol": "BSB, Clm. 6341, 56v",
+    "shelfmark": "BSB, Clm. 6341",
+    "facs_number": "114",
+    "fol_page": "56v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=114",
+    "ms_link": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
+      }
+    ]
+  },
+  "1218": {
+    "id": 1218,
+    "order": "1005.00000000000000000000",
+    "fol": "BSB, Clm. 6341, 57r",
+    "shelfmark": "BSB, Clm. 6341",
+    "facs_number": "115",
+    "fol_page": "57r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=115",
+    "ms_link": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
+      }
+    ]
+  },
+  "1219": {
+    "id": 1219,
+    "order": "1006.00000000000000000000",
+    "fol": "BSB, Clm. 6341, 60r",
+    "shelfmark": "BSB, Clm. 6341",
+    "facs_number": "121",
+    "fol_page": "60r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=121",
+    "ms_link": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
+      }
+    ]
+  },
+  "1220": {
+    "id": 1220,
+    "order": "1007.00000000000000000000",
+    "fol": "BSB, Clm. 6341, 61v",
+    "shelfmark": "BSB, Clm. 6341",
+    "facs_number": "124",
+    "fol_page": "61v",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=124",
+    "ms_link": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
+      }
+    ]
+  },
+  "1221": {
+    "id": 1221,
+    "order": "1008.00000000000000000000",
+    "fol": "BSB, Clm. 6341, 139r",
+    "shelfmark": "BSB, Clm. 6341",
+    "facs_number": "279",
+    "fol_page": "139r",
+    "page_url": "https://www.digitale-sammlungen.de/en/view/bsb00054502?page=279",
+    "ms_link": [
+      {
+        "id": 19,
+        "value": "BSB, Clm. 6341",
+        "order": "18.00000000000000000000"
+      }
+    ]
+  },
+  "1222": {
+    "id": 1222,
+    "order": "1009.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs_number": null,
+    "fol_page": "",
+    "page_url": "",
+    "ms_link": []
+  },
+  "1223": {
+    "id": 1223,
+    "order": "1010.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs_number": null,
+    "fol_page": "",
+    "page_url": "",
+    "ms_link": []
+  },
+  "1224": {
+    "id": 1224,
+    "order": "1011.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs_number": null,
+    "fol_page": "",
+    "page_url": "",
+    "ms_link": []
+  },
+  "1225": {
+    "id": 1225,
+    "order": "1012.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs_number": null,
+    "fol_page": "",
+    "page_url": "",
+    "ms_link": []
+  },
+  "1226": {
+    "id": 1226,
+    "order": "1013.00000000000000000000",
+    "fol": ", ",
+    "shelfmark": "",
+    "facs_number": null,
+    "fol_page": "",
+    "page_url": "",
+    "ms_link": []
   }
 }

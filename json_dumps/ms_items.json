@@ -5230,7 +5230,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__55",
     "filiation": null,
-    "locus_grp": "1r-133r",
+    "locus_grp": "1v-133r",
     "hands_role": [
       {
         "id": 263,
@@ -5245,15 +5245,15 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "Last modified": "2024-09-28",
+    "Last modified": "2026-11-04",
     "Created on": "2024-07-09",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 87,
-      "name": "Ksenia Borisova"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": null,
     "hand": [
