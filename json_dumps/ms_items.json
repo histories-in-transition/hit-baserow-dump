@@ -2286,7 +2286,7 @@
     "siglum": "",
     "hit_id": "hit_ms_items__24",
     "filiation": null,
-    "locus_grp": "129rv-130v",
+    "locus_grp": "129r-129v | 130v",
     "hands_role": [
       {
         "id": 121,
@@ -2301,15 +2301,15 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "Last modified": "2025-09-13",
+    "Last modified": "2026-11-04",
     "Created on": "2024-07-08",
     "Created by": {
       "id": 87,
       "name": "Ksenia Borisova"
     },
     "Last modified by": {
-      "id": 86,
-      "name": "Leon Pürstinger"
+      "id": 36,
+      "name": "Ivana Dobcheva"
     },
     "note": null,
     "hand": [
